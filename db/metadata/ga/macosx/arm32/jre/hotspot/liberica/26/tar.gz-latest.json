@@ -1,0 +1,24 @@
+[
+  {
+    "architecture": "arm32",
+    "distro": "liberica",
+    "features": [
+      "javafx"
+    ],
+    "file_type": "tar.gz",
+    "filename": "bellsoft-jre26+37-macos-aarch64-full.tar.gz",
+    "image_type": "jre",
+    "java_version": "26+37",
+    "jvm_impl": "hotspot",
+    "md5": "968652560e036ac8786bf6d852350671",
+    "os": "macosx",
+    "release_type": "ga",
+    "sha1": "141c673e42f943aee3adbff8731d137dcb0344f4",
+    "sha256": "5dc09e550597c62d7c1da07253c23347a68634a667417ae9379d377145bc920c",
+    "sha512": "39687f94001d71fbdf7e9767306ab46de6e8511a508814f53cef457289b2c6cdf3051572db25b6d7e90d3c7dca579c1991d905a7d67099f142a548a7390b8d0f",
+    "size": 124925911,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/26+37/bellsoft-jre26+37-macos-aarch64-full.tar.gz",
+    "vendor": "bellsoft",
+    "version": "26+37"
+  }
+]

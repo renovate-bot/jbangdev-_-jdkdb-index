@@ -1,0 +1,22 @@
+[
+  {
+    "architecture": "x86_64",
+    "distro": "temurin",
+    "features": [],
+    "file_type": "pkg",
+    "filename": "OpenJDK24U-jdk_x64_mac_hotspot_24_36.pkg",
+    "image_type": "jdk",
+    "java_version": "24+36",
+    "jvm_impl": "hotspot",
+    "md5": "11f739f517af5c2bfcc38ae6a1bc48ff",
+    "os": "macosx",
+    "release_type": "ga",
+    "sha1": "9c6c339bae1de532e72c0fa251a8c0cfe8beac41",
+    "sha256": "50da3817b7882a8021a29c15690c01e7b9d357d4fdc53181ec21ac8c836a8b51",
+    "sha512": "171ef66a91caad42ff1346f96a6a0bd4bd3d3ce794875f185f7f7684cdcb90a557330c2448cd2851e8d59c92682ff34fb0d9640e3bccabf59c283a9148823189",
+    "size": 120550976,
+    "url": "https://github.com/adoptium/temurin24-binaries/releases/download/jdk-24%2B36/OpenJDK24U-jdk_x64_mac_hotspot_24_36.pkg",
+    "vendor": "eclipse",
+    "version": "24+36"
+  }
+]

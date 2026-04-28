@@ -1,0 +1,44 @@
+[
+  {
+    "architecture": "arm32",
+    "distro": "liberica",
+    "features": [
+      "lite"
+    ],
+    "file_type": "rpm",
+    "filename": "bellsoft-jdk26+37-linux-aarch64-lite.rpm",
+    "image_type": "jdk",
+    "java_version": "26+37",
+    "jvm_impl": "hotspot",
+    "md5": "6c9b1b44e643788b8cfe39e1a217be2b",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "8d4e290873475a6f970d54df4791faa3b1051814",
+    "sha256": "8890f7dca24f2081baf2835c1b53dd1745edf841b304a47e44bbd7f5ef8c04ee",
+    "sha512": "a7681b6e29c262f6e728c8df55d514ac9f668a017f5362e40d1959cb224228a9df9b0a465d7fea1c0bec42fd0e45b6c5ff7b16bb2be952f670b87ce5d08ac051",
+    "size": 80318196,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/26+37/bellsoft-jdk26+37-linux-aarch64-lite.rpm",
+    "vendor": "bellsoft",
+    "version": "26+37"
+  },
+  {
+    "architecture": "arm32",
+    "distro": "liberica",
+    "features": [],
+    "file_type": "rpm",
+    "filename": "bellsoft-jdk26+37-linux-aarch64.rpm",
+    "image_type": "jdk",
+    "java_version": "26+37",
+    "jvm_impl": "hotspot",
+    "md5": "696ce3919ac0e156a0529b34c77c5ad3",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "aedeb686a0cb1b0895e4d8bfbf0fd86a5948a96b",
+    "sha256": "e356ebacc0d4c622a67341833635a14497f20b7f38912a86af17c43e8a924214",
+    "sha512": "cf8944e8a219c555ba58313d8fb85edfb384f687631e2b2abbc82d975b94627a974c910c9efa647493be7653fbeb5081c2c5533fa4b345011bcad7ab22ae0f04",
+    "size": 232235308,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/26+37/bellsoft-jdk26+37-linux-aarch64.rpm",
+    "vendor": "bellsoft",
+    "version": "26+37"
+  }
+]

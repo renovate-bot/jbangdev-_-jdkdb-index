@@ -1,0 +1,42 @@
+[
+  {
+    "architecture": "aarch64",
+    "distro": "microsoft",
+    "features": [],
+    "file_type": "msi",
+    "filename": "microsoft-jdk-17.0.19-windows-aarch64.msi",
+    "image_type": "jdk",
+    "java_version": "17.0.19+10-LTS",
+    "jvm_impl": "hotspot",
+    "md5": "efe7e74c5d4c03753b8765419a6caa87",
+    "os": "windows",
+    "release_type": "ea",
+    "sha1": "9f116335ea01b29ed5bc1ec131f2723bcff211c3",
+    "sha256": "0e28d441281a9dbb6ef5e8c54d46078bb0e1286bbfe32b3c0e6d7c24ce34ec81",
+    "sha512": "0d1c8c56fcfedcc611e7c7d6f16da8ed59d9a73f2d86f12dee07a243da01ed2c37071360e98ab9972f8e5302aff2383a79b6462fbdfa952f66c2a3998d27ed33",
+    "size": 161398784,
+    "url": "https://aka.ms/download-jdk/microsoft-jdk-17.0.19-windows-aarch64.msi",
+    "vendor": "microsoft",
+    "version": "17.0.19"
+  },
+  {
+    "architecture": "aarch64",
+    "distro": "microsoft",
+    "features": [],
+    "file_type": "zip",
+    "filename": "microsoft-jdk-17.0.19-windows-aarch64.zip",
+    "image_type": "jdk",
+    "java_version": "17.0.19+10-LTS",
+    "jvm_impl": "hotspot",
+    "md5": "c2c5e423f7514894db0b6c7b8121015f",
+    "os": "windows",
+    "release_type": "ea",
+    "sha1": "5acb35c430a33266ff26e9e92ea2fbd88f9ad052",
+    "sha256": "3b00a88fbe2281d78f70b28f0913d3c9607e7aafeea68db5e7ad2263d52ddfbd",
+    "sha512": "e4096e3db75e48e760001cae440baab7c7a7cd1cbf8e1d06ffcccaab7b60c2bdf64d9672d97a5d545e1d673e34fbc251684eb533bdf2a68d84ffd2e28999bd87",
+    "size": 178995877,
+    "url": "https://aka.ms/download-jdk/microsoft-jdk-17.0.19-windows-aarch64.zip",
+    "vendor": "microsoft",
+    "version": "17.0.19"
+  }
+]

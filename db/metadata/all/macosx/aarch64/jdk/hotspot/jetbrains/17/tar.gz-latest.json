@@ -1,0 +1,66 @@
+[
+  {
+    "architecture": "aarch64",
+    "distro": "jetbrains",
+    "features": [],
+    "file_type": "tar.gz",
+    "filename": "jbrsdk-17.0.8.1-osx-aarch64-b1080.1.tar.gz",
+    "image_type": "jdk",
+    "java_version": "17.0.8.1",
+    "jvm_impl": "hotspot",
+    "md5": "d2718d15549b0edb260b6c3a8a20d24f",
+    "os": "macosx",
+    "release_type": "ga",
+    "sha1": "2d565feb3bdcb173457eda3c4b1c11707afa91f3",
+    "sha256": "380210c9c69410524c1522185b49ebb0a9cf48505b666fd6ff9a36477be6f20b",
+    "sha512": "8c69c55c88f925a5d79eeedbc71e612710782187facd9922fd0341cf7ecc970a0d20462f098fa07c97cef91f38293d5bc979e13312f018d1a24082058e3dca64",
+    "size": 199177273,
+    "url": "https://cache-redirector.jetbrains.com/intellij-jbr/jbrsdk-17.0.8.1-osx-aarch64-b1080.1.tar.gz",
+    "vendor": "jetbrains",
+    "version": "17.0.8.1b1080.1"
+  },
+  {
+    "architecture": "aarch64",
+    "distro": "jetbrains",
+    "features": [
+      "fastdebug"
+    ],
+    "file_type": "tar.gz",
+    "filename": "jbrsdk-17.0.8.1-osx-aarch64-fastdebug-b1080.1.tar.gz",
+    "image_type": "jdk",
+    "java_version": "17.0.8.1",
+    "jvm_impl": "hotspot",
+    "md5": "f4cfb7fd9f8d798ee3b3cdbc1479b2d4",
+    "os": "macosx",
+    "release_type": "ga",
+    "sha1": "abcda632a2a2938c8970fc950f5c951051d53680",
+    "sha256": "431f239e3c8119404ec7d1cb1da56d35167b918e426c6617f03adda140922273",
+    "sha512": "afe30ceed450e8b8f17ea87c7973693da9e8b95fafe6cc00253fb711cb0031a7028ebb7837e49c8c0cf654fd954290c9026b6322b6b6b2b6ea58b228d4c0fd8a",
+    "size": 315764579,
+    "url": "https://cache-redirector.jetbrains.com/intellij-jbr/jbrsdk-17.0.8.1-osx-aarch64-fastdebug-b1080.1.tar.gz",
+    "vendor": "jetbrains",
+    "version": "17.0.8.1b1080.1"
+  },
+  {
+    "architecture": "aarch64",
+    "distro": "jetbrains",
+    "features": [
+      "jcef"
+    ],
+    "file_type": "tar.gz",
+    "filename": "jbrsdk_jcef-17.0.8.1-osx-aarch64-b1080.1.tar.gz",
+    "image_type": "jdk",
+    "java_version": "17.0.8.1+7-b1080.1",
+    "jvm_impl": "hotspot",
+    "md5": "a66e87023859f8370a2a1287e9b6558d",
+    "os": "macosx",
+    "release_type": "ga",
+    "sha1": "9253b04f5f0a2ab2218cdc77d3e55efd80542fc0",
+    "sha256": "d921a72bbdd521f082730045edf95f1f10cff7811bb57f35499ca357ee9693d7",
+    "sha512": "87828cb11efcb86d051ab935c7c4a3884779ea5db1982f95d6caf4833d379c9385b814cca87ef212843ffe386efee48e16d7aba6fc99053e918144010183d2de",
+    "size": 309182362,
+    "url": "https://cache-redirector.jetbrains.com/intellij-jbr/jbrsdk_jcef-17.0.8.1-osx-aarch64-b1080.1.tar.gz",
+    "vendor": "jetbrains",
+    "version": "17.0.8.1b1080.1"
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "architecture": "i686",
+    "distro": "liberica-native",
+    "features": [
+      "native-image"
+    ],
+    "file_type": "msi",
+    "filename": "bellsoft-liberica-vm-full-openjdk17.0.18+11-23.0.11+1-windows-amd64.msi",
+    "image_type": "jdk",
+    "java_version": "17.0.18+11-LTS",
+    "jvm_impl": "graalvm",
+    "md5": "85ce9976c19980711749b56572a83c5e",
+    "os": "windows",
+    "release_type": "ga",
+    "sha1": "eb12d652ddb0a2f2afe4f0d629295e3ff1749b13",
+    "sha256": "ec83c739d257867cdf5ebcaac5b91f90a993c3c53ae70862fb2d3071859c599d",
+    "sha512": "e93f7cd23aa565c6e5783d7b55d92ab82eec44f94196d91e8a05290c25e0bb2aaadd1f35ee095079133aa1479737fe3f49d49da458f5beac0640067eef171c4e",
+    "size": 297512960,
+    "url": "https://github.com/bell-sw/LibericaNIK/releases/download/23.0.11+1-17.0.18+11/bellsoft-liberica-vm-full-openjdk17.0.18+11-23.0.11+1-windows-amd64.msi",
+    "vendor": "bellsoft",
+    "version": "23.0.11+1"
+  }
+]

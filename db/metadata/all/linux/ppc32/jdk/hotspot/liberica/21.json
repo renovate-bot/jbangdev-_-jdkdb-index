@@ -1,0 +1,66 @@
+[
+  {
+    "architecture": "ppc32",
+    "distro": "liberica",
+    "features": [
+      "lite"
+    ],
+    "file_type": "deb",
+    "filename": "bellsoft-jdk21.0.11+11-linux-ppc64le-lite.deb",
+    "image_type": "jdk",
+    "java_version": "21.0.11+11-LTS",
+    "jvm_impl": "hotspot",
+    "md5": "d3f0f07d096e5f1bdb10ca6a97692bce",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "7af4d8358c0a057be8b1293e70b2033cd9ef9380",
+    "sha256": "7fafb55d37972885aad7f10083063b94d2e56b0092c45fd3c2d0c457c791c6d0",
+    "sha512": "5687fd0c950c86b9bc7790ab6e53d4d0d11f5f0540f421473a91549647bf6ea1eb59343b6be75d7acb9b4f137f442a3880bc04e95d9ba52d615091d156931bce",
+    "size": 71741400,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/21.0.11+11/bellsoft-jdk21.0.11+11-linux-ppc64le-lite.deb",
+    "vendor": "bellsoft",
+    "version": "21.0.11+11"
+  },
+  {
+    "architecture": "ppc32",
+    "distro": "liberica",
+    "features": [
+      "lite"
+    ],
+    "file_type": "tar.gz",
+    "filename": "bellsoft-jdk21.0.11+11-linux-ppc64le-lite.tar.gz",
+    "image_type": "jdk",
+    "java_version": "21.0.11+11-LTS",
+    "jvm_impl": "hotspot",
+    "md5": "be44ad0cb93b81f70f32561ac726d1c1",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "f89cc60fed1aefb225e36991e88b82ec8a7fd5fb",
+    "sha256": "9f66ef63e1d40e1a1481f4aea9841f3b79d0704f40f097fe5d0faba09b361517",
+    "sha512": "c6c7e45bfcb20403a45e86bf8ef7d607178c312b606ee2d51f77b9e5669feff3468174b35eec2fecaad83f5c782d9b47172f1fd50f2136c8b46e7127bc425aa8",
+    "size": 79185876,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/21.0.11+11/bellsoft-jdk21.0.11+11-linux-ppc64le-lite.tar.gz",
+    "vendor": "bellsoft",
+    "version": "21.0.11+11"
+  },
+  {
+    "architecture": "ppc32",
+    "distro": "liberica",
+    "features": [],
+    "file_type": "rpm",
+    "filename": "bellsoft-jdk21.0.11+11-linux-ppc64le.rpm",
+    "image_type": "jdk",
+    "java_version": "21.0.11+11-LTS",
+    "jvm_impl": "hotspot",
+    "md5": "14eb04e66b8b49f326efa9ecbf86c678",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "ee8dcb1aa88f3da401850004e30accdacf929a62",
+    "sha256": "12e199810c7fec59eb3f7ce28242f0cb85dc1710dacc617c6e9f00893508389b",
+    "sha512": "74bece654b1e75e98dd89a32b0e9245282a2594e707c2c108b4c559e42a4bcef83009ce1116ffec0de5635e9c72abba5bc240a7ad88d7e2d44d30fe5656b8635",
+    "size": 182156068,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/21.0.11+11/bellsoft-jdk21.0.11+11-linux-ppc64le.rpm",
+    "vendor": "bellsoft",
+    "version": "21.0.11+11"
+  }
+]

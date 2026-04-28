@@ -1,0 +1,47 @@
+[
+  {
+    "architecture": "i686",
+    "distro": "liberica",
+    "features": [
+      "musl",
+      "lite"
+    ],
+    "file_type": "apk",
+    "filename": "bellsoft-jdk26+37-linux-x64-musl-lite.apk",
+    "image_type": "jdk",
+    "java_version": "26+37",
+    "jvm_impl": "hotspot",
+    "md5": "c308cd1531b74879b490ce95e4c808f7",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "9effd1e94e6f9f2942b370986aae9ea9270c2657",
+    "sha256": "130f822e1462b510403ac69d79164ed9d12e492d876f4fc83e1bf98ce62367c6",
+    "sha512": "47886cf3b4287cbdf074da5007cb073ec43be898c13bf5194adaa048282a5e23c2608972727c52113e78fff19d31063b71e1b6cf63a48bd827a1606348c0a647",
+    "size": 84856189,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/26+37/bellsoft-jdk26+37-linux-x64-musl-lite.apk",
+    "vendor": "bellsoft",
+    "version": "26+37"
+  },
+  {
+    "architecture": "i686",
+    "distro": "liberica",
+    "features": [
+      "musl"
+    ],
+    "file_type": "apk",
+    "filename": "bellsoft-jdk26+37-linux-x64-musl.apk",
+    "image_type": "jdk",
+    "java_version": "26+37",
+    "jvm_impl": "hotspot",
+    "md5": "f50bd9e0c639d326e51fb89440c50990",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "f5e46310dd44a79e66b66b9738c5bd988c339583",
+    "sha256": "efea8c0c8e3bf9df370ca24b289a35eb12001dcab99ed799aa1deb070dacc607",
+    "sha512": "7fe825b58e1f191af8188979955d4f7ff66c09b173c6790cdc71ca417aaeb0bf245ff1c3ec81b9fbd0c7be209c3b1f65f91b02e7910fdf328d91a78688605f62",
+    "size": 265304952,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/26+37/bellsoft-jdk26+37-linux-x64-musl.apk",
+    "vendor": "bellsoft",
+    "version": "26+37"
+  }
+]

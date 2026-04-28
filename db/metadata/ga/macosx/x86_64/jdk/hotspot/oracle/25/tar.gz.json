@@ -1,0 +1,22 @@
+[
+  {
+    "architecture": "x86_64",
+    "distro": "oracle",
+    "features": [],
+    "file_type": "tar.gz",
+    "filename": "jdk-25.0.3_macos-x64_bin.tar.gz",
+    "image_type": "jdk",
+    "java_version": "25.0.3+9-LTS-195",
+    "jvm_impl": "hotspot",
+    "md5": "ca790f7204dc1f51314f9e00f744c07b",
+    "os": "macosx",
+    "release_type": "ga",
+    "sha1": "26401c1212d7ec6257aec7a8da0e009624d37133",
+    "sha256": "8e6b445eda456ea1c77c04f590a2859d1ef17185b9dfddcc2115b99f8f28ce37",
+    "sha512": "45e2f9882774ff039d0ed98fe61f895c378238fa42e070ef4509ed23760c984c7aaa0eda512232925d587e8be3df2a4513d23599b2299c376176dea4d23934f6",
+    "size": 211595175,
+    "url": "https://java.oraclecloud.com/java/25/archive/jdk-25.0.3_macos-x64_bin.tar.gz",
+    "vendor": "oracle",
+    "version": "25.0.3"
+  }
+]

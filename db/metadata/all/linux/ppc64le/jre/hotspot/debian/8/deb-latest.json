@@ -1,0 +1,66 @@
+[
+  {
+    "architecture": "ppc64le",
+    "distro": "debian",
+    "features": [
+      "headless"
+    ],
+    "file_type": "deb",
+    "filename": "openjdk-8-jre-headless_8u482-ga-1_ppc64el.deb",
+    "image_type": "jre",
+    "java_version": "8u482",
+    "jvm_impl": "hotspot",
+    "md5": "20ec45c36ab8fec1b1968ece6d336262",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "b7975dc72d96ab0cd21ab16d52ebb0732a57177e",
+    "sha256": "3201e9a390dcf18d9bc82e77377145a4dc84fe4c09f7928726081385d6788564",
+    "sha512": "deac827da552e62c17af0f7d9f24eb874f836995f027f8a308f4da9a4fab7d8dfa5e76d932187299d421f7890d46595812a875afb5d718bb2237fb602417c730",
+    "size": 28244828,
+    "url": "http://ftp.debian.org/debian/pool/main/o/openjdk-8/openjdk-8-jre-headless_8u482-ga-1_ppc64el.deb",
+    "vendor": "debian",
+    "version": "8u482-ga-1"
+  },
+  {
+    "architecture": "ppc64le",
+    "distro": "debian",
+    "features": [
+      "zero"
+    ],
+    "file_type": "deb",
+    "filename": "openjdk-8-jre-zero_8u482-ga-1_ppc64el.deb",
+    "image_type": "jre",
+    "java_version": "8u482",
+    "jvm_impl": "hotspot",
+    "md5": "ed36bdbc694d964367b9cbba73e37507",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "dd56e79250946ebb46a39dea89277dd9d1d9ef4d",
+    "sha256": "e2de6b433602707357ae7ba88454ae9cd1989311ae89f1f4d19c7fe9d62a4b72",
+    "sha512": "061236ed1b5723e089075b2a8913901e9d419bb7774d0697e464825c5c6140fe1f3d0f04d0a836367cfab72b456abf8c15da5ee32cee6ccb2e867b6e45bc920b",
+    "size": 2196056,
+    "url": "http://ftp.debian.org/debian/pool/main/o/openjdk-8/openjdk-8-jre-zero_8u482-ga-1_ppc64el.deb",
+    "vendor": "debian",
+    "version": "8u482-ga-1"
+  },
+  {
+    "architecture": "ppc64le",
+    "distro": "debian",
+    "features": [],
+    "file_type": "deb",
+    "filename": "openjdk-8-jre_8u482-ga-1_ppc64el.deb",
+    "image_type": "jre",
+    "java_version": "8u482",
+    "jvm_impl": "hotspot",
+    "md5": "2c8fbd418a798e77f6e8c871eea51d42",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "6f5da70864197c7221f2e0e3dc595ec13624b845",
+    "sha256": "b014a8f086f943e6f828e4033d3812e2430522e81d253e418d16f69d952a5539",
+    "sha512": "9e3436b8da9e7bcc2c7714826f5dec1c9cb69a7a7b55cbb97a304c65c77d2af31a332931a07acfdf133bbd51bcc6060b66078db31267570be0c248e64f5c06c5",
+    "size": 72852,
+    "url": "http://ftp.debian.org/debian/pool/main/o/openjdk-8/openjdk-8-jre_8u482-ga-1_ppc64el.deb",
+    "vendor": "debian",
+    "version": "8u482-ga-1"
+  }
+]

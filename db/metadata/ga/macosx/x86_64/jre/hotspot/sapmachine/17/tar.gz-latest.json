@@ -1,0 +1,22 @@
+[
+  {
+    "architecture": "x86_64",
+    "distro": "sapmachine",
+    "features": null,
+    "file_type": "tar.gz",
+    "filename": "sapmachine-jre-17.0.19_macos-x64_bin.tar.gz",
+    "image_type": "jre",
+    "java_version": "17.0.19+10-LTS",
+    "jvm_impl": "hotspot",
+    "md5": "6c071815ffc9fed2335e09da842c1afd",
+    "os": "macosx",
+    "release_type": "ga",
+    "sha1": "b4415370daec83099c8ab6771674a9c0555c4b57",
+    "sha256": "f3d3c1d7dc146ed4c5451764b6b25a0afedeebebad52d2d65ff699e2e3b3e508",
+    "sha512": "8766297e5d04eba1662acd780251ddba0b37aa6f46f667431dc00dc839378331f78b04a5dc3a478621ef0398700d5c8eaf4a1f1f551f96cd4ab97c874259882d",
+    "size": 44746662,
+    "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17.0.19/sapmachine-jre-17.0.19_macos-x64_bin.tar.gz",
+    "vendor": "sap",
+    "version": "17.0.19"
+  }
+]

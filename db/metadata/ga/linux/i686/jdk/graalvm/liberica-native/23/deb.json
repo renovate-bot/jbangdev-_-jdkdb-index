@@ -1,0 +1,46 @@
+[
+  {
+    "architecture": "i686",
+    "distro": "liberica-native",
+    "features": [
+      "native-image"
+    ],
+    "file_type": "deb",
+    "filename": "bellsoft-liberica-vm-full-openjdk23.0.1+13-24.1.1+1-linux-amd64.deb",
+    "image_type": "jdk",
+    "java_version": "23.0.1+13",
+    "jvm_impl": "graalvm",
+    "md5": "b31cab9141b75b819a749f6461c7a37e",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "0e60973936796a5765fd60c6a454f6208f5a2235",
+    "sha256": "986b2d79fa25a723710aefe5f25de9b325d0d00a14fa6c0b61ca14011bc6c5a4",
+    "sha512": "c9aad073fcc0a91af0ace7522e5502841592c140f6ea7ae75ac50aca643679c0862738a983a1c6812501e9535a1d65d4e7fa557e5d82ebf8d8bde926eb337fbe",
+    "size": 284903188,
+    "url": "https://github.com/bell-sw/LibericaNIK/releases/download/24.1.1+1-23.0.1+13/bellsoft-liberica-vm-full-openjdk23.0.1+13-24.1.1+1-linux-amd64.deb",
+    "vendor": "bellsoft",
+    "version": "24.1.1+1"
+  },
+  {
+    "architecture": "i686",
+    "distro": "liberica-native",
+    "features": [
+      "native-image"
+    ],
+    "file_type": "deb",
+    "filename": "bellsoft-liberica-vm-full-openjdk23.0.2+9-24.1.2+1-linux-amd64.deb",
+    "image_type": "jdk",
+    "java_version": "23.0.2+9",
+    "jvm_impl": "graalvm",
+    "md5": "291181de9023c43915f0147dc00c477f",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "4a31c4ddd107d025d86c429bcef590d304f5e666",
+    "sha256": "9ba65ab886a6562d3c7dbc55618dd233edc209a66d8dbe105da4489a6349a6e1",
+    "sha512": "98c6884f7d75bdd18b991baa42c5bfa1b9b711b7b80b510f0f7494370a4828ff00813390abeb96088595977c23c74cec0e24b5e6b17d87fcd8607c544f6165be",
+    "size": 285811968,
+    "url": "https://github.com/bell-sw/LibericaNIK/releases/download/24.1.2+1-23.0.2+9/bellsoft-liberica-vm-full-openjdk23.0.2+9-24.1.2+1-linux-amd64.deb",
+    "vendor": "bellsoft",
+    "version": "24.1.2+1"
+  }
+]

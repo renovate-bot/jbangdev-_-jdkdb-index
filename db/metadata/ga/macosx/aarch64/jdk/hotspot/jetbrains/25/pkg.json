@@ -1,0 +1,110 @@
+[
+  {
+    "architecture": "aarch64",
+    "distro": "jetbrains",
+    "features": [
+      "jcef"
+    ],
+    "file_type": "pkg",
+    "filename": "jbrsdk_jcef-25.0.1-osx-aarch64-b285.56.pkg",
+    "image_type": "jdk",
+    "java_version": "25.0.1+8-b285.56",
+    "jvm_impl": "hotspot",
+    "md5": "8ccb9c94e26a62a5ac608063c7d6c756",
+    "os": "macosx",
+    "release_type": "ga",
+    "sha1": "fa3444ad34c96f9033e20b16b9b67e8db4efdf5c",
+    "sha256": "70c690ee619dc00ca1b77db97eababaac57d3adf85fdd5e2f90d24f9f75223e5",
+    "sha512": "0be5a0daa0c2b2693fd08352fe940a65a749569b5c241514e65610802fa6c7a5f1fc526364622022c01b226ea7721336ba567b742aa873bd17a55d5092671947",
+    "size": 384081329,
+    "url": "https://cache-redirector.jetbrains.com/intellij-jbr/jbrsdk_jcef-25.0.1-osx-aarch64-b285.56.pkg",
+    "vendor": "jetbrains",
+    "version": "25.0.1b285.56"
+  },
+  {
+    "architecture": "aarch64",
+    "distro": "jetbrains",
+    "features": [
+      "jcef"
+    ],
+    "file_type": "pkg",
+    "filename": "jbrsdk_jcef-25.0.2-osx-aarch64-b300.57.pkg",
+    "image_type": "jdk",
+    "java_version": "25.0.2+10-b300.57",
+    "jvm_impl": "hotspot",
+    "md5": "5e8aa5d98d84abd485c310eaf58c5f4b",
+    "os": "macosx",
+    "release_type": "ga",
+    "sha1": "40f38ce9dcb9dbe2970a82fde94f714295e7e62a",
+    "sha256": "fc1e624843ae237a2d3dbc782601d42b49d9a46ac7be5dd91cc1047ae75b61fc",
+    "sha512": "960d33c965a8b0ff855e5a3856b7daf9eb6055a763140d4506019d3b2ebf611dbb34e2e1221245513b0becea8f2498369e88fd1a89da01a82afe81505ab1f9ff",
+    "size": 384168393,
+    "url": "https://cache-redirector.jetbrains.com/intellij-jbr/jbrsdk_jcef-25.0.2-osx-aarch64-b300.57.pkg",
+    "vendor": "jetbrains",
+    "version": "25.0.2b300.57"
+  },
+  {
+    "architecture": "aarch64",
+    "distro": "jetbrains",
+    "features": [],
+    "file_type": "pkg",
+    "filename": "jbrsdk-25.0.2-osx-aarch64-b315.62.pkg",
+    "image_type": "jdk",
+    "java_version": "25.0.2+10-b315.62",
+    "jvm_impl": "hotspot",
+    "md5": "2e3aa163853e8420395661c308733dcc",
+    "os": "macosx",
+    "release_type": "ga",
+    "sha1": "387664b7dc161f3b13c203bdca70d79f6d1e7905",
+    "sha256": "7ddf65ffcdfab38ed62b05c187030c9eb7869e5fda0530fda0e74cdfcc5256d7",
+    "sha512": "daeaee2954c94c13464aa2933c1893931182e6b55ffdc4aee1320c306063ccb5389a69d9372a3c3d7043ceb329767811bfa9b924120248c8f63dda1a521c1ace",
+    "size": 241018047,
+    "url": "https://cache-redirector.jetbrains.com/intellij-jbr/jbrsdk-25.0.2-osx-aarch64-b315.62.pkg",
+    "vendor": "jetbrains",
+    "version": "25.0.2b315.62"
+  },
+  {
+    "architecture": "aarch64",
+    "distro": "jetbrains",
+    "features": [
+      "jcef"
+    ],
+    "file_type": "pkg",
+    "filename": "jbrsdk_jcef-25.0.2-osx-aarch64-b315.62.pkg",
+    "image_type": "jdk",
+    "java_version": "25.0.2+10-b315.62",
+    "jvm_impl": "hotspot",
+    "md5": "f406552399b080066a679f0ac4d8ba32",
+    "os": "macosx",
+    "release_type": "ga",
+    "sha1": "ada6746e4d7aa58e999897754ec163792bfd1f26",
+    "sha256": "95c7a1cf7b00b31d29a209e18b74c5d4ed634c271210cd664259ddf8c1972e0c",
+    "sha512": "c48796e8901fd8887d6f3744fed0b3e0374960c93a102611bcd31f1d07bb3e69de77f0299d5739494a01792a3df0a33dc3313643e4f1de123e27e742b5b7c7db",
+    "size": 383755784,
+    "url": "https://cache-redirector.jetbrains.com/intellij-jbr/jbrsdk_jcef-25.0.2-osx-aarch64-b315.62.pkg",
+    "vendor": "jetbrains",
+    "version": "25.0.2b315.62"
+  },
+  {
+    "architecture": "aarch64",
+    "distro": "jetbrains",
+    "features": [
+      "jcef"
+    ],
+    "file_type": "pkg",
+    "filename": "jbrsdk_jcef-25.0.2-osx-aarch64-b432.48.pkg",
+    "image_type": "jdk",
+    "java_version": "25.0.2+10-b432.48",
+    "jvm_impl": "hotspot",
+    "md5": "75f519472fabf986e3ead258ce60023f",
+    "os": "macosx",
+    "release_type": "ga",
+    "sha1": "d63ee0215954d99110bd5aab7885d722d7666e36",
+    "sha256": "012061dbab19f9c9b75a65ed6dc464ff6b1055a77f05445a6e7705f41f49157d",
+    "sha512": "dbaf5bfac25bc405f2e38b3f9b95324f0d802c854d2708d0b5269326e86bb498f50dcec87e0d52da2b9ce11ebb2ecdc6f794edaf441a7c81ab1a664ce7fcb373",
+    "size": 383877450,
+    "url": "https://cache-redirector.jetbrains.com/intellij-jbr/jbrsdk_jcef-25.0.2-osx-aarch64-b432.48.pkg",
+    "vendor": "jetbrains",
+    "version": "25.0.2b432.48"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "architecture": "i686",
+    "distro": "liberica",
+    "features": [
+      "lite"
+    ],
+    "file_type": "tar.gz",
+    "filename": "bellsoft-jdk8u492+9-solaris-x64-lite.tar.gz",
+    "image_type": "jdk",
+    "java_version": "1.8.0_492",
+    "jvm_impl": "hotspot",
+    "md5": "704be046ec21a9770f1026f58239e838",
+    "os": "solaris",
+    "release_type": "ga",
+    "sha1": "75e6a5760a8f85eeb0d4a30ca6754b50f13d90ed",
+    "sha256": "7f3f5308b3969a48d046c3ba0fb9334757a2f2067861c0b12f6158ad0f3bf91e",
+    "sha512": "d01bf8c55b7d39aad58aa8a9decc691fa09db4d301d6bcf310a5de157ccc06ab8aa4b290e5ae811d5c3b4d4fdb158b4b06d118b1eb0b6b55d608c13b673bf945",
+    "size": 58094983,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/8u492+9/bellsoft-jdk8u492+9-solaris-x64-lite.tar.gz",
+    "vendor": "bellsoft",
+    "version": "8u492+9"
+  },
+  {
+    "architecture": "i686",
+    "distro": "liberica",
+    "features": [],
+    "file_type": "tar.gz",
+    "filename": "bellsoft-jdk8u492+9-solaris-x64.tar.gz",
+    "image_type": "jdk",
+    "java_version": "1.8.0_492",
+    "jvm_impl": "hotspot",
+    "md5": "b8b3c7bd8ea52fe4fb10247a1476d47a",
+    "os": "solaris",
+    "release_type": "ga",
+    "sha1": "065f8c4a960674d41ce1ede3c5fab07a4d34986b",
+    "sha256": "a7d6b46c3b8a52e967b455ad4e523a315fafb5d5366b7a935966d800e6c4c225",
+    "sha512": "8f31d74180cd2b799c5f8bda37bbc737c5bffd83be6a3a4a7a10c7d9a145046d879430ae0c8b565e44e4f87dcea414b029f5491c0f9f0d3725783f587346eaba",
+    "size": 110557984,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/8u492+9/bellsoft-jdk8u492+9-solaris-x64.tar.gz",
+    "vendor": "bellsoft",
+    "version": "8u492+9"
+  }
+]

@@ -1,0 +1,112 @@
+[
+  {
+    "architecture": "i686",
+    "distro": "liberica-native",
+    "features": [
+      "native-image"
+    ],
+    "file_type": "dmg",
+    "filename": "bellsoft-liberica-vm-full-openjdk25+37-25.0.0+1-macos-amd64.dmg",
+    "image_type": "jdk",
+    "java_version": "25+37",
+    "jvm_impl": "graalvm",
+    "md5": "c408c3dbef7b23ea93996744b3f406f1",
+    "os": "macosx",
+    "release_type": "ga",
+    "sha1": "1c7ce54076086a5c6d8fba870abb1813a29328c4",
+    "sha256": "fd3d9d6ed026d04ddf99eb178dd38f41b9c248d09165dfa6ac134c3f3ca28115",
+    "sha512": "f31e8d52873b545685a2bcf671e64747ebf39a990d0a3c554db30a275ed01605ead8045745716a81118d9dded1af11bbddaa2079370319032c717ca0f84f0c6c",
+    "size": 350959005,
+    "url": "https://github.com/bell-sw/LibericaNIK/releases/download/25.0.0+1-25+37/bellsoft-liberica-vm-full-openjdk25+37-25.0.0+1-macos-amd64.dmg",
+    "vendor": "bellsoft",
+    "version": "25.0.0+1"
+  },
+  {
+    "architecture": "i686",
+    "distro": "liberica-native",
+    "features": [
+      "native-image"
+    ],
+    "file_type": "dmg",
+    "filename": "bellsoft-liberica-vm-full-openjdk25.0.1+12-25.0.1+1-macos-amd64.dmg",
+    "image_type": "jdk",
+    "java_version": "25.0.1+12",
+    "jvm_impl": "graalvm",
+    "md5": "1d701006812e4d420321c45881e370a8",
+    "os": "macosx",
+    "release_type": "ga",
+    "sha1": "e27bc6046415ca1ed5f18ee943484adcd4303562",
+    "sha256": "bdd2d506a28fccfd4860b1f98bd5975bbff44d9da155885c2585c85b7d887049",
+    "sha512": "29548dd4d5fd6b8f11d1d61fa56c48d4352554b7c7bd7459a62641c8286570ab3b1d0883ed341e92136bfdf9205b5fcb4594a07a6552bfa816c7d901a7410556",
+    "size": 351258995,
+    "url": "https://github.com/bell-sw/LibericaNIK/releases/download/25.0.1+1-25.0.1+12/bellsoft-liberica-vm-full-openjdk25.0.1+12-25.0.1+1-macos-amd64.dmg",
+    "vendor": "bellsoft",
+    "version": "25.0.1+1"
+  },
+  {
+    "architecture": "i686",
+    "distro": "liberica-native",
+    "features": [
+      "native-image"
+    ],
+    "file_type": "dmg",
+    "filename": "bellsoft-liberica-vm-full-openjdk25.0.1+14-25.0.1+2-macos-amd64.dmg",
+    "image_type": "jdk",
+    "java_version": "25.0.1+14",
+    "jvm_impl": "graalvm",
+    "md5": "ea9790c0b4622cdf2b44b5b2b1f1a5b6",
+    "os": "macosx",
+    "release_type": "ga",
+    "sha1": "7afe0a6e5b8375bcd03492e78de7f383fcc4eddf",
+    "sha256": "c02b4b9f49c4a0c026b305bbbbe2139e77f79a11f4f6f546b3ae96ef4880ed84",
+    "sha512": "a12eb12d1a7bcff9da68f70df39efe542b19bb069e22f8871d8d288d15e25eac459fb51f43562342ce11efb3fd475be88dc4f9be282e1aaf8e73ba74ec7bdfe7",
+    "size": 351220528,
+    "url": "https://github.com/bell-sw/LibericaNIK/releases/download/25.0.1+2-25.0.1+14/bellsoft-liberica-vm-full-openjdk25.0.1+14-25.0.1+2-macos-amd64.dmg",
+    "vendor": "bellsoft",
+    "version": "25.0.1+2"
+  },
+  {
+    "architecture": "i686",
+    "distro": "liberica-native",
+    "features": [
+      "native-image"
+    ],
+    "file_type": "dmg",
+    "filename": "bellsoft-liberica-vm-full-openjdk25.0.1+16-25.0.1+3-macos-amd64.dmg",
+    "image_type": "jdk",
+    "java_version": "25.0.1+16",
+    "jvm_impl": "graalvm",
+    "md5": "41b85b164d275893afa05e8173cb4d9f",
+    "os": "macosx",
+    "release_type": "ga",
+    "sha1": "e7c289f24c229d43c465065e5f3b22d10c3db87e",
+    "sha256": "34d5ff3c86991e7ceebdabc1020503437c81ee6faff8063bfd7018469e0cc021",
+    "sha512": "52cc4613fecc2f5c5ab2e6e9465b319c0f4e7a48c12d18e0232b22e82a5f50876934f12c5482e910908de8f291962e008c7202f770d4ac184dc4f233f0a2d852",
+    "size": 351217700,
+    "url": "https://github.com/bell-sw/LibericaNIK/releases/download/25.0.1+3-25.0.1+16/bellsoft-liberica-vm-full-openjdk25.0.1+16-25.0.1+3-macos-amd64.dmg",
+    "vendor": "bellsoft",
+    "version": "25.0.1+3"
+  },
+  {
+    "architecture": "i686",
+    "distro": "liberica-native",
+    "features": [
+      "native-image"
+    ],
+    "file_type": "dmg",
+    "filename": "bellsoft-liberica-vm-full-openjdk25.0.2+13-25.0.2+1-macos-amd64.dmg",
+    "image_type": "jdk",
+    "java_version": "25.0.2+13",
+    "jvm_impl": "graalvm",
+    "md5": "99f56dfcea527bc70b81906f3e5a26f3",
+    "os": "macosx",
+    "release_type": "ga",
+    "sha1": "015f39fe629d24f1bd614a5f14e62f4f786452b1",
+    "sha256": "a69c670df446f119c46348946194f1c833285e9b5f295c88eaf5caf95fea9842",
+    "sha512": "89da7eff78637deb987ddcb5a06d557515adf222bbd5a68b12464a5f4c0836e254e28854c46745f4985b0dcbaa79c345e55547c5cdcc4ff3d0d43a2376e3c51c",
+    "size": 352343962,
+    "url": "https://github.com/bell-sw/LibericaNIK/releases/download/25.0.2+1-25.0.2+13/bellsoft-liberica-vm-full-openjdk25.0.2+13-25.0.2+1-macos-amd64.dmg",
+    "vendor": "bellsoft",
+    "version": "25.0.2+1"
+  }
+]

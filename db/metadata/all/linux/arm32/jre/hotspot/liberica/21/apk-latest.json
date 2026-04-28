@@ -1,0 +1,24 @@
+[
+  {
+    "architecture": "arm32",
+    "distro": "liberica",
+    "features": [
+      "musl"
+    ],
+    "file_type": "apk",
+    "filename": "bellsoft-jre21.0.11+11-linux-aarch64-musl.apk",
+    "image_type": "jre",
+    "java_version": "21.0.11+11-LTS",
+    "jvm_impl": "hotspot",
+    "md5": "e3695a96ef932261a7a8d2b43ae68476",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "30acf66df7fba5485102a2220ba52d18a9fa451c",
+    "sha256": "d7ecd148705cab00c2e624633fce2610a7e96aabe35feffab5b5160cb64d9128",
+    "sha512": "82320550136449af991efa89e61f8fc16f9872d83bc54c24c4554f9b304742d2b4ad06480293696ba99959b8c503dc81f64a71deb587a43ea636af5460db1d7d",
+    "size": 63827411,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/21.0.11+11/bellsoft-jre21.0.11+11-linux-aarch64-musl.apk",
+    "vendor": "bellsoft",
+    "version": "21.0.11+11"
+  }
+]

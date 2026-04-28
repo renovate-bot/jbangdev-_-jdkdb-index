@@ -1,0 +1,42 @@
+[
+  {
+    "architecture": "aarch64",
+    "distro": "temurin",
+    "features": [],
+    "file_type": "pkg",
+    "filename": "OpenJDK23U-jdk_aarch64_mac_hotspot_23.0.1_11.pkg",
+    "image_type": "jdk",
+    "java_version": "23.0.1+11",
+    "jvm_impl": "hotspot",
+    "md5": "cdb3ca06fad21650f9c67458ebbe406f",
+    "os": "macosx",
+    "release_type": "ga",
+    "sha1": "3877bd8c56527d06ce0b7d58683bab0f8ab3fa85",
+    "sha256": "403cc02d9a0abf193e214ca897e8a43dbb607d70489c0fb0468ba006004d4a33",
+    "sha512": "a1bc7e35f4f0ba657b121f511f37abaf6a740b81964f058a1daeac805deaee0d7079bf6e5d9348939699f0edce078e174889c7d4cbee340b8d760a1a106c0af2",
+    "size": 207638106,
+    "url": "https://github.com/adoptium/temurin23-binaries/releases/download/jdk-23.0.1%2B11/OpenJDK23U-jdk_aarch64_mac_hotspot_23.0.1_11.pkg",
+    "vendor": "eclipse",
+    "version": "23.0.1+11"
+  },
+  {
+    "architecture": "aarch64",
+    "distro": "temurin",
+    "features": [],
+    "file_type": "pkg",
+    "filename": "OpenJDK23U-jdk_aarch64_mac_hotspot_23_37.pkg",
+    "image_type": "jdk",
+    "java_version": "23+37",
+    "jvm_impl": "hotspot",
+    "md5": "3577f614b31992b2cec9a97b3e09fe01",
+    "os": "macosx",
+    "release_type": "ga",
+    "sha1": "69f6979d413f28c4fe9f16aca2d90a34cfd0aef2",
+    "sha256": "44e2e161c8c0c6bd61ae8fc16ab5478616050135a5c5b78ee05ff17bcfdb27c3",
+    "sha512": "f5aa2ac289c414c55a10b4e0932f9aefce4822943b0c8dcbdeda7b732e0a43b91a413cf9ac9bf68296e2e442ecd95e387ff2781ead09b85906e87aa13566a142",
+    "size": 207608926,
+    "url": "https://github.com/adoptium/temurin23-binaries/releases/download/jdk-23%2B37/OpenJDK23U-jdk_aarch64_mac_hotspot_23_37.pkg",
+    "vendor": "eclipse",
+    "version": "23+37"
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "architecture": "i686",
+    "distro": "liberica-native",
+    "features": [
+      "native-image"
+    ],
+    "file_type": "tar.gz",
+    "filename": "bellsoft-liberica-vm-full-openjdk17.0.18+11-23.0.11+1-linux-amd64.tar.gz",
+    "image_type": "jdk",
+    "java_version": "17.0.18+11-LTS",
+    "jvm_impl": "graalvm",
+    "md5": "4e15d676f3551f3b15d19213f9cb732d",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "d0a05272d01b9712f8908b68d203741945e46801",
+    "sha256": "5bc5f874cd1f6a155afa004914127d4f6d427347f067b9f99ee15e19b97d0c13",
+    "sha512": "c2f37f3aa41f80b56f6d2eaf630167792192cd2b474c55595e43f4dd999d04e4afe9e60ee382880cee9812dddf4bf3b18580ea6e229601caca7cd405d8e5c81b",
+    "size": 294165322,
+    "url": "https://github.com/bell-sw/LibericaNIK/releases/download/23.0.11+1-17.0.18+11/bellsoft-liberica-vm-full-openjdk17.0.18+11-23.0.11+1-linux-amd64.tar.gz",
+    "vendor": "bellsoft",
+    "version": "23.0.11+1"
+  }
+]

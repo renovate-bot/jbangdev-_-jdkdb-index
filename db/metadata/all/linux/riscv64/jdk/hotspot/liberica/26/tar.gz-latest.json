@@ -1,0 +1,44 @@
+[
+  {
+    "architecture": "riscv64",
+    "distro": "liberica",
+    "features": [
+      "lite"
+    ],
+    "file_type": "tar.gz",
+    "filename": "bellsoft-jdk26+37-linux-riscv64-lite.tar.gz",
+    "image_type": "jdk",
+    "java_version": "26+37",
+    "jvm_impl": "hotspot",
+    "md5": "9f9890a1e4a4791434de1053505da2c5",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "4203f2b2a74a6a07a58d55e283aae0edf41c6994",
+    "sha256": "3a2e4f053442a7806ead727aae14378cd157e05d40dc8b13c073e57ccb657acc",
+    "sha512": "be245c532978b064cecb0eaef9a71e16ada94a885c7fa2a99c936989cb4c712ff59853410480decd9b65f9c304d8770273dbb58afa95499193b23035543f859d",
+    "size": 84950720,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/26+37/bellsoft-jdk26+37-linux-riscv64-lite.tar.gz",
+    "vendor": "bellsoft",
+    "version": "26+37"
+  },
+  {
+    "architecture": "riscv64",
+    "distro": "liberica",
+    "features": [],
+    "file_type": "tar.gz",
+    "filename": "bellsoft-jdk26+37-linux-riscv64.tar.gz",
+    "image_type": "jdk",
+    "java_version": "26+37",
+    "jvm_impl": "hotspot",
+    "md5": "96e5598f696297b75bfb3a1dc9445420",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "7561ad25b1a6da6086886834fe4774f0a5b7e39f",
+    "sha256": "51df622f1afe4f51607e9486259ffad6b7f60218563d916520b0fd615ea67a29",
+    "sha512": "b564ae5a2fc7b3115d61322538457aa9107f019f3e9d0669d95199e3f2200ed01569aa008cc6b18a40eaff90eca7f07c0509676d804cf2cfb643c8cfb68e8b50",
+    "size": 209734370,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/26+37/bellsoft-jdk26+37-linux-riscv64.tar.gz",
+    "vendor": "bellsoft",
+    "version": "26+37"
+  }
+]

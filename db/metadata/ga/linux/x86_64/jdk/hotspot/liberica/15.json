@@ -1,0 +1,46 @@
+[
+  {
+    "architecture": "x86_64",
+    "distro": "liberica",
+    "features": [
+      "libericafx",
+      "minimal-vm",
+      "javafx"
+    ],
+    "file_type": "rpm",
+    "filename": "bellsoft-jdk15.0.1+9-linux-amd64-full.rpm",
+    "image_type": "jdk",
+    "java_version": "15.0.1+9",
+    "jvm_impl": "hotspot",
+    "md5": "2a3369e024987a129884d97dbb0eb6c0",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "d54f32b0817acb412f0708b9f979c7eb9364fc49",
+    "sha256": "222a41aa591277864ddd3027c22bd652906b57abe66d294eb9382370da98e9ba",
+    "sha512": "f91b0bb869c3e5bc736d4523b720345f95ca6d5740aea772acf4e2cc0835a6b317b53937402fb86e1cad279fcc80f59a03ed3d07b22d8fe31bbddc26e5b8e5dd",
+    "size": 272186160,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/15.0.1+9/bellsoft-jdk15.0.1+9-linux-amd64-full.rpm",
+    "vendor": "bellsoft",
+    "version": "15.0.1+9"
+  },
+  {
+    "architecture": "x86_64",
+    "distro": "liberica",
+    "features": [],
+    "file_type": "rpm",
+    "filename": "bellsoft-jdk15.0.2+8-linux-amd64.rpm",
+    "image_type": "jdk",
+    "java_version": "15.0.2+8",
+    "jvm_impl": "hotspot",
+    "md5": "522bdb994d5ff9a3de5e2de967d6ceea",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "ac162e7eb5ba0eaa5d6587ea24cb0e478c092533",
+    "sha256": "2e02c4105d207d7436909ae9817736d7b003e8dc14fec2572cd44192370f3944",
+    "sha512": "f256a68470e19711afeb630c8a59b580cfca5534db7eefee1508015dea12c055952df2026931fdd96d2ad364f5920c29869a25fdb6323273e8a92f672a533cd1",
+    "size": 193611492,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/15.0.2+8/bellsoft-jdk15.0.2+8-linux-amd64.rpm",
+    "vendor": "bellsoft",
+    "version": "15.0.2+8"
+  }
+]

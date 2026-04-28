@@ -1,0 +1,132 @@
+[
+  {
+    "architecture": "arm32",
+    "distro": "liberica",
+    "features": [
+      "javafx"
+    ],
+    "file_type": "dmg",
+    "filename": "bellsoft-jdk17.0.19+11-macos-aarch64-full.dmg",
+    "image_type": "jdk",
+    "java_version": "17.0.19+11",
+    "jvm_impl": "hotspot",
+    "md5": "72def410eec841d436f5d3d787caa41b",
+    "os": "macosx",
+    "release_type": "ga",
+    "sha1": "b225272355cf45062e14e4e538b10fb09c99ecb1",
+    "sha256": "acc9b481fb489b375265015b999fe2df1ec4f86e86f6ddce371a473eeaf2b42a",
+    "sha512": "3fb71151d416476f46bc51b0faf451412d0da42042392d0067d7cbbf4b715f3b1c0988454e704e291a0af76de6e408d2b9a1769719b3c41e55d7d8389d37f536",
+    "size": 318151093,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/17.0.19+11/bellsoft-jdk17.0.19+11-macos-aarch64-full.dmg",
+    "vendor": "bellsoft",
+    "version": "17.0.19+11"
+  },
+  {
+    "architecture": "arm32",
+    "distro": "liberica",
+    "features": [
+      "javafx"
+    ],
+    "file_type": "tar.gz",
+    "filename": "bellsoft-jdk17.0.19+11-macos-aarch64-full.tar.gz",
+    "image_type": "jdk",
+    "java_version": "17.0.19+11-LTS",
+    "jvm_impl": "hotspot",
+    "md5": "2af0cad2bd05b6be87937b1c6f1f061b",
+    "os": "macosx",
+    "release_type": "ga",
+    "sha1": "208df49e61b93753c0b7b1cb2eda5f1f13eff38a",
+    "sha256": "da85a9a13d188bbfcb9545278d0e40f44f02e8192e67b37050baa2e039b9ca68",
+    "sha512": "e77931bb68055fee81e4b92732edaa1c4cd5d40dc35aecb2b90a20e1f96011b8214e68101d178299287d5fdc6cb15bc7c20f06abdec91066ba7f253b9cc8e9a5",
+    "size": 309762781,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/17.0.19+11/bellsoft-jdk17.0.19+11-macos-aarch64-full.tar.gz",
+    "vendor": "bellsoft",
+    "version": "17.0.19+11"
+  },
+  {
+    "architecture": "arm32",
+    "distro": "liberica",
+    "features": [
+      "javafx"
+    ],
+    "file_type": "zip",
+    "filename": "bellsoft-jdk17.0.19+11-macos-aarch64-full.zip",
+    "image_type": "jdk",
+    "java_version": "17.0.19+11-LTS",
+    "jvm_impl": "hotspot",
+    "md5": "58d6d8682046f7b735fba7d09313c5ec",
+    "os": "macosx",
+    "release_type": "ga",
+    "sha1": "55952430d91ca304d0c41e897d6e04a59fcd808d",
+    "sha256": "e9f04ad44c31825e28a3e10418107f8295cc9bc7b000e6a862db636d63b374bc",
+    "sha512": "115606c7ad3a9f80f1886e1fec8563029b5f143f8447e5caa51215de160269d778683f2ab890bf67aee2293558cd7a24081a49c4c85519743731b54be7bc046c",
+    "size": 314554192,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/17.0.19+11/bellsoft-jdk17.0.19+11-macos-aarch64-full.zip",
+    "vendor": "bellsoft",
+    "version": "17.0.19+11"
+  },
+  {
+    "architecture": "arm32",
+    "distro": "liberica",
+    "features": [
+      "lite"
+    ],
+    "file_type": "tar.gz",
+    "filename": "bellsoft-jdk17.0.19+11-macos-aarch64-lite.tar.gz",
+    "image_type": "jdk",
+    "java_version": "17.0.19+11-LTS",
+    "jvm_impl": "hotspot",
+    "md5": "ee7658924be2ae82aff06e61392cef68",
+    "os": "macosx",
+    "release_type": "ga",
+    "sha1": "a87b92968934a8d31625f6baa840ae0b32088b10",
+    "sha256": "2d51c8a094b8713df9bd3274eb75bd936ca3a62dd50fb56f3c816fc6be3d0de5",
+    "sha512": "964e15403dcdaf300ce039c72fb7ef42f359cf13ef89bf10b9d139f3bcc7fa2d46bf601da0f5a0cf81f8671cfe10287fa777ece4c65867f54d46867c52bbe688",
+    "size": 70213531,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/17.0.19+11/bellsoft-jdk17.0.19+11-macos-aarch64-lite.tar.gz",
+    "vendor": "bellsoft",
+    "version": "17.0.19+11"
+  },
+  {
+    "architecture": "arm32",
+    "distro": "liberica",
+    "features": [
+      "lite"
+    ],
+    "file_type": "zip",
+    "filename": "bellsoft-jdk17.0.19+11-macos-aarch64-lite.zip",
+    "image_type": "jdk",
+    "java_version": "17.0.19+11-LTS",
+    "jvm_impl": "hotspot",
+    "md5": "aa7973d04a87e216fad126ee2f1d6837",
+    "os": "macosx",
+    "release_type": "ga",
+    "sha1": "422f83c12419c46f54982b77aa6b04d23a03e324",
+    "sha256": "00ef279aa91bb703334e1cf7fa211e1f31a5c792af2f9766fed201e0b2928045",
+    "sha512": "d64d463766cb699afdf3b6703a7fbc91490d855d6f82eafddfcfa23f96aef77df6e42b2143fcc30335b36da6584bf811267d8c40d595520baf7cc58f7369180a",
+    "size": 70891377,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/17.0.19+11/bellsoft-jdk17.0.19+11-macos-aarch64-lite.zip",
+    "vendor": "bellsoft",
+    "version": "17.0.19+11"
+  },
+  {
+    "architecture": "arm32",
+    "distro": "liberica",
+    "features": [],
+    "file_type": "dmg",
+    "filename": "bellsoft-jdk17.0.19+11-macos-aarch64.dmg",
+    "image_type": "jdk",
+    "java_version": "17.0.19+11",
+    "jvm_impl": "hotspot",
+    "md5": "ed9e9d3e34e743ef90851ee3b6724e7d",
+    "os": "macosx",
+    "release_type": "ga",
+    "sha1": "f5a4ed0654ec0f60a3e7c82f77bd6191f2b048f6",
+    "sha256": "41b9ec2ae9b9268ac509fa0bf9300c27e04d408a9b0be4afeff11db2da9bd62a",
+    "sha512": "315d6a4c7d3c4eabf5737974da5a0bfebc758ef4a8cfefcd20cdfba66a1715010507be4a0cbde35fd12a920356aa61d2f9d99fc348d38358dd8832639a3c5a36",
+    "size": 208359001,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/17.0.19+11/bellsoft-jdk17.0.19+11-macos-aarch64.dmg",
+    "vendor": "bellsoft",
+    "version": "17.0.19+11"
+  }
+]

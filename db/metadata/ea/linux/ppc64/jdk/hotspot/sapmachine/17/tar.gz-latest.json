@@ -1,0 +1,24 @@
+[
+  {
+    "architecture": "ppc64",
+    "distro": "sapmachine",
+    "features": [
+      "le"
+    ],
+    "file_type": "tar.gz",
+    "filename": "sapmachine-jdk-17.0.19-ea.6_linux-ppc64le_bin.tar.gz",
+    "image_type": "jdk",
+    "java_version": "17.0.19-ea.6",
+    "jvm_impl": "hotspot",
+    "md5": "88824cd76931f956ce05a8662191bed0",
+    "os": "linux",
+    "release_type": "ea",
+    "sha1": "d1cc75c44220f3326f9aa03cf7a20b38b8ae5186",
+    "sha256": "5cad79479f2a235b8e7a16b6ac2b5ad9f2c98f1eaba696f8394cd8aa2855a615",
+    "sha512": "eea399c5987f92fa31e734b80c867042077d35eece81383ff014423086973b8c38ac22032e15ab588dc6c88a0f9b539481cba0b853ebc975da7c471bac5137a0",
+    "size": 194308053,
+    "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17.0.19%2B6/sapmachine-jdk-17.0.19-ea.6_linux-ppc64le_bin.tar.gz",
+    "vendor": "sap",
+    "version": "17.0.19-ea.6"
+  }
+]

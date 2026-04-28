@@ -1,0 +1,22 @@
+[
+  {
+    "architecture": "i686",
+    "distro": "liberica",
+    "features": [],
+    "file_type": "deb",
+    "filename": "bellsoft-jdk21.0.11+12-linux-amd64-crac.deb",
+    "image_type": "jdk",
+    "java_version": "21.0.11+12-LTS",
+    "jvm_impl": "hotspot",
+    "md5": "832a74cb0bc465686317679ca76ed288",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "4f8b3c24d8180da1354c9840b55c266f1ac16450",
+    "sha256": "0e0bbd01386fdcd2ba1655df8a5372bcf5ca03df69d13f64732dd4f8990ea645",
+    "sha512": "20233b1fe01ae201dce3f9c998bad92cd9a34316c1f2a4f79f0e4525f1ec1d99b09e4a4bd80ab069d9dbda510df0820d2ebc6c6fbf85c17de06fc21c511af987",
+    "size": 181042056,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/21.0.11+12/bellsoft-jdk21.0.11+12-linux-amd64-crac.deb",
+    "vendor": "bellsoft",
+    "version": "21.0.11+12"
+  }
+]

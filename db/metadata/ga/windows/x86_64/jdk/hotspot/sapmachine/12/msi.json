@@ -1,0 +1,42 @@
+[
+  {
+    "architecture": "x86_64",
+    "distro": "sapmachine",
+    "features": null,
+    "file_type": "msi",
+    "filename": "sapmachine-jdk-12_windows-x64_bin.msi",
+    "image_type": "jdk",
+    "java_version": "12",
+    "jvm_impl": "hotspot",
+    "md5": "1db623614c7d3f0cccb05d5154e15ca4",
+    "os": "windows",
+    "release_type": "ga",
+    "sha1": "c6319529bd9d5ec866e8f0627b830876938a6a2b",
+    "sha256": "3b42d7652cd1fe5c772be003eec40c95ac56a9746d378c19204d0447757ed422",
+    "sha512": "909e357c58d79708e0d951cd950562686635dae7ea91ad4c017fbe16ae4493a1045699578d2bc93b8cc94156c11480b1544c2d4e450ed193b6f4fb18dbc5655b",
+    "size": 193802240,
+    "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-12/sapmachine-jdk-12_windows-x64_bin.msi",
+    "vendor": "sap",
+    "version": "12"
+  },
+  {
+    "architecture": "x86_64",
+    "distro": "sapmachine",
+    "features": null,
+    "file_type": "msi",
+    "filename": "sapmachine-jdk-12.0.1_windows-x64_bin.msi",
+    "image_type": "jdk",
+    "java_version": "12.0.1",
+    "jvm_impl": "hotspot",
+    "md5": "14eb1fc4bca97e13dae2deaded8b1a7e",
+    "os": "windows",
+    "release_type": "ga",
+    "sha1": "730e3931bb6cfc843fbc56ec8998c12903d05e1e",
+    "sha256": "1aef1e5ba313bfa4ddc9ed137226ac0b19ffca984dd3d4d89aff5986bbd62682",
+    "sha512": "3a9ba80a3ce7e49469e97f47cdaded381980306a7f19c9782ff98d7d4fa03962300b3fc9dbca22ee68c1df6e4348e5f9b78cd783a6a56e07257afc32b736a8f0",
+    "size": 193818624,
+    "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-12.0.1/sapmachine-jdk-12.0.1_windows-x64_bin.msi",
+    "vendor": "sap",
+    "version": "12.0.1"
+  }
+]

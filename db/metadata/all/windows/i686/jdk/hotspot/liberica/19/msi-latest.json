@@ -1,0 +1,22 @@
+[
+  {
+    "architecture": "i686",
+    "distro": "liberica",
+    "features": [],
+    "file_type": "msi",
+    "filename": "bellsoft-jdk19+37-windows-i586.msi",
+    "image_type": "jdk",
+    "java_version": "19+37",
+    "jvm_impl": "hotspot",
+    "md5": "06fb93e8f5e7a7996d0864e8397f7bce",
+    "os": "windows",
+    "release_type": "ga",
+    "sha1": "a9e413454d3fa03b5b21ec372e917c46bc5471e2",
+    "sha256": "cac9c13a182f4d6a840cd749aa4d9c5df37ac5ef981fc0f871c3a59f1c322a92",
+    "sha512": "3c0ac3312ebc63d5c25a49688040f8c95b813399d3025342d524dd674c1be7c8f31acda6f3c7159ba7fe03809961161557d87208cfc6155169e4097d7d24cd61",
+    "size": 187781120,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/19+37/bellsoft-jdk19+37-windows-i586.msi",
+    "vendor": "bellsoft",
+    "version": "19+37"
+  }
+]

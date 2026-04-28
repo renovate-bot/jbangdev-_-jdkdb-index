@@ -1,0 +1,44 @@
+[
+  {
+    "architecture": "x86_64",
+    "distro": "adoptopenjdk",
+    "features": [
+      "musl"
+    ],
+    "file_type": "tar.gz",
+    "filename": "OpenJDK21U-jre_x64_alpine-linux_hotspot_21.0.11_10.tar.gz",
+    "image_type": "jre",
+    "java_version": "21.0.11+10-LTS",
+    "jvm_impl": "hotspot",
+    "md5": "19eab8f8ec2fbedaf97383822f41edbf",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "cdc536f823b3a14cca87e712a97d2685a4e84891",
+    "sha256": "b75c9f0dd052adfd213f0c2c1cc0c8a6d4539a8de9f7947d2b8fc45d18289975",
+    "sha512": "0f3284aa81590cf56638b39bbf62b8ad0ac07106ce4a63d7d55866ed11a4cf714721e3cd9e6cb98ac4a0481633a3357a7f608aac9db8223ce9d9424150b57c26",
+    "size": 52256958,
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.11%2B10/OpenJDK21U-jre_x64_alpine-linux_hotspot_21.0.11_10.tar.gz",
+    "vendor": "adoptopenjdk",
+    "version": "21.0.11+10.0.LTS"
+  },
+  {
+    "architecture": "x86_64",
+    "distro": "adoptopenjdk",
+    "features": [],
+    "file_type": "tar.gz",
+    "filename": "OpenJDK21U-jre_x64_linux_hotspot_21.0.11_10.tar.gz",
+    "image_type": "jre",
+    "java_version": "21.0.11+10-LTS",
+    "jvm_impl": "hotspot",
+    "md5": "0c201b59a70703d53007ea2e0a45955d",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "a336addbf58b96618c1ce8aa76b7188687b735f6",
+    "sha256": "e5038aae3ca9ff670bc696496b0728dbd23d280026bad30291cb919221ecfdcb",
+    "sha512": "14cb17e27c528338eb0d2ea685abaf5038a42442b1f9d61bb10b0a8761c3c9a06356f775812e2ce093f89108281e2f33461e2835bfcf314e04d2941fd09b38a2",
+    "size": 52099793,
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.11%2B10/OpenJDK21U-jre_x64_linux_hotspot_21.0.11_10.tar.gz",
+    "vendor": "adoptopenjdk",
+    "version": "21.0.11+10.0.LTS"
+  }
+]

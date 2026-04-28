@@ -1,0 +1,44 @@
+[
+  {
+    "architecture": "ppc64le",
+    "distro": "debian",
+    "features": [
+      "headless"
+    ],
+    "file_type": "deb",
+    "filename": "openjdk-26-jre-headless_26+35-2_ppc64el.deb",
+    "image_type": "jre",
+    "java_version": "26+35-Debian-2",
+    "jvm_impl": "hotspot",
+    "md5": "f9349fd7683abdef1402dbd2d8d7d77f",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "271229d456a5cc2a77a2a5732a3ccdf28dc07419",
+    "sha256": "4f9f5d8ca045fa8f74fb2f8308879b0a2cafd3e4113bf96951ace20759e46e3b",
+    "sha512": "83bc8bc218b4e947b517fdd109bb9ec6d82afb297ed1e2025e1e176f13b578b040ca4813f2547275c61566e87cc574a75492c2a4c155ce308cd40b72b50d14a3",
+    "size": 53583992,
+    "url": "http://ftp.debian.org/debian/pool/main/o/openjdk-26/openjdk-26-jre-headless_26+35-2_ppc64el.deb",
+    "vendor": "debian",
+    "version": "26+35-2"
+  },
+  {
+    "architecture": "ppc64le",
+    "distro": "debian",
+    "features": [],
+    "file_type": "deb",
+    "filename": "openjdk-26-jre_26+35-2_ppc64el.deb",
+    "image_type": "jre",
+    "java_version": "26+35",
+    "jvm_impl": "hotspot",
+    "md5": "d0408db8faf83f9ff1f8d6263080fce1",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "a51ea66d6136b2cfd9150597cbeaa51676390a58",
+    "sha256": "fe172304bce81616a49869112e37e59740a13d70ec73facf7e4b310cadd26a97",
+    "sha512": "db2503fcb0e669bbccd10de0a126c5e561df7bf0422415b2d8f21253d059e97b18f3e98d249c8035fd28f7901d1bbac0b0e6d14b78b3444f944e775dbf3c7493",
+    "size": 218688,
+    "url": "http://ftp.debian.org/debian/pool/main/o/openjdk-26/openjdk-26-jre_26+35-2_ppc64el.deb",
+    "vendor": "debian",
+    "version": "26+35-2"
+  }
+]

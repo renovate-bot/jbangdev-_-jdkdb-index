@@ -1,0 +1,22 @@
+[
+  {
+    "architecture": "x86_64",
+    "distro": "temurin",
+    "features": [],
+    "file_type": "tar.gz",
+    "filename": "OpenJDK26U-jre_x64_linux_hotspot_26_35-ea.tar.gz",
+    "image_type": "jre",
+    "java_version": "26",
+    "jvm_impl": "hotspot",
+    "md5": "4583b24250af15877b03dcf9b8efc8ff",
+    "os": "linux",
+    "release_type": "ea",
+    "sha1": "aee7e7633bf64ee2d2cee91d3ad420243de85956",
+    "sha256": "d32a55e2315160ea37e29ef6f8f34325a4fec3bc279f9d81f204408ce7d87813",
+    "sha512": "111886cc1abfb8d1ba6863838e797c61ef952ce3e7e6686177770ef11da94b0ab226f08152f5b112f0a64b98e462a97be2523ce2111db051ecb571e9412e0688",
+    "size": 63054231,
+    "url": "https://github.com/adoptium/temurin26-binaries/releases/download/jdk-26%2B35-ea-beta/OpenJDK26U-jre_x64_linux_hotspot_26_35-ea.tar.gz",
+    "vendor": "eclipse",
+    "version": "26+35-ea-beta"
+  }
+]

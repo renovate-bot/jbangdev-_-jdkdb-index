@@ -1,0 +1,24 @@
+[
+  {
+    "architecture": "i686",
+    "distro": "liberica",
+    "features": [
+      "javafx"
+    ],
+    "file_type": "deb",
+    "filename": "bellsoft-jdk26+37-linux-amd64-full.deb",
+    "image_type": "jdk",
+    "java_version": "26+37",
+    "jvm_impl": "hotspot",
+    "md5": "ba7da3902ac3bea2937198231b7ab9c1",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "acf512fa06d773a0e83a05fc6c0f542b80fe2938",
+    "sha256": "95fd73ca5ba70adbcdcb75e57dba6d8e11dd0159f6d078d12496a63355a9fa7c",
+    "sha512": "ccf85eddfb9493ccdf54ff0c10a2ed2956464f147af9e9b5a48d0c638832149fc832ebf89d0f3684d56bd9b9c3ca0414ddaec815d40bd0b8ec18d71311ca27f5",
+    "size": 347280348,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/26+37/bellsoft-jdk26+37-linux-amd64-full.deb",
+    "vendor": "bellsoft",
+    "version": "26+37"
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "architecture": "i686",
+    "distro": "liberica",
+    "features": [
+      "javafx"
+    ],
+    "file_type": "tar.gz",
+    "filename": "bellsoft-jdk26+37-macos-amd64-full.tar.gz",
+    "image_type": "jdk",
+    "java_version": "26+37",
+    "jvm_impl": "hotspot",
+    "md5": "054f53e80352c4609caacaca9e8a5199",
+    "os": "macosx",
+    "release_type": "ga",
+    "sha1": "9f67543ee497b5b8b39eee7895ca262fd127b3a6",
+    "sha256": "4ff4a05450f2eb7722bc62393fb0cf8b2e7ee4f0a5c9de87b65fb3191e79eebf",
+    "sha512": "ad1e9ead31f5afa7d93589f6c1d09f18eef3842bd146d66ba36e6d70f0935560eff8ffbd90e0972959f8175527971ed547b490e2227f16b492fc0214a4954336",
+    "size": 366481533,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/26+37/bellsoft-jdk26+37-macos-amd64-full.tar.gz",
+    "vendor": "bellsoft",
+    "version": "26+37"
+  },
+  {
+    "architecture": "i686",
+    "distro": "liberica",
+    "features": [
+      "lite"
+    ],
+    "file_type": "tar.gz",
+    "filename": "bellsoft-jdk26+37-macos-amd64-lite.tar.gz",
+    "image_type": "jdk",
+    "java_version": "26+37",
+    "jvm_impl": "hotspot",
+    "md5": "ffeee8771a83c036298af1f39831cf62",
+    "os": "macosx",
+    "release_type": "ga",
+    "sha1": "ef7808e96898be98ff18d5037da64f2d46107a84",
+    "sha256": "051647bfa74e1ecb4d37178b384ef46ef45354c6baa0be57e19ea950aad975fe",
+    "sha512": "ba7cb3099e1619e6f39797b7b8b50cc02d301d5d1dc9f897bcc7958d8e93c9e8eaf18ea0c771288884ca11499983b58d49b4430f838538d75dfc134518d113e0",
+    "size": 83652195,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/26+37/bellsoft-jdk26+37-macos-amd64-lite.tar.gz",
+    "vendor": "bellsoft",
+    "version": "26+37"
+  },
+  {
+    "architecture": "i686",
+    "distro": "liberica",
+    "features": [],
+    "file_type": "tar.gz",
+    "filename": "bellsoft-jdk26+37-macos-amd64.tar.gz",
+    "image_type": "jdk",
+    "java_version": "26+37",
+    "jvm_impl": "hotspot",
+    "md5": "c3045d1c3a7861d491389fda3507732e",
+    "os": "macosx",
+    "release_type": "ga",
+    "sha1": "7f0d0d90829f32d3f969371eb568bf9ac89cb8d6",
+    "sha256": "67298e5429727ae8095c458b6e54431852353c353afd012382bb7bc1d7fe3059",
+    "sha512": "21e5d903c200acdcd471b18867aeaddbeb87d59778a1aed59d8fa0943dc041719506d526b10644e4fc2fc950399e41e835971ec57bed2c8dcc3190defd6c890f",
+    "size": 253374576,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/26+37/bellsoft-jdk26+37-macos-amd64.tar.gz",
+    "vendor": "bellsoft",
+    "version": "26+37"
+  }
+]

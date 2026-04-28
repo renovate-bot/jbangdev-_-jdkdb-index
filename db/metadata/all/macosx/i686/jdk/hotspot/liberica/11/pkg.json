@@ -1,0 +1,22 @@
+[
+  {
+    "architecture": "i686",
+    "distro": "liberica",
+    "features": [],
+    "file_type": "pkg",
+    "filename": "bellsoft-jdk11.0.31+11-macos-amd64.pkg",
+    "image_type": "jdk",
+    "java_version": "11.0.31+11-LTS",
+    "jvm_impl": "hotspot",
+    "md5": "df3636f16e424b7eb157761ae69c7d3e",
+    "os": "macosx",
+    "release_type": "ga",
+    "sha1": "d0caf8e859219f18423b0c85e5ab7bf48d9a42fa",
+    "sha256": "5393be0dd9f59d92d4ce9c45c9428fe285fbb7d46fad3bf32d569e6abb67768c",
+    "sha512": "498afdb1f7e48bdea387ba06715692fd4f8161628ce5f8d4f7d03507b8428478f017e10521214fd5fe57146c86d72190af2e45eb83d54ad496464bf42352ad30",
+    "size": 200268758,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/11.0.31+11/bellsoft-jdk11.0.31+11-macos-amd64.pkg",
+    "vendor": "bellsoft",
+    "version": "11.0.31+11"
+  }
+]

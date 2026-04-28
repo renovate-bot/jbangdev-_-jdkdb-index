@@ -1,0 +1,42 @@
+[
+  {
+    "architecture": "riscv64",
+    "distro": "liberica",
+    "features": [],
+    "file_type": "rpm",
+    "filename": "bellsoft-jre26.0.1+10-linux-riscv64.rpm",
+    "image_type": "jre",
+    "java_version": "26.0.1+10",
+    "jvm_impl": "hotspot",
+    "md5": "c164cd44b7e7c4b93a75ee2825023f9d",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "e28df228d3c9ddd891c31446132dd0368a20c28f",
+    "sha256": "98e842885eab7dbb906d91803ddae99e1ca2801fa3ce81c65492aaebfe13c712",
+    "sha512": "cf62c00975e7206d434ada1ba99824c891902a1aa97085286038f87ff4b2da312ec5169ed03fbcd703771a045b31bd51620a6caa64c7e52e6cdf1624193dc696",
+    "size": 30778016,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/26.0.1+10/bellsoft-jre26.0.1+10-linux-riscv64.rpm",
+    "vendor": "bellsoft",
+    "version": "26.0.1+10"
+  },
+  {
+    "architecture": "riscv64",
+    "distro": "liberica",
+    "features": [],
+    "file_type": "rpm",
+    "filename": "bellsoft-jre26+37-linux-riscv64.rpm",
+    "image_type": "jre",
+    "java_version": "26+37",
+    "jvm_impl": "hotspot",
+    "md5": "be2142a9b720f2f4c377a6051983a146",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "313e7c6e49fbdd275833ca43b76ab7e2ba0114af",
+    "sha256": "d8af13a1d00f904afff64ba9204e2032c351f7621da47510f4482652c6f01502",
+    "sha512": "8dee83bc233e4fc99ad14e177682c154cdb1fbada1b5a939c64f9e032ceac572de003bb02b8da92cc85c50fcd738d6a322ac32e1aca7c48495c7867838a7ac40",
+    "size": 30772936,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/26+37/bellsoft-jre26+37-linux-riscv64.rpm",
+    "vendor": "bellsoft",
+    "version": "26+37"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "architecture": "x86_64",
+    "distro": "openlogic",
+    "features": [],
+    "file_type": "msi",
+    "filename": "openlogic-openjdk-jre-21.0.9+10-windows-x64.msi",
+    "image_type": "jre",
+    "java_version": "21.0.9+10",
+    "jvm_impl": "hotspot",
+    "md5": "1b4c393bd17aff198a1c343cab161195",
+    "os": "windows",
+    "release_type": "ga",
+    "sha1": "bb78bffddd09b039a6ed8c2882cd2e55933d46b9",
+    "sha256": "df8ebdb4181b2a5e0d1a9cdc3ad543cd68deb946ab36b5967a5bbd0b3af59e2a",
+    "sha512": "e8263c62b0af0ef950ac11472131a8f82f0fcc3ccabdf7d8dcc65f889c469c9bd50b2d95f5e2fac356571e76f543b3f6984804fdfacdbed76aa07d1a573e6a44",
+    "size": 37482496,
+    "url": "https://builds.openlogic.com/downloadJDK/openlogic-openjdk-jre/21.0.9+10/openlogic-openjdk-jre-21.0.9+10-windows-x64.msi",
+    "vendor": "openlogic",
+    "version": "21.0.9+10"
+  }
+]

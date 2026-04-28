@@ -1,0 +1,22 @@
+[
+  {
+    "architecture": "arm32",
+    "distro": "liberica",
+    "features": [],
+    "file_type": "zip",
+    "filename": "bellsoft-jdk21.0.11+11-windows-aarch64.zip",
+    "image_type": "jdk",
+    "java_version": "21.0.11+11-LTS",
+    "jvm_impl": "hotspot",
+    "md5": "5cba8197cabcfd22596b36424c1a41bd",
+    "os": "windows",
+    "release_type": "ga",
+    "sha1": "24e5373005837d73a09be6aef84635943d1ad3ed",
+    "sha256": "31ae2188d6ba21445cf9f922f88b03604084f5938a9506e1e4ba1033b23c87f3",
+    "sha512": "2a94d824004693b843249b3a4bc161d8171908a50f169817a22b5f2f8799ba1f6e430a062fed751e6945d81541d264d759ac1300baea1c2183df55633b0489e9",
+    "size": 197939154,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/21.0.11+11/bellsoft-jdk21.0.11+11-windows-aarch64.zip",
+    "vendor": "bellsoft",
+    "version": "21.0.11+11"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "architecture": "aarch64",
+    "distro": "sapmachine",
+    "features": null,
+    "file_type": "tar.gz",
+    "filename": "sapmachine-jdk-26-ea.35_macos-aarch64_bin.tar.gz",
+    "image_type": "jdk",
+    "java_version": "26-ea.35",
+    "jvm_impl": "hotspot",
+    "md5": "0f36ae63c1f262ab17697d81b34bab8a",
+    "os": "macosx",
+    "release_type": "ea",
+    "sha1": "ebb8cb9ac0ab5e2010506a1b79c83b714324450f",
+    "sha256": "86f2db62ab301ec451a13c15bcb2c0456e4b5b74a89a85529d83be7be0f99a6d",
+    "sha512": "424dbf2c8a4acdcf94db070d987728028fb848e710dff0b2074685e162a8a4d8048634d745160eb562d0ed5284ec21ad9936d554951fa8beb7db9b945c0068d9",
+    "size": 210664340,
+    "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-26%2B35/sapmachine-jdk-26-ea.35_macos-aarch64_bin.tar.gz",
+    "vendor": "sap",
+    "version": "26-ea.35"
+  },
+  {
+    "architecture": "aarch64",
+    "distro": "sapmachine",
+    "features": null,
+    "file_type": "tar.gz",
+    "filename": "sapmachine-jdk-26.0.1-ea.8_macos-aarch64_bin.tar.gz",
+    "image_type": "jdk",
+    "java_version": "26.0.1-ea.8",
+    "jvm_impl": "hotspot",
+    "md5": "869781f3207c255ef65e0b3074d1f8b7",
+    "os": "macosx",
+    "release_type": "ea",
+    "sha1": "975d14650b1dddcaeaea7d1a792d18bf925eb5ee",
+    "sha256": "82f72346e186f4ca61fd7913e7345047aab04a7ec8534ca315d9bb2f0cf832da",
+    "sha512": "f6917b8990210676e3543e78c5c3233927875846c4949926bea616092283c84c3b1f6495f2e9b541836602d6dad592f3fb707ebfa64f2763d48afb58d701c553",
+    "size": 210619878,
+    "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-26.0.1%2B8/sapmachine-jdk-26.0.1-ea.8_macos-aarch64_bin.tar.gz",
+    "vendor": "sap",
+    "version": "26.0.1-ea.8"
+  }
+]

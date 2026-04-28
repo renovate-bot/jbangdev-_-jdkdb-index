@@ -1,0 +1,22 @@
+[
+  {
+    "architecture": "i686",
+    "distro": "temurin",
+    "features": [],
+    "file_type": "msi",
+    "filename": "OpenJDK19U-jre_x86-32_windows_hotspot_19_36.msi",
+    "image_type": "jre",
+    "java_version": "19+36",
+    "jvm_impl": "hotspot",
+    "md5": "4bd3eab125c7d7a0f1d3301e53b24796",
+    "os": "windows",
+    "release_type": "ga",
+    "sha1": "fc3bf1fe7e873dfd1ad624f8b2055ea61d364d02",
+    "sha256": "99af6655880dfb889ac1aa6795dc7a33ce21bfa28a437c038307904ef4e019d9",
+    "sha512": "70fa522d6be73656344f57846edea02dd875186d4bca03eee9434a50f2730daa181bf3d6c87b22b50f2cc16f22909c0513f70071b9d5c039d47e8fb7590f7adc",
+    "size": 30972416,
+    "url": "https://github.com/adoptium/temurin19-binaries/releases/download/jdk-19%2B36/OpenJDK19U-jre_x86-32_windows_hotspot_19_36.msi",
+    "vendor": "eclipse",
+    "version": "19+36"
+  }
+]

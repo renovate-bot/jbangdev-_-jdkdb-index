@@ -1,0 +1,44 @@
+[
+  {
+    "architecture": "x86_64",
+    "distro": "debian",
+    "features": [
+      "headless"
+    ],
+    "file_type": "deb",
+    "filename": "openjdk-25-jre-headless_25.0.3+9-2_amd64.deb",
+    "image_type": "jre",
+    "java_version": "25.0.3+9-2-Debian",
+    "jvm_impl": "hotspot",
+    "md5": "357d6f87306f92f98601f012ea8bc0aa",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "374e281bf11db236d292cf4e42eed13213fa9ead",
+    "sha256": "1572183efb174b5109d10ffb5ffbf69c1de594fbfac701108c3a7305eaaf7329",
+    "sha512": "39110c92098bd2a0f326073ec185477f3dfff8f8fe1026fad28502796a68546f9e866ec5bb567cbb0a090cfb658a3557a2bf63c0935cd8b12688fa9b9ad59820",
+    "size": 53658220,
+    "url": "http://ftp.debian.org/debian/pool/main/o/openjdk-25/openjdk-25-jre-headless_25.0.3+9-2_amd64.deb",
+    "vendor": "debian",
+    "version": "25.0.3+9-2"
+  },
+  {
+    "architecture": "x86_64",
+    "distro": "debian",
+    "features": [],
+    "file_type": "deb",
+    "filename": "openjdk-25-jre_25.0.3+9-2_amd64.deb",
+    "image_type": "jre",
+    "java_version": "25.0.3+9",
+    "jvm_impl": "hotspot",
+    "md5": "e598fcebfcba740e7fcba0afc88a3eba",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "f41f5b4e7fa3539212c889dd005e26ad684e56a2",
+    "sha256": "72dabb4766cb13cb111003a023e18ebb3f3f2f00ccde87ec99a49bef7a150e7b",
+    "sha512": "bc7ce58101fca8a27aa6feed80c4a4ffb60cf9e6da421a4f64167ec3f89891eb4f45b23e8321e175e4ea672151d067b9b3a7f182c53cfb8825c3c484c36bb7e2",
+    "size": 203932,
+    "url": "http://ftp.debian.org/debian/pool/main/o/openjdk-25/openjdk-25-jre_25.0.3+9-2_amd64.deb",
+    "vendor": "debian",
+    "version": "25.0.3+9-2"
+  }
+]

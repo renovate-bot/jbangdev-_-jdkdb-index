@@ -1,0 +1,22 @@
+[
+  {
+    "architecture": "x86_64",
+    "distro": "semeru",
+    "features": [],
+    "file_type": "tar.gz",
+    "filename": "ibm-semeru-open-jre_x64_mac_8.0.492.0-m2.tar.gz",
+    "image_type": "jre",
+    "java_version": "1.8.0_492-b08",
+    "jvm_impl": "openj9",
+    "md5": "e165312c26a524a0f63908437b9df7ed",
+    "os": "macosx",
+    "release_type": "ga",
+    "sha1": "9aceaa109e7aca5ce2f53638ce0db82cdb73cb5d",
+    "sha256": "664c9f7829b5e20d143771a078902d23d3f8ecfd9e453fcf55c046a469d300c0",
+    "sha512": "15042488cb1efc01cde441d27185b53d5bae0941309a03b266645ba9b9882f75548d0f2d76d8ee9f915cb157d40f22a81d2865dcbf92bbebbe3277aa4811334b",
+    "size": 60203671,
+    "url": "https://github.com/ibmruntimes/semeru8-binaries/releases/download/jdk-8.0.492.0-m2/ibm-semeru-open-jre_x64_mac_8.0.492.0-m2.tar.gz",
+    "vendor": "ibm",
+    "version": "8.0.492.0-m2"
+  }
+]

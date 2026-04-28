@@ -1,0 +1,46 @@
+[
+  {
+    "architecture": "aarch64",
+    "distro": "liberica",
+    "features": [
+      "musl"
+    ],
+    "file_type": "apk",
+    "filename": "bellsoft-jre11.0.16.1+1-linux-aarch64-musl.apk",
+    "image_type": "jre",
+    "java_version": "11.0.16.1+1",
+    "jvm_impl": "hotspot",
+    "md5": "9b609afdba787327cd459606359e33a7",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "da06ab2a765a7c4814f247f3ed35a9179cf12985",
+    "sha256": "468c5b51118bb4a3374dce98ff01eace1bf9a384e02c62925d0d0df62d86de1d",
+    "sha512": "61be5175dce331d68679d1d7be6175a4298bcba309f9e8151ceea4f8f0ed770b754c0c9189dd6b2459358b41ea187c26ca50d6b10e23d8aba9fc4ec3dba957b5",
+    "size": 46986699,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/11.0.16.1+1/bellsoft-jre11.0.16.1+1-linux-aarch64-musl.apk",
+    "vendor": "bellsoft",
+    "version": "11.0.16.1+1"
+  },
+  {
+    "architecture": "aarch64",
+    "distro": "liberica",
+    "features": [
+      "musl"
+    ],
+    "file_type": "apk",
+    "filename": "bellsoft-jre11.0.22+12-linux-aarch64-musl.apk",
+    "image_type": "jre",
+    "java_version": "11.0.22+12-LTS",
+    "jvm_impl": "hotspot",
+    "md5": "6786de4e1c6ef0f74ff1dedc6aadf89c",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "e54c86fcb96140c51b56afdf9f3c0dd2f046e40e",
+    "sha256": "5dab9eb7b38a5a0911b752cf4dcb9116a9be00472bce9d0ddc4b5b0e63d954cb",
+    "sha512": "d9977806119838b925df353d2291777d681121957b9e4147f86edc806e00db8a8056918d18b9863b0eab96c0ddbbec3ba24cd9cd74a4adb74e18cf70e4b25177",
+    "size": 47437945,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/11.0.22+12/bellsoft-jre11.0.22+12-linux-aarch64-musl.apk",
+    "vendor": "bellsoft",
+    "version": "11.0.22+12"
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "architecture": "i686",
+    "distro": "liberica",
+    "features": [
+      "javafx"
+    ],
+    "file_type": "zip",
+    "filename": "bellsoft-jre8u492+9-windows-amd64-full.zip",
+    "image_type": "jre",
+    "java_version": "1.8.0_492",
+    "jvm_impl": "hotspot",
+    "md5": "17de4abb226a4911036fe3e168b6043a",
+    "os": "windows",
+    "release_type": "ga",
+    "sha1": "44f18e018d9e239513b2eebed541320c268743ab",
+    "sha256": "a6501bfb8fe62f43caa442352fcac3ebef0f1e3431eec56b7aa417e300727af5",
+    "sha512": "3f0dd50ea5780bf2ec0f13b2f3b18f230d2d06c1bc8a6ba6198cc8ec4003e890719f37d938f9873d0bd2622ae91609bf42d1818f5c257eec63c4b05e43d85055",
+    "size": 82872392,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/8u492+9/bellsoft-jre8u492+9-windows-amd64-full.zip",
+    "vendor": "bellsoft",
+    "version": "8u492+9"
+  },
+  {
+    "architecture": "i686",
+    "distro": "liberica",
+    "features": [],
+    "file_type": "zip",
+    "filename": "bellsoft-jre8u492+9-windows-amd64.zip",
+    "image_type": "jre",
+    "java_version": "1.8.0_492",
+    "jvm_impl": "hotspot",
+    "md5": "ad4868fce5fd9b1500e44fc87c85986e",
+    "os": "windows",
+    "release_type": "ga",
+    "sha1": "9a3ee2c00c51e6d03d8cdbdc53f0d16f519dd578",
+    "sha256": "ac933a8469bb70ee8596f05d7903299ee834fdf73304721e862166da450df1cf",
+    "sha512": "512ecfa2a781acf664e3abe1ee53a47aca03363e027d6b4ae4952d0ccd2ba8dcb6fdaf1cefe3bbad8d046b05325fa9fae903cb63e640dba2fdbaa2ccae413571",
+    "size": 40025873,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/8u492+9/bellsoft-jre8u492+9-windows-amd64.zip",
+    "vendor": "bellsoft",
+    "version": "8u492+9"
+  },
+  {
+    "architecture": "i686",
+    "distro": "liberica",
+    "features": [
+      "javafx"
+    ],
+    "file_type": "zip",
+    "filename": "bellsoft-jre8u492+9-windows-i586-full.zip",
+    "image_type": "jre",
+    "java_version": "1.8.0_492",
+    "jvm_impl": "hotspot",
+    "md5": "8421c6f981d3dbbd0d98f1b5b7e95057",
+    "os": "windows",
+    "release_type": "ga",
+    "sha1": "8020850bd0c0adc8a8f258a8fa9dfc4881b58b27",
+    "sha256": "48f871ec91a8956afece4bbaf71c10bc36a5f6f5761c884ad72a1d5941279535",
+    "sha512": "2e8b193c9b4c5e822a88bee6806dcb4804ad8da7051482d2d97dc19eddb67f9b48221a7328754d45c91f7e3ff0c0a6f1b80999b8ee65225152a5866f54ea7937",
+    "size": 79620495,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/8u492+9/bellsoft-jre8u492+9-windows-i586-full.zip",
+    "vendor": "bellsoft",
+    "version": "8u492+9"
+  }
+]

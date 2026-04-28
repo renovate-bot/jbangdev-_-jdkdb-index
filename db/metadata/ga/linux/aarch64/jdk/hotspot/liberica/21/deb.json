@@ -1,0 +1,48 @@
+[
+  {
+    "architecture": "aarch64",
+    "distro": "liberica",
+    "features": [
+      "crac"
+    ],
+    "file_type": "deb",
+    "filename": "bellsoft-jdk21.0.7+12-linux-aarch64-crac.deb",
+    "image_type": "jdk",
+    "java_version": "21.0.7+12-LTS",
+    "jvm_impl": "hotspot",
+    "md5": "ed1a3df9e84373bef72bac66bd05adbb",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "2e232cde6864fe83f89f55572316a73fb5ccbecd",
+    "sha256": "7d7c99a97d5e7777e5fbd4c15ba633087f706ee41cea0e8c8258a68b9d7b9f64",
+    "sha512": "2fb03996d0fa7c391fd37dafd57a58ea31c0c593cb3d252edf4e3d55eb51a025aea5d4616a55a4971b2919f5178a38b7d413100f165db6a061dcee871c6bd605",
+    "size": 170638280,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/21.0.7+12/bellsoft-jdk21.0.7+12-linux-aarch64-crac.deb",
+    "vendor": "bellsoft",
+    "version": "21.0.7+12"
+  },
+  {
+    "architecture": "aarch64",
+    "distro": "liberica",
+    "features": [
+      "libericafx",
+      "minimal-vm",
+      "javafx"
+    ],
+    "file_type": "deb",
+    "filename": "bellsoft-jdk21.0.9+15-linux-aarch64-full.deb",
+    "image_type": "jdk",
+    "java_version": "21.0.9+15-LTS",
+    "jvm_impl": "hotspot",
+    "md5": "e7287157f645c8756697970dedf37445",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "27e25444f5429b70a08eaa9aadc5ff3c878af527",
+    "sha256": "e5c87530cf7dc447ff2cce6fbac692fbeef261aa50f2c35deebbf50be422f23f",
+    "sha512": "cdac2afbd08937a05e7c164c91237aa29687d9f19e6c2d80e0e063f95c6cfff87e823bcb3fbfd3b334bddcd18a7de9010987d049a416c424fb5294658d2db16e",
+    "size": 299945336,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/21.0.9+15/bellsoft-jdk21.0.9+15-linux-aarch64-full.deb",
+    "vendor": "bellsoft",
+    "version": "21.0.9+15"
+  }
+]

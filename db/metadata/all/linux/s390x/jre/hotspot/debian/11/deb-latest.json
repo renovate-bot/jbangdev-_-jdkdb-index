@@ -1,0 +1,44 @@
+[
+  {
+    "architecture": "s390x",
+    "distro": "debian",
+    "features": [
+      "headless"
+    ],
+    "file_type": "deb",
+    "filename": "openjdk-11-jre-headless_11.0.31+11-1_s390x.deb",
+    "image_type": "jre",
+    "java_version": "11.0.31+11-post-1-Debian",
+    "jvm_impl": "hotspot",
+    "md5": "ff12ae450b68e5c7f0fbaf46bb1debd5",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "487ee7dd95bc5198c92ad7fb67a9c10e201263b5",
+    "sha256": "e6749439e83756343d21cd7c9a6c588bf0da01d1ed6c63bd4fee2ec88b3cc0ed",
+    "sha512": "c67b7e85ff591997841628350cd42971222a4c0136863a16d7799e4e5344dd16efa577287ef2f9fc6356950e8cce12c1ae27a53730e41ca99d1bafda4112cef4",
+    "size": 33893656,
+    "url": "http://ftp.debian.org/debian/pool/main/o/openjdk-11/openjdk-11-jre-headless_11.0.31+11-1_s390x.deb",
+    "vendor": "debian",
+    "version": "11.0.31+11-1"
+  },
+  {
+    "architecture": "s390x",
+    "distro": "debian",
+    "features": [],
+    "file_type": "deb",
+    "filename": "openjdk-11-jre_11.0.31+11-1_s390x.deb",
+    "image_type": "jre",
+    "java_version": "11.0.31+11",
+    "jvm_impl": "hotspot",
+    "md5": "0f02579b061df760c295ffb1b03cafce",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "7d74a52eea4f63ac35f38afe506f1f37db8adf2c",
+    "sha256": "f71973d3beecb131364b626c2deaf634bf17dce3641f26d77ec46b3f322d4588",
+    "sha512": "b2965234273aef92975ac8c434dd873822cbcbe307e97d1085d1fcd01695de97cd2c2b40b5627d485fec5748f3237f9149c338e44bd8ca0a335da14d460d435c",
+    "size": 195196,
+    "url": "http://ftp.debian.org/debian/pool/main/o/openjdk-11/openjdk-11-jre_11.0.31+11-1_s390x.deb",
+    "vendor": "debian",
+    "version": "11.0.31+11-1"
+  }
+]

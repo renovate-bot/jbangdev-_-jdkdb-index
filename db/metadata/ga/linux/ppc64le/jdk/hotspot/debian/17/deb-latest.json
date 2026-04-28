@@ -1,0 +1,44 @@
+[
+  {
+    "architecture": "ppc64le",
+    "distro": "debian",
+    "features": [
+      "headless"
+    ],
+    "file_type": "deb",
+    "filename": "openjdk-17-jdk-headless_17.0.19+10-1_ppc64el.deb",
+    "image_type": "jdk",
+    "java_version": "17.0.19+10",
+    "jvm_impl": "hotspot",
+    "md5": "e4c3b7eb22982b80bacde83a20a604bb",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "877db4f56a101bae2f622ab22fa334d6274e23ae",
+    "sha256": "93c10782703fb27e1d2be34bd9f845f666cd73bd49a6cade20e3d9419ca2bfe2",
+    "sha512": "349afe296878996fa28f279566c8a07ae38a655422d280764ed3ab38bfcb2d024d284d0c8c95c35395de1fbb30ca0c4063b6f76d96092739ea4baeff0a9ecfff",
+    "size": 71507864,
+    "url": "http://ftp.debian.org/debian/pool/main/o/openjdk-17/openjdk-17-jdk-headless_17.0.19+10-1_ppc64el.deb",
+    "vendor": "debian",
+    "version": "17.0.19+10-1"
+  },
+  {
+    "architecture": "ppc64le",
+    "distro": "debian",
+    "features": [],
+    "file_type": "deb",
+    "filename": "openjdk-17-jdk_17.0.19+10-1_ppc64el.deb",
+    "image_type": "jdk",
+    "java_version": "17.0.19+10",
+    "jvm_impl": "hotspot",
+    "md5": "69413936721be2b79aed96658166d4c8",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "57e75612a076e6fb24a00a5602a74e1c9e891e37",
+    "sha256": "05678b2e572b4429152f4b786e95b4acc57903e81eb5022b4d2911ace3c7b7ea",
+    "sha512": "f00365ee7268c7a983748f25846338ac92baaaa08bb88a4dec83761aa3217381f446683d9b201f76fef79cc17f0dd2188874e62a5db189185a7a496277f2ad78",
+    "size": 2487744,
+    "url": "http://ftp.debian.org/debian/pool/main/o/openjdk-17/openjdk-17-jdk_17.0.19+10-1_ppc64el.deb",
+    "vendor": "debian",
+    "version": "17.0.19+10-1"
+  }
+]

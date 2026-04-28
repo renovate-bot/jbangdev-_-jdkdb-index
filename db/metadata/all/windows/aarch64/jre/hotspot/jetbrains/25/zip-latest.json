@@ -1,0 +1,25 @@
+[
+  {
+    "architecture": "aarch64",
+    "distro": "jetbrains",
+    "features": [
+      "fastdebug",
+      "jcef"
+    ],
+    "file_type": "zip",
+    "filename": "jbr_fd-25.0.2-windows-aarch64-b432.48.zip",
+    "image_type": "jre",
+    "java_version": "25.0.2+1-b432.48",
+    "jvm_impl": "hotspot",
+    "md5": "3c6f41c1e09b387e2736a1581ed7b46d",
+    "os": "windows",
+    "release_type": "ga",
+    "sha1": "3e9158f18eedf518566e4bb3aa2b2f4d15238766",
+    "sha256": "2de8a00ab4727abbe9d09ff0eb68a60dc59a0227bce826873cbf89124f636b59",
+    "sha512": "30c8d4d797f42a0abb38ae2b2f0b8cec958b92d904324e03b5262a31a54c841ae2280bb995832ddd0468a175060612f43573abe1f52559ea87167c75a12a5176",
+    "size": 84366178,
+    "url": "https://cache-redirector.jetbrains.com/intellij-jbr/jbr_fd-25.0.2-windows-aarch64-b432.48.zip",
+    "vendor": "jetbrains",
+    "version": "25.0.2b432.48"
+  }
+]

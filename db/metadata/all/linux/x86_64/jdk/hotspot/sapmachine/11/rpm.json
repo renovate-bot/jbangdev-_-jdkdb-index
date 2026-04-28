@@ -1,0 +1,42 @@
+[
+  {
+    "architecture": "x86_64",
+    "distro": "sapmachine",
+    "features": null,
+    "file_type": "rpm",
+    "filename": "sapmachine-jdk-11.0.4-1.x86_64.rpm",
+    "image_type": "jdk",
+    "java_version": "11.0.4-1",
+    "jvm_impl": "hotspot",
+    "md5": "333b850cbd3b790f42ab79cf5c410a25",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "8d9ef00655aabc8f51fb2341a3d9f95eccd3b163",
+    "sha256": "a7fae5f9a52774be77f9e08f8bbc2d8d0792114117d96e81c64eefefa03ce680",
+    "sha512": "12fa61ac90d65ce6ff7ee779a40c18ba727053dd8d944d012be49b3a751d642f7a821c77925854cfb01e00e4f94ece22d2bbedc8538f7f4013accdc1c6b1c006",
+    "size": 171344296,
+    "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-11.0.4/sapmachine-jdk-11.0.4-1.x86_64.rpm",
+    "vendor": "sap",
+    "version": "11.0.4-1"
+  },
+  {
+    "architecture": "x86_64",
+    "distro": "sapmachine",
+    "features": [],
+    "file_type": "rpm",
+    "filename": "sapmachine-jdk-11.0.16.1-1.x86_64.rpm",
+    "image_type": "jdk",
+    "java_version": "11.0.16.1-1",
+    "jvm_impl": "hotspot",
+    "md5": "a0a1b6bd4321307aba0077c2d3b5a5fe",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "c8fb5ac8ed6c0c4aa33aa94b16280e5730cbd32d",
+    "sha256": "b4db5c0912937215de23a1b88b2af8e25acd0c98b0b0480abdc1f34ef0666ab2",
+    "sha512": "22d4915f9952736c2ec085cd4131d82de54b4fb63811669e6c57904008b53cc0f3ef0bb7a9a556941754cfab66f716c224464baf79235bbed489f4d86f83890e",
+    "size": 165259221,
+    "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-11.0.16.1/sapmachine-jdk-11.0.16.1-1.x86_64.rpm",
+    "vendor": "sap",
+    "version": "11.0.16.1-1"
+  }
+]

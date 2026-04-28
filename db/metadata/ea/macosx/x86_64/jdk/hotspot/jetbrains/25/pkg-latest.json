@@ -1,0 +1,24 @@
+[
+  {
+    "architecture": "x86_64",
+    "distro": "jetbrains",
+    "features": [
+      "jcef"
+    ],
+    "file_type": "pkg",
+    "filename": "jbrsdk_jcef-25-osx-x64-b176.2.pkg",
+    "image_type": "jdk",
+    "java_version": "25+36-b176.2",
+    "jvm_impl": "hotspot",
+    "md5": "ef5d6cc52020c186612c6e1eedddd54c",
+    "os": "macosx",
+    "release_type": "ea",
+    "sha1": "154a82570f73b7c5d12e9b82acedcc58757bacfa",
+    "sha256": "5d1affca9cb39cd66f738a46196fc983d75c87fb576abfe09798a7b676638a14",
+    "sha512": "34acc3c3e6ad56d52bbfedc84d4224bed9a958b189ccd70b6cac7c3e078d6f2b407b26cc0861959d28b06ece11243d66eda6379ad5d3c98e87749f27a47209fd",
+    "size": 394996521,
+    "url": "https://cache-redirector.jetbrains.com/intellij-jbr/jbrsdk_jcef-25-osx-x64-b176.2.pkg",
+    "vendor": "jetbrains",
+    "version": "25b176.2"
+  }
+]

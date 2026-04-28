@@ -1,0 +1,42 @@
+[
+  {
+    "architecture": "aarch64",
+    "distro": "microsoft",
+    "features": [],
+    "file_type": "msi",
+    "filename": "microsoft-jdk-21.0.5-windows-aarch64.msi",
+    "image_type": "jdk",
+    "java_version": "21.0.5+11-LTS",
+    "jvm_impl": "hotspot",
+    "md5": "78a5bf69dbaf84a8f94cf277054125c6",
+    "os": "windows",
+    "release_type": "ga",
+    "sha1": "9c43137a802b347f4c1153787d11466ef6150911",
+    "sha256": "3c092b43c214d8d393e8d3b5369c23eb14a5646d6c2980762cb8261ffac107ea",
+    "sha512": "7156521cd5b807a6b128aabbae1c21361bd8e8b030cd2a2a2dc9702b6b833f1553b968e0dbebd0e137a106b8a30ed4f1c56e15bedc0ce8c8ed4a98a2cd9b882d",
+    "size": 171151360,
+    "url": "https://aka.ms/download-jdk/microsoft-jdk-21.0.5-windows-aarch64.msi",
+    "vendor": "microsoft",
+    "version": "21.0.5"
+  },
+  {
+    "architecture": "aarch64",
+    "distro": "microsoft",
+    "features": [],
+    "file_type": "zip",
+    "filename": "microsoft-jdk-21.0.11-windows-aarch64.zip",
+    "image_type": "jdk",
+    "java_version": "21.0.11+10-LTS",
+    "jvm_impl": "hotspot",
+    "md5": "2daa4d8b96043b86e7eb1fafb6dc5456",
+    "os": "windows",
+    "release_type": "ea",
+    "sha1": "760796d6daf4ac0dd3d898c90192d31ffadde4f6",
+    "sha256": "4cc53b464abd0e87471378778e19663b36dcf94824c72db1f224d048c520982b",
+    "sha512": "f950b102524dc9e7d6b1f9dd2026393a8cf501809d7ce589b0da30c5b202dc6548c206550a15e215cc775ccc62a7b77ceb6b33cfd8d4311f603f4e7f34e7f319",
+    "size": 192708641,
+    "url": "https://aka.ms/download-jdk/microsoft-jdk-21.0.11-windows-aarch64.zip",
+    "vendor": "microsoft",
+    "version": "21.0.11"
+  }
+]

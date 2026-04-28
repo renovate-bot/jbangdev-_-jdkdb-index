@@ -1,0 +1,42 @@
+[
+  {
+    "architecture": "aarch64",
+    "distro": "temurin",
+    "features": [],
+    "file_type": "pkg",
+    "filename": "OpenJDK25U-jre_aarch64_mac_hotspot_25.0.1_8.pkg",
+    "image_type": "jre",
+    "java_version": "25.0.1+8-LTS",
+    "jvm_impl": "hotspot",
+    "md5": "2dcef6aa4f38ddadc95f4511ea58f5cd",
+    "os": "macosx",
+    "release_type": "ga",
+    "sha1": "cad1dfc1de6392f8d32198d92694e3a55297d2a2",
+    "sha256": "ebcb25a654a53805b7f6d86984bbc70d97fe74e7c848d65d3ee014d1d6261664",
+    "sha512": "045c1e0764f03483cbc4c4a356aa4908243a48bda4a46e6530f7d91ccec22962f9a96ea57f51adac131261910f0bc37914c2cf3b5d8bd5d56c37fa0bbb8b91ae",
+    "size": 56774410,
+    "url": "https://github.com/adoptium/temurin25-binaries/releases/download/jdk-25.0.1%2B8/OpenJDK25U-jre_aarch64_mac_hotspot_25.0.1_8.pkg",
+    "vendor": "eclipse",
+    "version": "25.0.1+8"
+  },
+  {
+    "architecture": "aarch64",
+    "distro": "temurin",
+    "features": [],
+    "file_type": "pkg",
+    "filename": "OpenJDK25U-jre_aarch64_mac_hotspot_25_36.pkg",
+    "image_type": "jre",
+    "java_version": "25+36-LTS",
+    "jvm_impl": "hotspot",
+    "md5": "c475962bf825b1b1ff3ed3f97141f06f",
+    "os": "macosx",
+    "release_type": "ga",
+    "sha1": "b9d050e532777a8825b43514138a6bb0679ed82d",
+    "sha256": "bcd65a174fc9a653da27338d0ba3c187440af414d20c54c7809b2fe1a30d4ac3",
+    "sha512": "55ae979cfb56d3c4143901320a84f4e1092a499324b56d624a913a047c542c295bca79e87b6f0d2068060c7f66023ee15b96d91477f5db083071a23de1b48492",
+    "size": 56767824,
+    "url": "https://github.com/adoptium/temurin25-binaries/releases/download/jdk-25%2B36/OpenJDK25U-jre_aarch64_mac_hotspot_25_36.pkg",
+    "vendor": "eclipse",
+    "version": "25+36"
+  }
+]

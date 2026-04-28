@@ -1,0 +1,47 @@
+[
+  {
+    "architecture": "x86_64",
+    "distro": "liberica",
+    "features": [
+      "lite",
+      "musl"
+    ],
+    "file_type": "apk",
+    "filename": "bellsoft-jdk18.0.2.1+1-linux-x64-musl-lite.apk",
+    "image_type": "jdk",
+    "java_version": "18.0.2.1+1",
+    "jvm_impl": "hotspot",
+    "md5": "deadd49089077abeb9e13e56ebae7e1c",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "d44b9c5a9020b88c666d65cfbf7d6d4da9d875fc",
+    "sha256": "d08e2c74f4d7b0428e4fe90791a4643505dcd96986f30d436c80fdafcb06a22e",
+    "sha512": "8ddbe7e50723d8be3ffbe4d35cdf78d299dca0340d89119c34cbcfbd2b822d672ad2d60e656e1243feef4bfd448424ba377ac2fab00e7e32c73a3f09f0784f13",
+    "size": 71956222,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/18.0.2.1+1/bellsoft-jdk18.0.2.1+1-linux-x64-musl-lite.apk",
+    "vendor": "bellsoft",
+    "version": "18.0.2.1+1"
+  },
+  {
+    "architecture": "x86_64",
+    "distro": "liberica",
+    "features": [
+      "lite"
+    ],
+    "file_type": "rpm",
+    "filename": "bellsoft-jdk18.0.2+10-linux-amd64-lite.rpm",
+    "image_type": "jdk",
+    "java_version": "18.0.2+10",
+    "jvm_impl": "hotspot",
+    "md5": "e3e837ce44b83bf2eb8b3788db5d947c",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "0e5b200a10a484502bb843894f30119b35ab45b7",
+    "sha256": "0ab4f24b0e61a8adba0c6ea81ac29f8ee8d2ec9310dcebb3a9cacbbc759a0117",
+    "sha512": "d78d5e23eaa5bf2058cdc0e734908738e5641d1fb859b520538cc33afdd2c8e4187cc9ccf297879cf557d56cba0bbf794d06d8a15fbb07e8d84ae31c09016c1e",
+    "size": 68602752,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/18.0.2+10/bellsoft-jdk18.0.2+10-linux-amd64-lite.rpm",
+    "vendor": "bellsoft",
+    "version": "18.0.2+10"
+  }
+]

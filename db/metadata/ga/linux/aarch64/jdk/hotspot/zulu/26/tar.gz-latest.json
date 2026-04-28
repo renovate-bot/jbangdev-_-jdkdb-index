@@ -1,0 +1,66 @@
+[
+  {
+    "architecture": "aarch64",
+    "distro": "zulu",
+    "features": [
+      "javafx"
+    ],
+    "file_type": "tar.gz",
+    "filename": "zulu26.30.11-ca-fx-jdk26.0.1-linux_aarch64.tar.gz",
+    "image_type": "jdk",
+    "java_version": "26.0.1",
+    "jvm_impl": "hotspot",
+    "md5": "a086dbb4c4eee330e4dafa75613e43bf",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "680ea9fb9f801e32c16af96f7a2175f9c2f9d61a",
+    "sha256": "2c6bf3d48cfd897f185c06a10482b51d96688abb0934b9558ac22612bd8a49ba",
+    "sha512": "a1016eabf2b862e52c8ef5bb40d9034acb6b973bcddfbc5eab93827f0a47bb566972eec186649eb44993bf79c92c36f8fbf6679c9a9a99a849b03a6ca8eb0efe",
+    "size": 351328173,
+    "url": "https://static.azul.com/zulu/bin/zulu26.30.11-ca-fx-jdk26.0.1-linux_aarch64.tar.gz",
+    "vendor": "azul",
+    "version": "26.30.11"
+  },
+  {
+    "architecture": "aarch64",
+    "distro": "zulu",
+    "features": [],
+    "file_type": "tar.gz",
+    "filename": "zulu26.30.11-ca-jdk26.0.1-linux_aarch64.tar.gz",
+    "image_type": "jdk",
+    "java_version": "26.0.1",
+    "jvm_impl": "hotspot",
+    "md5": "e73017bef37bff3e0770d56f153d0185",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "07412bd5763b54db303d81485b146528cb1462f6",
+    "sha256": "cc1b459dc442d7422b46a3b5fe52acaea54879fa7913e29a05650cef54687f5f",
+    "sha512": "c889101078c0bc6b6914444f503d99a6dd8960d2ba32cd4de52c1dfd1784af043092882203186c774f403e386f26e193bb02cedab07579b3e6278cdf14aba927",
+    "size": 235908650,
+    "url": "https://static.azul.com/zulu/bin/zulu26.30.11-ca-jdk26.0.1-linux_aarch64.tar.gz",
+    "vendor": "azul",
+    "version": "26.30.11"
+  },
+  {
+    "architecture": "aarch64",
+    "distro": "zulu",
+    "features": [
+      "musl"
+    ],
+    "file_type": "tar.gz",
+    "filename": "zulu26.30.11-ca-jdk26.0.1-linux_musl_aarch64.tar.gz",
+    "image_type": "jdk",
+    "java_version": "26.0.1",
+    "jvm_impl": "hotspot",
+    "md5": "1ba3a281db65110d267d19fadbf97e1d",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "96abde8404d022825f5ab58209d76883750b336e",
+    "sha256": "efbfbead4fcbbfdd22b3dbe09706accf0bbb6ddcacc741b1f10eac8052b27db7",
+    "sha512": "2c8c4c741c7b9b96892b001724bf940b0400402ec6478b30cf7271a764e5641424a7da5916b56c55062f758e9d3caf7a1fa9bde3f540d284ab3ce612efa54f8a",
+    "size": 235868368,
+    "url": "https://static.azul.com/zulu/bin/zulu26.30.11-ca-jdk26.0.1-linux_musl_aarch64.tar.gz",
+    "vendor": "azul",
+    "version": "26.30.11"
+  }
+]

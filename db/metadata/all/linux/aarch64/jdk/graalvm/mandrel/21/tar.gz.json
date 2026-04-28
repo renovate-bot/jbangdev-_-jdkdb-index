@@ -1,0 +1,22 @@
+[
+  {
+    "architecture": "aarch64",
+    "distro": "mandrel",
+    "features": [],
+    "file_type": "tar.gz",
+    "filename": "mandrel-java21-linux-aarch64-23.1.11.0-Final.tar.gz",
+    "image_type": "jdk",
+    "java_version": "21",
+    "jvm_impl": "graalvm",
+    "md5": "05ff53d275a8ee53ce4abe12203640f6",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "0e2b7af4cd10d8d53c97b799a1fb2f2ff75f2d69",
+    "sha256": "03fe0a47af3a4ca1fa1f7fb38fe6fac07453a2b46ccc9f06631369c6d99197a7",
+    "sha512": "98205465c9dad74d068699b8a91753ab2ae917716331027d502a349eee539710ab42109be71f96beaeb30bbe3a1170263a230324fb771b33ee7611ecd48094ff",
+    "size": 259126890,
+    "url": "https://github.com/graalvm/mandrel/releases/download/mandrel-23.1.11.0-Final/mandrel-java21-linux-aarch64-23.1.11.0-Final.tar.gz",
+    "vendor": "redhat",
+    "version": "23.1.11.0-Final+java21"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "architecture": "aarch64",
+    "distro": "temurin",
+    "features": [],
+    "file_type": "pkg",
+    "filename": "OpenJDK21U-jdk_aarch64_mac_hotspot_21_35.pkg",
+    "image_type": "jdk",
+    "java_version": "21+35-LTS",
+    "jvm_impl": "hotspot",
+    "md5": "f65c6d5aaf77083180500041e35c4773",
+    "os": "macosx",
+    "release_type": "ga",
+    "sha1": "0408eb8c9c37d36599dbe22b4f3e35510915db9b",
+    "sha256": "a17f2759a448f177a5c89ec3def505f522c955566fb6a233f4549076159ab9e8",
+    "sha512": "8a9f80c1e2d94cd83d9403085bb939130c8b27080590982049b31f171d6672463a5ed4da9b05f9b649e5573f6a48e2aa7d6c331292ec7e8a422e0ad22dc27f7d",
+    "size": 192049266,
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21%2B35/OpenJDK21U-jdk_aarch64_mac_hotspot_21_35.pkg",
+    "vendor": "eclipse",
+    "version": "21+35"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "architecture": "x86_64",
+    "distro": "sapmachine",
+    "features": null,
+    "file_type": "zip",
+    "filename": "sapmachine-jre-21.0.10.0.1_windows-x64_bin.zip",
+    "image_type": "jre",
+    "java_version": "21.0.10.0.1+1-LTS",
+    "jvm_impl": "hotspot",
+    "md5": "ebf28e5bcf8922f07e681f2576262295",
+    "os": "windows",
+    "release_type": "ga",
+    "sha1": "7466c7a0299e37c4dd8f614ccd075675a82fcab4",
+    "sha256": "371a55188714d3fedadd975c89bb439a68e9dd482f47db5a5c713bec50ce7fd2",
+    "sha512": "bf994af19c4791013cd261d62dac9265b95dcfbc64524163c439a5ef87476798f7973695fa325847d40e3455878f236e84b257a9064da325b23cb064673d08fc",
+    "size": 53765613,
+    "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21.0.10.0.1/sapmachine-jre-21.0.10.0.1_windows-x64_bin.zip",
+    "vendor": "sap",
+    "version": "21.0.10.0.1"
+  },
+  {
+    "architecture": "x86_64",
+    "distro": "sapmachine",
+    "features": null,
+    "file_type": "msi",
+    "filename": "sapmachine-jre-21.0.11_windows-x64_bin.msi",
+    "image_type": "jre",
+    "java_version": "21.0.11+10-LTS",
+    "jvm_impl": "hotspot",
+    "md5": "b5e828d0304f48394343633968515c05",
+    "os": "windows",
+    "release_type": "ga",
+    "sha1": "9b7c28d3130a71c0b7cc15ff07353385c63fe9bd",
+    "sha256": "7429fe2c8817ecb1a4d1d37be7f75553f69da5fe9146eb0a06853d5817634700",
+    "sha512": "856ff7855b08a18b332ce7136a47500fe915a095063cba1f6b8f515e3f6085813948d138ae6858994e5427eceafbaa711dd613a6db44f821a3d69db3a0137f06",
+    "size": 53719040,
+    "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21.0.11/sapmachine-jre-21.0.11_windows-x64_bin.msi",
+    "vendor": "sap",
+    "version": "21.0.11"
+  }
+]

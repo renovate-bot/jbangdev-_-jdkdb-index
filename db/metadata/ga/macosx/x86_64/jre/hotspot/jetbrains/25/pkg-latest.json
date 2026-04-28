@@ -1,0 +1,24 @@
+[
+  {
+    "architecture": "x86_64",
+    "distro": "jetbrains",
+    "features": [
+      "jcef"
+    ],
+    "file_type": "pkg",
+    "filename": "jbr_jcef-25.0.2-osx-x64-b329.117.pkg",
+    "image_type": "jre",
+    "java_version": "25.0.2+10-b329.117",
+    "jvm_impl": "hotspot",
+    "md5": "7227c2df8a3da945437eaf969f2fb62a",
+    "os": "macosx",
+    "release_type": "ga",
+    "sha1": "7bbad78b93c645a9de0ed3e1267312a5fe58b30c",
+    "sha256": "102b7da335d12dc0ca16d50d08c73d7fa1b3d511076abe2b251bc3d70db17583",
+    "sha512": "5a24768eda8a6d5feae674c0af08e3b64aa67cd092b0c80b87a4b662e4e320f82bfc90ea6d5d416c02b7c49525eeb766aeeb13ea9abb08419b95ff3d77bfa157",
+    "size": 242750351,
+    "url": "https://cache-redirector.jetbrains.com/intellij-jbr/jbr_jcef-25.0.2-osx-x64-b329.117.pkg",
+    "vendor": "jetbrains",
+    "version": "25.0.2b329.117"
+  }
+]

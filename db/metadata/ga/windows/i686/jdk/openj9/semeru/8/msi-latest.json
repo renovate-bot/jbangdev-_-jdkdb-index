@@ -1,0 +1,22 @@
+[
+  {
+    "architecture": "i686",
+    "distro": "semeru",
+    "features": [],
+    "file_type": "msi",
+    "filename": "ibm-semeru-open-jdk_x86-32_windows_8.0.492.0-m2.msi",
+    "image_type": "jdk",
+    "java_version": "1.8.0_492-b08",
+    "jvm_impl": "openj9",
+    "md5": "6418921998096ce578034d573a72091a",
+    "os": "windows",
+    "release_type": "ga",
+    "sha1": "3a950c149a16764828b44b0f068392c9a8467dd8",
+    "sha256": "1aa4112644f6926aed6959405ce813eb44fd98201d27961e198f7778f0413365",
+    "sha512": "61cdc7723b7db5339f2be37e252f5cb5e2c48aacf5234ff99ab3d3c9f2127edae7e810272ef63484e341b1930b315fbaef0dad1a213a71bb2086d253043a6dad",
+    "size": 101040128,
+    "url": "https://github.com/ibmruntimes/semeru8-binaries/releases/download/jdk-8.0.492.0-m2/ibm-semeru-open-jdk_x86-32_windows_8.0.492.0-m2.msi",
+    "vendor": "ibm",
+    "version": "8.0.492.0-m2"
+  }
+]

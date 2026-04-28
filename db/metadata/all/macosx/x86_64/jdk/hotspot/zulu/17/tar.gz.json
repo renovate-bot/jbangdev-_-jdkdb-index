@@ -1,0 +1,66 @@
+[
+  {
+    "architecture": "x86_64",
+    "distro": "zulu",
+    "features": [
+      "crac"
+    ],
+    "file_type": "tar.gz",
+    "filename": "zulu17.64.17-ca-crac-jdk17.0.18-macosx_x64.tar.gz",
+    "image_type": "jdk",
+    "java_version": "17.0.18+8-LTS",
+    "jvm_impl": "hotspot",
+    "md5": "b1ae57d79041bf769378f522c869d86d",
+    "os": "macosx",
+    "release_type": "ga",
+    "sha1": "b9c80e0a6eda071ff57f77df0a0aea7dfab295e2",
+    "sha256": "45c07119f3021310b4946be9e0be4020a089ae0241340558795d6b6f1cba211b",
+    "sha512": "8e1cc22517354d3be6c9036b47e8623bcf1a06e1dc6d919669817557fc3e44c53f971fb312f4d09083ea0375be4a7bb7567be20c16ea07b52770426b31a212a7",
+    "size": 194246785,
+    "url": "https://static.azul.com/zulu/bin/zulu17.64.17-ca-crac-jdk17.0.18-macosx_x64.tar.gz",
+    "vendor": "azul",
+    "version": "17.64.17"
+  },
+  {
+    "architecture": "x86_64",
+    "distro": "zulu",
+    "features": [
+      "crac"
+    ],
+    "file_type": "tar.gz",
+    "filename": "zulu17.64.19-ca-crac-jdk17.0.18-macosx_x64.tar.gz",
+    "image_type": "jdk",
+    "java_version": "17.0.18+8-LTS",
+    "jvm_impl": "hotspot",
+    "md5": "7c9c54f445e1418b2dd004446299caf7",
+    "os": "macosx",
+    "release_type": "ga",
+    "sha1": "8e715a4aaf3d0eb94093f4084743ffe841ed1dc1",
+    "sha256": "034da6b9605b4724b6f36d07a50047a1b36dee360c89b1386cefc0fede0bc60d",
+    "sha512": "9c87babfb7072595e97aeaaf37e3c2761e09f87ae1cdcc06b79a0a3999b72d95e9e583c4c485f035f0985999bed55ec93e3bf5445e6eb10df12180e6c54dfbf8",
+    "size": 194239344,
+    "url": "https://static.azul.com/zulu/bin/zulu17.64.19-ca-crac-jdk17.0.18-macosx_x64.tar.gz",
+    "vendor": "azul",
+    "version": "17.64.19"
+  },
+  {
+    "architecture": "x86_64",
+    "distro": "zulu",
+    "features": [],
+    "file_type": "tar.gz",
+    "filename": "zulu17.66.19-ca-jdk17.0.19-macosx_x64.tar.gz",
+    "image_type": "jdk",
+    "java_version": "17.0.19+10-LTS",
+    "jvm_impl": "hotspot",
+    "md5": "17921879882740a11b2a7644e0edc91d",
+    "os": "macosx",
+    "release_type": "ga",
+    "sha1": "e499fb54620a2d693271822a39bf25bcf6b259e0",
+    "sha256": "6a7b8b23f2419ea1dde7eeace0d5a4cc5dbe7bbc83a8dda35dc64aa12269d041",
+    "sha512": "8f4331712feaf57ab6a70a04d43796ebc04823262a31b13fbd209aaa08730cea7e9054e1976632fc8be2ecf00f9c453d3f7c1a8b806ce9bc73855604364cdbbd",
+    "size": 194731967,
+    "url": "https://static.azul.com/zulu/bin/zulu17.66.19-ca-jdk17.0.19-macosx_x64.tar.gz",
+    "vendor": "azul",
+    "version": "17.66.19"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "architecture": "x86_64",
+    "distro": "semeru",
+    "features": [],
+    "file_type": "pkg",
+    "filename": "ibm-semeru-open-jdk_x64_mac_18.0.1.1_2_openj9-0.32.0.pkg",
+    "image_type": "jdk",
+    "java_version": "18.0.1.1+2",
+    "jvm_impl": "openj9",
+    "md5": "0620c4a0abbcce992e500a468710bba8",
+    "os": "macosx",
+    "release_type": "ga",
+    "sha1": "47544be73981797808a1fd313d5d8914d1c3381c",
+    "sha256": "ff63b5e7e97f1e55eb0d1cdedd9d36fff4d5e4869f916a24d1c5855ab16bd086",
+    "sha512": "2bcfd4d104a66fc8a4078e66d34013f0d761db4450e1962303784a99a07d9286cff9809dba45f0962fd36cfee3e5d21ee704ccd49ece1c7378053d299b254222",
+    "size": 210071972,
+    "url": "https://github.com/ibmruntimes/semeru18-binaries/releases/download/jdk-18.0.1.1%2B2_openj9-0.32.0/ibm-semeru-open-jdk_x64_mac_18.0.1.1_2_openj9-0.32.0.pkg",
+    "vendor": "ibm",
+    "version": "18.0.1.1+2_openj9-0.32.0"
+  }
+]

@@ -1,0 +1,88 @@
+[
+  {
+    "architecture": "aarch64",
+    "distro": "jetbrains",
+    "features": [
+      "jcef"
+    ],
+    "file_type": "pkg",
+    "filename": "jbr_jcef-25.0.2-osx-aarch64-b300.57.pkg",
+    "image_type": "jre",
+    "java_version": "25.0.2+10-b300.57",
+    "jvm_impl": "hotspot",
+    "md5": "11cc44094ba0cba8e69c64fe9d174d1f",
+    "os": "macosx",
+    "release_type": "ga",
+    "sha1": "f4d121f2a557fe22c62101464b16e02617a95950",
+    "sha256": "753cb1fd985881f03dcbfca45036dc29c0d4ecc241cea434e71250d0c46764d3",
+    "sha512": "4cda0b973cc2e20264ccd4418329752475e8d5c1503b477bb4c5e1b17dabd260bf2ce06376ae6cf156c19cf41f264db1d318e45dfddbdad3675f02345cfa1fae",
+    "size": 232968637,
+    "url": "https://cache-redirector.jetbrains.com/intellij-jbr/jbr_jcef-25.0.2-osx-aarch64-b300.57.pkg",
+    "vendor": "jetbrains",
+    "version": "25.0.2b300.57"
+  },
+  {
+    "architecture": "aarch64",
+    "distro": "jetbrains",
+    "features": [
+      "jcef"
+    ],
+    "file_type": "pkg",
+    "filename": "jbr_jcef-25.0.2-osx-aarch64-b329.70.pkg",
+    "image_type": "jre",
+    "java_version": "25.0.2+10-b329.70",
+    "jvm_impl": "hotspot",
+    "md5": "df44a6de70432ada9011a8d80be514fd",
+    "os": "macosx",
+    "release_type": "ga",
+    "sha1": "023c83285212c0d27ab4241ee448eb8bca697e46",
+    "sha256": "1fa3498e38dd669bf6162e4fd10125f7a71c4d74760bed2f75fe338f9fe547df",
+    "sha512": "4b3202f9e74a490f76b63a9eebacb264b3d0895c71ff16d5af451d85550da36d83f634ea3fcb997ed390050a1c87de70e3992b32ceea2ab996303673e0f989c0",
+    "size": 232655503,
+    "url": "https://cache-redirector.jetbrains.com/intellij-jbr/jbr_jcef-25.0.2-osx-aarch64-b329.70.pkg",
+    "vendor": "jetbrains",
+    "version": "25.0.2b329.70"
+  },
+  {
+    "architecture": "aarch64",
+    "distro": "jetbrains",
+    "features": [
+      "jcef"
+    ],
+    "file_type": "pkg",
+    "filename": "jbr_jcef-25.0.2-osx-aarch64-b329.111.pkg",
+    "image_type": "jre",
+    "java_version": "25.0.2+10-b329.111",
+    "jvm_impl": "hotspot",
+    "md5": "b0264f211f88ee1ffe0d91c67ed7feda",
+    "os": "macosx",
+    "release_type": "ga",
+    "sha1": "c1bd52d5fc63e271681442eab8f8119d0a9c1acf",
+    "sha256": "dc2bf9923345a7356e4b9ecc1a74509aff4e59233cb69fe6fbcdd47239a88b56",
+    "sha512": "96b3907f70c252665214d2d31c9c95280e20eabe08f556f286e7e3614132ee3b43854eef22cc186701eb2a16935b90502253d0ce4a9e82b1999ef1b93413d45c",
+    "size": 237055140,
+    "url": "https://cache-redirector.jetbrains.com/intellij-jbr/jbr_jcef-25.0.2-osx-aarch64-b329.111.pkg",
+    "vendor": "jetbrains",
+    "version": "25.0.2b329.111"
+  },
+  {
+    "architecture": "aarch64",
+    "distro": "jetbrains",
+    "features": [],
+    "file_type": "pkg",
+    "filename": "jbr-25.0.2-osx-aarch64-b329.117.pkg",
+    "image_type": "jre",
+    "java_version": "25.0.2+10-b329.117",
+    "jvm_impl": "hotspot",
+    "md5": "82f6ac62c824eac8f3f7fbdc79f734d6",
+    "os": "macosx",
+    "release_type": "ga",
+    "sha1": "58dc4334d81f9dccf66d3b477341eea5ef886c3f",
+    "sha256": "c9be800e18ed9bcd7ce63b90ca8c38384c584bdc46bbc56e14f907d101a0db47",
+    "sha512": "d31173984224451790392827479468eebfee6564c2580280674e1ac5a05f868f433078ebc8e911e2dd1e7118853720e763628989741ccdc7d852acf1331e2662",
+    "size": 99117181,
+    "url": "https://cache-redirector.jetbrains.com/intellij-jbr/jbr-25.0.2-osx-aarch64-b329.117.pkg",
+    "vendor": "jetbrains",
+    "version": "25.0.2b329.117"
+  }
+]

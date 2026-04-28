@@ -1,0 +1,66 @@
+[
+  {
+    "architecture": "x86_64",
+    "distro": "jetbrains",
+    "features": [],
+    "file_type": "tar.gz",
+    "filename": "jbrsdk-17.0.8.1-windows-x64-b1080.1.tar.gz",
+    "image_type": "jdk",
+    "java_version": "17.0.8.1",
+    "jvm_impl": "hotspot",
+    "md5": "2904d14998a40e93b61bf4977cb7ecd8",
+    "os": "windows",
+    "release_type": "ga",
+    "sha1": "a465393e4397db0c4ac0abd6b58891cf89e51f6b",
+    "sha256": "26146062cdca43cf14316441dad8d1202542eeaf7cd18e031e2cbb2afbe5a6f6",
+    "sha512": "73676d433f72bb30381bbdffbd389b90b3a94f01325c5c1aceaf280866239c28332dccbee85c2dc81f0e3531c377d6ecb05ab85f6c9146b5a0da7849d1daa6ba",
+    "size": 237908236,
+    "url": "https://cache-redirector.jetbrains.com/intellij-jbr/jbrsdk-17.0.8.1-windows-x64-b1080.1.tar.gz",
+    "vendor": "jetbrains",
+    "version": "17.0.8.1b1080.1"
+  },
+  {
+    "architecture": "x86_64",
+    "distro": "jetbrains",
+    "features": [
+      "fastdebug"
+    ],
+    "file_type": "tar.gz",
+    "filename": "jbrsdk-17.0.8.1-windows-x64-fastdebug-b1080.1.tar.gz",
+    "image_type": "jdk",
+    "java_version": "17.0.8.1+7-b1080.1",
+    "jvm_impl": "hotspot",
+    "md5": "dae7215c92744c770aa2607ef9cf4cc8",
+    "os": "windows",
+    "release_type": "ga",
+    "sha1": "a18df07861b68f775f01928ce979fe7beb4eaad0",
+    "sha256": "80f469b83e54ad69492b53a354d24f1ecb0709d47d05ea5a56cabc84f66cc32a",
+    "sha512": "26f51a11c289befd812b54f4e37c56c3b9a605dbca1bd0af30201099a5124446037eee007e9c595828a19f8a196ae0656786f8ae54c91bc7020d577f9193c0cd",
+    "size": 497323762,
+    "url": "https://cache-redirector.jetbrains.com/intellij-jbr/jbrsdk-17.0.8.1-windows-x64-fastdebug-b1080.1.tar.gz",
+    "vendor": "jetbrains",
+    "version": "17.0.8.1b1080.1"
+  },
+  {
+    "architecture": "x86_64",
+    "distro": "jetbrains",
+    "features": [
+      "jcef"
+    ],
+    "file_type": "tar.gz",
+    "filename": "jbrsdk_jcef-17.0.8.1-windows-x64-b1080.1.tar.gz",
+    "image_type": "jdk",
+    "java_version": "17.0.8.1+7-b1080.1",
+    "jvm_impl": "hotspot",
+    "md5": "734b0555d9d8942bb0d419a666a4fde6",
+    "os": "windows",
+    "release_type": "ga",
+    "sha1": "72fe1a44feadd3cc5e29565edf8d70c4b0cc1ce6",
+    "sha256": "fa2e9ecdb79133b7eb615932e92d76fa4fc7715c67f3f16fa77f66fce21af383",
+    "sha512": "2e7d7128fba12f7493a4b6b81a1c42c4a432241b6465019830690a0ae065df8bafde81fcd1eb37b3f5f12013f9836644f05819bed123bf1600634c183fe7d98c",
+    "size": 485709223,
+    "url": "https://cache-redirector.jetbrains.com/intellij-jbr/jbrsdk_jcef-17.0.8.1-windows-x64-b1080.1.tar.gz",
+    "vendor": "jetbrains",
+    "version": "17.0.8.1b1080.1"
+  }
+]

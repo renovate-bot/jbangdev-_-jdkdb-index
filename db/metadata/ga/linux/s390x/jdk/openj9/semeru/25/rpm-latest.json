@@ -1,0 +1,22 @@
+[
+  {
+    "architecture": "s390x",
+    "distro": "semeru",
+    "features": [],
+    "file_type": "rpm",
+    "filename": "ibm-semeru-open-25-jdk-25.0.1.8_0.57.0-1.s390x.rpm",
+    "image_type": "jdk",
+    "java_version": "25.0.1+8",
+    "jvm_impl": "openj9",
+    "md5": "8c44b5fe51c04c511e2b8cab77ffd505",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "3444128c1af58cb51f8186fcc1cac798eda81c6c",
+    "sha256": "44bb4ef3dcf9279ac5cf03a5143fed390e37a64aa123927b56e8e6cb7dd1dcbb",
+    "sha512": "375a39b76416af91affdae02f3f49d5a0c88177d7b5f96a1cbe77866b548c63b3ac5d3183eb776151c1f10aa6218ff3fd4f5fd832b2f3e39681c1795850b1f34",
+    "size": 207196732,
+    "url": "https://github.com/ibmruntimes/semeru25-binaries/releases/download/jdk-25.0.1%2B8_openj9-0.57.0-m2/ibm-semeru-open-25-jdk-25.0.1.8_0.57.0-1.s390x.rpm",
+    "vendor": "ibm",
+    "version": "25.0.1+8_openj9-0.57.0-m2"
+  }
+]

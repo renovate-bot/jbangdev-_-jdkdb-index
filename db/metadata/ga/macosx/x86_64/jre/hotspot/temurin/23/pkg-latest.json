@@ -1,0 +1,22 @@
+[
+  {
+    "architecture": "x86_64",
+    "distro": "temurin",
+    "features": [],
+    "file_type": "pkg",
+    "filename": "OpenJDK23U-jre_x64_mac_hotspot_23_37.pkg",
+    "image_type": "jre",
+    "java_version": "23+37",
+    "jvm_impl": "hotspot",
+    "md5": "71c82d5fe4ed00841729b97a3a145fc4",
+    "os": "macosx",
+    "release_type": "ga",
+    "sha1": "a61bcb8f479a7a14a373492c2c9034845256e6ae",
+    "sha256": "f5e820a1139a4eb28c9b02ed3e887b49204dcbbd064d0895c310e5d460c23b17",
+    "sha512": "6d457c9df18dd4315a39b2bfe55f8980858f03715b03f79df28c160f734612bb9f91b0a05655f7965ed8d3b686af11bd703353c911fedb8d424a47c6c640aabc",
+    "size": 41719084,
+    "url": "https://github.com/adoptium/temurin23-binaries/releases/download/jdk-23%2B37/OpenJDK23U-jre_x64_mac_hotspot_23_37.pkg",
+    "vendor": "eclipse",
+    "version": "23+37"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "architecture": "x86_64",
+    "distro": "sapmachine",
+    "features": [],
+    "file_type": "msi",
+    "filename": "sapmachine-jdk-16_windows-x64_bin.msi",
+    "image_type": "jdk",
+    "java_version": "16",
+    "jvm_impl": "hotspot",
+    "md5": "7775b14ae9f82b32231ac8c2bfb3c2dd",
+    "os": "windows",
+    "release_type": "ga",
+    "sha1": "024c41bf779b97bb722c70c8877d4dea1c6b8574",
+    "sha256": "20e207c5eeca75b61c16c95d82f625f14a368e4330d973824fcc904b34327b2e",
+    "sha512": "4d7928bb92268f638dbb4928ff99d79276f5edfab4be50c861b54afec84fc5aced18bbf51fd9cdde38d83c22d7a37788705e9de72e41ef5ed1c0c2a288613209",
+    "size": 207249408,
+    "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-16/sapmachine-jdk-16_windows-x64_bin.msi",
+    "vendor": "sap",
+    "version": "16"
+  },
+  {
+    "architecture": "x86_64",
+    "distro": "sapmachine",
+    "features": [],
+    "file_type": "msi",
+    "filename": "sapmachine-jdk-16-ea.5_windows-x64_bin.msi",
+    "image_type": "jdk",
+    "java_version": "16-ea.5",
+    "jvm_impl": "hotspot",
+    "md5": "54800ee53ebdccea576743378c2daac3",
+    "os": "windows",
+    "release_type": "ea",
+    "sha1": "9d150252024e4ea7e1ac4200238dd52d57659682",
+    "sha256": "d15b847d3abed25abc6088ca40e6bbff57bb6f8865db79dcfd97bdb150fa7db6",
+    "sha512": "46f11004973eda6551b41cbce315b07a5f91f666d5b41d690c524d3361ffe9cd4334bddef99e7399879dff1257f26e1e7065120a23c2c7a6adc0be78b1d69979",
+    "size": 202760192,
+    "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-16+5/sapmachine-jdk-16-ea.5_windows-x64_bin.msi",
+    "vendor": "sap",
+    "version": "16-ea.5"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "architecture": "x86_64",
+    "distro": "temurin",
+    "features": [],
+    "file_type": "msi",
+    "filename": "OpenJDK8U-jre_x64_windows_hotspot_8u452b09.msi",
+    "image_type": "jre",
+    "java_version": "1.8.0_452-b09",
+    "jvm_impl": "hotspot",
+    "md5": "38fee518f61a85df039c7c3733967719",
+    "os": "windows",
+    "release_type": "ga",
+    "sha1": "c179f234254af5f5a1c9a063a78886226be77347",
+    "sha256": "aa75823c6dee1d65b53da6b1e9bd7de8a521e01f7e95dea2b5f104be0ee58242",
+    "sha512": "3e3af470101b486dbccd0e8d45fbf4762759883df00837b8bdc1724dc730eafc881c217496f80b84ad6fbd924d78fd3740b54de1a3710b9d879f415d5f445374",
+    "size": 32444416,
+    "url": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u452-b09/OpenJDK8U-jre_x64_windows_hotspot_8u452b09.msi",
+    "vendor": "eclipse",
+    "version": "8u452-b09"
+  }
+]

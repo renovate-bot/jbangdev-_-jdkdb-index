@@ -1,0 +1,22 @@
+[
+  {
+    "architecture": "x86_64",
+    "distro": "openlogic",
+    "features": [],
+    "file_type": "zip",
+    "filename": "openlogic-openjdk-21.0.9+10-windows-x64.zip",
+    "image_type": "jdk",
+    "java_version": "21.0.9+10-adhoc.Administrator.jdk21u",
+    "jvm_impl": "hotspot",
+    "md5": "a4c7684a109c227cfd42c8810f08ea67",
+    "os": "windows",
+    "release_type": "ga",
+    "sha1": "62a9a520e15d4df252995740131e8bd30cdff495",
+    "sha256": "5af56f2616e326b37618cacb9164856da37d6a376739cabebdf7f48ed6034488",
+    "sha512": "65aaf2b9c9b132efff25322a1b90f63e97c78e7a035156dc20713a4b044b08bfa4cac84971ca6e74302504034180f3ff8aa89700481e64b6465264f1fac66c66",
+    "size": 231768915,
+    "url": "https://builds.openlogic.com/downloadJDK/openlogic-openjdk/21.0.9+10/openlogic-openjdk-21.0.9+10-windows-x64.zip",
+    "vendor": "openlogic",
+    "version": "21.0.9+10"
+  }
+]

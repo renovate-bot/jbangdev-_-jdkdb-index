@@ -1,0 +1,22 @@
+[
+  {
+    "architecture": "s390x",
+    "distro": "temurin",
+    "features": [],
+    "file_type": "tar.gz",
+    "filename": "OpenJDK11U-jdk_s390x_linux_hotspot_11.0.31_6-ea.tar.gz",
+    "image_type": "jdk",
+    "java_version": "11",
+    "jvm_impl": "hotspot",
+    "md5": "024842615e024cd10c0253b49a976f5b",
+    "os": "linux",
+    "release_type": "ea",
+    "sha1": "dd3d3b202149c704453373d215364ae27d7a1fcf",
+    "sha256": "b11d1d93aed3d9d79af3567ef55592ba5306ff23868b655a3bb170112217568e",
+    "sha512": "536bee50951e3024f6a6faad7cb64292533c9419b6e62beb21d4847e47f633c8539a990c9cb57750c2ec0f99a75ba4b552a3503247c8ee75917971b79e1748cb",
+    "size": 169507071,
+    "url": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.31%2B6-ea-beta/OpenJDK11U-jdk_s390x_linux_hotspot_11.0.31_6-ea.tar.gz",
+    "vendor": "eclipse",
+    "version": "11.0.31+6-ea-beta"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "architecture": "arm32",
+    "distro": "liberica",
+    "features": [
+      "javafx"
+    ],
+    "file_type": "deb",
+    "filename": "bellsoft-jre21.0.11+11-linux-aarch64-full.deb",
+    "image_type": "jre",
+    "java_version": "21.0.11+11-LTS",
+    "jvm_impl": "hotspot",
+    "md5": "7b7cc2ff47108e4d17c8ca5c915bcbf3",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "8506233655cd6667ec4b8d3c93e35a0acfc4480c",
+    "sha256": "a0c7aa165e2ad4eef4392041f652870fc621b83b16ebc5c477da785a24ffae0f",
+    "sha512": "ef1572d3ff754051872615f770c56a2409c3bc04cde212143727d06da14895f37285b291de189ba02a5958dd6b4a5ea73e2ee719e381eac9bf342ad8fe79ba2f",
+    "size": 77434728,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/21.0.11+11/bellsoft-jre21.0.11+11-linux-aarch64-full.deb",
+    "vendor": "bellsoft",
+    "version": "21.0.11+11"
+  },
+  {
+    "architecture": "arm32",
+    "distro": "liberica",
+    "features": [],
+    "file_type": "deb",
+    "filename": "bellsoft-jre21.0.11+11-linux-aarch64.deb",
+    "image_type": "jre",
+    "java_version": "21.0.11+11-LTS",
+    "jvm_impl": "hotspot",
+    "md5": "d33642bad0c45880538c2aed6e4c43f8",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "b7530b303a9b5706dd57dc7665bfc7bb0505a8e9",
+    "sha256": "8daeb4abe98558100f48d7e2406489141c615c4002c1693836b37bf561d6c25b",
+    "sha512": "12421f595589cdb3befddc906638f78288dc20c47e16b98d005c081c7093e481010fe36bbf71ce1e24a6c52749c7ea1dece7af4846377d656aeda9043c472e9f",
+    "size": 39170448,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/21.0.11+11/bellsoft-jre21.0.11+11-linux-aarch64.deb",
+    "vendor": "bellsoft",
+    "version": "21.0.11+11"
+  }
+]

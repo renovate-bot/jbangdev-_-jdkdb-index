@@ -1,0 +1,42 @@
+[
+  {
+    "architecture": "x86_64",
+    "distro": "dragonwell",
+    "features": [],
+    "file_type": "zip",
+    "filename": "Alibaba_Dragonwell_11.0.14.10_x64_windows.zip",
+    "image_type": "jdk",
+    "java_version": "11.0.14.10+0",
+    "jvm_impl": "hotspot",
+    "md5": "713d900f04f09d04b4f1dc84899008fa",
+    "os": "windows",
+    "release_type": "ga",
+    "sha1": "a8a367d54018fe3c92049736504dba4a0a7ae56e",
+    "sha256": "55ef8cf936a901c7e333c21945b6f31edd9c9a3a5973706ab7aeea7f4fb5c436",
+    "sha512": "ed979c8a3796c388f80bee18085c4b45581865753d123da5dcdd92be8f988f12cf3d90f563ab7cb4cf01cd3d623f93b7da736cf6e8e9ca1e2252b5c7a9f99ac2",
+    "size": 190386552,
+    "url": "https://github.com/alibaba/dragonwell11/releases/download/dragonwell-11.0.14.10_jdk-11.0.14-ga/Alibaba_Dragonwell_11.0.14.10_x64_windows.zip",
+    "vendor": "alibaba",
+    "version": "11.0.14.10"
+  },
+  {
+    "architecture": "x86_64",
+    "distro": "dragonwell",
+    "features": [],
+    "file_type": "zip",
+    "filename": "Alibaba_Dragonwell_Extended_11.0.23.20.9_x64_windows.zip",
+    "image_type": "jdk",
+    "java_version": "11.0.23.20.9",
+    "jvm_impl": "hotspot",
+    "md5": "4ad2bc47586f111a2adeae68b0ad7087",
+    "os": "windows",
+    "release_type": "ga",
+    "sha1": "1fa7b2547f071ee3067554bf5fa1a49605a9a109",
+    "sha256": "ba8dba2b7f2279f87220f396afcce49cb26482705deb5144c6e22a90ba443f9d",
+    "sha512": "34db10f6e21aea15c54e50eba2ca0560713e647d3504bd2dc4dde6d637f8663c4e8126b1e07a0f8fc66796565402ef5aab0134d23265fefc839ce8b07f23586f",
+    "size": 193091768,
+    "url": "https://github.com/dragonwell-project/dragonwell11/releases/download/dragonwell-extended-11.0.23.20_jdk-11.0.23-ga/Alibaba_Dragonwell_Extended_11.0.23.20.9_x64_windows.zip",
+    "vendor": "alibaba",
+    "version": "11.0.23.20.9"
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "architecture": "aarch64",
+    "distro": "jetbrains",
+    "features": [],
+    "file_type": "tar.gz",
+    "filename": "jbr-17.0.8.1-linux-aarch64-b1080.1.tar.gz",
+    "image_type": "jre",
+    "java_version": "17.0.8.1+7-b1080.1",
+    "jvm_impl": "hotspot",
+    "md5": "be43d3acb1e09496fb0bf7ed4d90c7d6",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "2d0b2ea78f308df11abdb29580daea028f988218",
+    "sha256": "3152f063e222274e759696a501a8acba6a6cd4feb6b09260b539df4597ec864e",
+    "sha512": "2c3112e081712b19d2a7ddd35f8186b71962efb419c060ecba7ef51ed79eea64728c977359c4eade12ae246f67fa5e60561477ea8c734f11d476e64670d79b66",
+    "size": 73898366,
+    "url": "https://cache-redirector.jetbrains.com/intellij-jbr/jbr-17.0.8.1-linux-aarch64-b1080.1.tar.gz",
+    "vendor": "jetbrains",
+    "version": "17.0.8.1b1080.1"
+  },
+  {
+    "architecture": "aarch64",
+    "distro": "jetbrains",
+    "features": [
+      "fastdebug",
+      "jcef"
+    ],
+    "file_type": "tar.gz",
+    "filename": "jbr_fd-17.0.8.1-linux-aarch64-b1080.1.tar.gz",
+    "image_type": "jre",
+    "java_version": "17.0.8.1",
+    "jvm_impl": "hotspot",
+    "md5": "2ef9a3aae246e9eb372d2dff214827eb",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "9144b5c8b0799e175fda3a218cfc55345c34039f",
+    "sha256": "ff929e00d75d4bfbf79e95f44a9d2547c34a271a580e6782a3a48824cf5f8c2b",
+    "sha512": "6d2a429b5c9fcb1414461f728f45b281ce6a59e4b7b37fb668fc01e1d37ae131808298c9fb0e5c51a43ffeafec6c992c769a05913b5ce2622704f26f00c0478f",
+    "size": 195388372,
+    "url": "https://cache-redirector.jetbrains.com/intellij-jbr/jbr_fd-17.0.8.1-linux-aarch64-b1080.1.tar.gz",
+    "vendor": "jetbrains",
+    "version": "17.0.8.1b1080.1"
+  },
+  {
+    "architecture": "aarch64",
+    "distro": "jetbrains",
+    "features": [
+      "jcef"
+    ],
+    "file_type": "tar.gz",
+    "filename": "jbr_jcef-17.0.8.1-linux-aarch64-b1080.1.tar.gz",
+    "image_type": "jre",
+    "java_version": "17.0.8.1",
+    "jvm_impl": "hotspot",
+    "md5": "e8c73018ef0b9a6e72f9bb86f3bbcf46",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "1a44d4e57ff824ab2f6e55deee1c50fd8b71d0c9",
+    "sha256": "9564664d8eb29b91bcc455cae7cb92406fbe83a223004a51a870ac21cf8065ca",
+    "sha512": "8dad2f616749cae2ae5381fafa527c3c1c22db27c5e5715eb0967b4d7c5776139c640f9ee23b0971bd41603e378223fc8585255f69f68a88341e7edaffab4e40",
+    "size": 189849135,
+    "url": "https://cache-redirector.jetbrains.com/intellij-jbr/jbr_jcef-17.0.8.1-linux-aarch64-b1080.1.tar.gz",
+    "vendor": "jetbrains",
+    "version": "17.0.8.1b1080.1"
+  }
+]

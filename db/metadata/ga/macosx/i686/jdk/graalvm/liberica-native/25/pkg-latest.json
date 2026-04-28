@@ -1,0 +1,24 @@
+[
+  {
+    "architecture": "i686",
+    "distro": "liberica-native",
+    "features": [
+      "native-image"
+    ],
+    "file_type": "pkg",
+    "filename": "bellsoft-liberica-vm-full-openjdk25.0.2+13-25.0.2+1-macos-amd64.pkg",
+    "image_type": "jdk",
+    "java_version": "25.0.2+13-LTS",
+    "jvm_impl": "graalvm",
+    "md5": "73dbe4754c0172511dbf031609a104d2",
+    "os": "macosx",
+    "release_type": "ga",
+    "sha1": "e4d7c6a64010b26cfdad7a8d2873cccc32eda4e7",
+    "sha256": "c142c63dce92f2c01d78a3ff879d6b549f4269f63ce262a3a0bc09925066d95f",
+    "sha512": "07d703041fe2f74a2e669fc2085e34c429c459ab84ad94db5cfa1781cd8c57b4e479bd0e268b839123ff60fd34606c70850dc80a27afaca7468ec15435da2fd7",
+    "size": 341595124,
+    "url": "https://github.com/bell-sw/LibericaNIK/releases/download/25.0.2+1-25.0.2+13/bellsoft-liberica-vm-full-openjdk25.0.2+13-25.0.2+1-macos-amd64.pkg",
+    "vendor": "bellsoft",
+    "version": "25.0.2+1"
+  }
+]

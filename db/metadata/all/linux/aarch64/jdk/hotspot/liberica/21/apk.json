@@ -1,0 +1,25 @@
+[
+  {
+    "architecture": "aarch64",
+    "distro": "liberica",
+    "features": [
+      "musl",
+      "crac"
+    ],
+    "file_type": "apk",
+    "filename": "bellsoft-jdk21.0.2+15-linux-aarch64-musl-crac.apk",
+    "image_type": "jdk",
+    "java_version": "21.0.2+15-LTS",
+    "jvm_impl": "hotspot",
+    "md5": "167bf48ed609d9759d1287ee9245d37c",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "099400d5bedd31827acbaf9b60bcfbdff8fcebea",
+    "sha256": "434a313cf6f291a243b229cbffad632cec24fc5c7024d517ef864cb99643c162",
+    "sha512": "20bfa702631f5eedd1053c5a6d24bab7e215f8775c78f5800375c5c28570e3f42b71563577a7510635305890dff6bfaec183004d9fd80b78ce575d24f50c7b0f",
+    "size": 209906669,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/21.0.2+15/bellsoft-jdk21.0.2+15-linux-aarch64-musl-crac.apk",
+    "vendor": "bellsoft",
+    "version": "21.0.2+15"
+  }
+]

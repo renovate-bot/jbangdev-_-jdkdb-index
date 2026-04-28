@@ -1,0 +1,22 @@
+[
+  {
+    "architecture": "x86_64",
+    "distro": "temurin",
+    "features": [],
+    "file_type": "msi",
+    "filename": "OpenJDK11U-jre_x64_windows_hotspot_11.0.30_7.msi",
+    "image_type": "jre",
+    "java_version": "11.0.30+7",
+    "jvm_impl": "hotspot",
+    "md5": "dff1a978bf4b7e44217a41acc293a5b5",
+    "os": "windows",
+    "release_type": "ga",
+    "sha1": "2621afbeb1ba925c6b787831d90d0d1b46d6597e",
+    "sha256": "44067cdd34231df505c9fad10e788ae9eb6ba0acec7923a7fdb26841f3f855b7",
+    "sha512": "6db525a797cdcd21d1cefbf2b8599dd7600d2128e44a7639fe349bd57dee7d618b77d01e5272c6a260a7835b4c3459d384fb2bbfed77f9a695e8ad0532bc213f",
+    "size": 31526912,
+    "url": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.30%2B7/OpenJDK11U-jre_x64_windows_hotspot_11.0.30_7.msi",
+    "vendor": "eclipse",
+    "version": "11.0.30+7"
+  }
+]

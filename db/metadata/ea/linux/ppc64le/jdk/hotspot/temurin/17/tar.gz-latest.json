@@ -1,0 +1,22 @@
+[
+  {
+    "architecture": "ppc64le",
+    "distro": "temurin",
+    "features": [],
+    "file_type": "tar.gz",
+    "filename": "OpenJDK17U-jdk_ppc64le_linux_hotspot_17.0.19_9-ea.tar.gz",
+    "image_type": "jdk",
+    "java_version": "17",
+    "jvm_impl": "hotspot",
+    "md5": "596bd97a03a63daa6fceabe3e928cd7b",
+    "os": "linux",
+    "release_type": "ea",
+    "sha1": "1def0d4b0382f8d3b2ed409724725d1a0cdc8cf6",
+    "sha256": "1cf456f9aa2bf6c427a1b09c9f1490eede5e6b417854b35a7136518871e39e24",
+    "sha512": "f662be59cec3479a82a9eff0dfc1126ad82b518bdabc0914d21780e0fe450148612324e7a415fec63efb5cbacd29d1d5c8b0c57a9e6932382dd72703260558c1",
+    "size": 192839888,
+    "url": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.19%2B9-ea-beta/OpenJDK17U-jdk_ppc64le_linux_hotspot_17.0.19_9-ea.tar.gz",
+    "vendor": "eclipse",
+    "version": "17.0.19+9-ea-beta"
+  }
+]

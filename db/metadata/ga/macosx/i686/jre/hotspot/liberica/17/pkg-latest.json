@@ -1,0 +1,24 @@
+[
+  {
+    "architecture": "i686",
+    "distro": "liberica",
+    "features": [
+      "javafx"
+    ],
+    "file_type": "pkg",
+    "filename": "bellsoft-jre17.0.19+11-macos-amd64-full.pkg",
+    "image_type": "jre",
+    "java_version": "17.0.19+11-LTS",
+    "jvm_impl": "hotspot",
+    "md5": "fd61cde3620b1a727bda5a7e8d490c07",
+    "os": "macosx",
+    "release_type": "ga",
+    "sha1": "67d9e4cc1e219616eb453fbf00ccb4fd71bc163b",
+    "sha256": "22cb466c8db1a9b250db124802d5377adc8aa457adae85224e88030490223580",
+    "sha512": "afdb05f3551fbbda8baf192d63f76e797f50faebbf95bb758e4898555da20fed87bb37a9492b40863620158f3360f40ee22794d607d1908c9bf248aacb881464",
+    "size": 104021535,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/17.0.19+11/bellsoft-jre17.0.19+11-macos-amd64-full.pkg",
+    "vendor": "bellsoft",
+    "version": "17.0.19+11"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "architecture": "x86_64",
+    "distro": "temurin",
+    "features": [],
+    "file_type": "msi",
+    "filename": "OpenJDK26U-jre_x64_windows_hotspot_26_35-ea.msi",
+    "image_type": "jre",
+    "java_version": "26",
+    "jvm_impl": "hotspot",
+    "md5": "0f22e5b060c4bf5dc65ee0087876047e",
+    "os": "windows",
+    "release_type": "ea",
+    "sha1": "5737ba39adbe0a999438d939929961b592097ca1",
+    "sha256": "a1553290bdfec4c0267a07dd7ea808c14e3b7f75c9360440641b392abae6cd60",
+    "sha512": "ba810a7c8b1029e4a8a08f097b17eddc054b6e5e256850cdc1e9cbff936eba698e4c298fa47e93386b0219d47528e08eed07451a23afca57d13c43d8a0c4bff2",
+    "size": 43921408,
+    "url": "https://github.com/adoptium/temurin26-binaries/releases/download/jdk-26%2B35-ea-beta/OpenJDK26U-jre_x64_windows_hotspot_26_35-ea.msi",
+    "vendor": "eclipse",
+    "version": "26+35-ea-beta"
+  }
+]

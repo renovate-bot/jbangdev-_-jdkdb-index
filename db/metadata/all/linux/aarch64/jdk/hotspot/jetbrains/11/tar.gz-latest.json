@@ -1,0 +1,22 @@
+[
+  {
+    "architecture": "aarch64",
+    "distro": "jetbrains",
+    "features": [],
+    "file_type": "tar.gz",
+    "filename": "jbrsdk-11_0_14_1-linux-aarch64-b2043.45.tar.gz",
+    "image_type": "jdk",
+    "java_version": "11.0.14.1",
+    "jvm_impl": "hotspot",
+    "md5": "960659f48134258433eea988045455ed",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "79fada1e2a6559339f6695c9c3c8237685af90eb",
+    "sha256": "a9d0886c3cac64e3f6af852b9607270ee65ad69664fe38b0ff9ce2d76f37be41",
+    "sha512": "1f8b0cc2721abb093f51d94c1331fa285d537ab336d4c69c47746b3a4c76d14f38d32e29bc01779a4d224f36818a590b796d123e31ba4512a84b6031eb3f5b02",
+    "size": 281554967,
+    "url": "https://cache-redirector.jetbrains.com/intellij-jbr/jbrsdk-11_0_14_1-linux-aarch64-b2043.45.tar.gz",
+    "vendor": "jetbrains",
+    "version": "11.0.14.1b2043.45"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "architecture": "arm32",
+    "distro": "temurin",
+    "features": [],
+    "file_type": "tar.gz",
+    "filename": "OpenJDK8U-jre_arm_linux_hotspot_8u492b06-ea.tar.gz",
+    "image_type": "jre",
+    "java_version": "1.8.0_492-beta-202603142114-b06",
+    "jvm_impl": "hotspot",
+    "md5": "7a5df5cc46f9b0e0ad0c084af5beaaaa",
+    "os": "linux",
+    "release_type": "ea",
+    "sha1": "61fc2f7375cf0e8ab9f6407440a04ef22fb56ce9",
+    "sha256": "a52073f3984202986344b0f05f836482b9b7acbaa2ef6bb796fc1c483909c8dd",
+    "sha512": "09b24d05a295f815dfcb997ddce7b2a1309251c500445ad31b8fdb528e09d0f63a62ee379645dc5a2f6d9f86505bcf9f9ddba21749f76056e52995cd9e45e0c4",
+    "size": 39204102,
+    "url": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u492-b06-ea-beta/OpenJDK8U-jre_arm_linux_hotspot_8u492b06-ea.tar.gz",
+    "vendor": "eclipse",
+    "version": "8u492-b06-ea-beta"
+  }
+]

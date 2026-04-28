@@ -1,0 +1,66 @@
+[
+  {
+    "architecture": "aarch64",
+    "distro": "jetbrains",
+    "features": [],
+    "file_type": "tar.gz",
+    "filename": "jbrsdk-17.0.8.1-linux-aarch64-b1080.1.tar.gz",
+    "image_type": "jdk",
+    "java_version": "17.0.8.1+7-b1080.1",
+    "jvm_impl": "hotspot",
+    "md5": "7a948505ee43007db52223c4ce1517a7",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "721d5f02eaa2228d83b23ef8baff344214c311f9",
+    "sha256": "83277a28d3f9e640acc6a7249d25c4ca6f154239c726f3aad2801863e6025782",
+    "sha512": "997adb3ae1fa344cadf37f32bde159884ec144f5be950fb29004a7c3529504d162d631a0728f9ca50a4f9d0c8fb7713af16a3b8b35fa5613bc1c03a952f824d6",
+    "size": 204932645,
+    "url": "https://cache-redirector.jetbrains.com/intellij-jbr/jbrsdk-17.0.8.1-linux-aarch64-b1080.1.tar.gz",
+    "vendor": "jetbrains",
+    "version": "17.0.8.1b1080.1"
+  },
+  {
+    "architecture": "aarch64",
+    "distro": "jetbrains",
+    "features": [
+      "fastdebug"
+    ],
+    "file_type": "tar.gz",
+    "filename": "jbrsdk-17.0.8.1-linux-aarch64-fastdebug-b1080.1.tar.gz",
+    "image_type": "jdk",
+    "java_version": "17.0.8.1",
+    "jvm_impl": "hotspot",
+    "md5": "2154789bb016669019f33dd151bcd064",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "9bed91678c6364645003db31c692c2086bbcbcec",
+    "sha256": "c2c3acb69dfa5f75ab63135dfd60a8a7863a108d421894531a20f51b9ca5b794",
+    "sha512": "a4ddbe79c15a50d5631245620cdae8dbeeb7798729b2a0eb2b1050f6b1f7438a69bd5ea0d6f9feb913db762b37c3a70e86022e190c608739f5a4e16133a97838",
+    "size": 446977042,
+    "url": "https://cache-redirector.jetbrains.com/intellij-jbr/jbrsdk-17.0.8.1-linux-aarch64-fastdebug-b1080.1.tar.gz",
+    "vendor": "jetbrains",
+    "version": "17.0.8.1b1080.1"
+  },
+  {
+    "architecture": "aarch64",
+    "distro": "jetbrains",
+    "features": [
+      "jcef"
+    ],
+    "file_type": "tar.gz",
+    "filename": "jbrsdk_jcef-17.0.8.1-linux-aarch64-b1080.1.tar.gz",
+    "image_type": "jdk",
+    "java_version": "17.0.8.1",
+    "jvm_impl": "hotspot",
+    "md5": "237b1e38f368604ea1f715edfe459bf2",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "8790f118dd281d8ba90d5883656a779d0e6629f5",
+    "sha256": "ceea35b9ebc51bd8315c942d7a1e7fb367a0fd8c369a8b1d4d484b2e78d7d90f",
+    "sha512": "597f3ff91c0c897f9c654ba4195599b0a688046f4118090bd57f1b4eb47cba1b271de92cf165fd6a10645f6a482cd751bfa2cb51630cf9b70a469ac31ea4a291",
+    "size": 435961785,
+    "url": "https://cache-redirector.jetbrains.com/intellij-jbr/jbrsdk_jcef-17.0.8.1-linux-aarch64-b1080.1.tar.gz",
+    "vendor": "jetbrains",
+    "version": "17.0.8.1b1080.1"
+  }
+]

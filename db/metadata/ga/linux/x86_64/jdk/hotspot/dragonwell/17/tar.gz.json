@@ -1,0 +1,68 @@
+[
+  {
+    "architecture": "x86_64",
+    "distro": "dragonwell",
+    "features": [
+      "musl"
+    ],
+    "file_type": "tar.gz",
+    "filename": "Alibaba_Dragonwell_17.0.1.0.1+12_x64_alpine-linux.tar.gz",
+    "image_type": "jdk",
+    "java_version": "17.0.1.0.1+12",
+    "jvm_impl": "hotspot",
+    "md5": "30bf1ee8aa76ab19ef06e607a262b474",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "8ea39c6cc3fbc0bc39ad122a2192090efa27383c",
+    "sha256": "d9cbeee2532dc08382ded36259c51d03d890af6b72d77a79390d6b6183c5989b",
+    "sha512": "05a9f84701fe8f5119bc56b016b1c6ce6e0f1e50254f51a69d4cc409bd39269a410a847bbb4b9bf5b963afcdc513f8e8e401cc602b7afc2aaed2cfb84e2e4fa1",
+    "size": 191293350,
+    "url": "https://github.com/dragonwell-project/dragonwell17/releases/download/dragonwell-17.0.1.0.1%2B12_jdk-17.0.1-ga/Alibaba_Dragonwell_17.0.1.0.1%2B12_x64_alpine-linux.tar.gz",
+    "vendor": "alibaba",
+    "version": "17.0.1.0.1+12"
+  },
+  {
+    "architecture": "x86_64",
+    "distro": "dragonwell",
+    "features": [
+      "musl"
+    ],
+    "file_type": "tar.gz",
+    "filename": "Alibaba_Dragonwell_17.0.2.0.2+8_x64_alpine-linux.tar.gz",
+    "image_type": "jdk",
+    "java_version": "17.0.2.0.2+8",
+    "jvm_impl": "hotspot",
+    "md5": "db6e92dabfc8fc326e581f817b4f1a49",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "d60bc55685a322cd51b7c1ad46bc55b1323c1387",
+    "sha256": "b7a261502e8aac714defeb7fc8c48c508e63d4fc2902cbb03511a1db0291d5e9",
+    "sha512": "e823e19ff7ffea0c98a83398763573930b5ab801fdfa777154cd2f4e5a940d917449a69e79599bd7114214edefc52ede77e014b682bac851309576c0bfdfa9b0",
+    "size": 191361220,
+    "url": "https://github.com/dragonwell-project/dragonwell17/releases/download/dragonwell-17.0.2.0.2%2B8_jdk-17.0.2-ga/Alibaba_Dragonwell_17.0.2.0.2%2B8_x64_alpine-linux.tar.gz",
+    "vendor": "alibaba",
+    "version": "17.0.2.0.2+8"
+  },
+  {
+    "architecture": "x86_64",
+    "distro": "dragonwell",
+    "features": [
+      "musl"
+    ],
+    "file_type": "tar.gz",
+    "filename": "Alibaba_Dragonwell_17.0.3.0.3+7_x64_alpine-linux.tar.gz",
+    "image_type": "jdk",
+    "java_version": "17.0.3.0.3+7",
+    "jvm_impl": "hotspot",
+    "md5": "1a8c5340b6fffcc30fcae939cbc7c648",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "e6d80d273ea929d489814f128966108a51a458af",
+    "sha256": "4620312ff9fa2772aed71315280af7c4c65cfa91e4a77bd47f6471ed279ed8a7",
+    "sha512": "81218fa20645add2d58ed496ae4877a9f105f8b7634ca67941bbc01a57b780bbbfb5d0f7f0ee53de5185d2f5d8e75112229f9b05c3c74b86efea2299c5cd14c6",
+    "size": 191254191,
+    "url": "https://github.com/dragonwell-project/dragonwell17/releases/download/dragonwell-17.0.3.0.3%2B7_jdk-17.0.3-ga/Alibaba_Dragonwell_17.0.3.0.3%2B7_x64_alpine-linux.tar.gz",
+    "vendor": "alibaba",
+    "version": "17.0.3.0.3+7"
+  }
+]

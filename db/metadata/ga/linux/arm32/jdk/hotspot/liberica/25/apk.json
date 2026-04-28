@@ -1,0 +1,25 @@
+[
+  {
+    "architecture": "arm32",
+    "distro": "liberica",
+    "features": [
+      "musl",
+      "lite"
+    ],
+    "file_type": "apk",
+    "filename": "bellsoft-jdk25.0.3+11-linux-aarch64-musl-lite.apk",
+    "image_type": "jdk",
+    "java_version": "25.0.3+11-LTS",
+    "jvm_impl": "hotspot",
+    "md5": "2715421dac3ca6029e64fec2956ac297",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "04449e2aad67247907e6d73c4a91b0f46600ae1d",
+    "sha256": "94cfa119730b2343316ca514b5ee52751574d8e98c3ed5f9114e5139d58966c9",
+    "sha512": "301633b9bb87e55a4564800d31dc21cf231a52a4a396881a1eb04996b45ed7868f33b212fa65860ae80618c73013b554de2c81c351a71798f2aaaae4a02972b7",
+    "size": 82004939,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/25.0.3+11/bellsoft-jdk25.0.3+11-linux-aarch64-musl-lite.apk",
+    "vendor": "bellsoft",
+    "version": "25.0.3+11"
+  }
+]

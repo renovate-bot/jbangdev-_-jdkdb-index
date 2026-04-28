@@ -1,0 +1,24 @@
+[
+  {
+    "architecture": "ppc64",
+    "distro": "sapmachine",
+    "features": [
+      "le"
+    ],
+    "file_type": "tar.gz",
+    "filename": "sapmachine-jre-21.0.11-ea.10_linux-ppc64le_bin.tar.gz",
+    "image_type": "jre",
+    "java_version": "21.0.11-ea.10",
+    "jvm_impl": "hotspot",
+    "md5": "f2c3d96c7f6899cf313319592ce9a1ac",
+    "os": "linux",
+    "release_type": "ea",
+    "sha1": "f0bc884ce371b31416c333a187bf4514ca86f9a8",
+    "sha256": "735356f0dbc5fbb7798423983a8b6ac179cf8b1603f0414eaa3abe9d4ed9eb46",
+    "sha512": "3a51d377f2e32c1ae15a2ef34d8c16a21c94593ac8f36c8edce54163b19b6f437ade347cec83c35cfe382aa06ee947a2a46b8d4ba0e901f8d0f60d810dc8eecf",
+    "size": 53207091,
+    "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21.0.11%2B10/sapmachine-jre-21.0.11-ea.10_linux-ppc64le_bin.tar.gz",
+    "vendor": "sap",
+    "version": "21.0.11-ea.10"
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "architecture": "aarch64",
+    "distro": "jetbrains",
+    "features": [
+      "jcef"
+    ],
+    "file_type": "pkg",
+    "filename": "jbr_jcef-21.0.9-osx-aarch64-b1163.94.pkg",
+    "image_type": "jre",
+    "java_version": "21.0.9+10-b1163.94",
+    "jvm_impl": "hotspot",
+    "md5": "4907fd5bc897d04a9f86a8397691bdd5",
+    "os": "macosx",
+    "release_type": "ga",
+    "sha1": "0b2c5e5fcfeba71563044ae54ecaf34461c8726f",
+    "sha256": "9626a18b23d339c70e66ad8351a2e69f672b6de02b449f08e73847a4e1663826",
+    "sha512": "51fde3c1c189c0a7b386cb67cc003284fa56a8351796acd6b0978887ae3e89dfe40fd511703a9db524762aeaa135357ec03286439fc5a994aa3c96d6793c4d35",
+    "size": 228466137,
+    "url": "https://cache-redirector.jetbrains.com/intellij-jbr/jbr_jcef-21.0.9-osx-aarch64-b1163.94.pkg",
+    "vendor": "jetbrains",
+    "version": "21.0.9b1163.94"
+  }
+]

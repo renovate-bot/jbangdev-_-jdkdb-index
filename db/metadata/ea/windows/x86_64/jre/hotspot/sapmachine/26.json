@@ -1,0 +1,42 @@
+[
+  {
+    "architecture": "x86_64",
+    "distro": "sapmachine",
+    "features": [],
+    "file_type": "zip",
+    "filename": "sapmachine-jre-26-ea.2_windows-x64_bin.zip",
+    "image_type": "jre",
+    "java_version": "26-ea.2",
+    "jvm_impl": "hotspot",
+    "md5": "68f82857bf8bf95399b0ca78eae20f20",
+    "os": "windows",
+    "release_type": "ea",
+    "sha1": "1e12f2a4872cc82376f8c8073e877533081b2e56",
+    "sha256": "e1234e01f257536c1ba0dc5e58bc55008f39de43787eb7ffe05383fa0816de38",
+    "sha512": "e9ffd6bcf3dc913238686eeed19b032929cbf2b80625a057a4931174271612e12861532f8709c698bd320cee28593582dcba8996fe36b49e8626f9c841fe12df",
+    "size": 51216291,
+    "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-26+2/sapmachine-jre-26-ea.2_windows-x64_bin.zip",
+    "vendor": "sap",
+    "version": "26-ea.2"
+  },
+  {
+    "architecture": "x86_64",
+    "distro": "sapmachine",
+    "features": null,
+    "file_type": "zip",
+    "filename": "sapmachine-jre-26.0.1-ea.1_windows-x64_bin.zip",
+    "image_type": "jre",
+    "java_version": "26.0.1-ea.1",
+    "jvm_impl": "hotspot",
+    "md5": "eac393aeaa756a10d803a2d45a69b552",
+    "os": "windows",
+    "release_type": "ea",
+    "sha1": "58dd5e68920940b13e98ade76fa01fbc24b85747",
+    "sha256": "a6723834afee8f6323a3c2e0ffeb1a0a024e658ba14db51afb86cc314e5d5708",
+    "sha512": "a99cab7dbc665eddfa99ba9022ba9d666ecbf7ffd0fd3ed88bef5697ce591dd32c5b9905e76c4b3e04c3fe4036977b275e6b02759c2404508ff91d274969fe0a",
+    "size": 53243245,
+    "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-26.0.1%2B1/sapmachine-jre-26.0.1-ea.1_windows-x64_bin.zip",
+    "vendor": "sap",
+    "version": "26.0.1-ea.1"
+  }
+]

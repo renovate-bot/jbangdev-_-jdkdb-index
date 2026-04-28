@@ -1,0 +1,22 @@
+[
+  {
+    "architecture": "x86_64",
+    "distro": "temurin",
+    "features": [],
+    "file_type": "msi",
+    "filename": "OpenJDK17U-jre_x64_windows_hotspot_17.0.19_10-ea.msi",
+    "image_type": "jre",
+    "java_version": "17",
+    "jvm_impl": "hotspot",
+    "md5": "3f2cf621a142aa5290bd559c88f5a703",
+    "os": "windows",
+    "release_type": "ea",
+    "sha1": "b020d477fddcaa33da45f1cf60487b283c5fb1e3",
+    "sha256": "bd33e2a603e1d482eafc93c447600cbaa8335df010aa44f63e779fc048c4c6a6",
+    "sha512": "6d4c5e52f55b6e22b1714d893050b12ea58492af95e729304e7ab7960e63f4c51d18a9aa0d97f804088b75838b1ddad141f6582578ce19f9fcca9abe948229a8",
+    "size": 31633408,
+    "url": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.19%2B10-ea-beta/OpenJDK17U-jre_x64_windows_hotspot_17.0.19_10-ea.msi",
+    "vendor": "eclipse",
+    "version": "17.0.19+10-ea-beta"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "architecture": "x86_64",
+    "distro": "jetbrains",
+    "features": [],
+    "file_type": "pkg",
+    "filename": "jbrsdk-25.0.2-osx-x64-b432.48.pkg",
+    "image_type": "jdk",
+    "java_version": "25.0.2+10-b432.48",
+    "jvm_impl": "hotspot",
+    "md5": "f7a919e4b26a8f6d10f282d009f4ee88",
+    "os": "macosx",
+    "release_type": "ga",
+    "sha1": "a5f2196240601d64217878b86d319c98e70102f6",
+    "sha256": "be3d2f64cea14e978ca0c532d66ce43d9375a29800c249ac5b402d72895b5ee0",
+    "sha512": "e4c948c8d86458901ae140478c8f6965cf6978644ffd6c3c98a594ae9be0158e06ce438c059a67b6fc50e0866b9e962f6525ccbd01663012253eae07265c2eb8",
+    "size": 243433032,
+    "url": "https://cache-redirector.jetbrains.com/intellij-jbr/jbrsdk-25.0.2-osx-x64-b432.48.pkg",
+    "vendor": "jetbrains",
+    "version": "25.0.2b432.48"
+  }
+]

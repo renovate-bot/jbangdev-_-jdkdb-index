@@ -1,0 +1,44 @@
+[
+  {
+    "architecture": "aarch64",
+    "distro": "jetbrains",
+    "features": [],
+    "file_type": "tar.gz",
+    "filename": "jbrsdk-25.0.2-osx-aarch64-b432.48.tar.gz",
+    "image_type": "jdk",
+    "java_version": "25.0.2+10-b432.48",
+    "jvm_impl": "hotspot",
+    "md5": "7ccff23a76d65daa797258f4dba12d4d",
+    "os": "macosx",
+    "release_type": "ga",
+    "sha1": "ab4cca5681b1d618281fe82043a8cdb5c4a15db6",
+    "sha256": "1501ed8f15c1176abc895d6e3cf2b52562152f9731ec024b552e4bef24f02bf9",
+    "sha512": "dda180f60a2b30dfd21203036c2bac20566c393e488c5495cea9b250e768f29123818fa0c5c51d6cf95c3eb2381d7cf81a29e45a8973729b46e9c90b62be9841",
+    "size": 241051729,
+    "url": "https://cache-redirector.jetbrains.com/intellij-jbr/jbrsdk-25.0.2-osx-aarch64-b432.48.tar.gz",
+    "vendor": "jetbrains",
+    "version": "25.0.2b432.48"
+  },
+  {
+    "architecture": "aarch64",
+    "distro": "jetbrains",
+    "features": [
+      "jcef"
+    ],
+    "file_type": "tar.gz",
+    "filename": "jbrsdk_jcef-25.0.2-osx-aarch64-b432.48.tar.gz",
+    "image_type": "jdk",
+    "java_version": "25.0.2+10-b432.48",
+    "jvm_impl": "hotspot",
+    "md5": "90642ead7c77cb69d37eaa8691d74fdc",
+    "os": "macosx",
+    "release_type": "ga",
+    "sha1": "060ab46e4ccb9ba77f083d070b51aebb09da3829",
+    "sha256": "49ed71ae3d114d48b9c5926c52d7007a20611b25e176a41c1aff09a1d559b60b",
+    "sha512": "91c42893727c5e71c1b5faf0650c78c4f746c1f47aaab7081757632541647a11e29a06ce4ae51afaf3a10fa556177caf7f1d18b2edd8673ed3030cd0320f8161",
+    "size": 383823294,
+    "url": "https://cache-redirector.jetbrains.com/intellij-jbr/jbrsdk_jcef-25.0.2-osx-aarch64-b432.48.tar.gz",
+    "vendor": "jetbrains",
+    "version": "25.0.2b432.48"
+  }
+]

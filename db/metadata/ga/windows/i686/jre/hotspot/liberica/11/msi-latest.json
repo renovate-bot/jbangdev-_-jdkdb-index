@@ -1,0 +1,44 @@
+[
+  {
+    "architecture": "i686",
+    "distro": "liberica",
+    "features": [],
+    "file_type": "msi",
+    "filename": "bellsoft-jre11.0.31+11-windows-amd64.msi",
+    "image_type": "jre",
+    "java_version": "11.0.31+11-LTS",
+    "jvm_impl": "hotspot",
+    "md5": "3d65d991e1b00e0b5f0917708b5c18d3",
+    "os": "windows",
+    "release_type": "ga",
+    "sha1": "c5a5d50c4480791fc731a77169457ea141e21308",
+    "sha256": "ed3a789c3fe7ddab3438ca326345a1b2fec887645ffbc9598b9460bc1ebf46e8",
+    "sha512": "f51a3817e2327c7b3a2e5386e778f0ffa4aab3e676669ee1aa3b863aade5ae6d015c56e2a38a1c55048014e96a5796a7303151930aa16713022c9e9fb6b889f7",
+    "size": 49614848,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/11.0.31+11/bellsoft-jre11.0.31+11-windows-amd64.msi",
+    "vendor": "bellsoft",
+    "version": "11.0.31+11"
+  },
+  {
+    "architecture": "i686",
+    "distro": "liberica",
+    "features": [
+      "javafx"
+    ],
+    "file_type": "msi",
+    "filename": "bellsoft-jre11.0.31+11-windows-i586-full.msi",
+    "image_type": "jre",
+    "java_version": "11.0.31+11-LTS",
+    "jvm_impl": "hotspot",
+    "md5": "19ce72b65ca59f98fc9e616112fb7651",
+    "os": "windows",
+    "release_type": "ga",
+    "sha1": "2faf0b51fd35ae93ce7fd650cb26d8ff137d4694",
+    "sha256": "d3f9fd675022af80341cba3adeee2105d6714f2698fb3d8d35f250177ec87627",
+    "sha512": "c53d1c93f64ee7b53b6394b42cea20f0a62fab7bb6f4673fb08febe7b53470a038938e06f2456148d1e96c3c00a5e791d64d059ffb86b519f05be3ef19af9cc1",
+    "size": 83431424,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/11.0.31+11/bellsoft-jre11.0.31+11-windows-i586-full.msi",
+    "vendor": "bellsoft",
+    "version": "11.0.31+11"
+  }
+]

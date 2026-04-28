@@ -1,0 +1,22 @@
+[
+  {
+    "architecture": "x86_64",
+    "distro": "sapmachine",
+    "features": null,
+    "file_type": "tar.gz",
+    "filename": "sapmachine-jre-27-ea.19_linux-x64_bin.tar.gz",
+    "image_type": "jre",
+    "java_version": "27-ea.19",
+    "jvm_impl": "hotspot",
+    "md5": "8729802a60da4ba927da898ed1146e56",
+    "os": "linux",
+    "release_type": "ea",
+    "sha1": "89f602e63897b5502644d717ec18d846a1c8b364",
+    "sha256": "ace1a5030d41ff2f56f209bdb977558cc0e3e33705c41c6af3a5a4268054795f",
+    "sha512": "1d684f45567e591a0771ec90134ebbf39d0d6261f98d1d80f78072d5dee2a3ebc192c71b556f224ff0046231e17396338084e3f0ca9d32d7916d1ba6d89bdc61",
+    "size": 53159529,
+    "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-27%2B19/sapmachine-jre-27-ea.19_linux-x64_bin.tar.gz",
+    "vendor": "sap",
+    "version": "27-ea.19"
+  }
+]

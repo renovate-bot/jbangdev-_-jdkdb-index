@@ -1,0 +1,66 @@
+[
+  {
+    "architecture": "i686",
+    "distro": "liberica",
+    "features": [
+      "javafx"
+    ],
+    "file_type": "zip",
+    "filename": "bellsoft-jdk8u492+9-macos-amd64-full.zip",
+    "image_type": "jdk",
+    "java_version": "1.8.0_492",
+    "jvm_impl": "hotspot",
+    "md5": "4d9fb00f680416a2bc644fc36214146e",
+    "os": "macosx",
+    "release_type": "ga",
+    "sha1": "867c9a8832dc879dad720974f956f916fdb56d0b",
+    "sha256": "12b999968e221edb0c68add7d14a1d0d94dd6414825efe8708d5dac432a7b4e0",
+    "sha512": "5aa3566352a54a5aa28f287464cf03c46cefb5b770fc2c796204bca4dfbf4891a19b142b01dc0bfe90ff2d5805da7f961d225027d18babea0d00453c654bae96",
+    "size": 162381557,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/8u492+9/bellsoft-jdk8u492+9-macos-amd64-full.zip",
+    "vendor": "bellsoft",
+    "version": "8u492+9"
+  },
+  {
+    "architecture": "i686",
+    "distro": "liberica",
+    "features": [
+      "lite"
+    ],
+    "file_type": "zip",
+    "filename": "bellsoft-jdk8u492+9-macos-amd64-lite.zip",
+    "image_type": "jdk",
+    "java_version": "1.8.0_492",
+    "jvm_impl": "hotspot",
+    "md5": "f83253306a4686fb0b37457357b2c927",
+    "os": "macosx",
+    "release_type": "ga",
+    "sha1": "b871c26010f6714aab6bc16211a42912a04bb0a4",
+    "sha256": "f78cdbe8220f1655886f82e12f4e6edf16bafc1b89cc056d6d50d04f1ca837ce",
+    "sha512": "c8c532272542c5a7de389c48a46413c59e3338d67227e3489df318e70714c65c084ffe4b240ff6327aa450e6c4988b4ebecc336a7736cde2235d66273e9f4772",
+    "size": 53262251,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/8u492+9/bellsoft-jdk8u492+9-macos-amd64-lite.zip",
+    "vendor": "bellsoft",
+    "version": "8u492+9"
+  },
+  {
+    "architecture": "i686",
+    "distro": "liberica",
+    "features": [],
+    "file_type": "zip",
+    "filename": "bellsoft-jdk8u492+9-macos-amd64.zip",
+    "image_type": "jdk",
+    "java_version": "1.8.0_492",
+    "jvm_impl": "hotspot",
+    "md5": "e0ab79f9463942a9ca3def2d836c779a",
+    "os": "macosx",
+    "release_type": "ga",
+    "sha1": "b8404e1412a025d2b23fedb605932b4194094121",
+    "sha256": "355826a16332849f8d20ef29a238f48ffb1ba7eea75da849045c8da168941f91",
+    "sha512": "9d1709b62eb3c92376dd22b9dcb79433b529ef53aefd427e67617c30cbaf8038c6a6d17ab71b6afdaa607b72da2eb65f9290e5796864ffeb93d36aa1b1d9105a",
+    "size": 109227433,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/8u492+9/bellsoft-jdk8u492+9-macos-amd64.zip",
+    "vendor": "bellsoft",
+    "version": "8u492+9"
+  }
+]

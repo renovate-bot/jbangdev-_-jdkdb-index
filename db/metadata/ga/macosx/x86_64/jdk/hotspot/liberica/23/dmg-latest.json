@@ -1,0 +1,68 @@
+[
+  {
+    "architecture": "x86_64",
+    "distro": "liberica",
+    "features": [
+      "libericafx",
+      "minimal-vm",
+      "javafx"
+    ],
+    "file_type": "dmg",
+    "filename": "bellsoft-jdk23+38-macos-amd64-full.dmg",
+    "image_type": "jdk",
+    "java_version": "23+38",
+    "jvm_impl": "hotspot",
+    "md5": "898f801a3900bdbc556b1c48b35f7a10",
+    "os": "macosx",
+    "release_type": "ga",
+    "sha1": "618a4cbdf2986d612b22c10fc8987ac726312d9d",
+    "sha256": "06bcf4270bb6cc4b1a60062d255f49db9cacd6ab177d399b65f9429f600cf447",
+    "sha512": "2e3f05da895c98c1915c75af8a99e43b6e168b9478cc9c47f619d341c22ffd55a56dc50497127a4de8041938f53983df803216f87c7afae312f0b077b6b70159",
+    "size": 333185827,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/23+38/bellsoft-jdk23+38-macos-amd64-full.dmg",
+    "vendor": "bellsoft",
+    "version": "23+38"
+  },
+  {
+    "architecture": "x86_64",
+    "distro": "liberica",
+    "features": [
+      "lite"
+    ],
+    "file_type": "dmg",
+    "filename": "bellsoft-jdk23+38-macos-amd64-lite.dmg",
+    "image_type": "jdk",
+    "java_version": "23+38",
+    "jvm_impl": "hotspot",
+    "md5": "d3779106d1ada0ef8603ec7fb577c5d8",
+    "os": "macosx",
+    "release_type": "ga",
+    "sha1": "a0fe2cb56feffaafd3479c5b8e11a1f9e73f370a",
+    "sha256": "b9481e6dd9abe60f7d196852aa15986134e17295748ab9bdb9b5cda7d70086a7",
+    "sha512": "7382c23bdbed4ce68c41c261c223084a95f170eb6826434a355a233b75814c0b37f3fb0fcbdd9d85d55c85aa22b4dfd3e9ded988a6575ff197b3bed1b8f012a0",
+    "size": 87004615,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/23+38/bellsoft-jdk23+38-macos-amd64-lite.dmg",
+    "vendor": "bellsoft",
+    "version": "23+38"
+  },
+  {
+    "architecture": "x86_64",
+    "distro": "liberica",
+    "features": [],
+    "file_type": "dmg",
+    "filename": "bellsoft-jdk23+38-macos-amd64.dmg",
+    "image_type": "jdk",
+    "java_version": "23+38",
+    "jvm_impl": "hotspot",
+    "md5": "88c1d8358bdb6c62156617d86c9a2fba",
+    "os": "macosx",
+    "release_type": "ga",
+    "sha1": "f3a73fcfd8e66c7ee993d4243ba6eedb1bd8a708",
+    "sha256": "6d9ca0eb9f706599a2b1e8261659f5bca59b3beefc5c47e409148ea5dc747fde",
+    "sha512": "5815c58408f8ad95a27a62835fce471c5edca6b08064f1a597faed8257e5a5aa46fe7511582145f76dc95cafac00f2621b5c7222014bb31da8d6807fae61e07e",
+    "size": 233287418,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/23+38/bellsoft-jdk23+38-macos-amd64.dmg",
+    "vendor": "bellsoft",
+    "version": "23+38"
+  }
+]

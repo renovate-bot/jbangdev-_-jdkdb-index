@@ -1,0 +1,46 @@
+[
+  {
+    "architecture": "x86_64",
+    "distro": "liberica",
+    "features": [
+      "libericafx",
+      "minimal-vm",
+      "javafx"
+    ],
+    "file_type": "dmg",
+    "filename": "bellsoft-jre15+36-macos-amd64-full.dmg",
+    "image_type": "jre",
+    "java_version": "15+36",
+    "jvm_impl": "hotspot",
+    "md5": "2a05498a19167d12af8ed8302804ed4a",
+    "os": "macosx",
+    "release_type": "ga",
+    "sha1": "dac56b8592a47eee5dea1aceaab72d48599bcb3b",
+    "sha256": "7fc6591f4f36e53c0d8e41501bd3fd1e3e19e5df3607ddad07c741e9e1eae78e",
+    "sha512": "210c0bf9af5533dbda512c42b683af3173c115f4d8fdfe7d974ca2db9fd572f259542c960c4a9894251e77647798f4fd87bd34e0308d4665ef5d2e88fb831962",
+    "size": 84045595,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/15+36/bellsoft-jre15+36-macos-amd64-full.dmg",
+    "vendor": "bellsoft",
+    "version": "15+36"
+  },
+  {
+    "architecture": "x86_64",
+    "distro": "liberica",
+    "features": [],
+    "file_type": "dmg",
+    "filename": "bellsoft-jre15+36-macos-amd64.dmg",
+    "image_type": "jre",
+    "java_version": "15+36",
+    "jvm_impl": "hotspot",
+    "md5": "0df9346b2b30261d8d97a3071854c690",
+    "os": "macosx",
+    "release_type": "ga",
+    "sha1": "bf9147a3431a8ec5bb694f3152c950beb1760318",
+    "sha256": "528a77afafe190184739d846b6db3ffaab76ece3153a9c0c0235a8961f3cd487",
+    "sha512": "e0cb44441e6efc2503c7751748777849156c36f2d53d892ea63c9937056cbfb4aab1c11f1290a66c3cf31879eac1a2bca4a69b3d2bb8c929770865e652820307",
+    "size": 48969922,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/15+36/bellsoft-jre15+36-macos-amd64.dmg",
+    "vendor": "bellsoft",
+    "version": "15+36"
+  }
+]

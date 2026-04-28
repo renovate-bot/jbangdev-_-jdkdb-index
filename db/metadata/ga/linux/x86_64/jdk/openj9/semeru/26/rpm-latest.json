@@ -1,0 +1,22 @@
+[
+  {
+    "architecture": "x86_64",
+    "distro": "semeru",
+    "features": [],
+    "file_type": "rpm",
+    "filename": "ibm-semeru-open-26+35-jdk-26.0.1.0_m1-1.x86_64.rpm",
+    "image_type": "jdk",
+    "java_version": "26.0.1.0",
+    "jvm_impl": "openj9",
+    "md5": "d266f88abb260954534bcff065bdb885",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "5e1370b0497a7ccaa94e01313caf8b8c9b07e533",
+    "sha256": "a029abf41850843fd42b6317dd357d47dbc0816a57ff51036cbde817ec88c8d7",
+    "sha512": "fbb4dcf0aa3b54af6e65a91d60573771c12d3e201ab7962a0464ea4d111967c4868972ea29350ee9a1f964ec67a0acc138f1554026cbd55c3386ed0e134d6409",
+    "size": 215113504,
+    "url": "https://github.com/ibmruntimes/semeru26-binaries/releases/download/jdk-26.0.1.0-m1/ibm-semeru-open-26%2B35-jdk-26.0.1.0_m1-1.x86_64.rpm",
+    "vendor": "ibm",
+    "version": "26.0.1.0-m1"
+  }
+]

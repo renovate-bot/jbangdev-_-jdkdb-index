@@ -1,0 +1,68 @@
+[
+  {
+    "architecture": "x86_64",
+    "distro": "liberica",
+    "features": [
+      "libericafx",
+      "minimal-vm",
+      "javafx"
+    ],
+    "file_type": "dmg",
+    "filename": "bellsoft-jdk17+35-macos-amd64-full.dmg",
+    "image_type": "jdk",
+    "java_version": "17+35",
+    "jvm_impl": "hotspot",
+    "md5": "963f31db10c8ac4a417362040bfdc2f3",
+    "os": "macosx",
+    "release_type": "ga",
+    "sha1": "362dc214d80ac92fce3396283248fb632da1cf82",
+    "sha256": "759367fae761ddeab95272ad4a000e64033fe29abb896c0c077a33e777efd9b3",
+    "sha512": "95b82182ff7ea2a4bd2808271bdcb5a84a44ac66567172d1eaad49a303906e62e9c6bf026f7f7694d1be4edc8f26262f4bb4fb223f36de52a55df427ca712f68",
+    "size": 283075663,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/17+35/bellsoft-jdk17+35-macos-amd64-full.dmg",
+    "vendor": "bellsoft",
+    "version": "17+35"
+  },
+  {
+    "architecture": "x86_64",
+    "distro": "liberica",
+    "features": [
+      "lite"
+    ],
+    "file_type": "dmg",
+    "filename": "bellsoft-jdk17+35-macos-amd64-lite.dmg",
+    "image_type": "jdk",
+    "java_version": "17+35",
+    "jvm_impl": "hotspot",
+    "md5": "a774472155e92cab600cb6bca578f1c7",
+    "os": "macosx",
+    "release_type": "ga",
+    "sha1": "c5eccda74469bf743fac744c09ebe7af00edb154",
+    "sha256": "ff39618e0a7a0ce031861ecd733958ee20463545d4920d88b87642ea19c433c3",
+    "sha512": "d9f7f3e23017afdb895f7424d81e695f78f2442f3287f89f72daba63febeff24f4232d9d2fc827dfc4ff727e7f980d6a81d934d9af821057bd473e522caa34e9",
+    "size": 72839701,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/17+35/bellsoft-jdk17+35-macos-amd64-lite.dmg",
+    "vendor": "bellsoft",
+    "version": "17+35"
+  },
+  {
+    "architecture": "x86_64",
+    "distro": "liberica",
+    "features": [],
+    "file_type": "dmg",
+    "filename": "bellsoft-jdk17+35-macos-amd64.dmg",
+    "image_type": "jdk",
+    "java_version": "17+35",
+    "jvm_impl": "hotspot",
+    "md5": "1ef929969b7e54ad495c554e1bc1f983",
+    "os": "macosx",
+    "release_type": "ga",
+    "sha1": "284faf6c1f0cff72a514b65d24069536195a4585",
+    "sha256": "94afceb7c2f35adadbead87a66bec0d77bda9e280157378470c42a5897e41f89",
+    "sha512": "f712f8ee03ab8dff26faa994f502b7a49ceec0e17f4f80614964c71e24ca2ecfc76f6ab79bbec21a6d2812cb167eda5ae8380d8549d6e13e7c66935ec023252c",
+    "size": 196633071,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/17+35/bellsoft-jdk17+35-macos-amd64.dmg",
+    "vendor": "bellsoft",
+    "version": "17+35"
+  }
+]

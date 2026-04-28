@@ -1,0 +1,22 @@
+[
+  {
+    "architecture": "aarch64",
+    "distro": "sapmachine",
+    "features": null,
+    "file_type": "tar.gz",
+    "filename": "sapmachine-jre-17.0.19_linux-aarch64_bin.tar.gz",
+    "image_type": "jre",
+    "java_version": "17.0.19+10-LTS",
+    "jvm_impl": "hotspot",
+    "md5": "34b20281fe1c7f086f4817d2ad78dcd2",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "fe3dac987dc3e6810c1bb8cf18f04fd03826ac16",
+    "sha256": "5d442003ca036e2b10eb8b292e651f9f020d079de1a4176d9216dc9b800ff2ce",
+    "sha512": "38ab5392d90154286f99c1ff15c068245237f810a5f102af67dc05b5a4ece37df30a26225f889210673db6315cbba37693a87982e395e4e42eb16b07c0e0b599",
+    "size": 48839733,
+    "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17.0.19/sapmachine-jre-17.0.19_linux-aarch64_bin.tar.gz",
+    "vendor": "sap",
+    "version": "17.0.19"
+  }
+]

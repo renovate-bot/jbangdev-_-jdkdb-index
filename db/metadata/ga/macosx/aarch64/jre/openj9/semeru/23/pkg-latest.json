@@ -1,0 +1,22 @@
+[
+  {
+    "architecture": "aarch64",
+    "distro": "semeru",
+    "features": [],
+    "file_type": "pkg",
+    "filename": "ibm-semeru-open-jre_aarch64_mac_23.0.1_11_openj9-0.48.0.pkg",
+    "image_type": "jre",
+    "java_version": "23.0.1+11",
+    "jvm_impl": "openj9",
+    "md5": "0d2a84fcccfc0d88a5915345a5cf0b8d",
+    "os": "macosx",
+    "release_type": "ga",
+    "sha1": "af825c5b1ac8d717d912b6bbdeb660c256254844",
+    "sha256": "92c373af9b59f32d0a3a1857ac84c9140b3b5a6b6981d8306fa710e0a74e8e6d",
+    "sha512": "8e80587197f5195de4ead96f481164eb8e3d3da12cb54de90ea598c68911ef0784c3e8f6595332163042ee2bfd48808b426d02d236237b83bdb42c20ba64d51e",
+    "size": 48971305,
+    "url": "https://github.com/ibmruntimes/semeru23-binaries/releases/download/jdk-23.0.1%2B11_openj9-0.48.0/ibm-semeru-open-jre_aarch64_mac_23.0.1_11_openj9-0.48.0.pkg",
+    "vendor": "ibm",
+    "version": "23.0.1+11_openj9-0.48.0"
+  }
+]

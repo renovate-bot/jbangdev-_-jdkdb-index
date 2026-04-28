@@ -1,0 +1,44 @@
+[
+  {
+    "architecture": "ppc64le",
+    "distro": "debian",
+    "features": [
+      "headless"
+    ],
+    "file_type": "deb",
+    "filename": "openjdk-21-jdk-headless_21.0.11+10-1_ppc64el.deb",
+    "image_type": "jdk",
+    "java_version": "21.0.11+10",
+    "jvm_impl": "hotspot",
+    "md5": "a362a2e89358a31a4c4619035e0c79b8",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "f264aac3e8716ed78b4ee77f6f10c1ddb9a889af",
+    "sha256": "d1a3a7ac699a286ab6a4875ab78b02b4660cc453c6c6ff1085a3edcae12a35bc",
+    "sha512": "5a6cf2e83dcaea4d628ac70b221d5a1048a247ea7f328163f8901b7378a371f8ebe92b1da1427437e7a62c8261d875655441a30924b940fcd8e22ed223a3d241",
+    "size": 82605976,
+    "url": "http://ftp.debian.org/debian/pool/main/o/openjdk-21/openjdk-21-jdk-headless_21.0.11+10-1_ppc64el.deb",
+    "vendor": "debian",
+    "version": "21.0.11+10-1"
+  },
+  {
+    "architecture": "ppc64le",
+    "distro": "debian",
+    "features": [],
+    "file_type": "deb",
+    "filename": "openjdk-21-jdk_21.0.11+10-1_ppc64el.deb",
+    "image_type": "jdk",
+    "java_version": "21.0.11+10",
+    "jvm_impl": "hotspot",
+    "md5": "9a37c30f8aa5c64b80357844a9e29e6f",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "229318cb298dc647612341c72513a76959d890b0",
+    "sha256": "b09038045a40390622096356a87f5f71c0d932cad423d8e8b7d62e2209c3719b",
+    "sha512": "b41b1952d86c8224a566486863d9190d1ae7dfa39622247332b09e8340404ae7a51b4d268ee1108c0422ea9d684db6a3433e92456bd7c56d3532378e1c21c070",
+    "size": 3557396,
+    "url": "http://ftp.debian.org/debian/pool/main/o/openjdk-21/openjdk-21-jdk_21.0.11+10-1_ppc64el.deb",
+    "vendor": "debian",
+    "version": "21.0.11+10-1"
+  }
+]

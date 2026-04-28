@@ -1,0 +1,66 @@
+[
+  {
+    "architecture": "aarch64",
+    "distro": "zulu",
+    "features": [
+      "javafx"
+    ],
+    "file_type": "zip",
+    "filename": "zulu11.50.19-ca-fx-jre11.0.12-macosx_aarch64.zip",
+    "image_type": "jre",
+    "java_version": "11.0.12",
+    "jvm_impl": "hotspot",
+    "md5": "f7d95d7f7cc06003087b6b8d602b92b7",
+    "os": "macosx",
+    "release_type": "ga",
+    "sha1": "e70f16a093bb259878e29b63d846a96fbcae47f1",
+    "sha256": "aa6206f4f6ca139c27ff9f344c49e0504b2e126bc707cf53b9c2b8c07eb1d563",
+    "sha512": "1e221e003846f073d70f5c9d9b8554681ee0b3368e14779afcd88986757971faaf4cb4e8a8fb56a429216c9061622ad6bed916cdd197fee5d33177add871183b",
+    "size": 67819878,
+    "url": "https://static.azul.com/zulu/bin/zulu11.50.19-ca-fx-jre11.0.12-macosx_aarch64.zip",
+    "vendor": "azul",
+    "version": "11.50.19"
+  },
+  {
+    "architecture": "aarch64",
+    "distro": "zulu",
+    "features": [
+      "javafx"
+    ],
+    "file_type": "zip",
+    "filename": "zulu11.88.17-ca-fx-jre11.0.31-macosx_aarch64.zip",
+    "image_type": "jre",
+    "java_version": "11.0.31+11-LTS",
+    "jvm_impl": "hotspot",
+    "md5": "90850d95d5c275439ab6e65c3b73dc94",
+    "os": "macosx",
+    "release_type": "ga",
+    "sha1": "5f1dbde3481ff796bc62563a415c12d12f21b44e",
+    "sha256": "9e53065f04c6a97cbb4d068d7aeaf3ad14ce1806595367b8f312a9ccc35f1751",
+    "sha512": "3b532d226e440b7c9ecf6fd011c09035fbe234ec6b3c6f2e65481ce74b78d46042e3dbea1012aad3a22fcd530a933eadb1ca064c27f2c85e949706758ce8bf04",
+    "size": 83112183,
+    "url": "https://static.azul.com/zulu/bin/zulu11.88.17-ca-fx-jre11.0.31-macosx_aarch64.zip",
+    "vendor": "azul",
+    "version": "11.88.17"
+  },
+  {
+    "architecture": "aarch64",
+    "distro": "zulu",
+    "features": [],
+    "file_type": "zip",
+    "filename": "zulu11.88.17-ca-jre11.0.31-macosx_aarch64.zip",
+    "image_type": "jre",
+    "java_version": "11.0.31+11-LTS",
+    "jvm_impl": "hotspot",
+    "md5": "f977bed7cc57afe101316daff6680872",
+    "os": "macosx",
+    "release_type": "ga",
+    "sha1": "ed31dadc795dfa0298bc3931f19d8123dbbdbb54",
+    "sha256": "0b53c3af7034ce195d69507334c8b0cfeefe6f28a9e00092ac11a9256ceb0bff",
+    "sha512": "ed8ffdb690a33496f9627f383c289ec2ba0ad35b4d2c03861a79c6afda2122f14e571da96f2bacaafebf3e1fb49a5284f3d785bd3e6c374ba72db425c17e95d5",
+    "size": 38783885,
+    "url": "https://static.azul.com/zulu/bin/zulu11.88.17-ca-jre11.0.31-macosx_aarch64.zip",
+    "vendor": "azul",
+    "version": "11.88.17"
+  }
+]

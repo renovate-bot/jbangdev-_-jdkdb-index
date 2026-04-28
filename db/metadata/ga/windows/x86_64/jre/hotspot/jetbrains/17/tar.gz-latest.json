@@ -1,0 +1,67 @@
+[
+  {
+    "architecture": "x86_64",
+    "distro": "jetbrains",
+    "features": [],
+    "file_type": "tar.gz",
+    "filename": "jbr-17.0.8.1-windows-x64-b1080.1.tar.gz",
+    "image_type": "jre",
+    "java_version": "17.0.8.1",
+    "jvm_impl": "hotspot",
+    "md5": "d1e53c1c2e551a7cad5acce5efc75509",
+    "os": "windows",
+    "release_type": "ga",
+    "sha1": "b53c874dc7e5deed7e52d580fb69a724dfd03457",
+    "sha256": "18e4630db01702036062a7d56fa57ec9ffc5074e327af4d27a443f43acc6d40f",
+    "sha512": "5e24813cd2a31d6f700bd34293312287afc8211d9e6759a81d322a42bfd1dad44b917dbf02c582d446b71f747fa2e99b8bfd938c5eee71f59e43edd4cb7c39a7",
+    "size": 71289614,
+    "url": "https://cache-redirector.jetbrains.com/intellij-jbr/jbr-17.0.8.1-windows-x64-b1080.1.tar.gz",
+    "vendor": "jetbrains",
+    "version": "17.0.8.1b1080.1"
+  },
+  {
+    "architecture": "x86_64",
+    "distro": "jetbrains",
+    "features": [
+      "fastdebug",
+      "jcef"
+    ],
+    "file_type": "tar.gz",
+    "filename": "jbr_fd-17.0.8.1-windows-x64-b1080.1.tar.gz",
+    "image_type": "jre",
+    "java_version": "17.0.8.1",
+    "jvm_impl": "hotspot",
+    "md5": "4f09a16a846f4a615d9945a613a89785",
+    "os": "windows",
+    "release_type": "ga",
+    "sha1": "a90ee47bb29418884c370788c4e43919d0723e89",
+    "sha256": "df79322326c74e745923b0bfb47b70b65382e588ce7d7006d12d42192d564c4e",
+    "sha512": "5b4ec2f59f0090947daa1e7c2ca65bb498bfddfc7743904a085239861751155b9fc44ffac1e2c78d54a631ff746bf694436863a21c84f8900dee89223d1ebc27",
+    "size": 199034316,
+    "url": "https://cache-redirector.jetbrains.com/intellij-jbr/jbr_fd-17.0.8.1-windows-x64-b1080.1.tar.gz",
+    "vendor": "jetbrains",
+    "version": "17.0.8.1b1080.1"
+  },
+  {
+    "architecture": "x86_64",
+    "distro": "jetbrains",
+    "features": [
+      "jcef"
+    ],
+    "file_type": "tar.gz",
+    "filename": "jbr_jcef-17.0.8.1-windows-x64-b1080.1.tar.gz",
+    "image_type": "jre",
+    "java_version": "17.0.8.1+7-b1080.1",
+    "jvm_impl": "hotspot",
+    "md5": "11f5ae8e577186c2184fa85e9c0c234f",
+    "os": "windows",
+    "release_type": "ga",
+    "sha1": "2760f7d7a14f9741617ba1ef8118ebae3ae74fdb",
+    "sha256": "8857f25331c87c16bc94b889bc0d9b6e47388399a22df33a1d18dd44912ae9b3",
+    "sha512": "61672fb3284a89a16133b5899dd4fcaa147f6e64e092dea188974c962afa8cc9ad76125f53cf0e707326c7c6ddb40af5ba4718fce30649b73d7d11669f751d6d",
+    "size": 195400029,
+    "url": "https://cache-redirector.jetbrains.com/intellij-jbr/jbr_jcef-17.0.8.1-windows-x64-b1080.1.tar.gz",
+    "vendor": "jetbrains",
+    "version": "17.0.8.1b1080.1"
+  }
+]

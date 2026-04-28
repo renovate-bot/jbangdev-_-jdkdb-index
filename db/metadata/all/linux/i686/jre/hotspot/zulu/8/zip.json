@@ -1,0 +1,42 @@
+[
+  {
+    "architecture": "i686",
+    "distro": "zulu",
+    "features": [],
+    "file_type": "zip",
+    "filename": "zulu8.68.0.19-ca-jre8.0.362-linux_i686.zip",
+    "image_type": "jre",
+    "java_version": "8.0.362",
+    "jvm_impl": "hotspot",
+    "md5": "a0f8685dc221a50d0eb214b2a0835614",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "ed3d4f80211d6a68905d75323bc20e0cc549fa2b",
+    "sha256": "ca1405216f138764bb5718dd6c30f08e51da14849298cf1a662896c8a29fb221",
+    "sha512": "dde1cfae7a4599ae2fa136567cf7686fe10f8b304fd163b4f79dcd5d56a36e8ef4478c3d8a0e5b0c0a5d9bb9c86a0ad7934491a2a23a1f9e5fa6ac6d52f4698c",
+    "size": 45203102,
+    "url": "https://static.azul.com/zulu/bin/zulu8.68.0.19-ca-jre8.0.362-linux_i686.zip",
+    "vendor": "azul",
+    "version": "8.68.0.19"
+  },
+  {
+    "architecture": "i686",
+    "distro": "zulu",
+    "features": [],
+    "file_type": "zip",
+    "filename": "zulu8.80.0.17-ca-jre8.0.422-linux_i686.zip",
+    "image_type": "jre",
+    "java_version": "8.0.422",
+    "jvm_impl": "hotspot",
+    "md5": "3c2ccd2f723716d50660b7da0aa75f14",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "bba1b8ab6da37408a893ef5126e1e7919189748a",
+    "sha256": "ee3751c07f60d0bd1f1f54887d38a10b5399f519fbbd8b28c4f555b150fa04e7",
+    "sha512": "3b7283376236a589e3cfec4cc1ba25e0c587a3b9cb779758cd89fce9e2b912f4d7c4dfed9a6fdc8edd2be31774a0c6b08563a450ccb4be3fa5d3e225f6d35e61",
+    "size": 45210704,
+    "url": "https://static.azul.com/zulu/bin/zulu8.80.0.17-ca-jre8.0.422-linux_i686.zip",
+    "vendor": "azul",
+    "version": "8.80.0.17"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "architecture": "x86_64",
+    "distro": "sapmachine",
+    "features": [
+      "musl"
+    ],
+    "file_type": "tar.gz",
+    "filename": "sapmachine-jdk-21.0.11_linux-x64-musl_bin.tar.gz",
+    "image_type": "jdk",
+    "java_version": "21.0.11+10-LTS",
+    "jvm_impl": "hotspot",
+    "md5": "a12b65721a9e8f47a81f80d272ff9616",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "06e8132cb376d71c45df878f6f4884404d35b8cf",
+    "sha256": "156d88e6c0d0e9c82ef34706a7129e774526f820d8b160061359ad4801151a1c",
+    "sha512": "810bf86c6287b1960c51d6f956ea4911ec2eb99fadd512b9797d97994cbc56e9c14fb89ebe55e3cad2e6b7b20b8c0b562c613efa95ff6c2ca4cce5da31ed3d8d",
+    "size": 210440293,
+    "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21.0.11/sapmachine-jdk-21.0.11_linux-x64-musl_bin.tar.gz",
+    "vendor": "sap",
+    "version": "21.0.11"
+  },
+  {
+    "architecture": "x86_64",
+    "distro": "sapmachine",
+    "features": null,
+    "file_type": "tar.gz",
+    "filename": "sapmachine-jdk-21.0.11_linux-x64_bin.tar.gz",
+    "image_type": "jdk",
+    "java_version": "21.0.11+10-LTS",
+    "jvm_impl": "hotspot",
+    "md5": "3816e7507eeb3c50d0b40a96771e79a8",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "a82c90f552399e94b5a322a4e648cc6f666e179c",
+    "sha256": "8c3f89840069bcca458664ff967c878a2711cf826d4b1c03eaf7b5df632e7079",
+    "sha512": "30cf35ebb655434b43e4081e9b0925359390abb9d4598471d0f9689cd6d6bf4e600edfe60997256b95a6cfc5081ff5d6a72de605b2f366b6d03b812310d1dcac",
+    "size": 210630625,
+    "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21.0.11/sapmachine-jdk-21.0.11_linux-x64_bin.tar.gz",
+    "vendor": "sap",
+    "version": "21.0.11"
+  }
+]

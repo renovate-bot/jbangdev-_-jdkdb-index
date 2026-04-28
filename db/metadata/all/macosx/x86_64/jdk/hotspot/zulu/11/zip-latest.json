@@ -1,0 +1,44 @@
+[
+  {
+    "architecture": "x86_64",
+    "distro": "zulu",
+    "features": [
+      "javafx"
+    ],
+    "file_type": "zip",
+    "filename": "zulu11.88.17-ca-fx-jdk11.0.31-macosx_x64.zip",
+    "image_type": "jdk",
+    "java_version": "11.0.31+11-LTS",
+    "jvm_impl": "hotspot",
+    "md5": "64ed3dbabd73f05ed9e8822464e7c1ca",
+    "os": "macosx",
+    "release_type": "ga",
+    "sha1": "f424b0796d7a2d9d19c2a25055ff424461ede5e5",
+    "sha256": "f95f1656b84e2e75a585f3f6816c53e0abe1e51cbe4eeb4f2b10a5b207ac7e36",
+    "sha512": "1cb048093ba5739a9ade7588c15044f04f783029f0634e93893874cb8806e43e9364ce192bb85295191ed2552e6dba842c28851089a1599aa99aeb44f3a015d1",
+    "size": 301209836,
+    "url": "https://static.azul.com/zulu/bin/zulu11.88.17-ca-fx-jdk11.0.31-macosx_x64.zip",
+    "vendor": "azul",
+    "version": "11.88.17"
+  },
+  {
+    "architecture": "x86_64",
+    "distro": "zulu",
+    "features": [],
+    "file_type": "zip",
+    "filename": "zulu11.88.17-ca-jdk11.0.31-macosx_x64.zip",
+    "image_type": "jdk",
+    "java_version": "11.0.31+11-LTS",
+    "jvm_impl": "hotspot",
+    "md5": "e9b6eaaa3731be79797a86c66e5d008a",
+    "os": "macosx",
+    "release_type": "ga",
+    "sha1": "93375a6794d633ac0741b3b5b3afb0cea365eeec",
+    "sha256": "bd892a5d8938c343089c957d6ec483fc69c11321737333a9f4746be299c28686",
+    "sha512": "b9b53c29a2fe7d12d7d5e0d252aa30dcd6d107d17c5e47f6ad703d45a6c121c224ab19280015f3d9fbe2ea5d8615107d41746636029d77b9faa0f74ef8abcecf",
+    "size": 199524682,
+    "url": "https://static.azul.com/zulu/bin/zulu11.88.17-ca-jdk11.0.31-macosx_x64.zip",
+    "vendor": "azul",
+    "version": "11.88.17"
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "architecture": "x86_64",
+    "distro": "zulu",
+    "features": [
+      "javafx"
+    ],
+    "file_type": "tar.gz",
+    "filename": "zulu11.88.17-ca-fx-jdk11.0.31-macosx_x64.tar.gz",
+    "image_type": "jdk",
+    "java_version": "11.0.31+11-LTS",
+    "jvm_impl": "hotspot",
+    "md5": "0d110e84116a594bfc5f768b065b23d0",
+    "os": "macosx",
+    "release_type": "ga",
+    "sha1": "a4b86cdf0287c58fd12ee3447aa43d5bf281c5ca",
+    "sha256": "b25938114ed9974716db2d89062089f321ace61f9c2b67fcd6d4428013aae6e0",
+    "sha512": "850f8b863d79e7d0ed598a77e3bde443938a09ba2d53a8d5f39db612e00dd5253c362f3aa80f1ea6ea0373050c8b3b06821bc8d31b28c1c2b76f207da0a1cf9f",
+    "size": 295864915,
+    "url": "https://static.azul.com/zulu/bin/zulu11.88.17-ca-fx-jdk11.0.31-macosx_x64.tar.gz",
+    "vendor": "azul",
+    "version": "11.88.17"
+  }
+]

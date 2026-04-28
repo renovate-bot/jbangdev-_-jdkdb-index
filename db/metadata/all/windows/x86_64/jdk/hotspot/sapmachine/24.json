@@ -1,0 +1,42 @@
+[
+  {
+    "architecture": "x86_64",
+    "distro": "sapmachine",
+    "features": [],
+    "file_type": "zip",
+    "filename": "sapmachine-jdk-24-ea.22_windows-x64_bin.zip",
+    "image_type": "jdk",
+    "java_version": "24-ea.22",
+    "jvm_impl": "hotspot",
+    "md5": "04a646879cec164d033de4f016f95be6",
+    "os": "windows",
+    "release_type": "ea",
+    "sha1": "d1d7e43715ebf4ab9d457fb1b6b2cf2f6da49e15",
+    "sha256": "102583a4a06fdb9bedba2ed6f515bef66221b72c2cc58faa6a24d144e8007cd2",
+    "sha512": "2b7b4c0f4d3eb71fbad675bf9304a5396b8f23a9916dbb0a1ec9cb93c36b2c536831ed19d0fb3f0cc9ca648f0f90b8866dfb1e06cace5ece4e13ebe46e52a48d",
+    "size": 222272959,
+    "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-24+22/sapmachine-jdk-24-ea.22_windows-x64_bin.zip",
+    "vendor": "sap",
+    "version": "24-ea.22"
+  },
+  {
+    "architecture": "x86_64",
+    "distro": "sapmachine",
+    "features": [],
+    "file_type": "zip",
+    "filename": "sapmachine-jdk-24.0.1_windows-x64_bin.zip",
+    "image_type": "jdk",
+    "java_version": "24.0.1+9",
+    "jvm_impl": "hotspot",
+    "md5": "2192b3aecae52820ef366bee6fddaf4e",
+    "os": "windows",
+    "release_type": "ga",
+    "sha1": "1e736898a2eac06a17c5fec953f842aa69a54212",
+    "sha256": "cdcf8ca3536882b7954e117c3e2758e168a91c96e6ed09d968a772fde56fdf00",
+    "sha512": "0bc235bbdf8ae765c8bc5e9352024945b0ca747758b5e26ae4bf66e168a9d9a2ab1460fd5929d05a04184dc895cc9bf35f2ac6514f8e21c6dca72e38f79defdf",
+    "size": 232255795,
+    "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-24.0.1/sapmachine-jdk-24.0.1_windows-x64_bin.zip",
+    "vendor": "sap",
+    "version": "24.0.1"
+  }
+]

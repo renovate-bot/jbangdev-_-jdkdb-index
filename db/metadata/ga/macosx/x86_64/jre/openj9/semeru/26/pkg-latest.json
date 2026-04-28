@@ -1,0 +1,22 @@
+[
+  {
+    "architecture": "x86_64",
+    "distro": "semeru",
+    "features": [],
+    "file_type": "pkg",
+    "filename": "ibm-semeru-open-jre_x64_mac_26.0.0.0.pkg",
+    "image_type": "jre",
+    "java_version": "26+35",
+    "jvm_impl": "openj9",
+    "md5": "4af741b05be9289653b9520a5c26c53c",
+    "os": "macosx",
+    "release_type": "ga",
+    "sha1": "518d2a950b03eaaa49e53dcbdbdad5aa27cee5e3",
+    "sha256": "2e74c0a63ddc68482a63fccbf8b6a408df22dd5be70d80488ca500fae1d9ce58",
+    "sha512": "f97c41a40817e5699d40c20773a3f17da876e4897cc0747ff856603a62652edd1887e834ab70b6aecf21dc4a142f15e215442043a853f6717d878564507abc76",
+    "size": 55893820,
+    "url": "https://github.com/ibmruntimes/semeru26-binaries/releases/download/jdk-26%2B35_openj9-0.58.0/ibm-semeru-open-jre_x64_mac_26.0.0.0.pkg",
+    "vendor": "ibm",
+    "version": "26+35_openj9-0.58.0"
+  }
+]

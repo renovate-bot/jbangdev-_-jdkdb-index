@@ -1,0 +1,24 @@
+[
+  {
+    "architecture": "arm32",
+    "distro": "liberica-native",
+    "features": [
+      "native-image"
+    ],
+    "file_type": "tar.gz",
+    "filename": "bellsoft-liberica-vm-full-openjdk21.0.10+11-23.1.10+1-macos-aarch64.tar.gz",
+    "image_type": "jdk",
+    "java_version": "21.0.10+11-LTS",
+    "jvm_impl": "graalvm",
+    "md5": "12d4bf0292b8f5843c5f41c49b3c8944",
+    "os": "macosx",
+    "release_type": "ga",
+    "sha1": "4994b01cbbc1dae05c545c934f3c7bad5304e9d2",
+    "sha256": "8acec6d0b9a71f518bc5260dfe74198553a2315cd8eec41a959c42ec54aabd43",
+    "sha512": "8db52cc1c824fb99baba93255acc13409a0a49e99ef8374f37be47207791266fbb52d8fd407c4777bfb098544412ed288b6452b74a118361338c7f9a66560f71",
+    "size": 292372057,
+    "url": "https://github.com/bell-sw/LibericaNIK/releases/download/23.1.10+1-21.0.10+11/bellsoft-liberica-vm-full-openjdk21.0.10+11-23.1.10+1-macos-aarch64.tar.gz",
+    "vendor": "bellsoft",
+    "version": "23.1.10+1"
+  }
+]

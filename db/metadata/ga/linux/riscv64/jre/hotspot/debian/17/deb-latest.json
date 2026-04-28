@@ -1,0 +1,66 @@
+[
+  {
+    "architecture": "riscv64",
+    "distro": "debian",
+    "features": [
+      "headless"
+    ],
+    "file_type": "deb",
+    "filename": "openjdk-17-jre-headless_17.0.18+8-1_riscv64.deb",
+    "image_type": "jre",
+    "java_version": "17.0.18+8-Debian-1",
+    "jvm_impl": "hotspot",
+    "md5": "a2b0eae3303ae60d0b30168dfa71271d",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "c11b7aab65c9087de847a37a391379d994aefff7",
+    "sha256": "f8c6a4e43e35a0028e0309b6f627183236d622b1d50f981a1f6c3cfb723b99e0",
+    "sha512": "5bab8048d3bbadb7884b6b03911416fabb13fca1323e2776de685b34e99da5a0556f52fa8b15c60d5497741218509251c23a9a109854dbc217630f0b9468ee47",
+    "size": 43106512,
+    "url": "http://ftp.debian.org/debian/pool/main/o/openjdk-17/openjdk-17-jre-headless_17.0.18+8-1_riscv64.deb",
+    "vendor": "debian",
+    "version": "17.0.18+8-1"
+  },
+  {
+    "architecture": "riscv64",
+    "distro": "debian",
+    "features": [
+      "zero"
+    ],
+    "file_type": "deb",
+    "filename": "openjdk-17-jre-zero_17.0.18+8-1_riscv64.deb",
+    "image_type": "jre",
+    "java_version": "17.0.18+8",
+    "jvm_impl": "hotspot",
+    "md5": "44222fac836590f2a1e957bbfc2970f0",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "acd14915183e41354a795493827660a243a1412c",
+    "sha256": "18f118371342b2522742ae1813d04cb757ec1a2f0d565637aa916fa164729244",
+    "sha512": "cf6c7ed871bedf2aa2853863c48be000bdab4d969faa32045b684992a651513c71395d45cd81ff49ea7e8af27ddef62842615084b82a5afe1c6532e6f9184951",
+    "size": 2822220,
+    "url": "http://ftp.debian.org/debian/pool/main/o/openjdk-17/openjdk-17-jre-zero_17.0.18+8-1_riscv64.deb",
+    "vendor": "debian",
+    "version": "17.0.18+8-1"
+  },
+  {
+    "architecture": "riscv64",
+    "distro": "debian",
+    "features": [],
+    "file_type": "deb",
+    "filename": "openjdk-17-jre_17.0.18+8-1_riscv64.deb",
+    "image_type": "jre",
+    "java_version": "17.0.18+8",
+    "jvm_impl": "hotspot",
+    "md5": "046d5c55193a60ddc226f2666fff2b06",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "1aaf057c720f4fa77a129fb6a4031c0177b4de36",
+    "sha256": "95132ab85353bb6055f7a6fe91baef539d34c5b423e621677b9c937e578f5474",
+    "sha512": "5ffc93ac6cdcf03dc6ebf52be919c92b6bd1917bc8cc3e1dc98e584ba8299137f40f1259f41ed1fe034e4d8403a27fec8f50bd83604f6844dbb7ae6838d10ace",
+    "size": 212648,
+    "url": "http://ftp.debian.org/debian/pool/main/o/openjdk-17/openjdk-17-jre_17.0.18+8-1_riscv64.deb",
+    "vendor": "debian",
+    "version": "17.0.18+8-1"
+  }
+]

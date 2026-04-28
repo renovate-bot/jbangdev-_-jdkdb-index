@@ -1,0 +1,22 @@
+[
+  {
+    "architecture": "x86_64",
+    "distro": "microsoft",
+    "features": [],
+    "file_type": "tar.gz",
+    "filename": "microsoft-jdk-17.0.19-macos-x64.tar.gz",
+    "image_type": "jdk",
+    "java_version": "17.0.19+10-LTS",
+    "jvm_impl": "hotspot",
+    "md5": "82849a8a9b34cf5d0b48ab6e8b2b295c",
+    "os": "macosx",
+    "release_type": "ga",
+    "sha1": "4ab0be7ec2067457a5901d857cbca53673fc7db0",
+    "sha256": "6af364adc0c79a5a8d4ea2edc5ecb8cd7e47360c2944947c70482e18befea046",
+    "sha512": "a920b2d99793519a7f7807cbec4a62aee3f6ef7206d687afe66b562c46d742a021bc5c8a6e9e6148f64c83db39180061fcd118bea1efd8ae5b41686fa742b775",
+    "size": 188133169,
+    "url": "https://aka.ms/download-jdk/microsoft-jdk-17.0.19-macos-x64.tar.gz",
+    "vendor": "microsoft",
+    "version": "17.0.19"
+  }
+]

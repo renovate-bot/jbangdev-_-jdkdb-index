@@ -1,0 +1,42 @@
+[
+  {
+    "architecture": "ppc64",
+    "distro": "adoptopenjdk",
+    "features": [],
+    "file_type": "tar.gz",
+    "filename": "OpenJDK17U-jre_ppc64_aix_hotspot_17.0.19_10.tar.gz",
+    "image_type": "jre",
+    "java_version": "17.0.19+10",
+    "jvm_impl": "hotspot",
+    "md5": "0f127ea6bd12c26c8cef9bdc6da05050",
+    "os": "aix",
+    "release_type": "ga",
+    "sha1": "a781894c17eb6805877717e3a5a3d64a585ab789",
+    "sha256": "b82afd153eb68b715a1c993499fbe8ede7ba70a0a9f4826e0ce91483f8357e44",
+    "sha512": "3dca7561bfe2dcab5cc0870f30bb357e88ddcc7780dd56ebc2be8473d60b67b95d7d33303485cb6c03956ac856bf320e25e6856ac71de4553e05dbaefc11100d",
+    "size": 41615335,
+    "url": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.19%2B10/OpenJDK17U-jre_ppc64_aix_hotspot_17.0.19_10.tar.gz",
+    "vendor": "adoptopenjdk",
+    "version": "17.0.19+10"
+  },
+  {
+    "architecture": "ppc64",
+    "distro": "adoptopenjdk",
+    "features": [],
+    "file_type": "tar.gz",
+    "filename": "OpenJDK21U-jre_ppc64_aix_hotspot_21.0.11_10.tar.gz",
+    "image_type": "jre",
+    "java_version": "21.0.11+10-LTS",
+    "jvm_impl": "hotspot",
+    "md5": "844f95ece82415ab5302e38f36545eb2",
+    "os": "aix",
+    "release_type": "ga",
+    "sha1": "6c0f7ce1c5e1650cc1290d7592384738838088db",
+    "sha256": "f0efb13cb91e097c26f36f9c7ca775fee4a63d0eb4d43f913e18a2f65a4258df",
+    "sha512": "d69d479820e10899c9a2296d155a259d59b0b99f29b8ad1c09f337ba1f6bf244507aecf07d577d99a4303fba043b9aed9675e12140608362028f8d1b11197284",
+    "size": 48372889,
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.11%2B10/OpenJDK21U-jre_ppc64_aix_hotspot_21.0.11_10.tar.gz",
+    "vendor": "adoptopenjdk",
+    "version": "21.0.11+10.0.LTS"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "architecture": "riscv64",
+    "distro": "temurin",
+    "features": [],
+    "file_type": "tar.gz",
+    "filename": "OpenJDK17U-jre_riscv64_linux_hotspot_17.0.19_10.tar.gz",
+    "image_type": "jre",
+    "java_version": "17.0.19+10",
+    "jvm_impl": "hotspot",
+    "md5": "8232fa1bffbcad7375a033ea2aba401f",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "fc5f5d2de4a8342da5718ffe34dbb0faa705573b",
+    "sha256": "08c8c193fc2e8e6eb4450d3ddcefa78889eef338b2bbc0b30e5a6d586fc6d646",
+    "sha512": "cb9d61adda22e50b599345cd37464317e9b2e457f1c3a9c0080b0253aa408ef45f50706aa65f8a494f33f4f7e9c4314a17dc057fab3dee223eb64ee38d2aa943",
+    "size": 45278322,
+    "url": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.19%2B10/OpenJDK17U-jre_riscv64_linux_hotspot_17.0.19_10.tar.gz",
+    "vendor": "eclipse",
+    "version": "17.0.19+10"
+  },
+  {
+    "architecture": "riscv64",
+    "distro": "temurin",
+    "features": [],
+    "file_type": "tar.gz",
+    "filename": "OpenJDK21U-jre_riscv64_linux_hotspot_21.0.11_10.tar.gz",
+    "image_type": "jre",
+    "java_version": "21.0.11+10-LTS",
+    "jvm_impl": "hotspot",
+    "md5": "415fb40561cd54fd3e8f4236961c8546",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "18c6dfaf38dcf5ce374c46d9a4818de0357b8e73",
+    "sha256": "f3d8843c5a1b77ded3353e0df85d803d84b9faa5ece20673564e7c47fc4591d9",
+    "sha512": "9508bbe3e5930f789ca9d75af7bcf47c7f3499797b2c5940b97fb22e76cc5cc782b44422e2b66002aa230ee090df78345d7a3682ab9733343f32f896b1c884aa",
+    "size": 51634669,
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.11%2B10/OpenJDK21U-jre_riscv64_linux_hotspot_21.0.11_10.tar.gz",
+    "vendor": "eclipse",
+    "version": "21.0.11+10"
+  }
+]

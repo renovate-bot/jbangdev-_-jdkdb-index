@@ -1,0 +1,22 @@
+[
+  {
+    "architecture": "x86_64",
+    "distro": "zulu",
+    "features": [],
+    "file_type": "zip",
+    "filename": "zulu13.46.15-ca-jre13.0.10-linux_x64.zip",
+    "image_type": "jre",
+    "java_version": "13.0.10",
+    "jvm_impl": "hotspot",
+    "md5": "88c37fcbfdb51c1fa2a9b1096346e1ee",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "39fe5709e1f007f47552f0ae753470a1f06bc3e2",
+    "sha256": "a32c3e9eb8ef6250e918b24dd0574cea79e27ce9e39db376ddb869ffe4c660e7",
+    "sha512": "697a4b5aeda70ac5e6fe6e81a9d148a6a00313574f92fd06e17e1ab3249aafeb852f9c0a13a7aa609fa1384965393d6469d37970a69a1476afcbb3f5bed84f49",
+    "size": 46293207,
+    "url": "https://static.azul.com/zulu/bin/zulu13.46.15-ca-jre13.0.10-linux_x64.zip",
+    "vendor": "azul",
+    "version": "13.46.15"
+  }
+]

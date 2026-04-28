@@ -1,0 +1,22 @@
+[
+  {
+    "architecture": "x86_64",
+    "distro": "semeru",
+    "features": [],
+    "file_type": "zip",
+    "filename": "ibm-semeru-open-jre_x64_windows_11.0.31.0-m1.zip",
+    "image_type": "jre",
+    "java_version": "11.0.31.0",
+    "jvm_impl": "openj9",
+    "md5": "381c79ab32d32d658efb9ff33b0dc315",
+    "os": "windows",
+    "release_type": "ga",
+    "sha1": "ea57f5cdae6c39a69a4acb357a5c31fe25ae62c7",
+    "sha256": "22ed789e06e981bca1b0ddb0fcc6a4b38144b86689dfefda4ea0fcc1b0d67592",
+    "sha512": "7d32812337758c9af098f43b6b88dbcb9fde9c192396974fd2f2b5dc1b223a7a7ac1a170701238eabb1782baa9dc4465ce7f6557fbd7e3f411c13a19b3dba61e",
+    "size": 52948263,
+    "url": "https://github.com/ibmruntimes/semeru11-binaries/releases/download/jdk-11.0.31.0-m1/ibm-semeru-open-jre_x64_windows_11.0.31.0-m1.zip",
+    "vendor": "ibm",
+    "version": "11.0.31.0-m1"
+  }
+]

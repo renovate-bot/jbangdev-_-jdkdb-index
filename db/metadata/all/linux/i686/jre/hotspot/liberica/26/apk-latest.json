@@ -1,0 +1,24 @@
+[
+  {
+    "architecture": "i686",
+    "distro": "liberica",
+    "features": [
+      "musl"
+    ],
+    "file_type": "apk",
+    "filename": "bellsoft-jre26+37-linux-x64-musl.apk",
+    "image_type": "jre",
+    "java_version": "26+37",
+    "jvm_impl": "hotspot",
+    "md5": "a02fe1ffc5be4556f69eddc66ebfc3b9",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "9345aa5244922993a6a62f98d922d661a7746a89",
+    "sha256": "335ec4418e5a6b5ac3dec5771f83cb59a4170220b972b16d74a587804dc47287",
+    "sha512": "459eba18da004be20ce4c63f32feb4a3246bf1537ba808e47245b82edb70589eee47c45ab6e04f4f5946446c522f7f3d460e5c02cda83b4611461cd7569a4722",
+    "size": 85447169,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/26+37/bellsoft-jre26+37-linux-x64-musl.apk",
+    "vendor": "bellsoft",
+    "version": "26+37"
+  }
+]

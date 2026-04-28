@@ -1,0 +1,42 @@
+[
+  {
+    "architecture": "riscv64",
+    "distro": "temurin",
+    "features": [],
+    "file_type": "tar.gz",
+    "filename": "OpenJDK25U-jdk_riscv64_linux_hotspot_25.0.3_9.tar.gz",
+    "image_type": "jdk",
+    "java_version": "25.0.3+9-LTS",
+    "jvm_impl": "hotspot",
+    "md5": "f0dd9b9a3ae4294e288c5a8dc65342b2",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "17751ff40cc971641f06612de2d7946839883734",
+    "sha256": "3b23af7f7dfe82e1dc66509cb825d82d08372f2e7f66ae85a7fdb42a4c84bfcc",
+    "sha512": "7392e86290a226d6e4d1e0c955250013f963222c91f3a0f24843c344dbf97cb1c026033506e9da403a9936bd07452ed47d218447c77d246d8c464090823e24d6",
+    "size": 139788864,
+    "url": "https://github.com/adoptium/temurin25-binaries/releases/download/jdk-25.0.3%2B9/OpenJDK25U-jdk_riscv64_linux_hotspot_25.0.3_9.tar.gz",
+    "vendor": "eclipse",
+    "version": "25.0.3+9"
+  },
+  {
+    "architecture": "riscv64",
+    "distro": "temurin",
+    "features": [],
+    "file_type": "tar.gz",
+    "filename": "OpenJDK26U-jdk_riscv64_linux_hotspot_26_35.tar.gz",
+    "image_type": "jdk",
+    "java_version": "26+35",
+    "jvm_impl": "hotspot",
+    "md5": "6d5ff2b8dad648d1031fba72679afd34",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "48af5870f4689f3908af696e0009a4e87486ffac",
+    "sha256": "044cd107152425e189c7094b0f1c566afddf255149c56a7758e300481923fec6",
+    "sha512": "1c6f393ec1cc9e45e39c6a6c2b6638304762e7ea374e91cb6a563d2be3e3e356591dc10466a4d599b672bc7f2006eeaadcb80eaa0a5d136384561722fb5fa490",
+    "size": 142958857,
+    "url": "https://github.com/adoptium/temurin26-binaries/releases/download/jdk-26%2B35/OpenJDK26U-jdk_riscv64_linux_hotspot_26_35.tar.gz",
+    "vendor": "eclipse",
+    "version": "26+35"
+  }
+]

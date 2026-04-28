@@ -1,0 +1,47 @@
+[
+  {
+    "architecture": "arm32",
+    "distro": "liberica",
+    "features": [
+      "musl",
+      "lite"
+    ],
+    "file_type": "apk",
+    "filename": "bellsoft-jdk21.0.11+11-linux-aarch64-musl-lite.apk",
+    "image_type": "jdk",
+    "java_version": "21.0.11+11-LTS",
+    "jvm_impl": "hotspot",
+    "md5": "01a2cea7b7c4ec2537c7e9259eb45225",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "ee5669976551883addb0aebdf52e83e9f92e33d3",
+    "sha256": "48fc7d3d933af02ef5aa66743603466eca5fc40fa8e6179f2feadb1c98b90ba7",
+    "sha512": "0a111285739de7e9066495b21fcbce6e4fc48b302886796c1d223ff03b63dacc5eecb728ff9eb238f58fd4e885ae9e9b730e7c4ce9401498427496ec72224593",
+    "size": 77393049,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/21.0.11+11/bellsoft-jdk21.0.11+11-linux-aarch64-musl-lite.apk",
+    "vendor": "bellsoft",
+    "version": "21.0.11+11"
+  },
+  {
+    "architecture": "arm32",
+    "distro": "liberica",
+    "features": [
+      "musl"
+    ],
+    "file_type": "apk",
+    "filename": "bellsoft-jdk21.0.11+12-linux-aarch64-musl-crac.apk",
+    "image_type": "jdk",
+    "java_version": "21.0.11+12-LTS",
+    "jvm_impl": "hotspot",
+    "md5": "96da0ebcec3cd73e0025006bfb1c05a6",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "5db28471c318f0f8d01e3bb55baa619a376829e6",
+    "sha256": "00a2e76ac930141446a7f0a3d52e14a4d449b496514d853e814d5e4599ad58fd",
+    "sha512": "a2e43689c717b1d81092d18276e358eab6da61026d6f35355c34e6ae403dbc0504a22f48d1eaf3f027cd82aa68a1ca1e83f875090b028ead10347bec58f69ddd",
+    "size": 209677461,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/21.0.11+12/bellsoft-jdk21.0.11+12-linux-aarch64-musl-crac.apk",
+    "vendor": "bellsoft",
+    "version": "21.0.11+12"
+  }
+]

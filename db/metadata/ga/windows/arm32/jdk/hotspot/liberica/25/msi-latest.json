@@ -1,0 +1,46 @@
+[
+  {
+    "architecture": "arm32",
+    "distro": "liberica",
+    "features": [
+      "javafx"
+    ],
+    "file_type": "msi",
+    "filename": "bellsoft-jdk25.0.3+11-windows-aarch64-full.msi",
+    "image_type": "jdk",
+    "java_version": "25.0.3+11-LTS",
+    "jvm_impl": "hotspot",
+    "md5": "c9e9418b7afd13f928e6f52c396f64fb",
+    "os": "windows",
+    "release_type": "ga",
+    "sha1": "2ef1b23ca7c66e154dab498a2e96ab2341719423",
+    "sha256": "7b81f847ba2adb5fcd3ff01cd60fda26ed66aa0b5fd90a184782b7521257ad0e",
+    "sha512": "f946a509448b599843c892d5cfafbc182ee273d648497215b67c0b0cc2a701d843b9287a2f96aa758a9c5a8f49f6ecd397bca897daaaf50d861175e21236b4e7",
+    "size": 230084608,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/25.0.3+11/bellsoft-jdk25.0.3+11-windows-aarch64-full.msi",
+    "vendor": "bellsoft",
+    "version": "25.0.3+11"
+  },
+  {
+    "architecture": "arm32",
+    "distro": "liberica",
+    "features": [
+      "lite"
+    ],
+    "file_type": "msi",
+    "filename": "bellsoft-jdk25.0.3+11-windows-aarch64-lite.msi",
+    "image_type": "jdk",
+    "java_version": "25.0.3+11-LTS",
+    "jvm_impl": "hotspot",
+    "md5": "fa3ce8e0b238c7e20585526c145e28b6",
+    "os": "windows",
+    "release_type": "ga",
+    "sha1": "f37b2eb674506926ca2750456ef8a8816db73d12",
+    "sha256": "0193130e36a169fba1f14e2a85142a893fdae9af0fa3a9c2184272f36b1f81a9",
+    "sha512": "5a6f96fc8b6c955e4492f5622db7116da56efd00c2be5c8f6ccb8bb95a399c039916ec2260e6916b896a4292c6315bfc07c1db4dbf366aca8df28af5b0e70168",
+    "size": 81211392,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/25.0.3+11/bellsoft-jdk25.0.3+11-windows-aarch64-lite.msi",
+    "vendor": "bellsoft",
+    "version": "25.0.3+11"
+  }
+]

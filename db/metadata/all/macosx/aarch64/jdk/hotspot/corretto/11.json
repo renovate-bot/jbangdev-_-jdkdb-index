@@ -1,0 +1,42 @@
+[
+  {
+    "architecture": "aarch64",
+    "distro": "corretto",
+    "features": [],
+    "file_type": "pkg",
+    "filename": "amazon-corretto-11.0.28.6.1-macosx-aarch64.pkg",
+    "image_type": "jdk",
+    "java_version": "11.0.28+6-LTS",
+    "jvm_impl": "hotspot",
+    "md5": "f476a6672891853b5b5a2ee1d731108f",
+    "os": "macosx",
+    "release_type": "ga",
+    "sha1": "f9a1c842cae40aa7e3ca8e16eb4e643e68256a1d",
+    "sha256": "1ea8284ecaf5cb98eddcf4f62aed4d5d679026c3e2a924b33178fe2ebe0e71eb",
+    "sha512": "d35718d56aed3213193d5006892dbf1af54ed7ffc078f09cf6635021d879a3db0bd054f2d6438ba182d243339d28f6d30d690f855098bf336924f526099fa062",
+    "size": 185596404,
+    "url": "https://corretto.aws/downloads/resources/11.0.28.6.1/amazon-corretto-11.0.28.6.1-macosx-aarch64.pkg",
+    "vendor": "amazon",
+    "version": "11.0.28.6.1"
+  },
+  {
+    "architecture": "aarch64",
+    "distro": "corretto",
+    "features": [],
+    "file_type": "tar.gz",
+    "filename": "amazon-corretto-11.0.31.11.1-macosx-aarch64.tar.gz",
+    "image_type": "jdk",
+    "java_version": "11.0.31+11-LTS",
+    "jvm_impl": "hotspot",
+    "md5": "a4a94dd3405aa44cedd557d2e3a0efc7",
+    "os": "macosx",
+    "release_type": "ga",
+    "sha1": "d792821280ed84ab9cd4d300d905ef5482f5b558",
+    "sha256": "e31cc1fd9b42bf40ec0682a027c024599ac1d84bf2447ab1f32b4caa94c08faa",
+    "sha512": "de86c80ddc4e4d88a69f419053150b2b2b2b691a2853d7f58cbe3ad34d847d7710fa465d112831962009a7ebd45aaf1b219eec44fd34cf5291259c95222a04ab",
+    "size": 185315671,
+    "url": "https://corretto.aws/downloads/resources/11.0.31.11.1/amazon-corretto-11.0.31.11.1-macosx-aarch64.tar.gz",
+    "vendor": "amazon",
+    "version": "11.0.31.11.1"
+  }
+]

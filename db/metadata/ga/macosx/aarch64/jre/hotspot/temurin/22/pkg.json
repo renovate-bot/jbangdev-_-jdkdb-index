@@ -1,0 +1,22 @@
+[
+  {
+    "architecture": "aarch64",
+    "distro": "temurin",
+    "features": [],
+    "file_type": "pkg",
+    "filename": "OpenJDK22U-jre_aarch64_mac_hotspot_22.0.1_8.pkg",
+    "image_type": "jre",
+    "java_version": "22.0.1+8",
+    "jvm_impl": "hotspot",
+    "md5": "45f8327e8a01b1163c984959454c2454",
+    "os": "macosx",
+    "release_type": "ga",
+    "sha1": "2fa289c608656e6e172800b1e0f071b01ca21ecc",
+    "sha256": "bfc37c203ffe5e0a184e8b4f3e2637c9604919492341e9139b60de45a8082c23",
+    "sha512": "e149e4ad16b4e578201e83ffcb3caa9295c471c98e5dd9e83602a8edefa30af1b30b6f606a35202920b1da23f8b969b737203e8399a3683904f6c4a036a31406",
+    "size": 40586131,
+    "url": "https://github.com/adoptium/temurin22-binaries/releases/download/jdk-22.0.1%2B8/OpenJDK22U-jre_aarch64_mac_hotspot_22.0.1_8.pkg",
+    "vendor": "eclipse",
+    "version": "22.0.1+8"
+  }
+]

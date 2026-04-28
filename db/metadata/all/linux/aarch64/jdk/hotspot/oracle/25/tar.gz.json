@@ -1,0 +1,22 @@
+[
+  {
+    "architecture": "aarch64",
+    "distro": "oracle",
+    "features": [],
+    "file_type": "tar.gz",
+    "filename": "jdk-25.0.3_linux-aarch64_bin.tar.gz",
+    "image_type": "jdk",
+    "java_version": "25.0.3+9-LTS-195",
+    "jvm_impl": "hotspot",
+    "md5": "6b499bd647ab11437b9dd73d11880437",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "a12694cd5435acdd282c9ae8599b318ebefefeeb",
+    "sha256": "53206480b48dd68301e9267a1db292243e2db9314ad10fee28865b700ae25241",
+    "sha512": "bcdd39308aa8490dfbb6d2b086f49de18cbdacbb49f4a866abc551ff87b1c07a718853b732610071a315cc196e1397cb400d7bff4d6fd04da3c87db39ec3afd9",
+    "size": 214624753,
+    "url": "https://java.oraclecloud.com/java/25/archive/jdk-25.0.3_linux-aarch64_bin.tar.gz",
+    "vendor": "oracle",
+    "version": "25.0.3"
+  }
+]

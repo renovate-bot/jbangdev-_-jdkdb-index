@@ -1,0 +1,42 @@
+[
+  {
+    "architecture": "x86_64",
+    "distro": "openlogic",
+    "features": [],
+    "file_type": "msi",
+    "filename": "openlogic-openjdk-jre-11.0.23+9-windows-x64.msi",
+    "image_type": "jre",
+    "java_version": "11.0.23+9",
+    "jvm_impl": "hotspot",
+    "md5": "1323146738e7fc409f5b98a3873f784a",
+    "os": "windows",
+    "release_type": "ga",
+    "sha1": "ec082e1e7e74b5800d982ec23abe797d3d57f042",
+    "sha256": "19f9b572ac2591faf6fec3c9bca5f16db1753deaa7c5e68bbdb40036e9784d9e",
+    "sha512": "9fc741b26d20188cd206a50d886e172969bd38289f8031a29f3a5c3b742ac6d9ff349544bca5f3180762ca4a46d83f0cd17ca88bbdae27ad0bb24c5e9ca19096",
+    "size": 47886336,
+    "url": "https://builds.openlogic.com/downloadJDK/openlogic-openjdk-jre/11.0.23+9/openlogic-openjdk-jre-11.0.23+9-windows-x64.msi",
+    "vendor": "openlogic",
+    "version": "11.0.23+9"
+  },
+  {
+    "architecture": "x86_64",
+    "distro": "openlogic",
+    "features": [],
+    "file_type": "msi",
+    "filename": "openlogic-openjdk-jre-11.0.24+8-windows-x64.msi",
+    "image_type": "jre",
+    "java_version": "11.0.24+8",
+    "jvm_impl": "hotspot",
+    "md5": "230523074aaf35c44c50f825348645d8",
+    "os": "windows",
+    "release_type": "ga",
+    "sha1": "9ca3deef258746b99b5b5e472ccb677f40d459e6",
+    "sha256": "b8fccd5e41f9dd5369217f43809d7a776c5e15cf5c489e0f41c99ba24cb7d780",
+    "sha512": "993541de7231d9afaee12d833a4876dc4a19b6be3df952fc40dcd8e954d0b4c8de674805f0670d1df752039456000d30497fdeb8770f5b843e2c637da6fe7473",
+    "size": 47898624,
+    "url": "https://builds.openlogic.com/downloadJDK/openlogic-openjdk-jre/11.0.24+8/openlogic-openjdk-jre-11.0.24+8-windows-x64.msi",
+    "vendor": "openlogic",
+    "version": "11.0.24+8"
+  }
+]

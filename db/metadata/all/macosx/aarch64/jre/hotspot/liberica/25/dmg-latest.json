@@ -1,0 +1,46 @@
+[
+  {
+    "architecture": "aarch64",
+    "distro": "liberica",
+    "features": [
+      "libericafx",
+      "minimal-vm",
+      "javafx"
+    ],
+    "file_type": "dmg",
+    "filename": "bellsoft-jre25+37-macos-aarch64-full.dmg",
+    "image_type": "jre",
+    "java_version": "25+37",
+    "jvm_impl": "hotspot",
+    "md5": "66e05a8d5802f8cc38698afdd5a3a627",
+    "os": "macosx",
+    "release_type": "ga",
+    "sha1": "32fd4a10f1a16cb2118caa2b421d2b688ff8450a",
+    "sha256": "2a89b445f493610a8426ab6108640be249013c34d3f3c079297154f3c1f3a747",
+    "sha512": "4db4efd5a0762ddb72ad3b280d205e540e43d7a9f56723e380be925478a9b805ad1128fafc1b094b4b2b982bcfd49d7b40edb11ff38925e525c5f06a1952cda6",
+    "size": 127506868,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/25+37/bellsoft-jre25+37-macos-aarch64-full.dmg",
+    "vendor": "bellsoft",
+    "version": "25+37"
+  },
+  {
+    "architecture": "aarch64",
+    "distro": "liberica",
+    "features": [],
+    "file_type": "dmg",
+    "filename": "bellsoft-jre25+37-macos-aarch64.dmg",
+    "image_type": "jre",
+    "java_version": "25+37",
+    "jvm_impl": "hotspot",
+    "md5": "071eaea56eef7158d66198854fb3076a",
+    "os": "macosx",
+    "release_type": "ga",
+    "sha1": "709b9624c5aa6aea6f6ae575236488a32112d9d9",
+    "sha256": "5ff8fd5a6924498fed0d8b2dafb0d47f0bf6bcefa9964bf56eb0a320f89127d5",
+    "sha512": "a9559b04fc0ae5ee6052a7632cef26cbd57efa8d01d2b985abdbde9c4babf4e7b3f2af227a475e1ffdc17933568dc12de16d0351ac55f7bfc8e250c2d748c08b",
+    "size": 83732121,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/25+37/bellsoft-jre25+37-macos-aarch64.dmg",
+    "vendor": "bellsoft",
+    "version": "25+37"
+  }
+]

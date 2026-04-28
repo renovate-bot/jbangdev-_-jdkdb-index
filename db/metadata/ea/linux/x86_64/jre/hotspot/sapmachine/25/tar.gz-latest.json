@@ -1,0 +1,24 @@
+[
+  {
+    "architecture": "x86_64",
+    "distro": "sapmachine",
+    "features": [
+      "musl"
+    ],
+    "file_type": "tar.gz",
+    "filename": "sapmachine-jre-25.0.3-ea.9_linux-x64-musl_bin.tar.gz",
+    "image_type": "jre",
+    "java_version": "25.0.3-ea.9",
+    "jvm_impl": "hotspot",
+    "md5": "b465fee7ad68b2570a797d1484010450",
+    "os": "linux",
+    "release_type": "ea",
+    "sha1": "03745af6357c8cfd3e392044bab13699b9338f8d",
+    "sha256": "89aa478f281d2d61045c8729d5e9f7fa7672dde9329e5dd980d91d77056f7125",
+    "sha512": "575cc3c1c996110ecbf60939887305d0c77971c6251f53767b7f759d87e1a0e2497bebcc75eb71b56dd6ba88d563eb26474e13602de4d67d5b54ddcb4862d84c",
+    "size": 51005197,
+    "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-25.0.3%2B9/sapmachine-jre-25.0.3-ea.9_linux-x64-musl_bin.tar.gz",
+    "vendor": "sap",
+    "version": "25.0.3-ea.9"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "architecture": "x86_64",
+    "distro": "openlogic",
+    "features": [],
+    "file_type": "zip",
+    "filename": "openlogic-openjdk-17.0.18+8-mac-x64.zip",
+    "image_type": "jdk",
+    "java_version": "17.0.18+8-adhoc.admin.jdk17u",
+    "jvm_impl": "hotspot",
+    "md5": "d953a453de37a56e84ff508a882a0992",
+    "os": "macosx",
+    "release_type": "ga",
+    "sha1": "910f1931d7fb3296fdd2eb691c4b06bf6827da15",
+    "sha256": "fdb8a8fdb7dd892caa36d18e087d507d6bd0cd8db90f4b1af6ed74821374c7c5",
+    "sha512": "974bc722cba534a01b0a33b7999bbb6a356ebfe99061afa0a0c6a558970e67de68a10fe2a315753a58c700ce4437ebd1cdf73907a46e7a6a38ebbbd37b5663f5",
+    "size": 220996059,
+    "url": "https://builds.openlogic.com/downloadJDK/openlogic-openjdk/17.0.18+8/openlogic-openjdk-17.0.18+8-mac-x64.zip",
+    "vendor": "openlogic",
+    "version": "17.0.18+8"
+  }
+]

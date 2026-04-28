@@ -1,0 +1,42 @@
+[
+  {
+    "architecture": "x86_64",
+    "distro": "sapmachine",
+    "features": null,
+    "file_type": "tar.gz",
+    "filename": "sapmachine-jre-21.0.10.0.1_macos-x64_bin.tar.gz",
+    "image_type": "jre",
+    "java_version": "21.0.10.0.1+1-LTS",
+    "jvm_impl": "hotspot",
+    "md5": "b2eee2b0dd10f660f41e8b174f1a0ece",
+    "os": "macosx",
+    "release_type": "ga",
+    "sha1": "47169258b17d9d40e931b241531a07cb705593f4",
+    "sha256": "dd09f14671499ac6a01dfef2ab47070e50f7b5bbe0cb54334667c5ae700a4099",
+    "sha512": "21db9fba88090846c2ff1c0ba0039a128eaee1118e4a27c5d1a69ff119a7466c2f4858e7cba5666d814085900bd8588f6604d7d60bb5843a46c166217233bcf2",
+    "size": 50331621,
+    "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21.0.10.0.1/sapmachine-jre-21.0.10.0.1_macos-x64_bin.tar.gz",
+    "vendor": "sap",
+    "version": "21.0.10.0.1"
+  },
+  {
+    "architecture": "x86_64",
+    "distro": "sapmachine",
+    "features": null,
+    "file_type": "tar.gz",
+    "filename": "sapmachine-jre-21.0.11_macos-x64_bin.tar.gz",
+    "image_type": "jre",
+    "java_version": "21.0.11+10-LTS",
+    "jvm_impl": "hotspot",
+    "md5": "401fa248042af63ee43ed407c9bb32d1",
+    "os": "macosx",
+    "release_type": "ga",
+    "sha1": "7b7a80fc8985c3c0dee2a895f29b3d9a1406de6a",
+    "sha256": "8a1879be6df259cc54f442bb7deca971f3250a82b69bfef968db138a50c87e5c",
+    "sha512": "f06bd695ed1af7046584bc50e9e48a5e1f10bddb0928ce2e022178cd2aaab2fb1b603537549093d585983182cf94673862e0cc1ca667b417980da36594e98ac4",
+    "size": 50349806,
+    "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21.0.11/sapmachine-jre-21.0.11_macos-x64_bin.tar.gz",
+    "vendor": "sap",
+    "version": "21.0.11"
+  }
+]

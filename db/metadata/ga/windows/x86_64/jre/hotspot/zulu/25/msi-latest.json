@@ -1,0 +1,24 @@
+[
+  {
+    "architecture": "x86_64",
+    "distro": "zulu",
+    "features": [
+      "javafx"
+    ],
+    "file_type": "msi",
+    "filename": "zulu25.34.17-ca-fx-jre25.0.3-win_x64.msi",
+    "image_type": "jre",
+    "java_version": "25.0.3+9-LTS",
+    "jvm_impl": "hotspot",
+    "md5": "c2438446d6dc1dc83cebdce3915a0fba",
+    "os": "windows",
+    "release_type": "ga",
+    "sha1": "c31c6145120f678bbbf1908fb756ddb81f3738fa",
+    "sha256": "3cc4254c1977e6456b92345313323722d2b793949151a3b37a8b5f2c819734fe",
+    "sha512": "09f53f91fa375811f1fad6e82e4db58c3180471de6eb223ecd86fb1a53a6fa4c5613e8d16f2b40b3c73ff89c91ddb016a3336aa43ca0f905edfca15f046a6bc1",
+    "size": 75526144,
+    "url": "https://static.azul.com/zulu/bin/zulu25.34.17-ca-fx-jre25.0.3-win_x64.msi",
+    "vendor": "azul",
+    "version": "25.34.17"
+  }
+]

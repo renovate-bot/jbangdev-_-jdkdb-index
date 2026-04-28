@@ -1,0 +1,22 @@
+[
+  {
+    "architecture": "x86_64",
+    "distro": "jetbrains",
+    "features": [],
+    "file_type": "pkg",
+    "filename": "jbrsdk-21.0.9-osx-x64-b1163.94.pkg",
+    "image_type": "jdk",
+    "java_version": "21.0.9+10-b1163.94",
+    "jvm_impl": "hotspot",
+    "md5": "f3c4fe67053b5b69f312c85683fadbdf",
+    "os": "macosx",
+    "release_type": "ga",
+    "sha1": "2fb05fa11f96913d37daf42540bd8f11a5837355",
+    "sha256": "211aa8e353e04358cbc198bb13e864cb6b5f65a9f23dc20ddcb7b1b601edd084",
+    "sha512": "b4e0f4e6d125f137a5bf25367398aefa8521341271be814f97882fa060a3c6b4b0ea95e6cb53e22a8fa87b00b046ebf1090f2d64774077c4b8412ac6a06968a3",
+    "size": 234627227,
+    "url": "https://cache-redirector.jetbrains.com/intellij-jbr/jbrsdk-21.0.9-osx-x64-b1163.94.pkg",
+    "vendor": "jetbrains",
+    "version": "21.0.9b1163.94"
+  }
+]

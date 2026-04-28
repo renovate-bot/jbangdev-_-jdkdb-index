@@ -1,0 +1,42 @@
+[
+  {
+    "architecture": "x86_64",
+    "distro": "semeru",
+    "features": [],
+    "file_type": "pkg",
+    "filename": "ibm-semeru-open-jre_x64_mac_21.0.7_6_openj9-0.51.0.pkg",
+    "image_type": "jre",
+    "java_version": "21.0.7+6",
+    "jvm_impl": "openj9",
+    "md5": "d99c9efd565e1128b7581d3bf45a7b6c",
+    "os": "macosx",
+    "release_type": "ga",
+    "sha1": "2ceb977d867a76ea5d23c04fe368e6feef77cae9",
+    "sha256": "86ffd0c54f745dc0535e7ec12f821b8c4d274f7467043f4ce905b0bd540a5de2",
+    "sha512": "90545f7865387977d6f1d5c72fb61f78d5bdcf43841726cfa410851ddb482da0f455ea2649e8e261b1cec378cc0551e28ee2ef50ee90dda847562be27f2b7bcd",
+    "size": 52877905,
+    "url": "https://github.com/ibmruntimes/semeru21-binaries/releases/download/jdk-21.0.7%2B6_openj9-0.51.0/ibm-semeru-open-jre_x64_mac_21.0.7_6_openj9-0.51.0.pkg",
+    "vendor": "ibm",
+    "version": "21.0.7+6_openj9-0.51.0"
+  },
+  {
+    "architecture": "x86_64",
+    "distro": "semeru",
+    "features": [],
+    "file_type": "pkg",
+    "filename": "ibm-semeru-open-jre_x64_mac_21.0.10.1.pkg",
+    "image_type": "jre",
+    "java_version": "21.0.10+7.1",
+    "jvm_impl": "openj9",
+    "md5": "c5f647aba2ee64058eaa3577f12667f6",
+    "os": "macosx",
+    "release_type": "ga",
+    "sha1": "6485f4a17e0fbe5421650d2340a509af087c071c",
+    "sha256": "aaf406769bc816a4046b5fbffde8ef4b6a5679fddde9f080b10575c61f20dfb9",
+    "sha512": "1323d131e8cd1b50d9f4490146ab2161cff4080b1bd0cc01dad8829a03b72db88a10b55c0b66bdb65fe0b735c78a26a2a4f8726a0d46dcc89f5a4bc4121945a5",
+    "size": 55226386,
+    "url": "https://github.com/ibmruntimes/semeru21-binaries/releases/download/jdk-21.0.10%2B7.1_openj9-0.57.0/ibm-semeru-open-jre_x64_mac_21.0.10.1.pkg",
+    "vendor": "ibm",
+    "version": "21.0.10+7.1_openj9-0.57.0"
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "architecture": "i686",
+    "distro": "liberica",
+    "features": [
+      "javafx"
+    ],
+    "file_type": "tar.gz",
+    "filename": "bellsoft-jre26.0.1+10-macos-amd64-full.tar.gz",
+    "image_type": "jre",
+    "java_version": "26.0.1+10",
+    "jvm_impl": "hotspot",
+    "md5": "0aecc12ee146652fef8338ae2142da45",
+    "os": "macosx",
+    "release_type": "ga",
+    "sha1": "d4dca29a18fd7c9e6ce387aab52c3422dbc3d824",
+    "sha256": "20dfcc27f0d0d6133a4d901f55a05575bf5165df56127d43bf7cef535a8f760b",
+    "sha512": "48d3f88d1b4cac28922b3f9d95b9d80513305a5d7089ff574a4876fa09090800ad0b667e89c4d49648bc4cda4b2416b984b7778883adfe8014b97c2c23e0d01e",
+    "size": 131323514,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/26.0.1+10/bellsoft-jre26.0.1+10-macos-amd64-full.tar.gz",
+    "vendor": "bellsoft",
+    "version": "26.0.1+10"
+  },
+  {
+    "architecture": "i686",
+    "distro": "liberica",
+    "features": [],
+    "file_type": "tar.gz",
+    "filename": "bellsoft-jre26.0.1+10-macos-amd64.tar.gz",
+    "image_type": "jre",
+    "java_version": "26.0.1+10",
+    "jvm_impl": "hotspot",
+    "md5": "8267ab0f4e42ba517192c0b5b6c86c74",
+    "os": "macosx",
+    "release_type": "ga",
+    "sha1": "dea6d2ef7d28eb5ce7eba36ad48ceec2594936d8",
+    "sha256": "024d818ae77da3b97cfa98503b36e0e1fc2db258c32a5626897bf3b48d157cdb",
+    "sha512": "e0f04e3e2721bd064e25b3f92a53d12241207371a29549c1ec3011c3d2d3f43ba8926550dcc8b8227f274e87668d52f666fa3b9b6b1bea3213d31e54c1667c51",
+    "size": 80107141,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/26.0.1+10/bellsoft-jre26.0.1+10-macos-amd64.tar.gz",
+    "vendor": "bellsoft",
+    "version": "26.0.1+10"
+  },
+  {
+    "architecture": "i686",
+    "distro": "liberica",
+    "features": [
+      "javafx"
+    ],
+    "file_type": "tar.gz",
+    "filename": "bellsoft-jre26+37-macos-amd64-full.tar.gz",
+    "image_type": "jre",
+    "java_version": "26+37",
+    "jvm_impl": "hotspot",
+    "md5": "152b27d3308d975a8f511dfc390cfe00",
+    "os": "macosx",
+    "release_type": "ga",
+    "sha1": "a7d0e66ded5df0afd56d755b5660b74d17349fa3",
+    "sha256": "8ebe2c45b8145f040c425540222ce10713bffff03559adc48d65b50beaa639ec",
+    "sha512": "115174260396b88f466740acbdcbad27a243a19f051c044bd8e2bc46c617b1ee9b4a3ebef5825e297d33f960937ef1e00b6d9cb8d7b8a17cf0fd7bcccb7edbfe",
+    "size": 130085603,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/26+37/bellsoft-jre26+37-macos-amd64-full.tar.gz",
+    "vendor": "bellsoft",
+    "version": "26+37"
+  }
+]

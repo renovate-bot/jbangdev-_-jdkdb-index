@@ -1,0 +1,44 @@
+[
+  {
+    "architecture": "i686",
+    "distro": "debian",
+    "features": [
+      "headless"
+    ],
+    "file_type": "deb",
+    "filename": "openjdk-26-jre-headless_26+35-2_i386.deb",
+    "image_type": "jre",
+    "java_version": "26+35-Debian-2",
+    "jvm_impl": "hotspot",
+    "md5": "4e53c5d7174e2798ca1116bd9f86e2c3",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "2df3849431a7b6ec6c206976e3406cec4225c197",
+    "sha256": "f74c2530c79041095141a2aa918de02768d42c193d8ab2a4525896c9d1036631",
+    "sha512": "640bb05c2489c32b9a3199f5a389863cb3be8ddef020f80246ea0f7d4f58fcdd8dd3299ace731de2707303f2f8c468a821903e1ee6e61734735cfb870e4b305b",
+    "size": 39087872,
+    "url": "http://ftp.debian.org/debian/pool/main/o/openjdk-26/openjdk-26-jre-headless_26+35-2_i386.deb",
+    "vendor": "debian",
+    "version": "26+35-2"
+  },
+  {
+    "architecture": "i686",
+    "distro": "debian",
+    "features": [],
+    "file_type": "deb",
+    "filename": "openjdk-26-jre_26+35-2_i386.deb",
+    "image_type": "jre",
+    "java_version": "26+35",
+    "jvm_impl": "hotspot",
+    "md5": "0bd90537ed3b4ef23604ef1cde82ea65",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "455436e165f189a83dd33e6c5207238a567b832f",
+    "sha256": "cde36ed5129545f54e5d3b68c13fe8be9d427e22b0474f8b1fe9fd9748197351",
+    "sha512": "c6c81f3cadbec686ddbff6353f1c59c28a6bbf264988c497bbf70fc1ca5431b897ee552edc31df5c207d6c0678aac176b21b21d093413dab75fd5503b6469268",
+    "size": 197488,
+    "url": "http://ftp.debian.org/debian/pool/main/o/openjdk-26/openjdk-26-jre_26+35-2_i386.deb",
+    "vendor": "debian",
+    "version": "26+35-2"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "architecture": "x86_64",
+    "distro": "semeru",
+    "features": [],
+    "file_type": "pkg",
+    "filename": "ibm-semeru-open-jre_x64_mac_17.0.18_8_openj9-0.57.0.pkg",
+    "image_type": "jre",
+    "java_version": "17.0.18+8",
+    "jvm_impl": "openj9",
+    "md5": "e1946f406321940423727d83c2c4c86c",
+    "os": "macosx",
+    "release_type": "ga",
+    "sha1": "7932d508ca894471f4bbeec1f65c18e003abc5da",
+    "sha256": "eb418a359721287bba00b081841045cbff5f7f70365265bafcb1de05e721035b",
+    "sha512": "64240d6641850754127ddbff5313ce39c05a37c06cdeb05ac016fb3c86bd9c50a7b39158324e2e58b1812fb170d56066d3539d20feea83820389f5a31fa78772",
+    "size": 51084734,
+    "url": "https://github.com/ibmruntimes/semeru17-binaries/releases/download/jdk-17.0.18%2B8_openj9-0.57.0/ibm-semeru-open-jre_x64_mac_17.0.18_8_openj9-0.57.0.pkg",
+    "vendor": "ibm",
+    "version": "17.0.18+8_openj9-0.57.0"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "architecture": "x86_64",
+    "distro": "temurin",
+    "features": [
+      "musl"
+    ],
+    "file_type": "tar.gz",
+    "filename": "OpenJDK11U-jre_x64_alpine-linux_hotspot_11.0.31_11-ea.tar.gz",
+    "image_type": "jre",
+    "java_version": "11",
+    "jvm_impl": "hotspot",
+    "md5": "69a4c627fcc7abdca1fc421f645d542f",
+    "os": "linux",
+    "release_type": "ea",
+    "sha1": "d04b40ea8bf747891d10d5b6c991a9aec6f9c668",
+    "sha256": "cfe6e2039e1bfb65407576e616a9b213a0639246ebbfa122d707363f7b53b737",
+    "sha512": "ff1b3a2526eb42ea9c9d964b31a4cfc00a29f607d2b78fb9447074a60910973ff022ac377396f71d5b5cb10d290a0eae15853b97115b2a2d18b407b33292abb6",
+    "size": 42883883,
+    "url": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.31%2B11-ea-beta/OpenJDK11U-jre_x64_alpine-linux_hotspot_11.0.31_11-ea.tar.gz",
+    "vendor": "eclipse",
+    "version": "11.0.31+11-ea-beta"
+  },
+  {
+    "architecture": "x86_64",
+    "distro": "temurin",
+    "features": [],
+    "file_type": "tar.gz",
+    "filename": "OpenJDK11U-jre_x64_linux_hotspot_11.0.31_11-ea.tar.gz",
+    "image_type": "jre",
+    "java_version": "11",
+    "jvm_impl": "hotspot",
+    "md5": "3b039460b339e2f410df0c40c2e90fbe",
+    "os": "linux",
+    "release_type": "ea",
+    "sha1": "ac54d152e1ca08fe58b8649e61e9faa2d0c7b930",
+    "sha256": "064edd47625fdd32e1377489c9ff2f892a0d549810be40c41617a7af04d37a94",
+    "sha512": "ddf81e58133bcce8944916e5d44267862cc831e5ff4d2870c130502467268a6e797744bf38d310968c7e2aad1e02084e084fa29d3a18e86d1c61a39108849904",
+    "size": 43520015,
+    "url": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.31%2B11-ea-beta/OpenJDK11U-jre_x64_linux_hotspot_11.0.31_11-ea.tar.gz",
+    "vendor": "eclipse",
+    "version": "11.0.31+11-ea-beta"
+  }
+]

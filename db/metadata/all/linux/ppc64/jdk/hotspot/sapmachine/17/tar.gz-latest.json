@@ -1,0 +1,24 @@
+[
+  {
+    "architecture": "ppc64",
+    "distro": "sapmachine",
+    "features": [
+      "le"
+    ],
+    "file_type": "tar.gz",
+    "filename": "sapmachine-jdk-17.0.19_linux-ppc64le_bin.tar.gz",
+    "image_type": "jdk",
+    "java_version": "17.0.19+10-LTS",
+    "jvm_impl": "hotspot",
+    "md5": "20821561679a8e25fd58c1a55066c52a",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "671feba0761c827f87c0d4431bf79705625b2986",
+    "sha256": "51bc120be8a00d2940004db11f62c97aca63e905b9279feaafd583a6b489e9f8",
+    "sha512": "3c6b7f1f0c2fd2ee56d9054ab9a80280224dfd87478a41369ecdcea15fed865a4b04f4679cb3af8096df0a1eebbcd66435583b661432455d21c661249dc1ed93",
+    "size": 194328531,
+    "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17.0.19/sapmachine-jdk-17.0.19_linux-ppc64le_bin.tar.gz",
+    "vendor": "sap",
+    "version": "17.0.19"
+  }
+]

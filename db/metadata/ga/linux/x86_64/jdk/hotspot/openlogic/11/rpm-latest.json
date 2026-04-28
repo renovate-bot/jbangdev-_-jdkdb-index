@@ -1,0 +1,22 @@
+[
+  {
+    "architecture": "x86_64",
+    "distro": "openlogic",
+    "features": [],
+    "file_type": "rpm",
+    "filename": "openlogic-openjdk-11.0.30+7-linux-x64-el.rpm",
+    "image_type": "jdk",
+    "java_version": "11.0.30+7-adhoc.root.jdk11u",
+    "jvm_impl": "hotspot",
+    "md5": "f1e6f1927cae3cb8a7db3c202fa289b3",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "66ce438ad9de29019fbffe107c90c38878423d8d",
+    "sha256": "3fd26368c30be4dd2a6ed2b6e7f802c92c3cf38dffdb389cbdff9be3c765ec81",
+    "sha512": "67f404c2608b4375413497100d6303d04932e2768f6dbe74fe4098bc850872ad88119a5a471c05b073ff3d19d2991834e069cd6e325d802334cf5ef5425ec49a",
+    "size": 230164380,
+    "url": "https://builds.openlogic.com/downloadJDK/openlogic-openjdk/11.0.30+7/openlogic-openjdk-11.0.30+7-linux-x64-el.rpm",
+    "vendor": "openlogic",
+    "version": "11.0.30+7"
+  }
+]

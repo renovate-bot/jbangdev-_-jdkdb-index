@@ -1,0 +1,66 @@
+[
+  {
+    "architecture": "i686",
+    "distro": "liberica",
+    "features": [
+      "javafx"
+    ],
+    "file_type": "msi",
+    "filename": "bellsoft-jdk8u492+9-windows-amd64-full.msi",
+    "image_type": "jdk",
+    "java_version": "1.8.0_492",
+    "jvm_impl": "hotspot",
+    "md5": "2155bca90cc7994c65e6112895dcffc3",
+    "os": "windows",
+    "release_type": "ga",
+    "sha1": "7ee7ffc6a2b0ad622eca1a7c1faf90bf27a4ec8b",
+    "sha256": "1e798e9dfae6f913719501e0191bcaf94c799c5347f77ff28ca04d89c77ec62f",
+    "sha512": "093f7b229ce3a28cc45c32c87a7a5bd56231c518118a1a4c074c39a9f9512f80b9d4372637ffc6c895cdd5730be78b84da9855bb69033a9569e4ec7a61aaf7e4",
+    "size": 148692992,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/8u492+9/bellsoft-jdk8u492+9-windows-amd64-full.msi",
+    "vendor": "bellsoft",
+    "version": "8u492+9"
+  },
+  {
+    "architecture": "i686",
+    "distro": "liberica",
+    "features": [],
+    "file_type": "msi",
+    "filename": "bellsoft-jdk8u492+9-windows-amd64.msi",
+    "image_type": "jdk",
+    "java_version": "1.8.0_492",
+    "jvm_impl": "hotspot",
+    "md5": "e4ae694afc7e1b7abe8c9b6dc5f4b725",
+    "os": "windows",
+    "release_type": "ga",
+    "sha1": "389ad1695db640c5de3cd9d084796e88657cca11",
+    "sha256": "ae1f4ed8fec2c1b5d6d72f18a2c46f40dde2cef03309b4393febcda79c3b1c54",
+    "sha512": "2805a030dadfb2a2701c29201f6ff3e02e8f2e88effc226d05a3af4c20ed7086cb45a1aae0d9319ecd2dfa9a72778d693a24fc1a9730b82b4b93481d08c8b4f3",
+    "size": 104390656,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/8u492+9/bellsoft-jdk8u492+9-windows-amd64.msi",
+    "vendor": "bellsoft",
+    "version": "8u492+9"
+  },
+  {
+    "architecture": "i686",
+    "distro": "liberica",
+    "features": [
+      "lite"
+    ],
+    "file_type": "msi",
+    "filename": "bellsoft-jdk8u492+9-windows-i586-lite.msi",
+    "image_type": "jdk",
+    "java_version": "1.8.0_492",
+    "jvm_impl": "hotspot",
+    "md5": "3cc98f2016e922f434673ec1d51124b6",
+    "os": "windows",
+    "release_type": "ga",
+    "sha1": "dbe7ef4ad31c6dd7e779e358a1e5c64d453261da",
+    "sha256": "bd7da904918b1535b707070e29d2f3370362dd3058b5d225ad1882eb6b6f361c",
+    "sha512": "bd75dbc7940febad5a8abd78d8ce01d89780962c704c4040f6c92d4e36f5e08b727baafbe803a3d0960eafbd31939ad6b379db8a46004ed51c723df1f84d2b3d",
+    "size": 52469760,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/8u492+9/bellsoft-jdk8u492+9-windows-i586-lite.msi",
+    "vendor": "bellsoft",
+    "version": "8u492+9"
+  }
+]

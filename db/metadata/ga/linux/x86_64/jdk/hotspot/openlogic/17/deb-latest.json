@@ -1,0 +1,22 @@
+[
+  {
+    "architecture": "x86_64",
+    "distro": "openlogic",
+    "features": [],
+    "file_type": "deb",
+    "filename": "openlogic-openjdk-17.0.18+8-linux-x64-deb.deb",
+    "image_type": "jdk",
+    "java_version": "17.0.18+8-adhoc.root.jdk17u",
+    "jvm_impl": "hotspot",
+    "md5": "1933b1c3cbfd80246ec47c4efbebfd60",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "2ec60a403db4fcf77e4e2168532b0ac3f824f95c",
+    "sha256": "c827b03be69ee67ad6cc14e2e2e6bbb12e4a35f7e3ee1034c0bbce7a362789fe",
+    "sha512": "608247452fdb9516a9d2868ef11839efbfa905b35692c1aecc6a5ae602b2a81575223b17b90b1bbd56e07b5da789918dd4619058273fb917e09a9629c57ce599",
+    "size": 229629360,
+    "url": "https://builds.openlogic.com/downloadJDK/openlogic-openjdk/17.0.18+8/openlogic-openjdk-17.0.18+8-linux-x64-deb.deb",
+    "vendor": "openlogic",
+    "version": "17.0.18+8"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "architecture": "arm32",
+    "distro": "liberica",
+    "features": [],
+    "file_type": "rpm",
+    "filename": "bellsoft-jre17.0.19+11-linux-aarch64.rpm",
+    "image_type": "jre",
+    "java_version": "17.0.19+11-LTS",
+    "jvm_impl": "hotspot",
+    "md5": "4ffed9c6afd44e349f8c988395a86381",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "af08b293791a07eefe288b4b6b7fac0748536c2a",
+    "sha256": "2832f619ec8bccc7b53fb00bf27562b0f0f0bac52e72c88563ec1508562ad920",
+    "sha512": "d50a0c328eeeba8ff58cc51d280d49b9cf3158dfa98f072c0aa748afe8e8598cf5af47a16aa3843d7686617d82784325535e00a9b7aac22db2ac0b77c6bbefc7",
+    "size": 40099024,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/17.0.19+11/bellsoft-jre17.0.19+11-linux-aarch64.rpm",
+    "vendor": "bellsoft",
+    "version": "17.0.19+11"
+  }
+]

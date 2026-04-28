@@ -1,0 +1,44 @@
+[
+  {
+    "architecture": "riscv64",
+    "distro": "debian",
+    "features": [
+      "headless"
+    ],
+    "file_type": "deb",
+    "filename": "openjdk-11-jre-headless_11.0.30+7-1_riscv64.deb",
+    "image_type": "jre",
+    "java_version": "11.0.30+7-post-Debian-1",
+    "jvm_impl": "hotspot",
+    "md5": "18b2cddffe1ad5d104f250cac7bd9ed4",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "1e6154b8aa0849781c152931d8dc1c4e3ab4757b",
+    "sha256": "0d755d2bdf4a8f17af6028decf595b932f622bc58bbb863c04a8ef65b98aff00",
+    "sha512": "bbf62911e7f33e883d2357f5842c5bf04a10ee4edc08bddf9e7958ca65ab02a5e7d48546839cd244081ebd06722c944d84eb9aeebb7e7bb615b477ce0e17b235",
+    "size": 31813224,
+    "url": "http://ftp.debian.org/debian/pool/main/o/openjdk-11/openjdk-11-jre-headless_11.0.30+7-1_riscv64.deb",
+    "vendor": "debian",
+    "version": "11.0.30+7-1"
+  },
+  {
+    "architecture": "riscv64",
+    "distro": "debian",
+    "features": [],
+    "file_type": "deb",
+    "filename": "openjdk-11-jre_11.0.30+7-1_riscv64.deb",
+    "image_type": "jre",
+    "java_version": "11.0.30+7",
+    "jvm_impl": "hotspot",
+    "md5": "b8e0bd319cb1020fa5c8441cf63e14bc",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "514e3b730684222e29bb334557c5db34a51a3b25",
+    "sha256": "d92a16f0adc55f76d92e70411a84c11d3de231f32cd4a3e8fecc6762634faa06",
+    "sha512": "dcb73f1af0b13798760e591e8373e876b5378b78a727d16267732440cf45e08bfcc1c2c741d6d1adcd26cb228e3cf2aba3626f7d35bf35aa9065e1ac8044d23d",
+    "size": 197576,
+    "url": "http://ftp.debian.org/debian/pool/main/o/openjdk-11/openjdk-11-jre_11.0.30+7-1_riscv64.deb",
+    "vendor": "debian",
+    "version": "11.0.30+7-1"
+  }
+]

@@ -1,0 +1,89 @@
+[
+  {
+    "architecture": "x86_64",
+    "distro": "jetbrains",
+    "features": [
+      "jcef"
+    ],
+    "file_type": "tar.gz",
+    "filename": "jbr_dcevm-11_0_14_1-osx-x64-b2043.45.tar.gz",
+    "image_type": "jre",
+    "java_version": "11.0.14.1",
+    "jvm_impl": "hotspot",
+    "md5": "f8b82a914c1adbe19218e5c2f6ba4766",
+    "os": "macosx",
+    "release_type": "ga",
+    "sha1": "e1d27439f87caecf76ce94bef42a905997aeec13",
+    "sha256": "000d89c88a800dda6501619fbdd929796132a15d3c79febedf2faf7c6fae4051",
+    "sha512": "a97a7649b725019d1ca15c5550cd98e8e497dbc60601d463cfb192e115ad7ad33600e070569328bc5ac3e278a1ad73c5a7238ed111237062218b063f9dffd000",
+    "size": 185316809,
+    "url": "https://cache-redirector.jetbrains.com/intellij-jbr/jbr_dcevm-11_0_14_1-osx-x64-b2043.45.tar.gz",
+    "vendor": "jetbrains",
+    "version": "11.0.14.1b2043.45"
+  },
+  {
+    "architecture": "x86_64",
+    "distro": "jetbrains",
+    "features": [
+      "fastdebug",
+      "jcef"
+    ],
+    "file_type": "tar.gz",
+    "filename": "jbr_fd-11_0_14_1-osx-x64-b2043.45.tar.gz",
+    "image_type": "jre",
+    "java_version": "11.0.14.1",
+    "jvm_impl": "hotspot",
+    "md5": "2e6095755b8f4c7ed0899fa3468ef611",
+    "os": "macosx",
+    "release_type": "ga",
+    "sha1": "3673cb80fa1f2d1947835f363f72fb4c6166f9ef",
+    "sha256": "eb03b795be14c637cd4ca61be93c13012dbf882b44212ca1d1dc4d0502cb32f7",
+    "sha512": "4443b809ee1b8308023e86940b7ef1cccb993bd685d32d8a6230e7111d4b07323532b8ef137910163a16300ee8b11bbe30726a345472e9d8f7a1ba2d80d27abd",
+    "size": 185085709,
+    "url": "https://cache-redirector.jetbrains.com/intellij-jbr/jbr_fd-11_0_14_1-osx-x64-b2043.45.tar.gz",
+    "vendor": "jetbrains",
+    "version": "11.0.14.1b2043.45"
+  },
+  {
+    "architecture": "x86_64",
+    "distro": "jetbrains",
+    "features": [
+      "jcef"
+    ],
+    "file_type": "tar.gz",
+    "filename": "jbr_jcef-11_0_14_1-osx-x64-b2043.45.tar.gz",
+    "image_type": "jre",
+    "java_version": "11.0.14.1",
+    "jvm_impl": "hotspot",
+    "md5": "054ade8fa8f6e9c6dabf56beccdd36a3",
+    "os": "macosx",
+    "release_type": "ga",
+    "sha1": "2625d9adb8982c3aece84076cd926e335ca92137",
+    "sha256": "25c77ee24edc066592465ca1008f8a9f992da3ef40af616c29994831c1bfe480",
+    "sha512": "ffd284617ea78ee696c227369392a60d124e2c6a9cf2dd1a3bc06db55a1352389ec57cb5c36d442c95c8c93a0e1cd634821a8a12e68d6dd8728daeedd331face",
+    "size": 185283973,
+    "url": "https://cache-redirector.jetbrains.com/intellij-jbr/jbr_jcef-11_0_14_1-osx-x64-b2043.45.tar.gz",
+    "vendor": "jetbrains",
+    "version": "11.0.14.1b2043.45"
+  },
+  {
+    "architecture": "x86_64",
+    "distro": "jetbrains",
+    "features": [],
+    "file_type": "tar.gz",
+    "filename": "jbr_nomod-11_0_14_1-osx-x64-b2043.45.tar.gz",
+    "image_type": "jre",
+    "java_version": "11.0.14.1",
+    "jvm_impl": "hotspot",
+    "md5": "4f77f9165de9b8f5282d01e13ff580dc",
+    "os": "macosx",
+    "release_type": "ga",
+    "sha1": "bc3203b9442bbaf1f1037e3646b67bd6acf499d7",
+    "sha256": "926c61dc8011077a067eb91bca7845d4287b1b2f75afc26f26f08029bc7fc26a",
+    "sha512": "c4fb5c63ba7b34914655e8282a0f463193e67cc4e341c400225e42c6e789b6ee8a3cbd7ef8813433a8e69e278b8d3a5e4ac7ea92405b1092f9e419ef64f2ea9e",
+    "size": 72364775,
+    "url": "https://cache-redirector.jetbrains.com/intellij-jbr/jbr_nomod-11_0_14_1-osx-x64-b2043.45.tar.gz",
+    "vendor": "jetbrains",
+    "version": "11.0.14.1b2043.45"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "architecture": "i686",
+    "distro": "jetbrains",
+    "features": [],
+    "file_type": "tar.gz",
+    "filename": "jbr-11_0_14_1-windows-x86-b2043.45.tar.gz",
+    "image_type": "jre",
+    "java_version": "11.0.14.1",
+    "jvm_impl": "hotspot",
+    "md5": "c03ddb6aa8f1c50e9c3248e7add9190e",
+    "os": "windows",
+    "release_type": "ga",
+    "sha1": "fb5a357440da0d190a128099171b196d6f986148",
+    "sha256": "3ee685f16dcdb7eb8bf02961edf97be59034aa3baed90ba68bbd8245cc45903f",
+    "sha512": "5a8b212300a5c70afac3a19271e7a8d0d72efb364b9d27b6bb82c34a369b745dfaa444438c5e24151b561b7744ebf2a62cdf9734466baeb00de88b99f976ac3b",
+    "size": 64204563,
+    "url": "https://cache-redirector.jetbrains.com/intellij-jbr/jbr-11_0_14_1-windows-x86-b2043.45.tar.gz",
+    "vendor": "jetbrains",
+    "version": "11.0.14.1b2043.45"
+  }
+]

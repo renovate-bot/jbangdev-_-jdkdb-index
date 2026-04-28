@@ -1,0 +1,42 @@
+[
+  {
+    "architecture": "x86_64",
+    "distro": "sapmachine",
+    "features": [],
+    "file_type": "zip",
+    "filename": "sapmachine-jdk-20-ea.22_windows-x64_bin.zip",
+    "image_type": "jdk",
+    "java_version": "20-ea.22",
+    "jvm_impl": "hotspot",
+    "md5": "901e9de6b88be3da87c3b5c4ea66701e",
+    "os": "windows",
+    "release_type": "ea",
+    "sha1": "e354e24d59b32496cb1e24ef71b8167117eb54fd",
+    "sha256": "bc5d7c92e097462d261f2dabc98b612fc11aedfdaf02e751eb7979f0651f944f",
+    "sha512": "a18c52169f5e5b135825ae479d89d2d1c3675f0efdee7695c5169ba38f99adaf846b2c8a25fa331f7c7523111420975a3c743f2a66abb3bbdb87f783d4ba8f3e",
+    "size": 207156882,
+    "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+22/sapmachine-jdk-20-ea.22_windows-x64_bin.zip",
+    "vendor": "sap",
+    "version": "20-ea.22"
+  },
+  {
+    "architecture": "x86_64",
+    "distro": "sapmachine",
+    "features": [],
+    "file_type": "msi",
+    "filename": "sapmachine-jdk-20-ea.28_windows-x64_bin.msi",
+    "image_type": "jdk",
+    "java_version": "20-ea.28",
+    "jvm_impl": "hotspot",
+    "md5": "2408960f2abdf59b49c544e7202c64ab",
+    "os": "windows",
+    "release_type": "ea",
+    "sha1": "4f66be39d274d123bb2fab2b5968ba8ad0447cc7",
+    "sha256": "550c51f057f35a401925e967a9f976311ede2948ec2d56a0f432fb518a6a55b3",
+    "sha512": "3066bb945b97399e42d4ae314a55dcf6c4bb831ac139878d67561a364b5d312039a755b8b8a859011266d2a6529c8580771da3a709c3ec574959d00199cba60a",
+    "size": 204120064,
+    "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+28/sapmachine-jdk-20-ea.28_windows-x64_bin.msi",
+    "vendor": "sap",
+    "version": "20-ea.28"
+  }
+]

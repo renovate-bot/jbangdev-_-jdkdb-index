@@ -1,0 +1,44 @@
+[
+  {
+    "architecture": "x86_64",
+    "distro": "temurin",
+    "features": [
+      "musl"
+    ],
+    "file_type": "tar.gz",
+    "filename": "OpenJDK17U-jre_x64_alpine-linux_hotspot_17.0.19_10-ea.tar.gz",
+    "image_type": "jre",
+    "java_version": "17",
+    "jvm_impl": "hotspot",
+    "md5": "6adf126041335a47d9eb3f83c4774c1b",
+    "os": "linux",
+    "release_type": "ea",
+    "sha1": "c055d3262364500993c4c20993f1b38527dd30d0",
+    "sha256": "3be4e384f4f880eb48e7d4e334f4048134ff4beba6e1dd7e7f0f37df0e6000a5",
+    "sha512": "72f122abcb324b0236efd7c8f60512b0f6967c6c48cd273e0107ac9e1771dca8d131cf365d64a94ed5d41096b8d0a3dcfbc8a7c57f87e38bbd740f0acbde8a29",
+    "size": 46354712,
+    "url": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.19%2B10-ea-beta/OpenJDK17U-jre_x64_alpine-linux_hotspot_17.0.19_10-ea.tar.gz",
+    "vendor": "eclipse",
+    "version": "17.0.19+10-ea-beta"
+  },
+  {
+    "architecture": "x86_64",
+    "distro": "temurin",
+    "features": [],
+    "file_type": "tar.gz",
+    "filename": "OpenJDK17U-jre_x64_linux_hotspot_17.0.19_10-ea.tar.gz",
+    "image_type": "jre",
+    "java_version": "17",
+    "jvm_impl": "hotspot",
+    "md5": "dd36a9b85977df8c0ce0a8f61f87901f",
+    "os": "linux",
+    "release_type": "ea",
+    "sha1": "15d86cd1a8cb610fe062e697cb38c8ad12bda4de",
+    "sha256": "7be6f423ab492d5c396dede0cae203aa1bcd2c9b89e59b9382563818b309c438",
+    "sha512": "4bb218185a1ebb723fa96b0ac600cb0b2c7e3e1f2c74c41ae158dc75f0efad1b8a5ab10dff478908619722110213fe1296dd29c35bfbc0868f42cffb7421db35",
+    "size": 46670985,
+    "url": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.19%2B10-ea-beta/OpenJDK17U-jre_x64_linux_hotspot_17.0.19_10-ea.tar.gz",
+    "vendor": "eclipse",
+    "version": "17.0.19+10-ea-beta"
+  }
+]

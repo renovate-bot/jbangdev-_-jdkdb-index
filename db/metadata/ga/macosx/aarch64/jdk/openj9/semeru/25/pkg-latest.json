@@ -1,0 +1,22 @@
+[
+  {
+    "architecture": "aarch64",
+    "distro": "semeru",
+    "features": [],
+    "file_type": "pkg",
+    "filename": "ibm-semeru-open-jdk_aarch64_mac_25.0.3.0-m2.pkg",
+    "image_type": "jdk",
+    "java_version": "25.0.3+8-LTS",
+    "jvm_impl": "openj9",
+    "md5": "ef3cfefa336022202826338c08f7f5b1",
+    "os": "macosx",
+    "release_type": "ga",
+    "sha1": "e19fb08f523cc73371bc73bbab302a8109690afd",
+    "sha256": "823415ba07dd2dbf5e1ebae8b8038fde72f0ea33577801eb1b90a0407e21df96",
+    "sha512": "8572c6ef63a6f0f474978d777c13c523137617e70931b7ccaec0daf33797adc27eb231086eab5c01f545d8406ae64cfadb705d2fa032ec5c6dc8659e230b6595",
+    "size": 234660000,
+    "url": "https://github.com/ibmruntimes/semeru25-binaries/releases/download/jdk-25.0.3.0-m2/ibm-semeru-open-jdk_aarch64_mac_25.0.3.0-m2.pkg",
+    "vendor": "ibm",
+    "version": "25.0.3.0-m2"
+  }
+]

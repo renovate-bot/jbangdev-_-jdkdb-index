@@ -1,0 +1,42 @@
+[
+  {
+    "architecture": "x86_64",
+    "distro": "zulu",
+    "features": [],
+    "file_type": "zip",
+    "filename": "zulu17.0.43-ea-jdk17.0.0-ea.17-win_x64.zip",
+    "image_type": "jdk",
+    "java_version": "17.0.0-ea.17",
+    "jvm_impl": "hotspot",
+    "md5": "09497b7a320e13ab9d9d891042228e47",
+    "os": "windows",
+    "release_type": "ea",
+    "sha1": "e60b3f5126470df01db1400fdc0dd7bcb1b11c55",
+    "sha256": "8f1a5db05976b26b34fae614935b2ade95d193e19c3c4fd7e624494913ec75b7",
+    "sha512": "3ef28672bf44218adebf04659f179879314b0de7576a1b592caa017d817e7b57e39ada697d68c3fa6ac3b284dd724d5b7ebbaf8ee03bc2f227141c4be68639d9",
+    "size": 209704028,
+    "url": "https://static.azul.com/zulu/bin/zulu17.0.43-ea-jdk17.0.0-ea.17-win_x64.zip",
+    "vendor": "azul",
+    "version": "17.0.43"
+  },
+  {
+    "architecture": "x86_64",
+    "distro": "zulu",
+    "features": [],
+    "file_type": "zip",
+    "filename": "zulu17.0.65-ea-jdk17.0.0-ea.28-win_x64.zip",
+    "image_type": "jdk",
+    "java_version": "17.0.0-ea.28",
+    "jvm_impl": "hotspot",
+    "md5": "c8f00c23d070e387cd365dcc73823ca4",
+    "os": "windows",
+    "release_type": "ea",
+    "sha1": "9e050b975a3ddd547cc3561f51f18e5995d9d4fc",
+    "sha256": "e4b3bdbffb784b9c82bf58d7a71566738bf919856471fc86d0934e85a7bdd270",
+    "sha512": "fffaf4024fb7a96fadbc8cb568b19dd912d1600fb349ad98a1c4cf97a0bc746ca2c1dbc2198ec20810ac55ad43c7cec3bb3fa8fe274d3da71d2319e8deae63ca",
+    "size": 193964048,
+    "url": "https://static.azul.com/zulu/bin/zulu17.0.65-ea-jdk17.0.0-ea.28-win_x64.zip",
+    "vendor": "azul",
+    "version": "17.0.65"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "architecture": "ppc64le",
+    "distro": "temurin",
+    "features": [],
+    "file_type": "tar.gz",
+    "filename": "OpenJDK8U-jre_ppc64le_linux_hotspot_8u492b09-ea.tar.gz",
+    "image_type": "jre",
+    "java_version": "1.8.0_492-beta-202604252011-b09",
+    "jvm_impl": "hotspot",
+    "md5": "a630eb5f8b63e01a059a9967633b696e",
+    "os": "linux",
+    "release_type": "ea",
+    "sha1": "76e2db5acde7b0d2b84da699a8bf0512ffaf4130",
+    "sha256": "25e0e1231d33bc1f30c99bf7ecb49ebf3a6c48612c99064c4bbed13c1f6d3a80",
+    "sha512": "68198f9d27319d579de3bc786bfbb53ac1ee8476a412681056a8e9e1446c2abcd5bc1862c99aafa72a22d27e989f2ed0ae33b64f89bbc3ec6a7a0a5394bbd0cd",
+    "size": 41328096,
+    "url": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u492-b09-ea-beta/OpenJDK8U-jre_ppc64le_linux_hotspot_8u492b09-ea.tar.gz",
+    "vendor": "eclipse",
+    "version": "8u492-b09-ea-beta"
+  }
+]

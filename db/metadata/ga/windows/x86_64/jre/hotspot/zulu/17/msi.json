@@ -1,0 +1,42 @@
+[
+  {
+    "architecture": "x86_64",
+    "distro": "zulu",
+    "features": [],
+    "file_type": "msi",
+    "filename": "zulu17.54.21-ca-jre17.0.13-win_x64.msi",
+    "image_type": "jre",
+    "java_version": "17.0.13+11-LTS",
+    "jvm_impl": "hotspot",
+    "md5": "43e03dc860e74bd07fdaf05012fa06ee",
+    "os": "windows",
+    "release_type": "ga",
+    "sha1": "61b33738cc4d239ec17b76e212acf0599bc68a5a",
+    "sha256": "0e840d115fd6c065ac14b4cd539045f4c612ec2351f224f8430b9284af3b3c40",
+    "sha512": "9183431687b61ac7e1dc7690d435515c62b91396fa471bb05addc02b8ef21b80d3b40e24c96e4c7f547a7a6061ceeeed77776866e75b103ed2555d904312b124",
+    "size": 32034816,
+    "url": "https://static.azul.com/zulu/bin/zulu17.54.21-ca-jre17.0.13-win_x64.msi",
+    "vendor": "azul",
+    "version": "17.54.21"
+  },
+  {
+    "architecture": "x86_64",
+    "distro": "zulu",
+    "features": [],
+    "file_type": "msi",
+    "filename": "zulu17.66.15-ca-jre17.0.19-win_x64.msi",
+    "image_type": "jre",
+    "java_version": "17.0.19+10-LTS",
+    "jvm_impl": "hotspot",
+    "md5": "d9f42b85425e1ee58176e66a68f61a70",
+    "os": "windows",
+    "release_type": "ga",
+    "sha1": "a3891b72087a9e2a9823c733b273678825f149a6",
+    "sha256": "ceeddfed90d346bfe26722a1fd20cd287a2c28cd706739a167445cdc18abf70b",
+    "sha512": "5eb3c9c02aff93837826eb919da85d812371b77fcfdfb7b042bf051b409bd1bcb23e0c4a922489ec6c83350f1aafe6a636a849a762a4a0d1a09dd046eb6664f7",
+    "size": 32321536,
+    "url": "https://static.azul.com/zulu/bin/zulu17.66.15-ca-jre17.0.19-win_x64.msi",
+    "vendor": "azul",
+    "version": "17.66.15"
+  }
+]

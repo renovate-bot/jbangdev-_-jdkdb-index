@@ -1,0 +1,66 @@
+[
+  {
+    "architecture": "arm32",
+    "distro": "liberica",
+    "features": [
+      "musl"
+    ],
+    "file_type": "tar.gz",
+    "filename": "bellsoft-jre25.0.3+11-linux-aarch64-musl.tar.gz",
+    "image_type": "jre",
+    "java_version": "25.0.3+11-LTS",
+    "jvm_impl": "hotspot",
+    "md5": "fb775c2bc1f9d0d1c20cf2f2490799a9",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "9ce34bfe21fd207e8956ccf680c44e02433e2079",
+    "sha256": "c72b264f2bd8ccc11458e82e95b47034d3b8f30a9a05b45f90b1eb0998715f1c",
+    "sha512": "0e150b3fa66a201b877f9b085bc2d22310490f041e10c3e4c7259b06951234c8e1cb895fd1a20df260db9dd38bc871f9f69b8488c4464168056ce1d3962da4c9",
+    "size": 82242395,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/25.0.3+11/bellsoft-jre25.0.3+11-linux-aarch64-musl.tar.gz",
+    "vendor": "bellsoft",
+    "version": "25.0.3+11"
+  },
+  {
+    "architecture": "arm32",
+    "distro": "liberica",
+    "features": [
+      "javafx"
+    ],
+    "file_type": "tar.gz",
+    "filename": "bellsoft-jre25.0.3+11-linux-arm32-vfp-hflt-full.tar.gz",
+    "image_type": "jre",
+    "java_version": "25.0.3+11-LTS",
+    "jvm_impl": "hotspot",
+    "md5": "741b2ddafe351a8dd69f16ccd5999027",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "c7f91ea91a7df7aae81f365f8a4bd890c6247e8d",
+    "sha256": "cbdfd310e1732c69a2f712d7f4d6f8c015ee4f54ee5c7eeac183d91bbcf1d1de",
+    "sha512": "32ce0cb39de9bec1f8d630a1c858aead3e00261f76a16af7c1a6183780da6a53f783d33c0a860f2ea465ce046c9b46017a36dab176acb6d02a6b561140d7ec44",
+    "size": 53698948,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/25.0.3+11/bellsoft-jre25.0.3+11-linux-arm32-vfp-hflt-full.tar.gz",
+    "vendor": "bellsoft",
+    "version": "25.0.3+11"
+  },
+  {
+    "architecture": "arm32",
+    "distro": "liberica",
+    "features": [],
+    "file_type": "tar.gz",
+    "filename": "bellsoft-jre25.0.3+11-linux-arm32-vfp-hflt.tar.gz",
+    "image_type": "jre",
+    "java_version": "25.0.3+11-LTS",
+    "jvm_impl": "hotspot",
+    "md5": "f73fe5c36ac68a7e1bbd9008413e070c",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "fdbb05d5e5b9c00ea49b336dc2878d40887e45da",
+    "sha256": "e4c25306b7d5d4d5516879c00aef43ab2f750ef7bd1998aa15741e840bc0f0c2",
+    "sha512": "94f5dcf4652fcde6f9226ecaa5fb09188214605774368e90ef27094a4d21137229fbe2bce75c70fef1cc4bbbb6ce77d5563a90731e1e8725dd4dabc945e445f8",
+    "size": 47165652,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/25.0.3+11/bellsoft-jre25.0.3+11-linux-arm32-vfp-hflt.tar.gz",
+    "vendor": "bellsoft",
+    "version": "25.0.3+11"
+  }
+]

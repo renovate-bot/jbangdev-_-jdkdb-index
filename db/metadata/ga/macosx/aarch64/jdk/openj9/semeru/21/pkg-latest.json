@@ -1,0 +1,22 @@
+[
+  {
+    "architecture": "aarch64",
+    "distro": "semeru",
+    "features": [],
+    "file_type": "pkg",
+    "filename": "ibm-semeru-open-jdk_aarch64_mac_21.0.11.0-m1.pkg",
+    "image_type": "jdk",
+    "java_version": "21.0.11+7-LTS",
+    "jvm_impl": "openj9",
+    "md5": "404c7a87299ce0c7d93485e08b25ed2e",
+    "os": "macosx",
+    "release_type": "ga",
+    "sha1": "f580c4ee7d838567979b2c4677f8329072702895",
+    "sha256": "6a4620b1d44388cd579a7b5bbcac902202b76c9438bc1397e1ea85a8859beaaf",
+    "sha512": "a0e2dbf6452fb4f2877dc91ede8c69531133f7c5f65f98af1d12ea179d2fb6fc986898b897e88db1f52747b05efbcd95a59c6a4383cce7b23f16210fd129c2bf",
+    "size": 226632991,
+    "url": "https://github.com/ibmruntimes/semeru21-binaries/releases/download/jdk-21.0.11.0-m1/ibm-semeru-open-jdk_aarch64_mac_21.0.11.0-m1.pkg",
+    "vendor": "ibm",
+    "version": "21.0.11.0-m1"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "architecture": "x86_64",
+    "distro": "temurin",
+    "features": [],
+    "file_type": "msi",
+    "filename": "OpenJDK18U-jdk_x64_windows_hotspot_18_36.msi",
+    "image_type": "jdk",
+    "java_version": "18+36",
+    "jvm_impl": "hotspot",
+    "md5": "a2ef490a370cddd74c5e28adf38244da",
+    "os": "windows",
+    "release_type": "ga",
+    "sha1": "3c445ce6a24266dcb633f4715851f9423a9dcbc0",
+    "sha256": "28280dd5453a252d412894c9a5b5bcf84ea426a9ecc20135f791f3875b73f343",
+    "sha512": "bb581a77e937a985b4ef2a6e075762628eeff7a951dc99ce22d51f335822ceed532387a4963210a6b37f8220e06990356c668b92aa67ff0fcac938df2c15abe8",
+    "size": 169426432,
+    "url": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18%2B36/OpenJDK18U-jdk_x64_windows_hotspot_18_36.msi",
+    "vendor": "eclipse",
+    "version": "18+36"
+  }
+]

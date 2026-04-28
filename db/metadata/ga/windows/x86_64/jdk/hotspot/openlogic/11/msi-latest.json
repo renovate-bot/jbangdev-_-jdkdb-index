@@ -1,0 +1,22 @@
+[
+  {
+    "architecture": "x86_64",
+    "distro": "openlogic",
+    "features": [],
+    "file_type": "msi",
+    "filename": "openlogic-openjdk-11.0.30+7-windows-x64.msi",
+    "image_type": "jdk",
+    "java_version": "11.0.30+7-adhoc..jdk11u",
+    "jvm_impl": "hotspot",
+    "md5": "e25b784ed36d8aae0245f983059d22f6",
+    "os": "windows",
+    "release_type": "ga",
+    "sha1": "d7e541620aef9f09a0e7f80894362b7ee05fc9e7",
+    "sha256": "a95ff9a6395fe126da7ce75646eb950fe4772738194682845994cfa39a7f3dfe",
+    "sha512": "7a5ea01abc70610182e52b423558c73877ab09b6a84d7b5e08368af0c42dac561b306ff1264573025a0658acce260a5e1c4e7f54b4ddc0e7f98b433aa19916fd",
+    "size": 194932736,
+    "url": "https://builds.openlogic.com/downloadJDK/openlogic-openjdk/11.0.30+7/openlogic-openjdk-11.0.30+7-windows-x64.msi",
+    "vendor": "openlogic",
+    "version": "11.0.30+7"
+  }
+]

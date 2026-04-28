@@ -76,6 +76,8 @@ components:
     fileTypes:
       type: string
       enum:
+        - "tar.gz"
+        - "zip"
         - "apk"
         - "deb"
         - "dmg"
@@ -83,19 +85,17 @@ components:
         - "msi"
         - "pkg"
         - "rpm"
-        - "tar.gz"
         - "tar.xz"
-        - "zip"
     releaseTypes:
       type: string
       enum:
-        - "ea"
         - "ga"
+        - "ea"
     imageTypes:
       type: string
       enum:
-        - "jre"
         - "jdk"
+        - "jre"
     jvmImpls:
       type: string
       enum:

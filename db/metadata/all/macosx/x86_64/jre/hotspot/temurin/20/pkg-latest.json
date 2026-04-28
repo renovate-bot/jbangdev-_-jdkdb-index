@@ -1,0 +1,22 @@
+[
+  {
+    "architecture": "x86_64",
+    "distro": "temurin",
+    "features": [],
+    "file_type": "pkg",
+    "filename": "OpenJDK20U-jre_x64_mac_hotspot_20_36.pkg",
+    "image_type": "jre",
+    "java_version": "20+36",
+    "jvm_impl": "hotspot",
+    "md5": "df58996bc6937de9de2dd599fadd9e36",
+    "os": "macosx",
+    "release_type": "ga",
+    "sha1": "cf8e40c4827acb339df0fa7ffe2705b5644be73f",
+    "sha256": "b068d4a57276959fe92b6e378c932b38c237d0bf0771a0f1d40d8490aae0880c",
+    "sha512": "25bf661231ddc39f121f67ca02c07498a2967839c5b37a605311cbb0d8b64ef4556684e5d609a3a0719d82dfea35fdd1284aac4b5628f6ec06b70ebefbc17b36",
+    "size": 46926704,
+    "url": "https://github.com/adoptium/temurin20-binaries/releases/download/jdk-20%2B36/OpenJDK20U-jre_x64_mac_hotspot_20_36.pkg",
+    "vendor": "eclipse",
+    "version": "20+36"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "architecture": "x86_64",
+    "distro": "sapmachine",
+    "features": null,
+    "file_type": "tar.gz",
+    "filename": "sapmachine-jre-13_linux-x64_bin.tar.gz",
+    "image_type": "jre",
+    "java_version": "13",
+    "jvm_impl": "hotspot",
+    "md5": "2518303c7af54a274e844ac74ac0207e",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "61a1a415c5d84a10f334689d285639b431a7c293",
+    "sha256": "4b51e8343854deb9ec3a76c8e3d7b2ec5d05ddaa85b5e10eb095c55972d21dd8",
+    "sha512": "b92d1a21880470be44ba6e5cad08f374f6e092313dfccd5d99f4bccdc4aafb4b89e1f620fbb39f51330d264571d85781a6bf3c1c68e431dab08827319efd754e",
+    "size": 46119343,
+    "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-13/sapmachine-jre-13_linux-x64_bin.tar.gz",
+    "vendor": "sap",
+    "version": "13"
+  }
+]

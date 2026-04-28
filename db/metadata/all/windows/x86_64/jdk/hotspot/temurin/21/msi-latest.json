@@ -1,0 +1,22 @@
+[
+  {
+    "architecture": "x86_64",
+    "distro": "temurin",
+    "features": [],
+    "file_type": "msi",
+    "filename": "OpenJDK21U-jdk_x64_windows_hotspot_21_35.msi",
+    "image_type": "jdk",
+    "java_version": "21+35-LTS",
+    "jvm_impl": "hotspot",
+    "md5": "add1390f330aa06be9738e2c9ff03525",
+    "os": "windows",
+    "release_type": "ga",
+    "sha1": "f9adcce94a170fdf0afc01027ae4294bfcd1fce4",
+    "sha256": "420b09998ae215154b6665c4d8167a74fd99eb3d4d85d5657ba317666e65e301",
+    "sha512": "80b367e929b823691903b206ab82ec974946d94f4745a1cce40f9d2078266fd0f6afce5eaf84ba0ce09024cfc517c9c679c1f00b50e2fb44d61fc58e03a913fe",
+    "size": 178704384,
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21%2B35/OpenJDK21U-jdk_x64_windows_hotspot_21_35.msi",
+    "vendor": "eclipse",
+    "version": "21+35"
+  }
+]

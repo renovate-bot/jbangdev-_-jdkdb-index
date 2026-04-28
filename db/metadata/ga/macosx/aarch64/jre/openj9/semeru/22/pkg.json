@@ -1,0 +1,22 @@
+[
+  {
+    "architecture": "aarch64",
+    "distro": "semeru",
+    "features": [],
+    "file_type": "pkg",
+    "filename": "ibm-semeru-open-jre_aarch64_mac_22.0.2_9_openj9-0.46.0.pkg",
+    "image_type": "jre",
+    "java_version": "22.0.2+9",
+    "jvm_impl": "openj9",
+    "md5": "3fdb17d80601b3d107e8cfe0ac1a7a80",
+    "os": "macosx",
+    "release_type": "ga",
+    "sha1": "4ddd71a72d3496eb0ff9b906a81fb43ac97ef597",
+    "sha256": "bb8fee6393c1ba3627c4fecfa435a6dbe00b3adf6ca2d471990d24fcdba016a7",
+    "sha512": "d9ecbcafd16cf8ee6eba8111943982edf3e16e56d61c1e41206e77ab513edc4e9a494565b5c88d6a5b8f07d9f2d943ac2e60b8177b2fce6e985155de2ed5ac83",
+    "size": 49090643,
+    "url": "https://github.com/ibmruntimes/semeru22-binaries/releases/download/jdk-22.0.2%2B9_openj9-0.46.0/ibm-semeru-open-jre_aarch64_mac_22.0.2_9_openj9-0.46.0.pkg",
+    "vendor": "ibm",
+    "version": "22.0.2+9_openj9-0.46.0"
+  }
+]

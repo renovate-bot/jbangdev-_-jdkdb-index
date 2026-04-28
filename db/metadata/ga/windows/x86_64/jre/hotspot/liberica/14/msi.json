@@ -1,0 +1,22 @@
+[
+  {
+    "architecture": "x86_64",
+    "distro": "liberica",
+    "features": [],
+    "file_type": "msi",
+    "filename": "bellsoft-jre14+36-windows-amd64.msi",
+    "image_type": "jre",
+    "java_version": "14+36",
+    "jvm_impl": "hotspot",
+    "md5": "1546056ab2342ec73fa99c90d2a26f8f",
+    "os": "windows",
+    "release_type": "ga",
+    "sha1": "7e5e03985804080cac407b4ecab1aebbbc30d655",
+    "sha256": "f40e190c93563afd126e5b74e4a536be6549ad61097bec993f7864e9f3285971",
+    "sha512": "efbc38926e9fad6d7339246ce168955dd5b9efd7f76f4cca1582a89be270d068b652b13d7d7923b13a0da91c9372c4055bd78058de5b765ceb1437dc2a0404b0",
+    "size": 54947840,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/14+36/bellsoft-jre14+36-windows-amd64.msi",
+    "vendor": "bellsoft",
+    "version": "14+36"
+  }
+]

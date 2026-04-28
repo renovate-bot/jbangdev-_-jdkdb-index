@@ -1,0 +1,24 @@
+[
+  {
+    "architecture": "x86_64",
+    "distro": "temurin",
+    "features": [
+      "musl"
+    ],
+    "file_type": "tar.gz",
+    "filename": "OpenJDK25U-jdk_x64_alpine-linux_hotspot_25.0.3_9-ea.tar.gz",
+    "image_type": "jdk",
+    "java_version": "25",
+    "jvm_impl": "hotspot",
+    "md5": "5ce4bc97421f3539e9e4db2e76d32088",
+    "os": "linux",
+    "release_type": "ea",
+    "sha1": "597aa75ba42593d2f8b0d55a4b4e37c12514bf55",
+    "sha256": "ebdd395d35cb3e342ab7c6fd74efab3246ed262b431a95d4dfa827497773224d",
+    "sha512": "2a6e0074790a4b0e5c5257da49c7627a548ded375b75b5d3f7a86e51472cc9a08bc11c48683d4921ed58f2ca35fd545c405f93ce7f09397f55570b4c86b006c4",
+    "size": 140308678,
+    "url": "https://github.com/adoptium/temurin25-binaries/releases/download/jdk-25.0.3%2B9-ea-beta/OpenJDK25U-jdk_x64_alpine-linux_hotspot_25.0.3_9-ea.tar.gz",
+    "vendor": "eclipse",
+    "version": "25.0.3+9-ea-beta"
+  }
+]

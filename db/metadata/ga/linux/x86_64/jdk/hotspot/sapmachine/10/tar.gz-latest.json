@@ -1,0 +1,22 @@
+[
+  {
+    "architecture": "x86_64",
+    "distro": "sapmachine",
+    "features": null,
+    "file_type": "tar.gz",
+    "filename": "sapmachine-jdk-10.0.2.13_linux-x64_bin.tar.gz",
+    "image_type": "jdk",
+    "java_version": "10.0.2.13",
+    "jvm_impl": "hotspot",
+    "md5": "f22e98fc84a6ac7e6e5413595f216c95",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "f520f1888d05b18bd4b691f8853bf6e0e14d15fe",
+    "sha256": "26117204d872fec0af05a5c0689e6d548366372a191a22730b43f7a01bcff718",
+    "sha512": "36b5d6bc23e60e81f7e97b33605f3a436669feb7d1e65ef24b58ddf2087bb0d7f5bf9457957d1e50ce65ac52779f8548c6aeddd9993ca4549a20d56511d4434e",
+    "size": 204401498,
+    "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-10.0.2%2B13-1/sapmachine-jdk-10.0.2.13_linux-x64_bin.tar.gz",
+    "vendor": "sap",
+    "version": "10.0.2.13"
+  }
+]

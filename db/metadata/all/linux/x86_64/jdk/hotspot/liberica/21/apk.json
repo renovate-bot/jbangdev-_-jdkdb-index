@@ -1,0 +1,94 @@
+[
+  {
+    "architecture": "x86_64",
+    "distro": "liberica",
+    "features": [
+      "lite",
+      "musl"
+    ],
+    "file_type": "apk",
+    "filename": "bellsoft-jdk21.0.1+12-linux-x64-musl-lite.apk",
+    "image_type": "jdk",
+    "java_version": "21.0.1+12-LTS",
+    "jvm_impl": "hotspot",
+    "md5": "a2b37d6b10bb4bdfca40acb68a9bd00d",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "da3a58868fe5200e8ed168fb506ea36b5d382c07",
+    "sha256": "25ec6e7c9b92ee1791c587e78752859a9b039ac43614ab2aa7586a32d15edb4f",
+    "sha512": "4e4df0327447423bf6276a94cdaf564281108ffa86706e3e2b3e7c817bce00834d7638f0eeccc5c5e96a564a34dad13252a853db0f91777d2616c6240b68872e",
+    "size": 77664501,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/21.0.1+12/bellsoft-jdk21.0.1+12-linux-x64-musl-lite.apk",
+    "vendor": "bellsoft",
+    "version": "21.0.1+12"
+  },
+  {
+    "architecture": "x86_64",
+    "distro": "liberica",
+    "features": [
+      "lite",
+      "musl"
+    ],
+    "file_type": "apk",
+    "filename": "bellsoft-jdk21.0.6+10-linux-x64-musl-lite.apk",
+    "image_type": "jdk",
+    "java_version": "21.0.6+10-LTS",
+    "jvm_impl": "hotspot",
+    "md5": "a4eb82abd08039f9b2663d874d2d5f69",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "c1eda4244c53cea3324ae48a3fcbcb16412f469e",
+    "sha256": "fe7c6a872c1b155175162102dad440d8b4126481eb5851aa929a4cbee8228840",
+    "sha512": "c0a2e854262c674276b54cff1a9b4cfdf5c0859d22e6b614236a345e23f0306a0067ca40a20133aab774da9e9462d5f55b49d093b624e124af34ca9967ea1551",
+    "size": 77818499,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/21.0.6+10/bellsoft-jdk21.0.6+10-linux-x64-musl-lite.apk",
+    "vendor": "bellsoft",
+    "version": "21.0.6+10"
+  },
+  {
+    "architecture": "x86_64",
+    "distro": "liberica",
+    "features": [
+      "lite",
+      "musl"
+    ],
+    "file_type": "apk",
+    "filename": "bellsoft-jdk21.0.7+9-linux-x64-musl-lite.apk",
+    "image_type": "jdk",
+    "java_version": "21.0.7+9-LTS",
+    "jvm_impl": "hotspot",
+    "md5": "d02de7bf281f421a59ad4b7d8c389402",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "878dd0e0ecb59369b2cfd2610283f63415b3f580",
+    "sha256": "5ee8046caeb248a434d04cf39198df578540d179896b1a8a87897a3f7666280a",
+    "sha512": "21216de0b738164ac5dab78d63c40d9e617d24ea92b50c2df0208f49118476390f7ee98480a4af60e18918e8415d606a0d7cf08ef4515d39c81b7465d0592c1c",
+    "size": 77817686,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/21.0.7+9/bellsoft-jdk21.0.7+9-linux-x64-musl-lite.apk",
+    "vendor": "bellsoft",
+    "version": "21.0.7+9"
+  },
+  {
+    "architecture": "x86_64",
+    "distro": "liberica",
+    "features": [
+      "lite",
+      "musl"
+    ],
+    "file_type": "apk",
+    "filename": "bellsoft-jdk21.0.9+11-linux-x64-musl-lite.apk",
+    "image_type": "jdk",
+    "java_version": "21.0.9+11-LTS",
+    "jvm_impl": "hotspot",
+    "md5": "7d414a7c8a38069b4142ac912babea24",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "2de80d5677bc7edf61f55a57c53a91c15117b374",
+    "sha256": "1b8172698618dd24f1ce45cd77935caf904de67ac866e763a2cfcc09b411b785",
+    "sha512": "a02f67312e271a7b3b59ab81a302e8975e8863b2b58347b22e8a86b349b0ac827c46ffd480367119aec5a7e8d4ae07e13f3e70ac0f948f0435a2391557e11cca",
+    "size": 77919839,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/21.0.9+11/bellsoft-jdk21.0.9+11-linux-x64-musl-lite.apk",
+    "vendor": "bellsoft",
+    "version": "21.0.9+11"
+  }
+]

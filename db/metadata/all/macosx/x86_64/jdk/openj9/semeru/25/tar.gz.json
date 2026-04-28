@@ -1,0 +1,42 @@
+[
+  {
+    "architecture": "x86_64",
+    "distro": "semeru",
+    "features": [],
+    "file_type": "tar.gz",
+    "filename": "ibm-semeru-open-jdk_x64_mac_25.0.1_8_openj9-0.57.0-m1a.tar.gz",
+    "image_type": "jdk",
+    "java_version": "25.0.1+8",
+    "jvm_impl": "openj9",
+    "md5": "989d3c939bc6eff1cc55b8150ceecf7d",
+    "os": "macosx",
+    "release_type": "ga",
+    "sha1": "6f427588e74ad804fd1870285930782d5a7c1fd5",
+    "sha256": "abae6f570799c90311cb5971b25ecc3c424909ceff10845b31e6331eeaab2bba",
+    "sha512": "20419bd41d8ac382d7c359ecaa78bb0de195a3977243b2e8b0ce42bee0fda319387cbb5244c3287e05d1f9aa9232c4330bbc38a2037caffb7255d36de63cd72d",
+    "size": 239811939,
+    "url": "https://github.com/ibmruntimes/semeru25-binaries/releases/download/jdk-25.0.1%2B8_openj9-0.57.0-m1a/ibm-semeru-open-jdk_x64_mac_25.0.1_8_openj9-0.57.0-m1a.tar.gz",
+    "vendor": "ibm",
+    "version": "25.0.1+8_openj9-0.57.0-m1a"
+  },
+  {
+    "architecture": "x86_64",
+    "distro": "semeru",
+    "features": [],
+    "file_type": "tar.gz",
+    "filename": "ibm-semeru-open-jdk_x64_mac_25.0.2.1.tar.gz",
+    "image_type": "jdk",
+    "java_version": "25.0.2+10.1",
+    "jvm_impl": "openj9",
+    "md5": "032d7a0300ab79c67d716bf80a3e3dd0",
+    "os": "macosx",
+    "release_type": "ga",
+    "sha1": "2ca7a8f8ec3c76c7f88337034474ea8e0d6746f7",
+    "sha256": "eeeae81af54332b94a0808c500e6d98d052683ee3b6cb0e209c486c23a81a1ba",
+    "sha512": "a258b41ae5bf17950777a2ad161235911c9629aa90ac91a508a296c0aef9f512573e69da259b4551e58af3d3386e01e71e2f0fd27ca2011ea79eea1172ea944f",
+    "size": 239812387,
+    "url": "https://github.com/ibmruntimes/semeru25-binaries/releases/download/jdk-25.0.2%2B10.1_openj9-0.57.0/ibm-semeru-open-jdk_x64_mac_25.0.2.1.tar.gz",
+    "vendor": "ibm",
+    "version": "25.0.2+10.1_openj9-0.57.0"
+  }
+]

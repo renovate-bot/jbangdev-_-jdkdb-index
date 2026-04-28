@@ -1,0 +1,22 @@
+[
+  {
+    "architecture": "x86_64",
+    "distro": "semeru",
+    "features": [],
+    "file_type": "tar.gz",
+    "filename": "ibm-semeru-open-jdk_x64_mac_11.0.31.0-m2.tar.gz",
+    "image_type": "jdk",
+    "java_version": "11.0.31.0",
+    "jvm_impl": "openj9",
+    "md5": "49ac37ac9cc41089b960317964e72053",
+    "os": "macosx",
+    "release_type": "ga",
+    "sha1": "2e6677c8482ebab45b4af9d159493ca3d27c4a32",
+    "sha256": "fc9e2f6ceb0923b65f804ef1a411717280d8ead0704d8156db938823721227a5",
+    "sha512": "1407aadf5e061e670820ea906e01441d46fda9014493cd35528d4d7ccd6d2951971a7f2ce2197bba6691731d3ddf0597f8af710630e91837a43dbb858bf340b7",
+    "size": 212764392,
+    "url": "https://github.com/ibmruntimes/semeru11-binaries/releases/download/jdk-11.0.31.0-m2/ibm-semeru-open-jdk_x64_mac_11.0.31.0-m2.tar.gz",
+    "vendor": "ibm",
+    "version": "11.0.31.0-m2"
+  }
+]

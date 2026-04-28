@@ -1,0 +1,22 @@
+[
+  {
+    "architecture": "aarch64",
+    "distro": "temurin",
+    "features": [],
+    "file_type": "pkg",
+    "filename": "OpenJDK26U-jdk_aarch64_mac_hotspot_26_34-ea.pkg",
+    "image_type": "jdk",
+    "java_version": "26",
+    "jvm_impl": "hotspot",
+    "md5": "3eea72021e9267240712db62266da7cb",
+    "os": "macosx",
+    "release_type": "ea",
+    "sha1": "45019be5dd44bb9063de5d02bc3790c40a7dd2d8",
+    "sha256": "8dfeef80fe4341f8d7e186ee30c0af364decf44ba10bc1b4e6f2f3799a483a68",
+    "sha512": "b185ca2790e34b057775052f72e3bf4e20967ee056249895dc534e6235ee621f8f6ba86cabd481d934ace500fa09c48c6ae31a24f76d36ccc24c85b32abf54cf",
+    "size": 140124488,
+    "url": "https://github.com/adoptium/temurin26-binaries/releases/download/jdk-26%2B34-ea-beta/OpenJDK26U-jdk_aarch64_mac_hotspot_26_34-ea.pkg",
+    "vendor": "eclipse",
+    "version": "26+34-ea-beta"
+  }
+]

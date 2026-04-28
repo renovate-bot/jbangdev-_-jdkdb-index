@@ -1,0 +1,42 @@
+[
+  {
+    "architecture": "x86_64",
+    "distro": "corretto",
+    "features": [],
+    "file_type": "msi",
+    "filename": "amazon-corretto-11.0.12.7.1-windows-x64.msi",
+    "image_type": "jdk",
+    "java_version": "11.0.12.7.1",
+    "jvm_impl": "hotspot",
+    "md5": "81d4fa6874e577b10da38bdd0a0c173e",
+    "os": "windows",
+    "release_type": "ga",
+    "sha1": "990a846deec7ea47efe2cb244cf07f9ba45e50b5",
+    "sha256": "0c91cde5990eb6d4a92b988d2dde0ff332afdcc643ba8d6ebf2bae220b20a6c8",
+    "sha512": "4877061ea52d8a16639a9b1483da8068319dabc089b3772d8d3b7c52698a81f8a7e409d850739f0a973c380b669e8e40f6c078c2c06f3ce2835f5f55c1c21b39",
+    "size": 169012736,
+    "url": "https://corretto.aws/downloads/resources/11.0.12.7.1/amazon-corretto-11.0.12.7.1-windows-x64.msi",
+    "vendor": "amazon",
+    "version": "11.0.12.7.1"
+  },
+  {
+    "architecture": "x86_64",
+    "distro": "corretto",
+    "features": [],
+    "file_type": "msi",
+    "filename": "amazon-corretto-11.0.31.11.1-windows-x64.msi",
+    "image_type": "jdk",
+    "java_version": "11.0.31+11-LTS",
+    "jvm_impl": "hotspot",
+    "md5": "3f1aab579bc085c4ebd1ecdc864bf455",
+    "os": "windows",
+    "release_type": "ga",
+    "sha1": "43591335c41ba89ab9c90bba74e2ad2ee4042506",
+    "sha256": "c941f6d876cda84e7d7bbad78df2f27fcb75f5d68dec276c38f2408fbe0f1286",
+    "sha512": "dcc1380f6bb5c7b480de43d62395d4f78569d393b7a74bfa26d0a8dd9142ebb36ae432351282fdbab5d812074ee785f9e7722c5c4c996aa470f885512e9da824",
+    "size": 169746432,
+    "url": "https://corretto.aws/downloads/resources/11.0.31.11.1/amazon-corretto-11.0.31.11.1-windows-x64.msi",
+    "vendor": "amazon",
+    "version": "11.0.31.11.1"
+  }
+]

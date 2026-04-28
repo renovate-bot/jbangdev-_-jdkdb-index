@@ -1,0 +1,110 @@
+[
+  {
+    "architecture": "i686",
+    "distro": "liberica",
+    "features": [
+      "javafx"
+    ],
+    "file_type": "deb",
+    "filename": "bellsoft-jre25.0.3+11-linux-amd64-full.deb",
+    "image_type": "jre",
+    "java_version": "25.0.3+11-LTS",
+    "jvm_impl": "hotspot",
+    "md5": "c125e74874ddc4e4157a547ce77e0ed5",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "ed0001247fbab0cf8b03dbc4dfa031d50b2f5d68",
+    "sha256": "b246f0bbd44e0af0bdb65459a70049896c24caddba867452a5b12363e1442206",
+    "sha512": "511ac2a759f1a8c042ca3df4a2751e9a914beb693ed9d6d6f245eb5c16df5c68becbe5447cc8a576a6bb53932cbadf0e6b4a1bf9691b2f9ddc0d50236ba7eaba",
+    "size": 93643128,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/25.0.3+11/bellsoft-jre25.0.3+11-linux-amd64-full.deb",
+    "vendor": "bellsoft",
+    "version": "25.0.3+11"
+  },
+  {
+    "architecture": "i686",
+    "distro": "liberica",
+    "features": [
+      "javafx"
+    ],
+    "file_type": "rpm",
+    "filename": "bellsoft-jre25.0.3+11-linux-amd64-full.rpm",
+    "image_type": "jre",
+    "java_version": "25.0.3+11-LTS",
+    "jvm_impl": "hotspot",
+    "md5": "7e91009652b47486fb34e66d1402525c",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "f8e103fc5e34d945319620b0d78541643a216a07",
+    "sha256": "84da53c7cef472c9d064ca7dfd337d279d9f991f86fa881dccf25dc8a0896e9d",
+    "sha512": "904a5c15b4cbbf7b7e5413aa614219f31554b8f0e706bd8196ad3b234737d067c33747c04dfac1330cde3decad7099e0462341ef3c209b13cdf9be5cff9c9fda",
+    "size": 105430120,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/25.0.3+11/bellsoft-jre25.0.3+11-linux-amd64-full.rpm",
+    "vendor": "bellsoft",
+    "version": "25.0.3+11"
+  },
+  {
+    "architecture": "i686",
+    "distro": "liberica",
+    "features": [],
+    "file_type": "deb",
+    "filename": "bellsoft-jre25.0.3+11-linux-amd64.deb",
+    "image_type": "jre",
+    "java_version": "25.0.3+11-LTS",
+    "jvm_impl": "hotspot",
+    "md5": "9ea46ef34a2a6f334b55a31ef7c59524",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "52b8cc0d964a12c72a4531e11a21ab23a27512da",
+    "sha256": "1ee0e9c1cd26eccc498ce6e70e62481d64f03406d2c990af87652a89004d79c8",
+    "sha512": "7d0db48881b9a566767ac4cea3c8e7b29e1da1b796aacbd701042a3ebf5171c0f2c4e6cdff99b916b718f7aa1925a0e46cc96cabc601c35235feb078adc3d556",
+    "size": 54846104,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/25.0.3+11/bellsoft-jre25.0.3+11-linux-amd64.deb",
+    "vendor": "bellsoft",
+    "version": "25.0.3+11"
+  },
+  {
+    "architecture": "i686",
+    "distro": "liberica",
+    "features": [
+      "musl"
+    ],
+    "file_type": "apk",
+    "filename": "bellsoft-jre25.0.3+11-linux-x64-musl.apk",
+    "image_type": "jre",
+    "java_version": "25.0.3+11-LTS",
+    "jvm_impl": "hotspot",
+    "md5": "84db83a9336860ba42ffd0ba76f7f717",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "216d44182028cc9bd96628be75d5eb08065fac71",
+    "sha256": "a1f005157bd04fbbd04574ad47d6e4f414a3868282dcce055a85a02985af1658",
+    "sha512": "4adc85204831c0d793d62923c4685000d2d3ee9cf3cfd6fd669bb0a4e4eee8f0286a43db1ea3b7ad682ffd6abeee14e9fe9e2a42b2a7bff4a665cc1ba80a1985",
+    "size": 83302618,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/25.0.3+11/bellsoft-jre25.0.3+11-linux-x64-musl.apk",
+    "vendor": "bellsoft",
+    "version": "25.0.3+11"
+  },
+  {
+    "architecture": "i686",
+    "distro": "liberica",
+    "features": [
+      "musl"
+    ],
+    "file_type": "tar.gz",
+    "filename": "bellsoft-jre25.0.3+11-linux-x64-musl.tar.gz",
+    "image_type": "jre",
+    "java_version": "25.0.3+11-LTS",
+    "jvm_impl": "hotspot",
+    "md5": "9a9232d8fa08114c6c7521b40894abe1",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "01e3d9be466d1e5b04649c6d46ec7e30607bfad6",
+    "sha256": "3686761c4a66a819eeab68f6c80f9b80822a6d78ff5801293d8ae21068f0c9a0",
+    "sha512": "dab4afde6cfd61c018d1bab74e5fb9fc454ff2417263c9dfe9080fba2d13789ab397fbc69df00baadbddc22bfb169b2d14cbed1093455f3a8eb4c2fdbcf5c643",
+    "size": 84083580,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/25.0.3+11/bellsoft-jre25.0.3+11-linux-x64-musl.tar.gz",
+    "vendor": "bellsoft",
+    "version": "25.0.3+11"
+  }
+]

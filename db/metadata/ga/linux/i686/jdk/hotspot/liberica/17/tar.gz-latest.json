@@ -1,0 +1,24 @@
+[
+  {
+    "architecture": "i686",
+    "distro": "liberica",
+    "features": [
+      "musl"
+    ],
+    "file_type": "tar.gz",
+    "filename": "bellsoft-jdk17.0.19+12-linux-x64-musl-crac.tar.gz",
+    "image_type": "jdk",
+    "java_version": "17.0.19+12-LTS",
+    "jvm_impl": "hotspot",
+    "md5": "5af54d625824ad04ee2a190fe36b8470",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "3cc6e8a4d18dd6e7717386eba1614d83cb6d0852",
+    "sha256": "f24a8bfb3465b116d978636c4c880788aca22158315b207dadcc7385fc706841",
+    "sha512": "38d623870ee74079014a00f7f8fd80ef35f4f4c1c90da798e79414200fe7dfcb06178b393a81fbd7e0b82b4beceac0f6768d84375f7865ad5ad0f12b8f1a9d6d",
+    "size": 197571775,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/17.0.19+12/bellsoft-jdk17.0.19+12-linux-x64-musl-crac.tar.gz",
+    "vendor": "bellsoft",
+    "version": "17.0.19+12"
+  }
+]

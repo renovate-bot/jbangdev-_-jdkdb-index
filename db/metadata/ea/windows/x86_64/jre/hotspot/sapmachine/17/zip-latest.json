@@ -1,0 +1,22 @@
+[
+  {
+    "architecture": "x86_64",
+    "distro": "sapmachine",
+    "features": null,
+    "file_type": "zip",
+    "filename": "sapmachine-jre-17.0.19-ea.10_windows-x64_bin.zip",
+    "image_type": "jre",
+    "java_version": "17.0.19-ea.10",
+    "jvm_impl": "hotspot",
+    "md5": "5c4012e6922f4b74db17a49e82a6c431",
+    "os": "windows",
+    "release_type": "ea",
+    "sha1": "d4b1c24fa2e5b181b651aeac6a949e4411a0cfb3",
+    "sha256": "f2eeeb4cb85a977b8399c7d6f3d766a59aa7fab48b0bd923de06d8aa8e4f06fb",
+    "sha512": "b40fd031c7bc68d28284cc20bed2082f997dad0a38bd358f63a662ffee7a55575bad7c8719dd15e2f3390c15571bd7d026104b59cb4f96e7bc707141c39e3bb6",
+    "size": 47817249,
+    "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17.0.19%2B10/sapmachine-jre-17.0.19-ea.10_windows-x64_bin.zip",
+    "vendor": "sap",
+    "version": "17.0.19-ea.10"
+  }
+]

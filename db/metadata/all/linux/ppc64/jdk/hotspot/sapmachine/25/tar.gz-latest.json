@@ -1,0 +1,24 @@
+[
+  {
+    "architecture": "ppc64",
+    "distro": "sapmachine",
+    "features": [
+      "le"
+    ],
+    "file_type": "tar.gz",
+    "filename": "sapmachine-jdk-25.0.3_linux-ppc64le_bin.tar.gz",
+    "image_type": "jdk",
+    "java_version": "25.0.3+9-LTS",
+    "jvm_impl": "hotspot",
+    "md5": "8be9f32d68360f9c7e8a8f7c9f352793",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "bbe19f1a0bdca2a6e8769c8656ef52d571a28fc4",
+    "sha256": "25a378d74fc8010f740616f089787d36497944d887edfc7361159fb8f9a579ac",
+    "sha512": "1155acaa6079bf82ea60e1621f4c51f85e56c05cec982bc063dfa7a69a5317096b19260b390382ff9111afc5d562e829ea31e62a7b2e3ee3fb7147c2cf7401a9",
+    "size": 214249991,
+    "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-25.0.3/sapmachine-jdk-25.0.3_linux-ppc64le_bin.tar.gz",
+    "vendor": "sap",
+    "version": "25.0.3"
+  }
+]

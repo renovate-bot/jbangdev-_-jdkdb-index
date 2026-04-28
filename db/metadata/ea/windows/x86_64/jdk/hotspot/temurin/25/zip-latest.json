@@ -1,0 +1,22 @@
+[
+  {
+    "architecture": "x86_64",
+    "distro": "temurin",
+    "features": [],
+    "file_type": "zip",
+    "filename": "OpenJDK25U-jdk_x64_windows_hotspot_25.0.3_9-ea.zip",
+    "image_type": "jdk",
+    "java_version": "25",
+    "jvm_impl": "hotspot",
+    "md5": "0f9323033bf6b9d0f7785a76ef256e9b",
+    "os": "windows",
+    "release_type": "ea",
+    "sha1": "d013b651505232203d8f21d1fd9e6a99acd512bb",
+    "sha256": "2b09345baa16955a1f4865d92692141c040813e47f9cc07089653eebcea6db3d",
+    "sha512": "705f13381d01da447901ac69be7f0dea0a9c95e01f07cb18bbab828ac9871dd50ec84a30d7f536d2c58fb2b6fc33923d843be3d39e6116ed540e26d34a4b3127",
+    "size": 141136745,
+    "url": "https://github.com/adoptium/temurin25-binaries/releases/download/jdk-25.0.3%2B9-ea-beta/OpenJDK25U-jdk_x64_windows_hotspot_25.0.3_9-ea.zip",
+    "vendor": "eclipse",
+    "version": "25.0.3+9-ea-beta"
+  }
+]

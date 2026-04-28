@@ -1,0 +1,22 @@
+[
+  {
+    "architecture": "s390x",
+    "distro": "semeru",
+    "features": [],
+    "file_type": "tar.gz",
+    "filename": "ibm-semeru-open-jre_s390x_linux_8.0.492.0-m2.tar.gz",
+    "image_type": "jre",
+    "java_version": "1.8.0_492-b08",
+    "jvm_impl": "openj9",
+    "md5": "e84cbd7ed6dec66317e6443a4fd1281d",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "21a18352213987002189f4682673bcea5bad8eae",
+    "sha256": "e660a9c9fe1dff172c37723e5743f700fb596e0778fe27676800db618210952e",
+    "sha512": "d2c9597b0185ce1f6f4697750cb6168cae491746852e4212030ca9354d448336b4c3011d36749576638dcf3fe2b136e3855e43ffe1a958329e5c1cb1e799120d",
+    "size": 56804243,
+    "url": "https://github.com/ibmruntimes/semeru8-binaries/releases/download/jdk-8.0.492.0-m2/ibm-semeru-open-jre_s390x_linux_8.0.492.0-m2.tar.gz",
+    "vendor": "ibm",
+    "version": "8.0.492.0-m2"
+  }
+]

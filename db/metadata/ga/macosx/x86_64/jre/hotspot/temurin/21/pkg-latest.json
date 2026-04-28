@@ -1,0 +1,22 @@
+[
+  {
+    "architecture": "x86_64",
+    "distro": "temurin",
+    "features": [],
+    "file_type": "pkg",
+    "filename": "OpenJDK21U-jre_x64_mac_hotspot_21.0.10_7.pkg",
+    "image_type": "jre",
+    "java_version": "21.0.10+7-LTS",
+    "jvm_impl": "hotspot",
+    "md5": "bf7e86c3249b7e8919f898fe14b7c8a2",
+    "os": "macosx",
+    "release_type": "ga",
+    "sha1": "78d5f5d72ab76dbffc1011f933491095a74d064e",
+    "sha256": "8ac814e79065acef5409e79d4c653678081c8072315a339758e6063ffce5dec5",
+    "sha512": "b2c611459bd39d8fa541d031c7eb6c5503ca90f745f40038b0f8005efd1d20b5b144d020fae4557be200f0dbf0d489aded1a04913042902ecaa783d7c5a32b25",
+    "size": 42228100,
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.10%2B7/OpenJDK21U-jre_x64_mac_hotspot_21.0.10_7.pkg",
+    "vendor": "eclipse",
+    "version": "21.0.10+7"
+  }
+]

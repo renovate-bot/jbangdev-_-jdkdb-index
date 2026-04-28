@@ -1,0 +1,22 @@
+[
+  {
+    "architecture": "x86_64",
+    "distro": "adoptopenjdk",
+    "features": [],
+    "file_type": "tar.gz",
+    "filename": "OpenJDK17U-jre_x64_mac_hotspot_17.0.19_10.tar.gz",
+    "image_type": "jre",
+    "java_version": "17.0.19+10",
+    "jvm_impl": "hotspot",
+    "md5": "9038cb0a4e15f940cf17ace08fc34fc2",
+    "os": "macosx",
+    "release_type": "ga",
+    "sha1": "4a07309b761371f1ad12709822feb365245c7c3b",
+    "sha256": "91bbd07b9c65d9ecbe1fa0081b3c1ad549ed34ed21085a72fdb76598a740b54c",
+    "sha512": "18438b8b11b82ea8dabfb0f62e2dd5c4896f94ec08e52d12ab172754a5f38677fd38adb8042fe0f50da64c6957ed114af9aedbbb8c8196e5347ef46a20109eb6",
+    "size": 37629332,
+    "url": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.19%2B10/OpenJDK17U-jre_x64_mac_hotspot_17.0.19_10.tar.gz",
+    "vendor": "adoptopenjdk",
+    "version": "17.0.19+10"
+  }
+]

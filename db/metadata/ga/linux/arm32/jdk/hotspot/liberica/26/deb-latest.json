@@ -1,0 +1,46 @@
+[
+  {
+    "architecture": "arm32",
+    "distro": "liberica",
+    "features": [
+      "javafx"
+    ],
+    "file_type": "deb",
+    "filename": "bellsoft-jdk26+37-linux-aarch64-full.deb",
+    "image_type": "jdk",
+    "java_version": "26+37",
+    "jvm_impl": "hotspot",
+    "md5": "b8ea89f564f10698d963a5dc0d12ef00",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "0c5f3ea1ad26b3e4cc53a99aaf04a3cc245ea3a3",
+    "sha256": "5d3be922328b9d70ef2697c923f4b45377ee58c574d1da70ac82b0f3a6557f88",
+    "sha512": "f2e043cffa3543941212c3388a4e82e41592817e078f61839e4d048a38dc4f386ac762c5f969faaffb937d575472e9feabeb34ac8fa85f7eed601a7ecf617c8f",
+    "size": 338658788,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/26+37/bellsoft-jdk26+37-linux-aarch64-full.deb",
+    "vendor": "bellsoft",
+    "version": "26+37"
+  },
+  {
+    "architecture": "arm32",
+    "distro": "liberica",
+    "features": [
+      "lite"
+    ],
+    "file_type": "deb",
+    "filename": "bellsoft-jdk26+37-linux-aarch64-lite.deb",
+    "image_type": "jdk",
+    "java_version": "26+37",
+    "jvm_impl": "hotspot",
+    "md5": "1b6149040735d553d2b34c4c0d366be6",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "628267122b42f03d94ddd3c4bcd4da2634710848",
+    "sha256": "149cdd768327a804ade59288a4521f17bc67600939e809c7b877f2edafd1081d",
+    "sha512": "a8db92d90ea99cd7750dc9c6339e514ef895303972d6da0737c7e532c2f19c273e8c7f0fad136ec38ddbbf2c8ac3bd429304d4df8c5d76f7045d644d0d64e494",
+    "size": 78570660,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/26+37/bellsoft-jdk26+37-linux-aarch64-lite.deb",
+    "vendor": "bellsoft",
+    "version": "26+37"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "architecture": "x86_64",
+    "distro": "zulu",
+    "features": [],
+    "file_type": "zip",
+    "filename": "zulu21.50.15-ca-jdk21.0.11-linux_x64.zip",
+    "image_type": "jdk",
+    "java_version": "21.0.11+10-LTS",
+    "jvm_impl": "hotspot",
+    "md5": "57928a3ad14865bce3e62037ab9be60b",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "33d43ee71a63d5a84bb43f205a0e67f1ec702251",
+    "sha256": "776de0e097b156ae6f6d2b4e4349f7c10698cbcdc250cf6d0eb635edd04cb5af",
+    "sha512": "3dcdbeadcf677ecdd89ec79a8306e3565144ba042a3e609a4c05ccfbe5b688c5a26a42fc0672ac24f0ec337d9e488892a5b3203a79d8f55cd418b41a7b2a85e4",
+    "size": 217862537,
+    "url": "https://static.azul.com/zulu/bin/zulu21.50.15-ca-jdk21.0.11-linux_x64.zip",
+    "vendor": "azul",
+    "version": "21.50.15"
+  },
+  {
+    "architecture": "x86_64",
+    "distro": "zulu",
+    "features": [],
+    "file_type": "zip",
+    "filename": "zulu21.50.19-ca-jdk21.0.11-linux_x64.zip",
+    "image_type": "jdk",
+    "java_version": "21.0.11+10-LTS",
+    "jvm_impl": "hotspot",
+    "md5": "4beb4046f409f3fca58f028b96e653f9",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "2e14db8f9b238e6216401b83991ab05d5aa13c78",
+    "sha256": "37be68ea0196b39d105ebc97da07290ee4dc63c38e697174d3920e39dc45bc98",
+    "sha512": "e218fbb6eea88cc2a6723978329b14d7ad58b04e7384b602df57bc829e2aa18b1888ee518cb133f736442c4f68067190f521ba73c5acc0cd54736e0f523d4d67",
+    "size": 217862402,
+    "url": "https://static.azul.com/zulu/bin/zulu21.50.19-ca-jdk21.0.11-linux_x64.zip",
+    "vendor": "azul",
+    "version": "21.50.19"
+  }
+]

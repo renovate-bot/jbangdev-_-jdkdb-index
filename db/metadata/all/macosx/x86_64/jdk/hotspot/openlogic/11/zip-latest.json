@@ -1,0 +1,22 @@
+[
+  {
+    "architecture": "x86_64",
+    "distro": "openlogic",
+    "features": [],
+    "file_type": "zip",
+    "filename": "openlogic-openjdk-11.0.29+7-mac-x64.zip",
+    "image_type": "jdk",
+    "java_version": "11.0.29+7-adhoc.admin.jdk11u",
+    "jvm_impl": "hotspot",
+    "md5": "4a7aef1d35fa65617fa9a6bb215bdd65",
+    "os": "macosx",
+    "release_type": "ga",
+    "sha1": "e1848e6b63d0433927b909a7a029f0ee188749d6",
+    "sha256": "e49b6f265f626e38990e7f4205f565f83351587175e93982f4a8e1dde645a242",
+    "sha512": "290db2f1428e78f8104492d12dea2d132a52153e9cd1d6913fc14925a297a15504212dd7e6f3b677e2ec569131d8f1e4e8dc1eec272f9d35e31b43355f1619fb",
+    "size": 220835707,
+    "url": "https://builds.openlogic.com/downloadJDK/openlogic-openjdk/11.0.29+7/openlogic-openjdk-11.0.29+7-mac-x64.zip",
+    "vendor": "openlogic",
+    "version": "11.0.29+7"
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "architecture": "ppc64",
+    "distro": "sapmachine",
+    "features": [
+      "le"
+    ],
+    "file_type": "tar.gz",
+    "filename": "sapmachine-jdk-13_linux-ppc64le_bin.tar.gz",
+    "image_type": "jdk",
+    "java_version": "13",
+    "jvm_impl": "hotspot",
+    "md5": "1c7f1536391b910fe9386e29365d8028",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "67366755ccd04d3af85b0b2be5cbbccc222cb551",
+    "sha256": "c01787bda514d2ef0b1d90afbef4261cac707273fe042f855d72d1e3166a10c0",
+    "sha512": "fb55db00ff7312947b2fbbe70110adb6df0a3021a1b5fcd891f5a2dbc8c22e4f8d323bb4581ec5f5c97eb426880bef803386f025fc12b4882b5f0ae3e10c69bc",
+    "size": 182676432,
+    "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-13/sapmachine-jdk-13_linux-ppc64le_bin.tar.gz",
+    "vendor": "sap",
+    "version": "13"
+  }
+]

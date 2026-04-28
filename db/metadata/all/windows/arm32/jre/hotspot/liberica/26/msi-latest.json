@@ -1,0 +1,44 @@
+[
+  {
+    "architecture": "arm32",
+    "distro": "liberica",
+    "features": [
+      "javafx"
+    ],
+    "file_type": "msi",
+    "filename": "bellsoft-jre26.0.1+10-windows-aarch64-full.msi",
+    "image_type": "jre",
+    "java_version": "26.0.1+10",
+    "jvm_impl": "hotspot",
+    "md5": "9a53b24e70950e7717cbd3d476e30fbb",
+    "os": "windows",
+    "release_type": "ga",
+    "sha1": "eaa6e755ca113fa0a6305cddda8be63f5a77d7ca",
+    "sha256": "c4f348a1fdaa94d0447eee74ca7b69f78281d29b33fa935da38317a1144bb905",
+    "sha512": "42dcf577739a7a9c4e8f6fe0001906006d5f0e84af8fe05730e10aca5548b909e1600effecb926c065caa3732fd40fab10a9d53031eb39e24c029cc6b6201884",
+    "size": 50995200,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/26.0.1+10/bellsoft-jre26.0.1+10-windows-aarch64-full.msi",
+    "vendor": "bellsoft",
+    "version": "26.0.1+10"
+  },
+  {
+    "architecture": "arm32",
+    "distro": "liberica",
+    "features": [],
+    "file_type": "msi",
+    "filename": "bellsoft-jre26.0.1+10-windows-aarch64.msi",
+    "image_type": "jre",
+    "java_version": "26.0.1+10",
+    "jvm_impl": "hotspot",
+    "md5": "8a0d7fac7930298f97fb2c011cafe2b5",
+    "os": "windows",
+    "release_type": "ga",
+    "sha1": "09c0550efb1e28195d48c6d4f45fdff10c3c46a3",
+    "sha256": "4ce3c48eb0879aa385888ba3647713c9cad93d126bc9ec0631e4fd77a29fc8a6",
+    "sha512": "4872a634dd9f8e7f836b0d433cccd759178a68104a2f1e4f71d2aad47964e9debd97601fbd76173859b302c20878e014d0280b3b7541bd4ee02e0a5c819d221b",
+    "size": 45387776,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/26.0.1+10/bellsoft-jre26.0.1+10-windows-aarch64.msi",
+    "vendor": "bellsoft",
+    "version": "26.0.1+10"
+  }
+]

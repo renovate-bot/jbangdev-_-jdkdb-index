@@ -1,0 +1,44 @@
+[
+  {
+    "architecture": "ppc32",
+    "distro": "liberica",
+    "features": [
+      "lite"
+    ],
+    "file_type": "deb",
+    "filename": "bellsoft-jdk8u492+9-linux-ppc64le-lite.deb",
+    "image_type": "jdk",
+    "java_version": "1.8.0_492",
+    "jvm_impl": "hotspot",
+    "md5": "c87468f97341ee5391bf0b28e2cc43de",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "285f578170a2623b3e2447db56d83fac23b85e70",
+    "sha256": "a13885a2ef47b56a01cb0f2263cb46b667891b96087ebc40d51cd8658aca60df",
+    "sha512": "fa1e8b30fa48cb09858dab4c7f9626e01e49ec2b8316921b2ae400bba50a9687037ad797eee888c233f8b3c6773e42cc151d91a7f4ba80e8e147d0798d97fa31",
+    "size": 35249340,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/8u492+9/bellsoft-jdk8u492+9-linux-ppc64le-lite.deb",
+    "vendor": "bellsoft",
+    "version": "8u492+9"
+  },
+  {
+    "architecture": "ppc32",
+    "distro": "liberica",
+    "features": [],
+    "file_type": "deb",
+    "filename": "bellsoft-jdk8u492+9-linux-ppc64le.deb",
+    "image_type": "jdk",
+    "java_version": "1.8.0_492",
+    "jvm_impl": "hotspot",
+    "md5": "92261fd27913a98590966a5711d23ebd",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "34a783afd0fd70da1cded8bf8a01df57d3ffeffc",
+    "sha256": "a5be4b3b4988ae145e62697ef3dddd80f4a1d24f0552d772637fa027839ab62a",
+    "sha512": "d9e081af20f2c854dd6547a2062cf4c21ae18dd7f1c88bc6919410b820a817c134e0304b77deb92c97b2eefbff1b845dbbe8110eabf3d4566a87317b4afe1485",
+    "size": 84736324,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/8u492+9/bellsoft-jdk8u492+9-linux-ppc64le.deb",
+    "vendor": "bellsoft",
+    "version": "8u492+9"
+  }
+]

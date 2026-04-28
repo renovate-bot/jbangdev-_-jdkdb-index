@@ -1,0 +1,88 @@
+[
+  {
+    "architecture": "x86_64",
+    "distro": "jetbrains",
+    "features": [],
+    "file_type": "tar.gz",
+    "filename": "jbrsdk-25.0.2-linux-x64-b432.48.tar.gz",
+    "image_type": "jdk",
+    "java_version": "25.0.2+10-b432.48",
+    "jvm_impl": "hotspot",
+    "md5": "7fd060639cc635f0f14af2ef3ed15ea9",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "cb0864177f445b3f47b466175ffbc901a3496e85",
+    "sha256": "a76e8c1ef916f84d3b28e6794d1527d5189f9b0299a323e21ea737bdd93eaddd",
+    "sha512": "25c45a6cf15598820d3b4f4bd262e032cc9f7982ac16d44ef929ed5835bf67902bf70d113af589c19301d9e3f30304b32b38fe765e85a2d5f9a0cc9fac595feb",
+    "size": 250311874,
+    "url": "https://cache-redirector.jetbrains.com/intellij-jbr/jbrsdk-25.0.2-linux-x64-b432.48.tar.gz",
+    "vendor": "jetbrains",
+    "version": "25.0.2b432.48"
+  },
+  {
+    "architecture": "x86_64",
+    "distro": "jetbrains",
+    "features": [
+      "fastdebug"
+    ],
+    "file_type": "tar.gz",
+    "filename": "jbrsdk-25.0.2-linux-x64-fastdebug-b432.48.tar.gz",
+    "image_type": "jdk",
+    "java_version": "25.0.2+10-b432.48",
+    "jvm_impl": "hotspot",
+    "md5": "3564c115fa159a9e2b0bd7a57e21bdb2",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "987aba78bfd4f1135e656d617417441bc9332d9e",
+    "sha256": "e8456391ea366e30af543a2027b94e1c9cf4fdb8a0818001daa71de76c3aa5e3",
+    "sha512": "952ccfacbcee0e5178fc7c1c01def896ad3d203aca593c58a3dffcf0fd3a62faafbbd2c04abc436636f86d2f386297a97a8e7487f5f5dec568f045f77a1fd0fe",
+    "size": 270227890,
+    "url": "https://cache-redirector.jetbrains.com/intellij-jbr/jbrsdk-25.0.2-linux-x64-fastdebug-b432.48.tar.gz",
+    "vendor": "jetbrains",
+    "version": "25.0.2b432.48"
+  },
+  {
+    "architecture": "x86_64",
+    "distro": "jetbrains",
+    "features": [
+      "freetype"
+    ],
+    "file_type": "tar.gz",
+    "filename": "jbrsdk_ft-25.0.2-linux-x64-b432.48.tar.gz",
+    "image_type": "jdk",
+    "java_version": "25.0.2+10-b432.48",
+    "jvm_impl": "hotspot",
+    "md5": "7353b2378c725040ea13a64d3316eed6",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "cb6f64181328e4f6c3cb0194fbaabf7561160d95",
+    "sha256": "2ad4e95ae22fc4bbe5b9be6ed3ccf50708723db3f2f80a1542930f614865f659",
+    "sha512": "2970c2b8a3844aaa591770835f2255a2c7a23ca949655d046f08272423c649a125320159a1774a1325898aa2d330fd34e9bf0ad8edca25211dca43bbd383dfbd",
+    "size": 251056658,
+    "url": "https://cache-redirector.jetbrains.com/intellij-jbr/jbrsdk_ft-25.0.2-linux-x64-b432.48.tar.gz",
+    "vendor": "jetbrains",
+    "version": "25.0.2b432.48"
+  },
+  {
+    "architecture": "x86_64",
+    "distro": "jetbrains",
+    "features": [
+      "legacy"
+    ],
+    "file_type": "tar.gz",
+    "filename": "jbrsdk_lb-25.0.2-linux-x64-b432.48.tar.gz",
+    "image_type": "jdk",
+    "java_version": "25.0.2+10-b432.48",
+    "jvm_impl": "hotspot",
+    "md5": "025ee3e75de5ea35860b9c564db955cc",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "e171778f07eba035f3d90d66102e9d101e21837f",
+    "sha256": "25cfca52ac5467c72e332c88243c0c348ccd26eb3495f6e270eb466a5a2237a0",
+    "sha512": "4708ed234b2366e6eaad5efa896a12e03bd8fc66b9dd8efd589395e65b39d85e4d390db0218beb31b123b91369b14e85828b4a781e2e60976eb948aa0eb1a52f",
+    "size": 528546328,
+    "url": "https://cache-redirector.jetbrains.com/intellij-jbr/jbrsdk_lb-25.0.2-linux-x64-b432.48.tar.gz",
+    "vendor": "jetbrains",
+    "version": "25.0.2b432.48"
+  }
+]

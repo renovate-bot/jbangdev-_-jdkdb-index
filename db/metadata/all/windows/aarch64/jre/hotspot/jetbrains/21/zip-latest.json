@@ -1,0 +1,67 @@
+[
+  {
+    "architecture": "aarch64",
+    "distro": "jetbrains",
+    "features": [],
+    "file_type": "zip",
+    "filename": "jbr-21.0.9-windows-aarch64-b895.149.zip",
+    "image_type": "jre",
+    "java_version": "21.0.9+1-b895.149",
+    "jvm_impl": "hotspot",
+    "md5": "90a1a93f974c80f5821f20e08cd8aa4d",
+    "os": "windows",
+    "release_type": "ga",
+    "sha1": "3ea3429a0ec153991da06030ceeeb9ae80161e47",
+    "sha256": "75ffd247d3bd1a56bf3c28964b72487f7134f409ab081b048331be900d188d07",
+    "sha512": "e1c9036d51588d337099f4db2cd4c415fe8a504db0cc8f1792dc9358f0a7b8c885588e1016c5e8085561b46965cb8fa8aa7a6cb8dec9cb2a5334dc014b86f6db",
+    "size": 76004403,
+    "url": "https://cache-redirector.jetbrains.com/intellij-jbr/jbr-21.0.9-windows-aarch64-b895.149.zip",
+    "vendor": "jetbrains",
+    "version": "21.0.9b895.149"
+  },
+  {
+    "architecture": "aarch64",
+    "distro": "jetbrains",
+    "features": [
+      "fastdebug",
+      "jcef"
+    ],
+    "file_type": "zip",
+    "filename": "jbr_fd-21.0.9-windows-aarch64-b895.149.zip",
+    "image_type": "jre",
+    "java_version": "21.0.9+1-b895.149",
+    "jvm_impl": "hotspot",
+    "md5": "a8187e94c1a4ec796fbb061a1422e3b5",
+    "os": "windows",
+    "release_type": "ga",
+    "sha1": "7a1ab6df5eb838155a6c623637e87120eb293a51",
+    "sha256": "22b169bc3191699d201b58d07d7d7a9bc3ffb4389c27fd73d53dba04cbdea4ab",
+    "sha512": "18507dcce9b99edef402b2f9a5d6d1380c6a27d8d0c2207ddd170dd08d916fc13f59b387942c69cdfa276501129d433817795d57e1d8ad4cca2a40da23638235",
+    "size": 208582761,
+    "url": "https://cache-redirector.jetbrains.com/intellij-jbr/jbr_fd-21.0.9-windows-aarch64-b895.149.zip",
+    "vendor": "jetbrains",
+    "version": "21.0.9b895.149"
+  },
+  {
+    "architecture": "aarch64",
+    "distro": "jetbrains",
+    "features": [
+      "jcef"
+    ],
+    "file_type": "zip",
+    "filename": "jbr_jcef-21.0.9-windows-aarch64-b895.149.zip",
+    "image_type": "jre",
+    "java_version": "21.0.9+1-b895.149",
+    "jvm_impl": "hotspot",
+    "md5": "d5a1d5da28ad4efc276693e7500bf617",
+    "os": "windows",
+    "release_type": "ga",
+    "sha1": "a15ecaf9ac6b1e79c7dc2af2d078cee3a653d734",
+    "sha256": "7597d687e7cad4ae3712f009193ee650f2762a6a65f563a0aa89bed34eabd9e2",
+    "sha512": "94c280d23be249af5b8610dcc17b19b71abdf1199887168090e32bce512892644f08f07dfe8fb858821fac4cffa3866c979a0c709d3ef8e66e443eb14a7a07af",
+    "size": 205284378,
+    "url": "https://cache-redirector.jetbrains.com/intellij-jbr/jbr_jcef-21.0.9-windows-aarch64-b895.149.zip",
+    "vendor": "jetbrains",
+    "version": "21.0.9b895.149"
+  }
+]

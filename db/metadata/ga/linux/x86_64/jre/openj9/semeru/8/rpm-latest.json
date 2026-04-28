@@ -1,0 +1,22 @@
+[
+  {
+    "architecture": "x86_64",
+    "distro": "semeru",
+    "features": [],
+    "file_type": "rpm",
+    "filename": "ibm-semeru-open-8-jre-8.0.492.0_m1a-1.x86_64.rpm",
+    "image_type": "jre",
+    "java_version": "8.0.492.0",
+    "jvm_impl": "openj9",
+    "md5": "8eedf706c078cc7cb79a503f0ade2221",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "7116a37a99c383b93feefdbb742a147a84b1b243",
+    "sha256": "f7ad55a9e3c6130c8ee62c6f4d2fcc8a06106fa9930881e801c4bafe4b54c56b",
+    "sha512": "ae11632e9154689ebeb76f4d92e66fbf9d5ccda33bdd094b88078fe612871c727938140a37585534ebc3a27f99921e90d5389f72029bc11f74c9ada2afe229cc",
+    "size": 37190264,
+    "url": "https://github.com/ibmruntimes/semeru8-binaries/releases/download/jdk-8.0.492.0-m1a/ibm-semeru-open-8-jre-8.0.492.0_m1a-1.x86_64.rpm",
+    "vendor": "ibm",
+    "version": "8.0.492.0-m1a"
+  }
+]

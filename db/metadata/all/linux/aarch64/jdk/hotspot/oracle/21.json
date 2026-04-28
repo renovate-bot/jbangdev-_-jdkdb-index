@@ -1,0 +1,42 @@
+[
+  {
+    "architecture": "aarch64",
+    "distro": "oracle",
+    "features": [],
+    "file_type": "rpm",
+    "filename": "jdk-21.0.11_linux-aarch64_bin.rpm",
+    "image_type": "jdk",
+    "java_version": "21.0.11+9-LTS-211",
+    "jvm_impl": "hotspot",
+    "md5": "63b4118147b69b5dc31a291c4e14c538",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "f1ee8bdf0f6c565743226a6727af8a781e298222",
+    "sha256": "d1a8df94b4af92f6d761b53831a85f1a697736cc9806f9cec30e488939ad6321",
+    "sha512": "6a136065bfe74774d61a4041a363ee5cd8c23f66931bdd948bb8de7ab120ee5159d2a07ade85df97630cca7712510516c911eb2bda465e4dde171e3140feaf85",
+    "size": 196698604,
+    "url": "https://java.oraclecloud.com/java/21/archive/jdk-21.0.11_linux-aarch64_bin.rpm",
+    "vendor": "oracle",
+    "version": "21.0.11"
+  },
+  {
+    "architecture": "aarch64",
+    "distro": "oracle",
+    "features": [],
+    "file_type": "tar.gz",
+    "filename": "jdk-21.0.11_linux-aarch64_bin.tar.gz",
+    "image_type": "jdk",
+    "java_version": "21.0.11+9-LTS-211",
+    "jvm_impl": "hotspot",
+    "md5": "f464ada2edbbc5a3fa2ba793ed6325c7",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "749e0056bb25678d0e034478143b519a12d28240",
+    "sha256": "2ebe89cad767abba83fb0b8cedd2d2d9bcbf947315fde78f7263a57a24f43b96",
+    "sha512": "40b28f0b83592413207a0aadd50b5fcd3f9134d84cbd1fa0c409e994752b8619a3b54196c2c3fd145ab6cc67b3610757470fb58c909704f1fa0a7189f4138dcf",
+    "size": 196994442,
+    "url": "https://java.oraclecloud.com/java/21/archive/jdk-21.0.11_linux-aarch64_bin.tar.gz",
+    "vendor": "oracle",
+    "version": "21.0.11"
+  }
+]

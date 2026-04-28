@@ -1,0 +1,24 @@
+[
+  {
+    "architecture": "aarch64",
+    "distro": "temurin",
+    "features": [
+      "musl"
+    ],
+    "file_type": "tar.gz",
+    "filename": "OpenJDK8U-jdk_aarch64_alpine-linux_hotspot_8u492b09-ea.tar.gz",
+    "image_type": "jdk",
+    "java_version": "1.8.0_492-beta-202604252003-b09",
+    "jvm_impl": "hotspot",
+    "md5": "c9bf8f7296eb95990f07a7598cf28013",
+    "os": "linux",
+    "release_type": "ea",
+    "sha1": "b61e848467aa1807aa44b3cffe975f91ba7f4db1",
+    "sha256": "ba4f1d721f58791ff92cfce2f3700a993f3e144b3cdccc437e42ede4037d3552",
+    "sha512": "80e24a4c5a8238a46e9a8c700a454d6b81c16ee2453635940e680f5a513acfef6dca6911ff85ec671bbc430d2f67617132e85240039cba92256d98ff10fd9be5",
+    "size": 101089852,
+    "url": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u492-b09-ea-beta/OpenJDK8U-jdk_aarch64_alpine-linux_hotspot_8u492b09-ea.tar.gz",
+    "vendor": "eclipse",
+    "version": "8u492-b09-ea-beta"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "architecture": "ppc64",
+    "distro": "sapmachine",
+    "features": null,
+    "file_type": "tar.gz",
+    "filename": "sapmachine-jre-26_aix-ppc64_bin.tar.gz",
+    "image_type": "jre",
+    "java_version": "26+35",
+    "jvm_impl": "hotspot",
+    "md5": "1f36122b8c0fbb1eb540c2859b532083",
+    "os": "aix",
+    "release_type": "ga",
+    "sha1": "81d536fa9c3a1b26df289795e9ec4f33ef503c9a",
+    "sha256": "88141729fb7afea75b3fde50bb4ab29d9f4163baeb38585938eadcaf9e6cd894",
+    "sha512": "96ac8f117f4af51d8ab429785cc50c95891a0282b4371960686b01fd69bd0a24b92e9c2ccbaa3575bec6014ac357fe36e2c9144feeca4fe0d48d0738a3f8f65f",
+    "size": 43404292,
+    "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-26/sapmachine-jre-26_aix-ppc64_bin.tar.gz",
+    "vendor": "sap",
+    "version": "26"
+  },
+  {
+    "architecture": "ppc64",
+    "distro": "sapmachine",
+    "features": null,
+    "file_type": "tar.gz",
+    "filename": "sapmachine-jre-26.0.1_aix-ppc64_bin.tar.gz",
+    "image_type": "jre",
+    "java_version": "26.0.1+8",
+    "jvm_impl": "hotspot",
+    "md5": "2cdc292358580f04c0dba907cb10f535",
+    "os": "aix",
+    "release_type": "ga",
+    "sha1": "e7f46e5dfb0a73189ecee3e6ff6385c30d456284",
+    "sha256": "3345eb01f9676d11e10ed18ce67cc3fe39a64404482b37e95f7b9b11cd751bbb",
+    "sha512": "a77aca5377488a36544fe5dfa8df93d41d4fa69590934a1781626400a483eba155d26cbd166e1959ec46f50137e6fd496cb67d12e769b713865319960d9883c0",
+    "size": 43393060,
+    "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-26.0.1/sapmachine-jre-26.0.1_aix-ppc64_bin.tar.gz",
+    "vendor": "sap",
+    "version": "26.0.1"
+  }
+]

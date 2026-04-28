@@ -1,0 +1,24 @@
+[
+  {
+    "architecture": "x86_64",
+    "distro": "temurin",
+    "features": [
+      "musl"
+    ],
+    "file_type": "tar.gz",
+    "filename": "OpenJDK-jre_x64_alpine-linux_hotspot_27_20-ea.tar.gz",
+    "image_type": "jre",
+    "java_version": "27",
+    "jvm_impl": "hotspot",
+    "md5": "8c0c6cb6fc09d37ea90e096a5591c58d",
+    "os": "linux",
+    "release_type": "ea",
+    "sha1": "2cfe298b4a0eafa8dad13aea964b27699c51c990",
+    "sha256": "f9d6bbb3e87fb81d5464193a03bc583ac88d64ad8087ba754bc61d1fe55334cf",
+    "sha512": "40f3f170af49fedb191b2c6c85b6e6529f465be674f00f2cb8b1cf32efd3316828f9edf2ca3f5572bfd8296107d46589c3d9a066c373801190e909f4669dd521",
+    "size": 62145108,
+    "url": "https://github.com/adoptium/temurin27-binaries/releases/download/jdk-27%2B20-ea-beta/OpenJDK-jre_x64_alpine-linux_hotspot_27_20-ea.tar.gz",
+    "vendor": "eclipse",
+    "version": "27+20-ea-beta"
+  }
+]

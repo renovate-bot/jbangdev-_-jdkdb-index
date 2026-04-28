@@ -1,0 +1,22 @@
+[
+  {
+    "architecture": "aarch64",
+    "distro": "liberica",
+    "features": [],
+    "file_type": "rpm",
+    "filename": "bellsoft-jre17.0.9+11-linux-aarch64.rpm",
+    "image_type": "jre",
+    "java_version": "17.0.9+11-LTS",
+    "jvm_impl": "hotspot",
+    "md5": "27c23acb6cdcb046bb9d649f794f2918",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "a1529500e70b657e08c97e1fb6737f322a675028",
+    "sha256": "afa9de78533906b5e251c319edb3f101a89a6b11f9f9be447266638094278eb8",
+    "sha512": "e1da68f69f04db310a70586b643ac02a03c78ac6aedca47c7e08120ab1628a2345dfbd9e4a738debcd6431325169197527a9a08349f1d9db629987f268ff8e22",
+    "size": 30443016,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/17.0.9+11/bellsoft-jre17.0.9+11-linux-aarch64.rpm",
+    "vendor": "bellsoft",
+    "version": "17.0.9+11"
+  }
+]

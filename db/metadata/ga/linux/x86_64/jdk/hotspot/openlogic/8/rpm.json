@@ -1,0 +1,42 @@
+[
+  {
+    "architecture": "x86_64",
+    "distro": "openlogic",
+    "features": [],
+    "file_type": "rpm",
+    "filename": "openlogic-openjdk-8u442-b06-linux-x64-el.rpm",
+    "image_type": "jdk",
+    "java_version": "8u442-b06",
+    "jvm_impl": "hotspot",
+    "md5": "fad814a45136e4253a82d7b51ddaf0d0",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "bd4154079582ba0a1e61967b3362c614b416623f",
+    "sha256": "48d464d295201e164b204bb32bc2ff85a7a877d26b9346a9dc3e45c0821369cc",
+    "sha512": "7876b18b4530863734843377be0f3cd54e84e4aa3443d2d0a2579ae82999d005e60f9d28db9c0a86d761f443e72d092cb7ec980ec0df59798aa734ba7f00d592",
+    "size": 113702848,
+    "url": "https://builds.openlogic.com/downloadJDK/openlogic-openjdk/8u442-b06/openlogic-openjdk-8u442-b06-linux-x64-el.rpm",
+    "vendor": "openlogic",
+    "version": "8u442-b06"
+  },
+  {
+    "architecture": "x86_64",
+    "distro": "openlogic",
+    "features": [],
+    "file_type": "rpm",
+    "filename": "openlogic-openjdk-8u472-b08-linux-x64-el.rpm",
+    "image_type": "jdk",
+    "java_version": "8u472-b08",
+    "jvm_impl": "hotspot",
+    "md5": "5cecf002eb11ca45c0ceb7b59d5ce66c",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "faaa205972b774e97f27cc87a3c051f5cca4d3d7",
+    "sha256": "a788ae9e602a418fff45d92244acd32463d9b43958fdd2bfa8e65ce32cd023c8",
+    "sha512": "efdadaf4fe1ecc1e3eef26e6abd96d73082678acca5bc41809de7fc8c4d5c9882e452e5a15cb56adacc8cc5024fedcde087b977a9c1554cb2695c92aa3462c1c",
+    "size": 113721315,
+    "url": "https://builds.openlogic.com/downloadJDK/openlogic-openjdk/8u472-b08/openlogic-openjdk-8u472-b08-linux-x64-el.rpm",
+    "vendor": "openlogic",
+    "version": "8u472-b08"
+  }
+]

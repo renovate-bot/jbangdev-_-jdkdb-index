@@ -1,0 +1,66 @@
+[
+  {
+    "architecture": "arm32",
+    "distro": "liberica",
+    "features": [
+      "javafx"
+    ],
+    "file_type": "msi",
+    "filename": "bellsoft-jdk17.0.19+11-windows-aarch64-full.msi",
+    "image_type": "jdk",
+    "java_version": "17.0.19+11-LTS",
+    "jvm_impl": "hotspot",
+    "md5": "7286fc4dea98a820b0bb1892e7d7c3f1",
+    "os": "windows",
+    "release_type": "ga",
+    "sha1": "1093dcdfdc89a0139bc233e64d98b91680760f68",
+    "sha256": "7b40785f98abdb6d7dd3fdd45487081199cf99977212ab517e3bc44eb1a995dd",
+    "sha512": "ef3b4ef1881158646c2fdf86e8e3e512be05c3026b553f3f533ee31ec3e6f01b7e5627354a8ca1104bad461d27a870298fafcd276932e035ef36d322e5b26cea",
+    "size": 204267520,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/17.0.19+11/bellsoft-jdk17.0.19+11-windows-aarch64-full.msi",
+    "vendor": "bellsoft",
+    "version": "17.0.19+11"
+  },
+  {
+    "architecture": "arm32",
+    "distro": "liberica",
+    "features": [
+      "lite"
+    ],
+    "file_type": "msi",
+    "filename": "bellsoft-jdk17.0.19+11-windows-aarch64-lite.msi",
+    "image_type": "jdk",
+    "java_version": "17.0.19+11-LTS",
+    "jvm_impl": "hotspot",
+    "md5": "9e50addae3e617648727b9a2b35413f0",
+    "os": "windows",
+    "release_type": "ga",
+    "sha1": "359043be565d846cf979cd1fc1d908823ae0fe44",
+    "sha256": "2c4b2a5398e93c2271e0fbda6f03d4272b2a3a33a695ed825f9c060a3ba9021f",
+    "sha512": "dd17b99a85c5c7d385004186bc3895aaede0ca1655416d48370d94fcfb6e58a0054768977b326c118252757ef171ee88cc561bd2b0d2496bb06e63a7e18cc1ad",
+    "size": 70721536,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/17.0.19+11/bellsoft-jdk17.0.19+11-windows-aarch64-lite.msi",
+    "vendor": "bellsoft",
+    "version": "17.0.19+11"
+  },
+  {
+    "architecture": "arm32",
+    "distro": "liberica",
+    "features": [],
+    "file_type": "msi",
+    "filename": "bellsoft-jdk17.0.19+11-windows-aarch64.msi",
+    "image_type": "jdk",
+    "java_version": "17.0.19+11-LTS",
+    "jvm_impl": "hotspot",
+    "md5": "9c2fd2f8a6e048af48aa1fd8c0ef2f75",
+    "os": "windows",
+    "release_type": "ga",
+    "sha1": "ea676b3ea2c2a0ab3a90db1c059e2fdfe74a3a61",
+    "sha256": "9eee593d22fd45761d04e20922e86b4f84352c58dacdb13afac03f80fed56ec0",
+    "sha512": "c02a2a7140f32854e6841a9b0b0637d7eb2ebdeedbd2b9804c276aa711646a89e25dba01b27a7580c5ecef8186ede373338b947e4f2f27052377eb102c12d353",
+    "size": 181878784,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/17.0.19+11/bellsoft-jdk17.0.19+11-windows-aarch64.msi",
+    "vendor": "bellsoft",
+    "version": "17.0.19+11"
+  }
+]

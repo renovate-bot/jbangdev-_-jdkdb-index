@@ -1,0 +1,44 @@
+[
+  {
+    "architecture": "riscv64",
+    "distro": "liberica",
+    "features": [
+      "lite"
+    ],
+    "file_type": "tar.gz",
+    "filename": "bellsoft-jdk17.0.19+11-linux-riscv64-lite.tar.gz",
+    "image_type": "jdk",
+    "java_version": "17.0.19+11-LTS",
+    "jvm_impl": "hotspot",
+    "md5": "185f2950dc56f0fbcdc67db1f145aba0",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "d791ed07041c0d1b051f5acbc319633e33e09a62",
+    "sha256": "fbefd356a4bca17de77ca06919736e22d4d3ad2476a8fbcf8fb83b51d7d2e000",
+    "sha512": "68e453663509b3ac4b0309d04b6f0c73d00f57143d0d1ab4b4100ef609810eb179080ad722900efcecb4e516ef1ea2ca122ddd8e21f2f24be16803c271de2d7d",
+    "size": 71519337,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/17.0.19+11/bellsoft-jdk17.0.19+11-linux-riscv64-lite.tar.gz",
+    "vendor": "bellsoft",
+    "version": "17.0.19+11"
+  },
+  {
+    "architecture": "riscv64",
+    "distro": "liberica",
+    "features": [],
+    "file_type": "tar.gz",
+    "filename": "bellsoft-jdk17.0.19+11-linux-riscv64.tar.gz",
+    "image_type": "jdk",
+    "java_version": "17.0.19+11-LTS",
+    "jvm_impl": "hotspot",
+    "md5": "89ff5cfe38b18d2a4fbb1df6b451de7c",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "c04ff9974e122aaaf217badb446ef909b0ce760d",
+    "sha256": "b4c2af4b913ac8a9d6fbe99544e74ef42849fd3440b5d155ce214d0de78dfabd",
+    "sha512": "4151f3a10e3ff8eb3f5c05ebfab608a85b37fe74472b1413f4f04294fe69093d7f0889f4e7d32dc84de96eead781d1859199bba7e6b5d9db83bcebb2997e9a5c",
+    "size": 180942763,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/17.0.19+11/bellsoft-jdk17.0.19+11-linux-riscv64.tar.gz",
+    "vendor": "bellsoft",
+    "version": "17.0.19+11"
+  }
+]

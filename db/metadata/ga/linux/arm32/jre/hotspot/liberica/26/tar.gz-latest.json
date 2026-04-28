@@ -1,0 +1,66 @@
+[
+  {
+    "architecture": "arm32",
+    "distro": "liberica",
+    "features": [
+      "javafx"
+    ],
+    "file_type": "tar.gz",
+    "filename": "bellsoft-jre26+37-linux-aarch64-full.tar.gz",
+    "image_type": "jre",
+    "java_version": "26+37",
+    "jvm_impl": "hotspot",
+    "md5": "026207deb8d99046a04fac8af310058f",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "81c8b49ffa99e13b246d7d401a8256385a540537",
+    "sha256": "f67729b737f426b232619d1115d15b03f256d0d677ea956111a40e9f1f05e9e3",
+    "sha512": "aa507448f04263f5ec8fc6a5491ab2b05298f957f1aca0234f48600b0663ea036e5330cfa61d303e0f6dfdc99df602702c2e5512cdec972826d618287f710721",
+    "size": 148256404,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/26+37/bellsoft-jre26+37-linux-aarch64-full.tar.gz",
+    "vendor": "bellsoft",
+    "version": "26+37"
+  },
+  {
+    "architecture": "arm32",
+    "distro": "liberica",
+    "features": [
+      "musl"
+    ],
+    "file_type": "tar.gz",
+    "filename": "bellsoft-jre26+37-linux-aarch64-musl.tar.gz",
+    "image_type": "jre",
+    "java_version": "26+37",
+    "jvm_impl": "hotspot",
+    "md5": "94a28bbb0b8806f530568914ff60927a",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "4fb7fccb89140daa9951901a52bb86f29d4190b6",
+    "sha256": "5e865c6b0843d1a041e1b2d5a4f5646f3bfa627cd3834c24d6de30513546d3cf",
+    "sha512": "37683881789321bc1ca5ee3eabb2ed58b566423249a63f8f59d03fe3dc27766261a3e04d74c23ffcc5a78452625d2628a947100ada21d06c7d00ef54803dd49e",
+    "size": 84357235,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/26+37/bellsoft-jre26+37-linux-aarch64-musl.tar.gz",
+    "vendor": "bellsoft",
+    "version": "26+37"
+  },
+  {
+    "architecture": "arm32",
+    "distro": "liberica",
+    "features": [],
+    "file_type": "tar.gz",
+    "filename": "bellsoft-jre26+37-linux-aarch64.tar.gz",
+    "image_type": "jre",
+    "java_version": "26+37",
+    "jvm_impl": "hotspot",
+    "md5": "51446285b2e11881d12f9f10813a344c",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "13892281e5b2b291c12622991b88abe2dd5a6164",
+    "sha256": "62fc14c011457bbed90f3d28b710c032d7961523e967bb95761d84126d4f3647",
+    "sha512": "1b190bcf7b0c3f16f45d47149b275e18e12dfa74058ccbd0872206be6517282844508fd48ba441e9fb79e78e192834468ecb11aa65262279d10ad6087544c367",
+    "size": 84354788,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/26+37/bellsoft-jre26+37-linux-aarch64.tar.gz",
+    "vendor": "bellsoft",
+    "version": "26+37"
+  }
+]

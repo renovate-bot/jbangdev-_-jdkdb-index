@@ -1,0 +1,22 @@
+[
+  {
+    "architecture": "x86_64",
+    "distro": "corretto",
+    "features": [],
+    "file_type": "msi",
+    "filename": "amazon-corretto-11.0.31.11.1-windows-x64.msi",
+    "image_type": "jdk",
+    "java_version": "11.0.31+11-LTS",
+    "jvm_impl": "hotspot",
+    "md5": "3f1aab579bc085c4ebd1ecdc864bf455",
+    "os": "windows",
+    "release_type": "ga",
+    "sha1": "43591335c41ba89ab9c90bba74e2ad2ee4042506",
+    "sha256": "c941f6d876cda84e7d7bbad78df2f27fcb75f5d68dec276c38f2408fbe0f1286",
+    "sha512": "dcc1380f6bb5c7b480de43d62395d4f78569d393b7a74bfa26d0a8dd9142ebb36ae432351282fdbab5d812074ee785f9e7722c5c4c996aa470f885512e9da824",
+    "size": 169746432,
+    "url": "https://corretto.aws/downloads/resources/11.0.31.11.1/amazon-corretto-11.0.31.11.1-windows-x64.msi",
+    "vendor": "amazon",
+    "version": "11.0.31.11.1"
+  }
+]

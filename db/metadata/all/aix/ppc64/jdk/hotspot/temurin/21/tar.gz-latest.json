@@ -1,0 +1,22 @@
+[
+  {
+    "architecture": "ppc64",
+    "distro": "temurin",
+    "features": [],
+    "file_type": "tar.gz",
+    "filename": "OpenJDK21U-jdk_ppc64_aix_hotspot_21.0.11_10-ea.tar.gz",
+    "image_type": "jdk",
+    "java_version": "21",
+    "jvm_impl": "hotspot",
+    "md5": "2e8af539650d24751ea7f4d674807c06",
+    "os": "aix",
+    "release_type": "ea",
+    "sha1": "967f76d23ce7c68ed393b0f2356c3592053bd492",
+    "sha256": "81fad0b33462d8bd3bebd21434cc3e9ab6676381d553818309fb75705b3e8129",
+    "sha512": "4919c8e10b26f56c8b52437b6e4342eb6ae879327207fa081e0ab6bb99bc2939bb3fd9ac19b5066830ccba642a6d0e2387d0de78a7d1e86b2db6ec031a23d221",
+    "size": 201620025,
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.11%2B10-ea-beta/OpenJDK21U-jdk_ppc64_aix_hotspot_21.0.11_10-ea.tar.gz",
+    "vendor": "eclipse",
+    "version": "21.0.11+10-ea-beta"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "architecture": "arm32",
+    "distro": "liberica",
+    "features": [
+      "javafx"
+    ],
+    "file_type": "zip",
+    "filename": "bellsoft-jre25.0.3+11-windows-aarch64-full.zip",
+    "image_type": "jre",
+    "java_version": "25.0.3+11-LTS",
+    "jvm_impl": "hotspot",
+    "md5": "5515bf0caa46e03d9ec1764367c5c1aa",
+    "os": "windows",
+    "release_type": "ga",
+    "sha1": "3170bb500f0ba3cdbef14cd1e17b42b8ab5305d1",
+    "sha256": "43da239804868c957d97c548c16e2bfbec9f0ff76ef206ffa7c6f509f7aabcd6",
+    "sha512": "b3fa353b26fcd80e89b98287b1c04cf531c42c4f0e6e7ea7500d0a412591f0c1f72c05d7fa671b3c19b9e2aaf269e32046c9e0c4003fb4d4a25784dbe1a07d74",
+    "size": 48961085,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/25.0.3+11/bellsoft-jre25.0.3+11-windows-aarch64-full.zip",
+    "vendor": "bellsoft",
+    "version": "25.0.3+11"
+  },
+  {
+    "architecture": "arm32",
+    "distro": "liberica",
+    "features": [],
+    "file_type": "zip",
+    "filename": "bellsoft-jre25.0.3+11-windows-aarch64.zip",
+    "image_type": "jre",
+    "java_version": "25.0.3+11-LTS",
+    "jvm_impl": "hotspot",
+    "md5": "6287779aaa943dcab5b62e91b9625496",
+    "os": "windows",
+    "release_type": "ga",
+    "sha1": "efe5b5825a47d2601fb60bf003a77ee3f43beaa5",
+    "sha256": "acd0b55e428648d18753b4d0f53776dadbcba4d4954a5eff64685fe2b42af7ac",
+    "sha512": "701ddc992e661435744e20772fc9df78dc31a5aa893142ce5f9fd4aa53577f389e2a94edcf90053e2479692d7a84c52fd67be9afa8dea78a5cdc3d5c914c2d32",
+    "size": 43399423,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/25.0.3+11/bellsoft-jre25.0.3+11-windows-aarch64.zip",
+    "vendor": "bellsoft",
+    "version": "25.0.3+11"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "architecture": "x86_64",
+    "distro": "sapmachine",
+    "features": null,
+    "file_type": "rpm",
+    "filename": "sapmachine-jdk-13-1.x86_64.rpm",
+    "image_type": "jdk",
+    "java_version": "13-1",
+    "jvm_impl": "hotspot",
+    "md5": "5f5ce315bc107b1ebc56b7177b0011ad",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "79a03c753d533867da9e4909e77def37028e7d82",
+    "sha256": "bdaabc69b02446d5e1ba7845e388e797e9e33fda42fdda38f47f3a0ecbef98e4",
+    "sha512": "4ce6caecc3dd802b1dc3e5cde265d2f12d8aa7decd7805825c5aafb61f321da9973fee9c693bd7ffd9561766bbfc848659f27bc368d019bef921102deb784fd1",
+    "size": 182405384,
+    "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-13/sapmachine-jdk-13-1.x86_64.rpm",
+    "vendor": "sap",
+    "version": "13-1"
+  }
+]

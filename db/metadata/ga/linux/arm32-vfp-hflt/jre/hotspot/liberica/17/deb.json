@@ -1,0 +1,50 @@
+[
+  {
+    "architecture": "arm32-vfp-hflt",
+    "distro": "liberica",
+    "features": [
+      "libericafx",
+      "minimal-vm",
+      "javafx"
+    ],
+    "file_type": "deb",
+    "filename": "bellsoft-jre17.0.2+9-linux-arm32-vfp-hflt-full.deb",
+    "image_type": "jre",
+    "java_version": "17.0.2+9",
+    "jvm_impl": "hotspot",
+    "md5": "2bd19f2f5164c923ac13c4e640f4f7b8",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "62599434c5c3fdb457ceb05c57c45c5bb890f6b2",
+    "sha256": "88ded687da354171733ad9abffff204d42ea7f913077a19ee1d1575668f04c65",
+    "sha512": "4c82ba93d21920b283a964b2d5db52b4b6cb40fb5f0c4634ec5a3f986fe31fe11eb1ffbf1eae81fc1bd147d0bf7e7e5fa39e6eb54e3336ad6f148cf4a8655cdc",
+    "size": 29141788,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/17.0.2+9/bellsoft-jre17.0.2+9-linux-arm32-vfp-hflt-full.deb",
+    "vendor": "bellsoft",
+    "version": "17.0.2+9"
+  },
+  {
+    "architecture": "arm32-vfp-hflt",
+    "distro": "liberica",
+    "features": [
+      "libericafx",
+      "minimal-vm",
+      "javafx"
+    ],
+    "file_type": "deb",
+    "filename": "bellsoft-jre17.0.8.1+1-linux-arm32-vfp-hflt-full.deb",
+    "image_type": "jre",
+    "java_version": "17.0.8.1+1-LTS",
+    "jvm_impl": "hotspot",
+    "md5": "69045db1139317c2cb38c585f911168c",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "262e1e8312fa4adcef473727abb3058acf2d3e95",
+    "sha256": "3ec3751e2f7bcfc3b9a7a3e3e517f0ca9047fdbac2e7fbe9b71d3891fa681993",
+    "sha512": "30b0e56545ee7fb29c513f34c7ffeec96d3313c8743a42914332693991c24ddbba391d30aa1db80aa8b42183c653881c76048df71bee72586ce6280b3dd175a7",
+    "size": 29236904,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/17.0.8.1+1/bellsoft-jre17.0.8.1+1-linux-arm32-vfp-hflt-full.deb",
+    "vendor": "bellsoft",
+    "version": "17.0.8.1+1"
+  }
+]

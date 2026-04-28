@@ -1,0 +1,22 @@
+[
+  {
+    "architecture": "ppc64le",
+    "distro": "semeru",
+    "features": [],
+    "file_type": "rpm",
+    "filename": "ibm-semeru-open-21-jre-21.0.11.0_m2-1.ppc64le.rpm",
+    "image_type": "jre",
+    "java_version": "21.0.11+9-LTS",
+    "jvm_impl": "openj9",
+    "md5": "d0536f1031d70307d172b4df4b59fc85",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "27f0faf7f2e69343929c4ae196898ff7e67fd3c0",
+    "sha256": "5d5224a62b98d89653a4dd2dc8ca2e0941c4454ae36ab12037fcec69b67b6dc1",
+    "sha512": "fd69a45af8bd703708b43ce272e776f9033edbdefa2c7e986e698169da0d46becd46aab9270b9f04e92e38f5ecc184ff12df2f4f4ded876e07dcbb3c3de59ad9",
+    "size": 35471484,
+    "url": "https://github.com/ibmruntimes/semeru21-binaries/releases/download/jdk-21.0.11.0-m2/ibm-semeru-open-21-jre-21.0.11.0_m2-1.ppc64le.rpm",
+    "vendor": "ibm",
+    "version": "21.0.11.0-m2"
+  }
+]

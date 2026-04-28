@@ -1,0 +1,42 @@
+[
+  {
+    "architecture": "x86_64",
+    "distro": "openlogic",
+    "features": [],
+    "file_type": "deb",
+    "filename": "openlogic-openjdk-25.0.1+8-linux-x64-deb.deb",
+    "image_type": "jdk",
+    "java_version": "25.0.1+8-adhoc.root.jdk25u",
+    "jvm_impl": "hotspot",
+    "md5": "ea7fe888b715b46acc80f79e65189146",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "a32fc23175c7e6f7c45f3bc99e8f37c65fd6528b",
+    "sha256": "4013aa7d52c2d8d11c4b10222a50cdaa08be504acd1c48a99c2b71f7942f37e3",
+    "sha512": "394bf7562e2626a3d6ab74ddc40b457ac8a16305cdcbb7c2a52df47e2f66a753f0378de99d104251ba828bbac9ffe52b72234277c22ac837b3dcb64eae031d38",
+    "size": 286197050,
+    "url": "https://builds.openlogic.com/downloadJDK/openlogic-openjdk/25.0.1+8/openlogic-openjdk-25.0.1+8-linux-x64-deb.deb",
+    "vendor": "openlogic",
+    "version": "25.0.1+8"
+  },
+  {
+    "architecture": "x86_64",
+    "distro": "openlogic",
+    "features": [],
+    "file_type": "tar.gz",
+    "filename": "openlogic-openjdk-25.0.1+8-linux-x64.tar.gz",
+    "image_type": "jdk",
+    "java_version": "25.0.1+8-adhoc.root.jdk25u",
+    "jvm_impl": "hotspot",
+    "md5": "6fe070fec78598207433d96d20490e45",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "65712241d396d5c938f12b996ede89e3ecc41caf",
+    "sha256": "ca9553abb0c58f7798987ddc34994dddc26d2def5a2d53a8ce8e6fb3227c7d03",
+    "sha512": "a10c28c31cccdcd6c7e38865d8c00dd7ba42006fca9edddbbb192eb3cd15ee04ffcb7c763178c2ecda2b28e58d9f3982cbca41b82a1d8a5a9b6a45b8ddedccb4",
+    "size": 286191575,
+    "url": "https://builds.openlogic.com/downloadJDK/openlogic-openjdk/25.0.1+8/openlogic-openjdk-25.0.1+8-linux-x64.tar.gz",
+    "vendor": "openlogic",
+    "version": "25.0.1+8"
+  }
+]

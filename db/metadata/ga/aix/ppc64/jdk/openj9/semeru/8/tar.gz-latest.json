@@ -1,0 +1,22 @@
+[
+  {
+    "architecture": "ppc64",
+    "distro": "semeru",
+    "features": [],
+    "file_type": "tar.gz",
+    "filename": "ibm-semeru-open-jdk_ppc64_aix_8.0.492.0-m2.tar.gz",
+    "image_type": "jdk",
+    "java_version": "1.8.0_492-b08",
+    "jvm_impl": "openj9",
+    "md5": "3a1469375dac72e2aea9aa1bb6359217",
+    "os": "aix",
+    "release_type": "ga",
+    "sha1": "2e9245599eb73b46ce67b3b6fef7b7094856dc4e",
+    "sha256": "cca029703ca5675756fbe5cf52315deecafadaf32ccbaed12eadf3c05def200d",
+    "sha512": "fe6d3ab47d92f7cfecedfdcfd7a37facd16d56b405bb3b66affde2579086551a225a5ba9780aadff09979136f670feffad18b5e5afceba6793b85b91d81b9d67",
+    "size": 123921231,
+    "url": "https://github.com/ibmruntimes/semeru8-binaries/releases/download/jdk-8.0.492.0-m2/ibm-semeru-open-jdk_ppc64_aix_8.0.492.0-m2.tar.gz",
+    "vendor": "ibm",
+    "version": "8.0.492.0-m2"
+  }
+]

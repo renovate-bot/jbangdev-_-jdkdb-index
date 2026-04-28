@@ -1,0 +1,22 @@
+[
+  {
+    "architecture": "x86_64",
+    "distro": "openlogic",
+    "features": [],
+    "file_type": "pkg",
+    "filename": "openlogic-openjdk-jre-17.0.17+10-mac-x64.pkg",
+    "image_type": "jre",
+    "java_version": "17.0.17+10",
+    "jvm_impl": "hotspot",
+    "md5": "25e1e679cce99a7e4d9fc15e56e92865",
+    "os": "macosx",
+    "release_type": "ga",
+    "sha1": "b164425240e0574d56884c4cb2dfea690a64bd27",
+    "sha256": "199ca24950aa59e3751883f25a083efdcd08db4d0609b758f1aafe20940e29a4",
+    "sha512": "3760dd691404dc2d9781ed663305cd8534c2de58a7dd95078d5d7dc9c0c6182aa9f9d8a768de4135622b22ab557e3bb2ab5e9553ee811abf93a0d320f1320b03",
+    "size": 50031929,
+    "url": "https://builds.openlogic.com/downloadJDK/openlogic-openjdk-jre/17.0.17+10/openlogic-openjdk-jre-17.0.17+10-mac-x64.pkg",
+    "vendor": "openlogic",
+    "version": "17.0.17+10"
+  }
+]

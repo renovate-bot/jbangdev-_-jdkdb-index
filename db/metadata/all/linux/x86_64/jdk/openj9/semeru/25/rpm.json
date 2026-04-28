@@ -1,0 +1,42 @@
+[
+  {
+    "architecture": "x86_64",
+    "distro": "semeru",
+    "features": [],
+    "file_type": "rpm",
+    "filename": "ibm-semeru-open-25-jdk-25.0.1.8_0.57.0-1.x86_64.rpm",
+    "image_type": "jdk",
+    "java_version": "25.0.1+8",
+    "jvm_impl": "openj9",
+    "md5": "247999b76c51e5181d659db7a08d1fa1",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "6438b3fc44acd81ed31ed21fdcc8ff7350b8b487",
+    "sha256": "debdd6d9fd5b7188edac6e8d9a6915ce0bedc480ab2778851ab97e7304eb230f",
+    "sha512": "4d031d9bba76bd655a238502750f3df976f2c1a67aa86aca7b241d1d4776c084dedd31851aea0db6529cdfd649dc7a1707c2b34a61967988c00b455534a15314",
+    "size": 209951916,
+    "url": "https://github.com/ibmruntimes/semeru25-binaries/releases/download/jdk-25.0.1%2B8_openj9-0.57.0-m2/ibm-semeru-open-25-jdk-25.0.1.8_0.57.0-1.x86_64.rpm",
+    "vendor": "ibm",
+    "version": "25.0.1+8_openj9-0.57.0-m2"
+  },
+  {
+    "architecture": "x86_64",
+    "distro": "semeru",
+    "features": [],
+    "file_type": "rpm",
+    "filename": "ibm-semeru-open-25-jdk-25.0.2.1-1.x86_64.rpm",
+    "image_type": "jdk",
+    "java_version": "25.0.2+10.1",
+    "jvm_impl": "openj9",
+    "md5": "e193bd96e253d153ee62a0c52c11937b",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "adda59b6b4dd63883e2c9d429cfc176c595a1c32",
+    "sha256": "2dd0deddb5d4db59f26c9ba15e199aab0cbd5e4954ceddc90ae6ba1b75ea5e09",
+    "sha512": "9357ef434fee9ce1acce7e79c65a119c971f90807c191b961eee7380d9cfa728082c32aede804438bfa481c6b3ff44809a05449acca390cb67799daabee7d6f8",
+    "size": 210334424,
+    "url": "https://github.com/ibmruntimes/semeru25-binaries/releases/download/jdk-25.0.2%2B10.1_openj9-0.57.0/ibm-semeru-open-25-jdk-25.0.2.1-1.x86_64.rpm",
+    "vendor": "ibm",
+    "version": "25.0.2+10.1_openj9-0.57.0"
+  }
+]

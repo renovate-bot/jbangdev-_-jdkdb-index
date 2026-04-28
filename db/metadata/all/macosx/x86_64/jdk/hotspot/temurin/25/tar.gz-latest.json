@@ -1,0 +1,22 @@
+[
+  {
+    "architecture": "x86_64",
+    "distro": "temurin",
+    "features": [],
+    "file_type": "tar.gz",
+    "filename": "OpenJDK25U-jdk_x64_mac_hotspot_25.0.3_9-ea.tar.gz",
+    "image_type": "jdk",
+    "java_version": "25",
+    "jvm_impl": "hotspot",
+    "md5": "3bd60803e35fbfa51d65446b226c6c47",
+    "os": "macosx",
+    "release_type": "ea",
+    "sha1": "5925d8268b51d35b687c0d967af96eff7796bb23",
+    "sha256": "4c3e57ff2a48eb0ba454bb34b326d9493375e0c513378da8635d0a2521657889",
+    "sha512": "63d5d091e53d6dd4df8581ff2252f3330f778801d6f1c18ed09ccf9ab2ba6b7f53bcf5f4fd4616a7464877320a1682c9efb824feb14b87a04a6f730e632e192c",
+    "size": 120527844,
+    "url": "https://github.com/adoptium/temurin25-binaries/releases/download/jdk-25.0.3%2B9-ea-beta/OpenJDK25U-jdk_x64_mac_hotspot_25.0.3_9-ea.tar.gz",
+    "vendor": "eclipse",
+    "version": "25.0.3+9-ea-beta"
+  }
+]

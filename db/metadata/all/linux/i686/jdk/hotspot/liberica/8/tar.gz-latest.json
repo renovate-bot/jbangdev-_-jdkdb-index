@@ -1,0 +1,111 @@
+[
+  {
+    "architecture": "i686",
+    "distro": "liberica",
+    "features": [
+      "javafx"
+    ],
+    "file_type": "tar.gz",
+    "filename": "bellsoft-jdk8u492+9-linux-amd64-full.tar.gz",
+    "image_type": "jdk",
+    "java_version": "1.8.0_492",
+    "jvm_impl": "hotspot",
+    "md5": "e37fece7322982c5d443edc84282b535",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "0996541c65cc6eb0afff14271aaa3b2dbd6e67e1",
+    "sha256": "e47c47d5589ed33d1fc3eb28ce7ea8392bcb3c1b0d585ab18d4c1bb7a905565e",
+    "sha512": "76b4b2eb3fd8c64b6221d93d06bb8a9de5bf3d498ba4e524fdbce0fb2962c0269741aae440583e7d0086cd44c24086d6137193c0e77ad4d4ef6b6e2506c761d3",
+    "size": 176193284,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/8u492+9/bellsoft-jdk8u492+9-linux-amd64-full.tar.gz",
+    "vendor": "bellsoft",
+    "version": "8u492+9"
+  },
+  {
+    "architecture": "i686",
+    "distro": "liberica",
+    "features": [
+      "javafx"
+    ],
+    "file_type": "tar.gz",
+    "filename": "bellsoft-jdk8u492+9-linux-i586-full.tar.gz",
+    "image_type": "jdk",
+    "java_version": "1.8.0_492",
+    "jvm_impl": "hotspot",
+    "md5": "a1150fb2ed3ab62e73a3657ddb9cd63e",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "bf6d47bd22bea9f6ba402db072ba7454c10bdc43",
+    "sha256": "32eff01f5d8ba505fc7d9b652ba646ddffe12e45e60d8680fe5ab2614984d343",
+    "sha512": "9476611c70bb87b9a615830d5711b1fade789c118b510e5190033a1d1ee66a1a2b69edf69509826869e504cf596ddfd5a0b9110ef07a429d377fa019533b5693",
+    "size": 169270194,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/8u492+9/bellsoft-jdk8u492+9-linux-i586-full.tar.gz",
+    "vendor": "bellsoft",
+    "version": "8u492+9"
+  },
+  {
+    "architecture": "i686",
+    "distro": "liberica",
+    "features": [
+      "lite"
+    ],
+    "file_type": "tar.gz",
+    "filename": "bellsoft-jdk8u492+9-linux-i586-lite.tar.gz",
+    "image_type": "jdk",
+    "java_version": "1.8.0_492",
+    "jvm_impl": "hotspot",
+    "md5": "078aabc850991e396c431ef2a10db920",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "096584eab3b62d731d68d4184ad577c1c2968d40",
+    "sha256": "63972240fdbf3327f7fcfa7c56dd40abda38be078f0a819f8c7a0179c5290360",
+    "sha512": "23d82ac30417b335b3d4ec9c09230fd8ebbe7f0009a90fd1ccbe1d1b0b7ae10c61b17ddac34303149d21d9fc8dbdb7a6cf5db6818aa0a87058847c664d7887b7",
+    "size": 53614155,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/8u492+9/bellsoft-jdk8u492+9-linux-i586-lite.tar.gz",
+    "vendor": "bellsoft",
+    "version": "8u492+9"
+  },
+  {
+    "architecture": "i686",
+    "distro": "liberica",
+    "features": [],
+    "file_type": "tar.gz",
+    "filename": "bellsoft-jdk8u492+9-linux-i586.tar.gz",
+    "image_type": "jdk",
+    "java_version": "1.8.0_492",
+    "jvm_impl": "hotspot",
+    "md5": "b6de1588f1faa016dff4e2ee807257f3",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "2db3aa774e0c9d48150d95ec6d30efb6a75c28ac",
+    "sha256": "fb543726a6fad81210bf9aa85f55540626f402d43a754e5d3c9ea4ccffed93b2",
+    "sha512": "960338f40804b73cc6ea948562b5ff4206e23c12000a49ed2e1f3ff78b9fc0cf1e91fbb2bcd46a2f05ddee42dba0ab2ef6441e95840d9fa68b79e4490f2f9181",
+    "size": 110145529,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/8u492+9/bellsoft-jdk8u492+9-linux-i586.tar.gz",
+    "vendor": "bellsoft",
+    "version": "8u492+9"
+  },
+  {
+    "architecture": "i686",
+    "distro": "liberica",
+    "features": [
+      "musl",
+      "lite"
+    ],
+    "file_type": "tar.gz",
+    "filename": "bellsoft-jdk8u492+9-linux-x64-musl-lite.tar.gz",
+    "image_type": "jdk",
+    "java_version": "1.8.0_492",
+    "jvm_impl": "hotspot",
+    "md5": "b9aeed80837d26706255bc6468c00ad6",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "73bfb043afa14252342c15bbf3a5c7f803649ec5",
+    "sha256": "189b6576e913e39bf92aa9a32a92c6716f591f77ce532a8125d29f60eb4c9561",
+    "sha512": "4ee235c289e58a2c3c4a4b2786fe7571b47a73dae211185b6029c814fdd82188b7b21583022700319eb8641abfa417bf87910d367a2952ab47c0c3a1f6741c37",
+    "size": 52097676,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/8u492+9/bellsoft-jdk8u492+9-linux-x64-musl-lite.tar.gz",
+    "vendor": "bellsoft",
+    "version": "8u492+9"
+  }
+]

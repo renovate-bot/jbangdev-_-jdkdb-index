@@ -1,0 +1,24 @@
+[
+  {
+    "architecture": "arm32",
+    "distro": "liberica",
+    "features": [
+      "javafx"
+    ],
+    "file_type": "zip",
+    "filename": "bellsoft-jdk17.0.19+11-windows-aarch64-full.zip",
+    "image_type": "jdk",
+    "java_version": "17.0.19+11-LTS",
+    "jvm_impl": "hotspot",
+    "md5": "b0a9cb6c9998f706f5606d1bbdfdcfc0",
+    "os": "windows",
+    "release_type": "ga",
+    "sha1": "5bc5edcb1e7443b89ccaefefea06bcd3b07973e5",
+    "sha256": "75268d5378903b4fca9478d03b310cc57a728afad906175b02168af1b218844e",
+    "sha512": "b60f79d54082f135f2317344bb89af141604109524d5be143950a8f51cdad656f1e82a5f2e08e846e9e8a8c9f436bed9cb51132697b88390f50148c230414201",
+    "size": 206767599,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/17.0.19+11/bellsoft-jdk17.0.19+11-windows-aarch64-full.zip",
+    "vendor": "bellsoft",
+    "version": "17.0.19+11"
+  }
+]

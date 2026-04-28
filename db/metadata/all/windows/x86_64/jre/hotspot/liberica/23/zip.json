@@ -1,0 +1,50 @@
+[
+  {
+    "architecture": "x86_64",
+    "distro": "liberica",
+    "features": [
+      "libericafx",
+      "minimal-vm",
+      "javafx"
+    ],
+    "file_type": "zip",
+    "filename": "bellsoft-jre23.0.2+9-windows-amd64-full.zip",
+    "image_type": "jre",
+    "java_version": "23.0.2+9",
+    "jvm_impl": "hotspot",
+    "md5": "94c4871b5bb0c954fafada284412c55f",
+    "os": "windows",
+    "release_type": "ga",
+    "sha1": "4418a29c007cc24e757901cfd0cfafa849e21d84",
+    "sha256": "89b3b36ebaa1008f33948d1a488a7c76a759251a708094e64e521bf7d2643f48",
+    "sha512": "a77ca1191292b7d08f7bfe38e60a55fdeec98dd28bc116fbd440ae79f7b7cd079882c2bf9f99b370d2d1762fffbf684a0535cefd3a6c68c793c6d8b95835c678",
+    "size": 97440850,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/23.0.2+9/bellsoft-jre23.0.2+9-windows-amd64-full.zip",
+    "vendor": "bellsoft",
+    "version": "23.0.2+9"
+  },
+  {
+    "architecture": "x86_64",
+    "distro": "liberica",
+    "features": [
+      "libericafx",
+      "minimal-vm",
+      "javafx"
+    ],
+    "file_type": "zip",
+    "filename": "bellsoft-jre23+38-windows-amd64-full.zip",
+    "image_type": "jre",
+    "java_version": "23+38",
+    "jvm_impl": "hotspot",
+    "md5": "3bf6d36768dfcda0f831338668ba4d80",
+    "os": "windows",
+    "release_type": "ga",
+    "sha1": "d0902de2b6de7ebd10ffc5e98f0dd0f1d757cdaf",
+    "sha256": "425f6645124328cc91b1e68a06e4752ad1b4de1b29509fefb7bd1d4265d4bb4f",
+    "sha512": "64b884caf3a0475a0853fb07caede06dd9cd54f554ce37fa583fff44c47103b101ff0f60e4ab5b9e38e280e5e78385011e99e699c413ffdd0d5a043064fa13c2",
+    "size": 96861812,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/23+38/bellsoft-jre23+38-windows-amd64-full.zip",
+    "vendor": "bellsoft",
+    "version": "23+38"
+  }
+]

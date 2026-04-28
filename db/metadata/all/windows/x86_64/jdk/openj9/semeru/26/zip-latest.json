@@ -1,0 +1,22 @@
+[
+  {
+    "architecture": "x86_64",
+    "distro": "semeru",
+    "features": [],
+    "file_type": "zip",
+    "filename": "ibm-semeru-open-jdk_x64_windows_26.0.1.0-m1.zip",
+    "image_type": "jdk",
+    "java_version": "26.0.1.0",
+    "jvm_impl": "openj9",
+    "md5": "3d5f5b1ea6e1dd566751245202fe8d33",
+    "os": "windows",
+    "release_type": "ga",
+    "sha1": "bd0d5a344ceb5a4cfdd53be6297937f837af4c92",
+    "sha256": "f6dd49a39ee429b39cbbbc08ea66309e00c98a46e1778f6f89002c80d29aaf84",
+    "sha512": "bd74c2d1af21657f0bbc36ad6715630c60a57d944e5c00bc36057989aaf0c46e1e650de0e2d547c346325e24926b8cab5d207c3e847d581568288809bc3f6969",
+    "size": 253398778,
+    "url": "https://github.com/ibmruntimes/semeru26-binaries/releases/download/jdk-26.0.1.0-m1/ibm-semeru-open-jdk_x64_windows_26.0.1.0-m1.zip",
+    "vendor": "ibm",
+    "version": "26.0.1.0-m1"
+  }
+]

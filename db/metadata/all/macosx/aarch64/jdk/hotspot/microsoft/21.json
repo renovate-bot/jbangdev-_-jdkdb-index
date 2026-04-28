@@ -1,0 +1,42 @@
+[
+  {
+    "architecture": "aarch64",
+    "distro": "microsoft",
+    "features": [],
+    "file_type": "pkg",
+    "filename": "microsoft-jdk-21.0.10-macos-aarch64.pkg",
+    "image_type": "jdk",
+    "java_version": "21.0.10+7-LTS",
+    "jvm_impl": "hotspot",
+    "md5": "6620e233ae87c745f0a9b65ab9935c64",
+    "os": "macosx",
+    "release_type": "ga",
+    "sha1": "9e560c9af48cee5580b63dcee0c67ae16d81f1a8",
+    "sha256": "00120eb6408afce6ae3b6a37d5216905a5616d327d5b42721f56a2f4abf55e8f",
+    "sha512": "4d205fbf037a226d713e451b5c68212fc8eeaac1cba2324c2a3e5893fd73f9f0d495377b1c9888a8ef7c82522fa47080024ee76f1d62f4d0cccbd37966afe480",
+    "size": 200316679,
+    "url": "https://aka.ms/download-jdk/microsoft-jdk-21.0.10-macos-aarch64.pkg",
+    "vendor": "microsoft",
+    "version": "21.0.10"
+  },
+  {
+    "architecture": "aarch64",
+    "distro": "microsoft",
+    "features": [],
+    "file_type": "tar.gz",
+    "filename": "microsoft-jdk-21.0.11-macos-aarch64.tar.gz",
+    "image_type": "jdk",
+    "java_version": "21.0.11+10-LTS",
+    "jvm_impl": "hotspot",
+    "md5": "fc15ab8f019371caf1226f05349e3046",
+    "os": "macosx",
+    "release_type": "ea",
+    "sha1": "ab53b765b16ebba73702bc809c5457fd2718ae65",
+    "sha256": "22eac07819b9fe6670cb026fd3fd7bddd31938ea3adad7b722ac0631d76d9667",
+    "sha512": "3a398b617d49f959fcb67edfed903649a6b455e58eabcfd1d9a1ea42e6307474f0514eb86d64e5d21f622ab2512fc4ae6fd6f203e2ff598ec12ed41ee9b7b103",
+    "size": 200065878,
+    "url": "https://aka.ms/download-jdk/microsoft-jdk-21.0.11-macos-aarch64.tar.gz",
+    "vendor": "microsoft",
+    "version": "21.0.11"
+  }
+]

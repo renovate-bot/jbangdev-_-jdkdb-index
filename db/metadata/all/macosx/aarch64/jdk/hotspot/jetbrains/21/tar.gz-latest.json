@@ -1,0 +1,66 @@
+[
+  {
+    "architecture": "aarch64",
+    "distro": "jetbrains",
+    "features": [],
+    "file_type": "tar.gz",
+    "filename": "jbrsdk-21.0.9-osx-aarch64-b895.149.tar.gz",
+    "image_type": "jdk",
+    "java_version": "21.0.9",
+    "jvm_impl": "hotspot",
+    "md5": "5a05d18d10eacc16c24df4fa344bd3a8",
+    "os": "macosx",
+    "release_type": "ga",
+    "sha1": "2d7f69f95ba25eec7815e734ab012021b7bfcaae",
+    "sha256": "06725e1ccfa8e965350c002aeb899144f966c174e0c66ebf560ab44ef36d083e",
+    "sha512": "e7a7cd84f43fee3efe1f8d4e2055704058be785adabf8e4d9907c5f83aa4b732b68aebee96303bb3ce1c80516d2f3f4fe50759b33d0ac1154f7a9d964c7718a3",
+    "size": 222994495,
+    "url": "https://cache-redirector.jetbrains.com/intellij-jbr/jbrsdk-21.0.9-osx-aarch64-b895.149.tar.gz",
+    "vendor": "jetbrains",
+    "version": "21.0.9b895.149"
+  },
+  {
+    "architecture": "aarch64",
+    "distro": "jetbrains",
+    "features": [
+      "fastdebug"
+    ],
+    "file_type": "tar.gz",
+    "filename": "jbrsdk-21.0.9-osx-aarch64-fastdebug-b895.149.tar.gz",
+    "image_type": "jdk",
+    "java_version": "21.0.9+10-b895.149",
+    "jvm_impl": "hotspot",
+    "md5": "d5f37d70c7f15ebc5e1d2087435d59c5",
+    "os": "macosx",
+    "release_type": "ga",
+    "sha1": "62f28dbcae30a4d98f7d0eaa27d76466a7d168f4",
+    "sha256": "2b30017eaf342acd16c20971cc165bfec10865ff37cc723b2afa9773ed0603b7",
+    "sha512": "0784315fe6b90ae7763fe849cb9521bcfc61a771fedf1750e3e81e7877bf62342c45463e5d73887dcf13be18e6adebc050f292a7a01e92092544355256f33646",
+    "size": 363836334,
+    "url": "https://cache-redirector.jetbrains.com/intellij-jbr/jbrsdk-21.0.9-osx-aarch64-fastdebug-b895.149.tar.gz",
+    "vendor": "jetbrains",
+    "version": "21.0.9b895.149"
+  },
+  {
+    "architecture": "aarch64",
+    "distro": "jetbrains",
+    "features": [
+      "jcef"
+    ],
+    "file_type": "tar.gz",
+    "filename": "jbrsdk_jcef-21.0.9-osx-aarch64-b895.149.tar.gz",
+    "image_type": "jdk",
+    "java_version": "21.0.9",
+    "jvm_impl": "hotspot",
+    "md5": "e5b40516cb943b7f3c15acca3fa94715",
+    "os": "macosx",
+    "release_type": "ga",
+    "sha1": "8a753c248923a9d30dc8bffa2b0cd194cbf0bf9f",
+    "sha256": "4b1128d5dd110c88fd417ab700713fa896a900f5ad0973ea55623a28a6c6df15",
+    "sha512": "2f768495ffe6baf600c6992b0aadb9801f46e4edaf3ba385d1e066181002181245a87dae5dc791dcf81942ce16cf7b841ecf8a075f26460a4dc956d789f05a9d",
+    "size": 354650925,
+    "url": "https://cache-redirector.jetbrains.com/intellij-jbr/jbrsdk_jcef-21.0.9-osx-aarch64-b895.149.tar.gz",
+    "vendor": "jetbrains",
+    "version": "21.0.9b895.149"
+  }
+]

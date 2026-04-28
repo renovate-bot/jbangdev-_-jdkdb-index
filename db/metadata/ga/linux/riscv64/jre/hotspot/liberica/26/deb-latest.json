@@ -1,0 +1,22 @@
+[
+  {
+    "architecture": "riscv64",
+    "distro": "liberica",
+    "features": [],
+    "file_type": "deb",
+    "filename": "bellsoft-jre26+37-linux-riscv64.deb",
+    "image_type": "jre",
+    "java_version": "26+37",
+    "jvm_impl": "hotspot",
+    "md5": "24eaba956b22e3bb4c14e857c89ed387",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "44e9688d49abe7d1d17779ff11a21b80b9672c43",
+    "sha256": "d3d02db67c38da576760a154d76552f0eecbe7bb4a0895095b47debffb18317e",
+    "sha512": "582d9b9ad56a148f6866980f1b7e76f0c043ce0bedf65dfc9924fd8d3be32182ef12cf26971cac9094f684c1dd402c5eb3aac1e30d93443e0dff012d28829362",
+    "size": 27109912,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/26+37/bellsoft-jre26+37-linux-riscv64.deb",
+    "vendor": "bellsoft",
+    "version": "26+37"
+  }
+]

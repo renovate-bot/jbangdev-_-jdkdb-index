@@ -1,0 +1,68 @@
+[
+  {
+    "architecture": "aarch64",
+    "distro": "liberica",
+    "features": [
+      "crac"
+    ],
+    "file_type": "rpm",
+    "filename": "bellsoft-jdk21.0.3+13-linux-aarch64-crac.rpm",
+    "image_type": "jdk",
+    "java_version": "21.0.3+13-LTS",
+    "jvm_impl": "hotspot",
+    "md5": "69079afe947f829857b82a554299d3bc",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "d027dcbdae81064d379521fca9dba86d2ce2d87e",
+    "sha256": "2d35d6bbb249d7605c921bc13b49a869c47f452777a19667aa1bb2dd0dff1a5c",
+    "sha512": "33e998a0549f99ab7f36fb5682ba4460c2d57bcd27fd9ae2986f70336bcf11651a896b8b408a8e5b7918255fa2133be4232901990f8a3fadc4b5a0fee1da2ca7",
+    "size": 178172876,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/21.0.3+13/bellsoft-jdk21.0.3+13-linux-aarch64-crac.rpm",
+    "vendor": "bellsoft",
+    "version": "21.0.3+13"
+  },
+  {
+    "architecture": "aarch64",
+    "distro": "liberica",
+    "features": [
+      "lite"
+    ],
+    "file_type": "rpm",
+    "filename": "bellsoft-jdk21.0.8+12-linux-aarch64-lite.rpm",
+    "image_type": "jdk",
+    "java_version": "21.0.8+12-LTS",
+    "jvm_impl": "hotspot",
+    "md5": "87581bae768255a96cf62e35c902f164",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "d839a30cf783ec6aef45b7236a8103eb41499437",
+    "sha256": "f9706e923349de34167ab8da9970c62f6f97c3dac203f73d2a0ad3d71dba5eee",
+    "sha512": "ae32e971de079923949db7c2c7a1945ee4f893c5059369c4e10b595e372191fe60955ccaf0d157bc87fde33e8f5ad566b037b16296cdaed6676c1bcf61c78b38",
+    "size": 72353292,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/21.0.8+12/bellsoft-jdk21.0.8+12-linux-aarch64-lite.rpm",
+    "vendor": "bellsoft",
+    "version": "21.0.8+12"
+  },
+  {
+    "architecture": "aarch64",
+    "distro": "liberica",
+    "features": [
+      "lite"
+    ],
+    "file_type": "rpm",
+    "filename": "bellsoft-jdk21+37-linux-aarch64-lite.rpm",
+    "image_type": "jdk",
+    "java_version": "21+37-LTS",
+    "jvm_impl": "hotspot",
+    "md5": "b0277fc6a1ba3427901499c36a1ec542",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "f73b315131f88654d436b5c91242b5f4042aedf6",
+    "sha256": "ca97ba82efb786250a6fd743c5d3985d58747ee6eb5fb3ef896c3bb3f077aedb",
+    "sha512": "0dac9875eb96a1568cd0e3afe65c78031e73e7e53aed08cd820760216ae649824e8d593d82286527cf7082ec680c02be824b2997cb43e13f1f6c610ead490fbe",
+    "size": 72123436,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/21+37/bellsoft-jdk21+37-linux-aarch64-lite.rpm",
+    "vendor": "bellsoft",
+    "version": "21+37"
+  }
+]

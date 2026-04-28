@@ -1,0 +1,22 @@
+[
+  {
+    "architecture": "x86_64",
+    "distro": "openlogic",
+    "features": [],
+    "file_type": "tar.gz",
+    "filename": "openlogic-openjdk-21.0.10+7-linux-x64.tar.gz",
+    "image_type": "jdk",
+    "java_version": "21.0.10+7-adhoc.root.jdk21u",
+    "jvm_impl": "hotspot",
+    "md5": "00c43f6a56f0495ad18ac9e31698336a",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "422efb4e0f4b2d4e26f2d65b92e2634a1deff085",
+    "sha256": "0a204394e1b4ae64dada00f3976b4f3c733c8ed32d2ac934fb6773e6469d8273",
+    "sha512": "a3b65e0d4a4523583d44eb59723996869a50c0985e8740bb7860b9fb90401f7ccef5e99558b4379df4e6e1113c12af8107a4064590f562360851eaa44e44d83e",
+    "size": 253881667,
+    "url": "https://builds.openlogic.com/downloadJDK/openlogic-openjdk/21.0.10+7/openlogic-openjdk-21.0.10+7-linux-x64.tar.gz",
+    "vendor": "openlogic",
+    "version": "21.0.10+7"
+  }
+]

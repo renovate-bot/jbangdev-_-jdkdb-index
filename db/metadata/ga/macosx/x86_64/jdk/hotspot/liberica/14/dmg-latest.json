@@ -1,0 +1,68 @@
+[
+  {
+    "architecture": "x86_64",
+    "distro": "liberica",
+    "features": [
+      "libericafx",
+      "minimal-vm",
+      "javafx"
+    ],
+    "file_type": "dmg",
+    "filename": "bellsoft-jdk14+36-macos-amd64-full.dmg",
+    "image_type": "jdk",
+    "java_version": "14+36",
+    "jvm_impl": "hotspot",
+    "md5": "fbe5930db7f6e62b9d07e0a993bf74b3",
+    "os": "macosx",
+    "release_type": "ga",
+    "sha1": "8bb438e4280f569da3e34185f8f8fbf4f2415f3f",
+    "sha256": "4bdeeae2f1f9cb4571e2ae183ee46e0895308ee8b769438030145b6dcbdf158e",
+    "sha512": "7e41944aa75b32c735027433cd9490f0a9424d23f988776d41fe8afb660b3bac7f736c849e2a89934b7df3c6f6cd5872c3c0beb1baf092a0578385cbc620670c",
+    "size": 288766523,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/14+36/bellsoft-jdk14+36-macos-amd64-full.dmg",
+    "vendor": "bellsoft",
+    "version": "14+36"
+  },
+  {
+    "architecture": "x86_64",
+    "distro": "liberica",
+    "features": [
+      "lite"
+    ],
+    "file_type": "dmg",
+    "filename": "bellsoft-jdk14+36-macos-amd64-lite.dmg",
+    "image_type": "jdk",
+    "java_version": "14+36",
+    "jvm_impl": "hotspot",
+    "md5": "ae8fb22d648e5e29de2368f84b227ca0",
+    "os": "macosx",
+    "release_type": "ga",
+    "sha1": "fb1057eaae8ad85a560159329cbb39ac062e4042",
+    "sha256": "47f0aaf05f0bdec9c2723a7eb1963ac92dca46f29ffd4ba142785d6c48c5c0c0",
+    "sha512": "699a70435a9a8623e3b49dcbfd69223be8f8cc98e3d0bd85990c280831d145e1c1ec98c513b17f535a2c22c058b188fa9ece659a42489ac6b93ef4c50dc4a7cf",
+    "size": 79663646,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/14+36/bellsoft-jdk14+36-macos-amd64-lite.dmg",
+    "vendor": "bellsoft",
+    "version": "14+36"
+  },
+  {
+    "architecture": "x86_64",
+    "distro": "liberica",
+    "features": [],
+    "file_type": "dmg",
+    "filename": "bellsoft-jdk14+36-macos-amd64.dmg",
+    "image_type": "jdk",
+    "java_version": "14+36",
+    "jvm_impl": "hotspot",
+    "md5": "325e26e44dea1a2c14c1d9148f8f64e1",
+    "os": "macosx",
+    "release_type": "ga",
+    "sha1": "6265355c1c68eabbc9eafc8a918949159b3efa60",
+    "sha256": "77b50b9eeba7f2b6f272f997e0c195eee808df868c59b9d35d85c10e15896f85",
+    "sha512": "9bea250c2dd42ea3b655d85ea951d4e0a096181df92bad29783443e75e73574823e97dd67fabb9930549ac03894abdccf103e6940215bfc6b958976dc7011804",
+    "size": 206777347,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/14+36/bellsoft-jdk14+36-macos-amd64.dmg",
+    "vendor": "bellsoft",
+    "version": "14+36"
+  }
+]

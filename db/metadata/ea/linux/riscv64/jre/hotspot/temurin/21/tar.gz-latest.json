@@ -1,0 +1,22 @@
+[
+  {
+    "architecture": "riscv64",
+    "distro": "temurin",
+    "features": [],
+    "file_type": "tar.gz",
+    "filename": "OpenJDK21U-jre_riscv64_linux_hotspot_21.0.11_9-ea.tar.gz",
+    "image_type": "jre",
+    "java_version": "21",
+    "jvm_impl": "hotspot",
+    "md5": "6012ca12d534408d554f2c643242e4bb",
+    "os": "linux",
+    "release_type": "ea",
+    "sha1": "21643c973128ddd695d23a3e19e5623e7eed91d3",
+    "sha256": "b5fc93d95ea490ab441f015a3adf5806932a841a237bf19f3f73bcb34e0a92b4",
+    "sha512": "d633ddb2db8be4c542c5432f9ac719551e29d3371ff54692c53d7badc58d51f66ba6b963566660889bbab304b420e57cdc3121c256a760b0f935991f4836ca85",
+    "size": 51633285,
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.11%2B9-ea-beta/OpenJDK21U-jre_riscv64_linux_hotspot_21.0.11_9-ea.tar.gz",
+    "vendor": "eclipse",
+    "version": "21.0.11+9-ea-beta"
+  }
+]

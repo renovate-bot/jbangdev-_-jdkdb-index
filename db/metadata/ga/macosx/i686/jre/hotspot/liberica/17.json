@@ -1,0 +1,88 @@
+[
+  {
+    "architecture": "i686",
+    "distro": "liberica",
+    "features": [
+      "javafx"
+    ],
+    "file_type": "pkg",
+    "filename": "bellsoft-jre17.0.19+11-macos-amd64-full.pkg",
+    "image_type": "jre",
+    "java_version": "17.0.19+11-LTS",
+    "jvm_impl": "hotspot",
+    "md5": "fd61cde3620b1a727bda5a7e8d490c07",
+    "os": "macosx",
+    "release_type": "ga",
+    "sha1": "67d9e4cc1e219616eb453fbf00ccb4fd71bc163b",
+    "sha256": "22cb466c8db1a9b250db124802d5377adc8aa457adae85224e88030490223580",
+    "sha512": "afdb05f3551fbbda8baf192d63f76e797f50faebbf95bb758e4898555da20fed87bb37a9492b40863620158f3360f40ee22794d607d1908c9bf248aacb881464",
+    "size": 104021535,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/17.0.19+11/bellsoft-jre17.0.19+11-macos-amd64-full.pkg",
+    "vendor": "bellsoft",
+    "version": "17.0.19+11"
+  },
+  {
+    "architecture": "i686",
+    "distro": "liberica",
+    "features": [
+      "javafx"
+    ],
+    "file_type": "tar.gz",
+    "filename": "bellsoft-jre17.0.19+11-macos-amd64-full.tar.gz",
+    "image_type": "jre",
+    "java_version": "17.0.19+11-LTS",
+    "jvm_impl": "hotspot",
+    "md5": "8349394aa5f2df476966e717eb4dba7b",
+    "os": "macosx",
+    "release_type": "ga",
+    "sha1": "bd5906235c6e293a61890ce2975e7df1f463f9be",
+    "sha256": "a98283db203b3e3609433700865309d1ea62988f69a2bfe01d6d5d6e109d9008",
+    "sha512": "748310b910e94ee4f14980afc81d8415c9e341f13b9381f94a737e46de125b80bd30ce5ec5e955c189050626e7bf32c9c8cb3818d3964b91fa84ded336f5aa8d",
+    "size": 103608752,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/17.0.19+11/bellsoft-jre17.0.19+11-macos-amd64-full.tar.gz",
+    "vendor": "bellsoft",
+    "version": "17.0.19+11"
+  },
+  {
+    "architecture": "i686",
+    "distro": "liberica",
+    "features": [
+      "javafx"
+    ],
+    "file_type": "zip",
+    "filename": "bellsoft-jre17.0.19+11-macos-amd64-full.zip",
+    "image_type": "jre",
+    "java_version": "17.0.19+11-LTS",
+    "jvm_impl": "hotspot",
+    "md5": "e85d57fc343e9e453a3ecb9b17ffdeaf",
+    "os": "macosx",
+    "release_type": "ga",
+    "sha1": "92f14ffdd66515e33bc1c54f5ac6fbe79005fe63",
+    "sha256": "b693b1f107e8a3728383e12985a03afd1b6a30b7ded6c1467a581cbe3c775e9d",
+    "sha512": "bd46c19e40c544d1308946b2fe6efc5c5bdda46865aeb04ffc40873a2efd231f089f4c40e82a9f14b105d05d43939132126a50d86056747d56a01e8c4bad1265",
+    "size": 104487220,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/17.0.19+11/bellsoft-jre17.0.19+11-macos-amd64-full.zip",
+    "vendor": "bellsoft",
+    "version": "17.0.19+11"
+  },
+  {
+    "architecture": "i686",
+    "distro": "liberica",
+    "features": [],
+    "file_type": "tar.gz",
+    "filename": "bellsoft-jre17.0.19+11-macos-amd64.tar.gz",
+    "image_type": "jre",
+    "java_version": "17.0.19+11-LTS",
+    "jvm_impl": "hotspot",
+    "md5": "4c6e67f296c4c28db7937264cbd1d700",
+    "os": "macosx",
+    "release_type": "ga",
+    "sha1": "b52a2ae223476d56266d5faa850f495204a70e0f",
+    "sha256": "445a52103faeb09180977c82a1f2e8abc4aacda34ea27c94b3012d4bc34913a3",
+    "sha512": "633c782ca6aeb30f556bc4ebe9374ebf28473c56bae3945b3115c5e84867aa49fc602b2fc5ef76a1254844dfc203009af1f1e3329e58005a29bf8664b2c4b9c2",
+    "size": 53235073,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/17.0.19+11/bellsoft-jre17.0.19+11-macos-amd64.tar.gz",
+    "vendor": "bellsoft",
+    "version": "17.0.19+11"
+  }
+]

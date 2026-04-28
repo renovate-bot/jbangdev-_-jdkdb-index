@@ -1,0 +1,42 @@
+[
+  {
+    "architecture": "ppc32",
+    "distro": "liberica",
+    "features": [],
+    "file_type": "deb",
+    "filename": "bellsoft-jdk17.0.19+11-linux-ppc64le.deb",
+    "image_type": "jdk",
+    "java_version": "17.0.19+11-LTS",
+    "jvm_impl": "hotspot",
+    "md5": "74806fcd3a139c0b31162a678bdb5c49",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "d8e0526db1e9c162f248c5dae26cc05ff9734d5f",
+    "sha256": "7d679725c09d1a6f3e80fa321303cfb6cead421216de2064ade4ebacda22c8e2",
+    "sha512": "a594b964263e04031e5696d0065eb14f244cd48aad294640c4f6fe732c892939a6b49fe954ddccf7848efbb7d1128472c6f031651867181d6fa29fd07d58e633",
+    "size": 163765256,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/17.0.19+11/bellsoft-jdk17.0.19+11-linux-ppc64le.deb",
+    "vendor": "bellsoft",
+    "version": "17.0.19+11"
+  },
+  {
+    "architecture": "ppc32",
+    "distro": "liberica",
+    "features": [],
+    "file_type": "tar.gz",
+    "filename": "bellsoft-jdk17.0.19+11-linux-ppc64le.tar.gz",
+    "image_type": "jdk",
+    "java_version": "17.0.19+11-LTS",
+    "jvm_impl": "hotspot",
+    "md5": "9388158421045ee36ebfb3e45c425652",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "c7fab386cf5b9b2493459508876f2fc42d842a31",
+    "sha256": "d8fcdacf1c90be9877dc0d81a9f369e759c4a203c28f0ddf666f85975f41fa06",
+    "sha512": "0f7d0e939cdf4d4a082079a2dc35231ec575f56e1336fb7b346e4b1c3b529692b19563b5f45cd0d89d232659ec2d1177952f6d6e10d9acfc8b04148e297a841a",
+    "size": 191557099,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/17.0.19+11/bellsoft-jdk17.0.19+11-linux-ppc64le.tar.gz",
+    "vendor": "bellsoft",
+    "version": "17.0.19+11"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "architecture": "x86_64",
+    "distro": "sapmachine",
+    "features": [],
+    "file_type": "msi",
+    "filename": "sapmachine-jdk-11.0.8_windows-x64_bin.msi",
+    "image_type": "jdk",
+    "java_version": "11.0.8",
+    "jvm_impl": "hotspot",
+    "md5": "3d8da3a0c600bdd783aaf912c2152626",
+    "os": "windows",
+    "release_type": "ga",
+    "sha1": "e2893d16f2161161905e6683eda05c191945add3",
+    "sha256": "746c5f3683247b432fb25bd8209401bdd654c734d8121dd782135b815db4599c",
+    "sha512": "9f8ebc1ad47d886734ab55da4b30b3e100ef0321ad45f042bf6a91a1efdf46483b8a39d0108b19fffa14e486e19b332545bf427c965d721575089a6fd42e6278",
+    "size": 192692224,
+    "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-11.0.8/sapmachine-jdk-11.0.8_windows-x64_bin.msi",
+    "vendor": "sap",
+    "version": "11.0.8"
+  }
+]

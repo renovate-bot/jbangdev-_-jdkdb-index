@@ -1,0 +1,22 @@
+[
+  {
+    "architecture": "aarch64",
+    "distro": "sapmachine",
+    "features": null,
+    "file_type": "tar.gz",
+    "filename": "sapmachine-jre-25.0.3-ea.9_macos-aarch64_bin.tar.gz",
+    "image_type": "jre",
+    "java_version": "25.0.3-ea.9",
+    "jvm_impl": "hotspot",
+    "md5": "2bfa2a2e14717e212ed32ade8bc8a2b9",
+    "os": "macosx",
+    "release_type": "ea",
+    "sha1": "2ab4c67d40f76843ea96547f840c95228b9c22c2",
+    "sha256": "3807eefcb7d85a4e45dd815d1e9ad0d756e973a798d799def9411b89d46236a4",
+    "sha512": "459beafc9d741a57bcfe4c852205cde096b54b4d8c4ba7e180949da847b452f23a8ff55c362e2a986f488328d5f52707c45799cd271a81f8e1de2ee20fa85617",
+    "size": 45960095,
+    "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-25.0.3%2B9/sapmachine-jre-25.0.3-ea.9_macos-aarch64_bin.tar.gz",
+    "vendor": "sap",
+    "version": "25.0.3-ea.9"
+  }
+]

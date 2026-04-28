@@ -1,0 +1,24 @@
+[
+  {
+    "architecture": "ppc32",
+    "distro": "liberica",
+    "features": [
+      "lite"
+    ],
+    "file_type": "deb",
+    "filename": "bellsoft-jdk26+37-linux-ppc64le-lite.deb",
+    "image_type": "jdk",
+    "java_version": "26+37",
+    "jvm_impl": "hotspot",
+    "md5": "ab0c756aea4786de1c1d03f00cae22b1",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "6984c0316ece7330618a817d27aa632c54063e46",
+    "sha256": "5713547ba377e6f2adc6765b209cc0d6e3e9e29622465f4c1d94861341d4d569",
+    "sha512": "b684f1539f46bab000f3801c79fde3c2d5a1f6a6d725d459bacb2feea5bbac6813e9529c63c37e605060fb993d201b6bfb22d96a9e5ec5392e779d2446ee08d7",
+    "size": 79818112,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/26+37/bellsoft-jdk26+37-linux-ppc64le-lite.deb",
+    "vendor": "bellsoft",
+    "version": "26+37"
+  }
+]

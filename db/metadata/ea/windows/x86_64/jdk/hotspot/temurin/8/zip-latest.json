@@ -1,0 +1,22 @@
+[
+  {
+    "architecture": "x86_64",
+    "distro": "temurin",
+    "features": [],
+    "file_type": "zip",
+    "filename": "OpenJDK8U-jdk_x64_windows_hotspot_8u492b09-ea.zip",
+    "image_type": "jdk",
+    "java_version": "1.8.0_492-beta-202604252005-b09",
+    "jvm_impl": "hotspot",
+    "md5": "d48af2b3f29220bed819e288b658e804",
+    "os": "windows",
+    "release_type": "ea",
+    "sha1": "76e76fd7fbdfa5762b06cd246d76449da262345e",
+    "sha256": "b4b3385263b7abafcc3377fbca27df5a6c7d3719f66638c83ce6a7dbe87fab1b",
+    "sha512": "68f97f8af5d3a9a8f39aa0777802f25a9111ae5e741e7b1f6a5713b36f0f38dafd3044f7f71f7982811c215c2ca620606460af518db0ee500607b33d1e911c1e",
+    "size": 106471983,
+    "url": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u492-b09-ea-beta/OpenJDK8U-jdk_x64_windows_hotspot_8u492b09-ea.zip",
+    "vendor": "eclipse",
+    "version": "8u492-b09-ea-beta"
+  }
+]

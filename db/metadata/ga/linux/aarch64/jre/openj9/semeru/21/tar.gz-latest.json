@@ -1,0 +1,22 @@
+[
+  {
+    "architecture": "aarch64",
+    "distro": "semeru",
+    "features": [],
+    "file_type": "tar.gz",
+    "filename": "ibm-semeru-open-jre_aarch64_linux_21.0.11.0-m1.tar.gz",
+    "image_type": "jre",
+    "java_version": "21.0.11+7-LTS",
+    "jvm_impl": "openj9",
+    "md5": "0946ddab62283b9e3a74fd94b5f653ec",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "9627c4fe1264cb23fe4e256539a6236894e8fb98",
+    "sha256": "0cb42437d0885d170e2bfa8655016497b804119303f650fee380d41262f624fd",
+    "sha512": "20151b68cf99f4c30f48d27fd6dd0fcd9255c7c32eb1e21a186fcd87483a52fbb1ae3757892c70118bf916e0de1b6f35d7adf6c2cef00138e099a4529926af55",
+    "size": 57238977,
+    "url": "https://github.com/ibmruntimes/semeru21-binaries/releases/download/jdk-21.0.11.0-m1/ibm-semeru-open-jre_aarch64_linux_21.0.11.0-m1.tar.gz",
+    "vendor": "ibm",
+    "version": "21.0.11.0-m1"
+  }
+]

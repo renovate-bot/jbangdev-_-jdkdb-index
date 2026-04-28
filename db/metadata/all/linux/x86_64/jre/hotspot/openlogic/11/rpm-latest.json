@@ -1,0 +1,22 @@
+[
+  {
+    "architecture": "x86_64",
+    "distro": "openlogic",
+    "features": [],
+    "file_type": "rpm",
+    "filename": "openlogic-openjdk-jre-11.0.29+7-linux-x64-el.rpm",
+    "image_type": "jre",
+    "java_version": "11.0.29+7",
+    "jvm_impl": "hotspot",
+    "md5": "ad7bf7cc2fde014873dea5c9617836a7",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "d28d436cdeb5c89ad09db4cf48a2840a80f46390",
+    "sha256": "eeef3166bfc28cc9b67a5dab5772f61e25743bc91553af10d72dfe4ba788a012",
+    "sha512": "5f7ecf0afe1439ef1970f70d5568ded8439fdfb8ae8538fd8cd6d1149c379be01952fcd9fc77e62c3ea4c9b008e21c75bbfeeed2a9ed3c3cd244dd4402497f45",
+    "size": 56566665,
+    "url": "https://builds.openlogic.com/downloadJDK/openlogic-openjdk-jre/11.0.29+7/openlogic-openjdk-jre-11.0.29+7-linux-x64-el.rpm",
+    "vendor": "openlogic",
+    "version": "11.0.29+7"
+  }
+]

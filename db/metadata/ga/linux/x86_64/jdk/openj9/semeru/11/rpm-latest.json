@@ -1,0 +1,22 @@
+[
+  {
+    "architecture": "x86_64",
+    "distro": "semeru",
+    "features": [],
+    "file_type": "rpm",
+    "filename": "ibm-semeru-open-11-jdk-11.0.31.0_m2-1.x86_64.rpm",
+    "image_type": "jdk",
+    "java_version": "11.0.31.0",
+    "jvm_impl": "openj9",
+    "md5": "25de667cc0926e92c44b332747297534",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "5288247dca8638ad4157715894de8c7171c95c21",
+    "sha256": "54715097617d239b2cc38fc74837a8b5f8238fc59179c88c679c3b5f8eb2811a",
+    "sha512": "e84ba4159aa6e609c67cf52aee116154daadadd966f517d39180e9452608e8de50821d20f5c1ebb8c2048b00eb86f542478d818ed2dcfd518b30fcd94869d627",
+    "size": 186286600,
+    "url": "https://github.com/ibmruntimes/semeru11-binaries/releases/download/jdk-11.0.31.0-m2/ibm-semeru-open-11-jdk-11.0.31.0_m2-1.x86_64.rpm",
+    "vendor": "ibm",
+    "version": "11.0.31.0-m2"
+  }
+]

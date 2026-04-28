@@ -1,0 +1,90 @@
+[
+  {
+    "architecture": "x86_64",
+    "distro": "jetbrains",
+    "features": [
+      "musl"
+    ],
+    "file_type": "tar.gz",
+    "filename": "jbr-25.0.2-linux-musl-x64-b432.48.tar.gz",
+    "image_type": "jre",
+    "java_version": "25.0.2+10-b432.48",
+    "jvm_impl": "hotspot",
+    "md5": "4fc0d013ddabd3a1ac7e4c6924947569",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "3f68a4e9b3be11b9607c16bd913755449b0815a4",
+    "sha256": "378d4b1d010f5f001dec888c3f9478730ca04148fdd013dde4b18c67ff3af8cb",
+    "sha512": "37e7250b82f7db56a98baef17903d3c5d6edcb83662e49c2f57225cb50f63af627c1633b85cf411409195598ba64f982ad8c76ac3875bc0b805b63ff64c9d961",
+    "size": 104062745,
+    "url": "https://cache-redirector.jetbrains.com/intellij-jbr/jbr-25.0.2-linux-musl-x64-b432.48.tar.gz",
+    "vendor": "jetbrains",
+    "version": "25.0.2b432.48"
+  },
+  {
+    "architecture": "x86_64",
+    "distro": "jetbrains",
+    "features": [
+      "freetype"
+    ],
+    "file_type": "tar.gz",
+    "filename": "jbr_ft-25.0.2-linux-x64-b432.48.tar.gz",
+    "image_type": "jre",
+    "java_version": "25.0.2+10-b432.48",
+    "jvm_impl": "hotspot",
+    "md5": "36855c6b00973e36ea28ad38f1fb5e3c",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "d2defcf4a1421e32ef678579ea17db351b481b7e",
+    "sha256": "55d915b7d763071c78361b67a4358676688c3044b93ce2d036bd93e942762a1a",
+    "sha512": "758aaf1dbfc694b68c6ef4e7e9d4b06a43410e439b3d355fcd8362a9f8fe83dd97dbfd0675a3880e716ba9f885aa87bee7cfb77a7228d3ebbcdbb7b1a4bfda6a",
+    "size": 104309804,
+    "url": "https://cache-redirector.jetbrains.com/intellij-jbr/jbr_ft-25.0.2-linux-x64-b432.48.tar.gz",
+    "vendor": "jetbrains",
+    "version": "25.0.2b432.48"
+  },
+  {
+    "architecture": "x86_64",
+    "distro": "jetbrains",
+    "features": [
+      "jcef"
+    ],
+    "file_type": "tar.gz",
+    "filename": "jbr_jcef-25.0.2-linux-x64-b432.48.tar.gz",
+    "image_type": "jre",
+    "java_version": "25.0.2+10-b432.48",
+    "jvm_impl": "hotspot",
+    "md5": "b7cdc6c5f0024d5141745feb0d8e8cf7",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "43db5cca0a205335f3c82b636c8e7e81b0391398",
+    "sha256": "d19fb21fed27781cd33ed4eed05be6354a9397e918f341360fe4850cd2342674",
+    "sha512": "695237ff9e07d4db770526771370a0a2dee13c0f90a19d8ed56ece7c7a048bd84f07b05e38fc253cb6d1e13e8d8ee93de8408a3b90dd40401889a78c1be4b307",
+    "size": 246312535,
+    "url": "https://cache-redirector.jetbrains.com/intellij-jbr/jbr_jcef-25.0.2-linux-x64-b432.48.tar.gz",
+    "vendor": "jetbrains",
+    "version": "25.0.2b432.48"
+  },
+  {
+    "architecture": "x86_64",
+    "distro": "jetbrains",
+    "features": [
+      "legacy"
+    ],
+    "file_type": "tar.gz",
+    "filename": "jbr_lb-25.0.2-linux-x64-b432.48.tar.gz",
+    "image_type": "jre",
+    "java_version": "25.0.2+10-b432.48",
+    "jvm_impl": "hotspot",
+    "md5": "5916cf08319c59d97d254ee470c92b6e",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "e2ce3400c105840b6a0e4fa11df547f056813bbe",
+    "sha256": "55a3f2bedf8ace12301a97df3d272c35949b02e3b47c698bc0718ef988c7af94",
+    "sha512": "d3fd9b29e793ad47111c3489fbfdefa5d16c81493c9f74f4f3984989f11313d9faf29b23d716baaf20a039e22b745463a0f29567b1eb9025933673268492760a",
+    "size": 243538812,
+    "url": "https://cache-redirector.jetbrains.com/intellij-jbr/jbr_lb-25.0.2-linux-x64-b432.48.tar.gz",
+    "vendor": "jetbrains",
+    "version": "25.0.2b432.48"
+  }
+]

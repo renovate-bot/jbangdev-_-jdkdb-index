@@ -1,0 +1,22 @@
+[
+  {
+    "architecture": "x86_64",
+    "distro": "oracle-graalvm",
+    "features": null,
+    "file_type": "zip",
+    "filename": "graalvm-jdk-25e1-25.0.2-ea.24_windows-x64_bin.zip",
+    "image_type": "jdk",
+    "java_version": "25.0.2+10-LTS-jvmci-25.1-b17",
+    "jvm_impl": "graalvm",
+    "md5": "b083ff0071b5abbce3351ae3ccbfcf94",
+    "os": "windows",
+    "release_type": "ea",
+    "sha1": "4f5d6e5fa0235517810241d68bc0be6e2aba4924",
+    "sha256": "8ffbf9abcd6c5f7118a1e26abcb0d4489573e48d7141f1cd8f0b74b2a3a7b930",
+    "sha512": "1e410ef3a309b935be3251b94ec55d7ca20fa884b684e3d82403520d4c07b9e84b640f7da8238515e786847762fbde290ce2aecadc10ec277e326f2e8f7757a4",
+    "size": 365179663,
+    "url": "https://github.com/graalvm/oracle-graalvm-ea-builds/releases/download/jdk-25e1-25.0.2-ea.24/graalvm-jdk-25e1-25.0.2-ea.24_windows-x64_bin.zip",
+    "vendor": "oracle",
+    "version": "25.0.2-ea.24"
+  }
+]

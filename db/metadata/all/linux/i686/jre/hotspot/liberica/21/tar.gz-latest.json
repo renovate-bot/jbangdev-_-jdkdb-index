@@ -1,0 +1,46 @@
+[
+  {
+    "architecture": "i686",
+    "distro": "liberica",
+    "features": [
+      "javafx"
+    ],
+    "file_type": "tar.gz",
+    "filename": "bellsoft-jre21.0.11+11-linux-amd64-full.tar.gz",
+    "image_type": "jre",
+    "java_version": "21.0.11+11-LTS",
+    "jvm_impl": "hotspot",
+    "md5": "c61cd6abaae27ee7df2c80b8d8b23b9f",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "a90ae21453be694cbc955e38c199fe5e26104ee8",
+    "sha256": "ef616e46f45c0b4dbf548567fec9df6a728443ce5731decc6c74e44781a0c8af",
+    "sha512": "d85b46055ab0ea93c3c9b44e11135dc651f650f75a552d8af07df74e81fdba1937059f728843eae79a949cb7456485b3c41acc64a1b2afb6c339f60fc13966f1",
+    "size": 124894293,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/21.0.11+11/bellsoft-jre21.0.11+11-linux-amd64-full.tar.gz",
+    "vendor": "bellsoft",
+    "version": "21.0.11+11"
+  },
+  {
+    "architecture": "i686",
+    "distro": "liberica",
+    "features": [
+      "musl"
+    ],
+    "file_type": "tar.gz",
+    "filename": "bellsoft-jre21.0.11+11-linux-x64-musl.tar.gz",
+    "image_type": "jre",
+    "java_version": "21.0.11+11-LTS",
+    "jvm_impl": "hotspot",
+    "md5": "1a46a03b3b79bb92cbdec7a9f8f9b073",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "130258cbad26426d5ec5603f43e168b863b54cd6",
+    "sha256": "96acec6919281e9fab92217f439ab3be812414424ffebf6f9edf7a7424afff06",
+    "sha512": "d9c06857dd9a1ec106cfd3e787f1cbd27ef07bc23c9b660124844bacc07b1820976753a3ef5905ec19e3abe8253ad9cd871ba0a016d8e749d2077871e0ba4e82",
+    "size": 65955552,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/21.0.11+11/bellsoft-jre21.0.11+11-linux-x64-musl.tar.gz",
+    "vendor": "bellsoft",
+    "version": "21.0.11+11"
+  }
+]

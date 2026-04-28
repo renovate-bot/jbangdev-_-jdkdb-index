@@ -1,0 +1,22 @@
+[
+  {
+    "architecture": "x86_64",
+    "distro": "oracle",
+    "features": [],
+    "file_type": "msi",
+    "filename": "jdk-21.0.7_windows-x64_bin.msi",
+    "image_type": "jdk",
+    "java_version": "21.0.7",
+    "jvm_impl": "hotspot",
+    "md5": "10bee82c01b8b8a3408bed7530b8116a",
+    "os": "windows",
+    "release_type": "ga",
+    "sha1": "de67de5f9506b636a600404f5cd1387c8e3a93c8",
+    "sha256": "d5a8b2201488f2f42d3ff721732983943051e36ac1c742bf9d98e7ed60dcdf99",
+    "sha512": "fcb4e316f393db2a59af79934e158f5c0bf6204dd71953b41145ce14dafd597da4cab4da5d22c0bbc89fe5f9cd0bcd14765b1aa0814f34b241f8e7b0e38f7362",
+    "size": 171016192,
+    "url": "https://java.oraclecloud.com/java/21/archive/jdk-21.0.7_windows-x64_bin.msi",
+    "vendor": "oracle",
+    "version": "21.0.7"
+  }
+]

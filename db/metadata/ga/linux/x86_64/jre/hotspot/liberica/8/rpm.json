@@ -1,0 +1,46 @@
+[
+  {
+    "architecture": "x86_64",
+    "distro": "liberica",
+    "features": [],
+    "file_type": "rpm",
+    "filename": "bellsoft-jre8u332+9-linux-amd64.rpm",
+    "image_type": "jre",
+    "java_version": "1.8.0_332",
+    "jvm_impl": "hotspot",
+    "md5": "afb96ae208ef7baa424ecb6aecba5b2a",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "aaf14248fd333b111219cb732acbea5e15c609f9",
+    "sha256": "8c906df6fc248efcb01d230928dac2fe124cf15de49836670f8d0faacaff492d",
+    "sha512": "b7b2a6f72731d3aea860e1069053cfe3c8d35c247716d2b554c3697fba95c1cb2f126eb3278b29ceb5219935ac4c293b391ab4e776fe6b34335a1e3d50e4919f",
+    "size": 33159280,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/8u332+9/bellsoft-jre8u332+9-linux-amd64.rpm",
+    "vendor": "bellsoft",
+    "version": "8u332+9"
+  },
+  {
+    "architecture": "x86_64",
+    "distro": "liberica",
+    "features": [
+      "libericafx",
+      "minimal-vm",
+      "javafx"
+    ],
+    "file_type": "rpm",
+    "filename": "bellsoft-jre8u362+9-linux-amd64-full.rpm",
+    "image_type": "jre",
+    "java_version": "1.8.0_362",
+    "jvm_impl": "hotspot",
+    "md5": "e21838dabde0272090e3a1351d9d6e97",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "5cfe8c11d4eb81606e1dacdcfb5c02ae45c87bfc",
+    "sha256": "7b90d5129047c9c981203130339b4f70bcc6b69b6f9ecd368c15b1bdd742b333",
+    "sha512": "f7c8967660d404e365f5793abb5cd2d2b2f93cdee727364fa3a775f0a79ed0532fc1150b32436e309f7cebf801fdc283356157b4ef11942eda8a1c611f3eeeec",
+    "size": 69270524,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/8u362+9/bellsoft-jre8u362+9-linux-amd64-full.rpm",
+    "vendor": "bellsoft",
+    "version": "8u362+9"
+  }
+]

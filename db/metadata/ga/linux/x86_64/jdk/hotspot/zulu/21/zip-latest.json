@@ -1,0 +1,22 @@
+[
+  {
+    "architecture": "x86_64",
+    "distro": "zulu",
+    "features": [],
+    "file_type": "zip",
+    "filename": "zulu21.50.19-ca-jdk21.0.11-linux_x64.zip",
+    "image_type": "jdk",
+    "java_version": "21.0.11+10-LTS",
+    "jvm_impl": "hotspot",
+    "md5": "4beb4046f409f3fca58f028b96e653f9",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "2e14db8f9b238e6216401b83991ab05d5aa13c78",
+    "sha256": "37be68ea0196b39d105ebc97da07290ee4dc63c38e697174d3920e39dc45bc98",
+    "sha512": "e218fbb6eea88cc2a6723978329b14d7ad58b04e7384b602df57bc829e2aa18b1888ee518cb133f736442c4f68067190f521ba73c5acc0cd54736e0f523d4d67",
+    "size": 217862402,
+    "url": "https://static.azul.com/zulu/bin/zulu21.50.19-ca-jdk21.0.11-linux_x64.zip",
+    "vendor": "azul",
+    "version": "21.50.19"
+  }
+]

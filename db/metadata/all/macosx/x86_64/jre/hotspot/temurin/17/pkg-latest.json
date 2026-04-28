@@ -1,0 +1,22 @@
+[
+  {
+    "architecture": "x86_64",
+    "distro": "temurin",
+    "features": [],
+    "file_type": "pkg",
+    "filename": "OpenJDK17U-jre_x64_mac_hotspot_17.0.17_10.pkg",
+    "image_type": "jre",
+    "java_version": "17.0.17+10",
+    "jvm_impl": "hotspot",
+    "md5": "de03e8eb00183fcdaba2c5108658a1f6",
+    "os": "macosx",
+    "release_type": "ga",
+    "sha1": "1cafd8d561c1c040772eb054701378a3b9da329c",
+    "sha256": "627ed37d1a86e8ce2bd3d103856d4d02767c5572d40380a48d07f0e7ae6691fd",
+    "sha512": "17d98023ebbb55411d0a668e8de5ac8eef245f001f25b196ce424e733d31063c9dfa683c448d726ebbf3a104b3ec4cc5b6752c19ff9595782fa27cea8c864de5",
+    "size": 37687702,
+    "url": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.17%2B10/OpenJDK17U-jre_x64_mac_hotspot_17.0.17_10.pkg",
+    "vendor": "eclipse",
+    "version": "17.0.17+10"
+  }
+]

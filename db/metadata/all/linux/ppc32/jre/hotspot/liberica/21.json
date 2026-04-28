@@ -1,0 +1,42 @@
+[
+  {
+    "architecture": "ppc32",
+    "distro": "liberica",
+    "features": [],
+    "file_type": "deb",
+    "filename": "bellsoft-jre21.0.11+11-linux-ppc64le.deb",
+    "image_type": "jre",
+    "java_version": "21.0.11+11-LTS",
+    "jvm_impl": "hotspot",
+    "md5": "83279fe453fae090af2bd985989eaa1a",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "b21502b145a5395f55f0a9bf74534a9d6a36ee37",
+    "sha256": "dac151f2631c46307f34cb30d67b3d5c81bcb05104f55af7135fd25367f91219",
+    "sha512": "79977a14ad736e0df5a365c22edbaafe36bfb1333077fd0a4eac2337a4aab2ec3a2504c85012e76963e3313a4c78fe3bc6c7b04030115f70522f519a6715cfc7",
+    "size": 31054088,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/21.0.11+11/bellsoft-jre21.0.11+11-linux-ppc64le.deb",
+    "vendor": "bellsoft",
+    "version": "21.0.11+11"
+  },
+  {
+    "architecture": "ppc32",
+    "distro": "liberica",
+    "features": [],
+    "file_type": "rpm",
+    "filename": "bellsoft-jre21.0.11+11-linux-ppc64le.rpm",
+    "image_type": "jre",
+    "java_version": "21.0.11+11-LTS",
+    "jvm_impl": "hotspot",
+    "md5": "929b3782587e57358d086f9aed2c27f4",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "a7720bcf006de455de7fa8b5a716a103b1960cdf",
+    "sha256": "448968158b93f580ebe507e53bddcb27f1f4730ef43b65a4af96ed743339abbf",
+    "sha512": "47e6a369a9751801ce8d57f333c59d3320da830239de1dd4aee7a127e453ff11b4f00282fc63c54e0fdf85ea37b27dff0cf2d1c888c00cf0cdfd32bfd1d64eac",
+    "size": 35411868,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/21.0.11+11/bellsoft-jre21.0.11+11-linux-ppc64le.rpm",
+    "vendor": "bellsoft",
+    "version": "21.0.11+11"
+  }
+]

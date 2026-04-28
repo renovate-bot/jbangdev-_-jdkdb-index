@@ -1,0 +1,22 @@
+[
+  {
+    "architecture": "ppc64",
+    "distro": "sapmachine",
+    "features": null,
+    "file_type": "tar.gz",
+    "filename": "sapmachine-jre-21.0.11_aix-ppc64_bin.tar.gz",
+    "image_type": "jre",
+    "java_version": "21.0.11+10-LTS",
+    "jvm_impl": "hotspot",
+    "md5": "1d6c259c2e613d9b70537498af567322",
+    "os": "aix",
+    "release_type": "ga",
+    "sha1": "2f41609679bf32299f121ce121292c2821016b78",
+    "sha256": "624ca501494369730057b2c18d93311f412ad368becef0a9f3a40305b2f7d0bf",
+    "sha512": "0a0c2716082b1af945a14cd248d416212fbe9d585c5bbf688631071727052abfaf5eb48cf620512a1652936761ac418d7b8b9b8caaecfc451e2549860048d52e",
+    "size": 42350697,
+    "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21.0.11/sapmachine-jre-21.0.11_aix-ppc64_bin.tar.gz",
+    "vendor": "sap",
+    "version": "21.0.11"
+  }
+]
