@@ -18,9 +18,17 @@ on:
 concurrency:
   group: ${{ github.workflow }}-${{ github.ref }}
   cancel-in-progress: true
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
 jobs:
   update:
     runs-on: 'ubuntu-latest'
+    outputs:
+      changes_detected: ${{ steps.auto_commit.outputs.changes_detected }}
     steps:
     - uses: actions/checkout@v6
 
@@ -64,15 +72,25 @@ jobs:
       run: rm -rf jdkdb-data
 
     - name: Commit & Push changes
+      id: auto_commit
       uses: stefanzweifel/git-auto-commit-action@v7
       if: github.event_name == 'schedule' || inputs.do_commit
       with:
         commit_message: "Update metadata indices"
 
     - name: Upload log files
-      uses: actions/upload-artifact@v6
+      uses: actions/upload-artifact@v7
       if: always()
       with:
         name: update-logs
         path: logs/**/*.log
         retention-days: 30
+
+  deploy_pages:
+    needs: update
+    if: needs.update.outputs.changes_detected == 'true'
+    uses: ./.github/workflows/static.yml
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
