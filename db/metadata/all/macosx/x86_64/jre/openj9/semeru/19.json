@@ -28,6 +28,7 @@
     "image_type": "jre",
     "java_version": "19.0.2+7",
     "jvm_impl": "openj9",
+    "last_verified": "2026-09-07",
     "md5": "5ed6d577dc3a5b8c16026a5ed391d07e",
     "os": "macosx",
     "release_type": "ga",

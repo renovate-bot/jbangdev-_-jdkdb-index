@@ -152,6 +152,7 @@
     "image_type": "jre",
     "java_version": "8u362-b09",
     "jvm_impl": "openj9",
+    "last_verified": "2026-09-07",
     "md5": "6bc286f332688adb035d93a434691a76",
     "os": "windows",
     "release_type": "ga",

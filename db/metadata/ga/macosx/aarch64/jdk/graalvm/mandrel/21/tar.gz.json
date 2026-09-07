@@ -197,6 +197,7 @@
     "image_type": "jdk",
     "java_version": "21",
     "jvm_impl": "graalvm",
+    "last_verified": "2026-09-07",
     "md5": "ab1fe64170ae14c44117750471450093",
     "os": "macosx",
     "release_type": "ga",

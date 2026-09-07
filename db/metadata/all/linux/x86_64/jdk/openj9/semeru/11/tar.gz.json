@@ -807,6 +807,7 @@
     "image_type": "jdk",
     "java_version": "11.0.27+6",
     "jvm_impl": "openj9",
+    "last_verified": "2026-09-07",
     "md5": "28cbab6f4e417d550d0b2e633e762042",
     "os": "linux",
     "release_type": "ga",

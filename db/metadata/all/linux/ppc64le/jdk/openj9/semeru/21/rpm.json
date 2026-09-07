@@ -675,6 +675,7 @@
     "image_type": "jdk",
     "java_version": "21.0.12+6-LTS",
     "jvm_impl": "openj9",
+    "last_verified": "2026-09-07",
     "md5": "994488d004391ea50cb954e652cc3bdc",
     "os": "linux",
     "release_type": "ga",

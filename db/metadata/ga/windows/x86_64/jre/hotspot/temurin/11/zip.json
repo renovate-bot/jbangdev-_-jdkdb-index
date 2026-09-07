@@ -133,6 +133,7 @@
     "image_type": "jre",
     "java_version": "11.0.16.1+1",
     "jvm_impl": "hotspot",
+    "last_verified": "2026-09-07",
     "md5": "743516306051fd7c70404ec31aa989df",
     "os": "windows",
     "release_type": "ga",

@@ -402,6 +402,7 @@
     "image_type": "jre",
     "java_version": "25.0.2+10",
     "jvm_impl": "openj9",
+    "last_verified": "2026-09-07",
     "md5": "f4381487d56ae439eba708e9fb97182b",
     "os": "linux",
     "release_type": "ga",

@@ -319,6 +319,7 @@
     "image_type": "jre",
     "java_version": "11.0.20+8-LTS-sapmachine",
     "jvm_impl": "hotspot",
+    "last_verified": "2026-09-07",
     "md5": "b9800a928a76146ac5b96359da365ea6",
     "os": "linux",
     "release_type": "ga",

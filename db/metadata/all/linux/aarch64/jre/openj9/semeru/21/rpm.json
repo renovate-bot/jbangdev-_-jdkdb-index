@@ -399,6 +399,7 @@
     "image_type": "jre",
     "java_version": "21.0.8+9",
     "jvm_impl": "openj9",
+    "last_verified": "2026-09-07",
     "md5": "5711dcc1ce0fcf77897deb1d8c22a428",
     "os": "linux",
     "release_type": "ga",

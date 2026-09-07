@@ -8,6 +8,7 @@
     "image_type": "jre",
     "java_version": "11.0.32.1+1-LTS",
     "jvm_impl": "hotspot",
+    "last_verified": "2026-09-07",
     "md5": "acbc0b4d6a6c1edfc6ebfc0b618134a5",
     "os": "solaris",
     "release_type": "ga",

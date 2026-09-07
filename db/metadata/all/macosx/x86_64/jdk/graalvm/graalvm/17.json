@@ -111,6 +111,7 @@
     "image_type": "jdk",
     "java_version": "17",
     "jvm_impl": "graalvm",
+    "last_verified": "2026-09-07",
     "md5": "b4ded099bea671bc50e15cf2c9a0032f",
     "os": "macosx",
     "release_type": "ga",

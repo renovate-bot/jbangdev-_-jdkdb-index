@@ -28,6 +28,7 @@
     "image_type": "jdk",
     "java_version": "23.0.1+11",
     "jvm_impl": "openj9",
+    "last_verified": "2026-09-07",
     "md5": "a33eebcab85ba5006d8457676e3bc54b",
     "os": "windows",
     "release_type": "ga",

@@ -8,6 +8,7 @@
     "image_type": "jre",
     "java_version": "18.0.1+10",
     "jvm_impl": "openj9",
+    "last_verified": "2026-09-07",
     "md5": "c896ba1c35d3ec24c23e4ffb5c6efff4",
     "os": "macosx",
     "release_type": "ga",

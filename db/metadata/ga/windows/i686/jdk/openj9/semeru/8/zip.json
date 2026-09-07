@@ -556,6 +556,7 @@
     "image_type": "jdk",
     "java_version": "8u482-b08",
     "jvm_impl": "openj9",
+    "last_verified": "2026-09-07",
     "md5": "33f41681400fc9fff0b308e7bb7cc859",
     "os": "windows",
     "release_type": "ga",

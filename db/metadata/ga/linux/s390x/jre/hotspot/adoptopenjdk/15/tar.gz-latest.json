@@ -8,6 +8,7 @@
     "image_type": "jre",
     "java_version": "15.0.2+7",
     "jvm_impl": "hotspot",
+    "last_verified": "2026-09-07",
     "md5": "83870f4f13b367fcd242c02a17d6dca9",
     "os": "linux",
     "release_type": "ga",

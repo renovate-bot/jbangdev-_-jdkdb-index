@@ -8,6 +8,7 @@
     "image_type": "jdk",
     "java_version": "21.0.12.1+1-LTS",
     "jvm_impl": "hotspot",
+    "last_verified": "2026-09-07",
     "md5": "977a91db574c4346b526320e9d2bd880",
     "os": "windows",
     "release_type": "ga",

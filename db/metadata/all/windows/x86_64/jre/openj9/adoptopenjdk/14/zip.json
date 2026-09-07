@@ -30,6 +30,7 @@
     "image_type": "jre",
     "java_version": "14+36",
     "jvm_impl": "openj9",
+    "last_verified": "2026-09-07",
     "md5": "4becf2556f8ae4983af73bc5008e9d1d",
     "os": "windows",
     "release_type": "ga",

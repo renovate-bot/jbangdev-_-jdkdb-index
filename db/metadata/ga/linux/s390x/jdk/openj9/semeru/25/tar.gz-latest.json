@@ -8,6 +8,7 @@
     "image_type": "jdk",
     "java_version": "25.0.4+6-LTS",
     "jvm_impl": "openj9",
+    "last_verified": "2026-09-07",
     "md5": "640690b3d76b90531b6eebc30c609580",
     "os": "linux",
     "release_type": "ga",

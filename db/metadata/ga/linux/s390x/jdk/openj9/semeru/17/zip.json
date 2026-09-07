@@ -170,6 +170,7 @@
     "image_type": "jdk",
     "java_version": "17.0.8+7",
     "jvm_impl": "openj9",
+    "last_verified": "2026-09-07",
     "md5": "a8c3acf3739b51bced1b6f95458bc5f4",
     "os": "linux",
     "release_type": "ga",

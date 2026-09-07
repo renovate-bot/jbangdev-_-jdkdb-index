@@ -33,6 +33,7 @@
     "image_type": "jdk",
     "java_version": "17.0.3+7",
     "jvm_impl": "openj9",
+    "last_verified": "2026-09-07",
     "md5": "9e56330daffc18cc7ee97a32143de757",
     "os": "linux",
     "release_type": "ga",

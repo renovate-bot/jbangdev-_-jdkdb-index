@@ -526,6 +526,7 @@
     "image_type": "jdk",
     "java_version": "11.0.20+8-LTS",
     "jvm_impl": "graalvm",
+    "last_verified": "2026-09-07",
     "md5": "d5200df03b25bcc5b9bafa2aeadc1ec8",
     "os": "macosx",
     "release_type": "ga",

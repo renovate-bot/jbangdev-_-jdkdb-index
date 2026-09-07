@@ -461,6 +461,7 @@
     "image_type": "jdk",
     "java_version": "11",
     "jvm_impl": "graalvm",
+    "last_verified": "2026-09-07",
     "md5": "08f26050f1e30c38571de6d867ba4e3b",
     "os": "linux",
     "release_type": "ga",
