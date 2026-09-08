@@ -595,6 +595,7 @@
     "image_type": "jdk",
     "java_version": "1.8.0_492-b08",
     "jvm_impl": "openj9",
+    "last_verified": "2026-09-08",
     "md5": "c45ebbe3289b08cb636f323d69777d0c",
     "os": "linux",
     "release_type": "ga",

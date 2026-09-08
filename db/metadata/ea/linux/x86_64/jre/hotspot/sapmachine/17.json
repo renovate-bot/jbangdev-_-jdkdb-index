@@ -7118,5 +7118,49 @@
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17.0.21%2B4/sapmachine-jre-17.0.21-ea.4_linux-x64_bin.tar.gz",
     "vendor": "sap",
     "version": "17.0.21-ea.4"
+  },
+  {
+    "architecture": "x86_64",
+    "distro": "sapmachine",
+    "features": [
+      "musl"
+    ],
+    "file_type": "tar.gz",
+    "filename": "sapmachine-jre-17.0.21-ea.5_linux-x64-musl_bin.tar.gz",
+    "image_type": "jre",
+    "java_version": "17.0.21-ea.5",
+    "jvm_impl": "hotspot",
+    "last_verified": "2026-09-08",
+    "md5": "ab4f9235a486539b425d3344abfebed3",
+    "os": "linux",
+    "release_type": "ea",
+    "sha1": "ca00a9685155ca5c6c6c20e5ddc3954fd1c69019",
+    "sha256": "56375850131b0946ace3786eb1a596021edec4523480d800bbbf5f50747809b1",
+    "sha512": "a8612e00599bbeaed7dfd0d615eae4a48357e1019f1795ff0db235c448e576df68b0ef0627282e9c8aff6d243d5f6120a9e6094118f46d3bf5bfde009aa123fd",
+    "size": 47960788,
+    "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17.0.21%2B5/sapmachine-jre-17.0.21-ea.5_linux-x64-musl_bin.tar.gz",
+    "vendor": "sap",
+    "version": "17.0.21-ea.5"
+  },
+  {
+    "architecture": "x86_64",
+    "distro": "sapmachine",
+    "features": null,
+    "file_type": "tar.gz",
+    "filename": "sapmachine-jre-17.0.21-ea.5_linux-x64_bin.tar.gz",
+    "image_type": "jre",
+    "java_version": "17.0.21-ea.5",
+    "jvm_impl": "hotspot",
+    "last_verified": "2026-09-08",
+    "md5": "2192c075654b749f464ca6a60ec00ddc",
+    "os": "linux",
+    "release_type": "ea",
+    "sha1": "99b6ba149d18efd31a08809bce0f7431e5e180a7",
+    "sha256": "1b99e9b882e22dc731aacf58969ea5fcec820ce4c37ffb0bc0c04b3e06bc5f45",
+    "sha512": "b8033557d6f94d297c9a5d721e296de8ffcdd4ecbfaf672dd5e39a0e5a783f19d13a12d3a4bc4fa96287dc812f4830eef0d1e663ed00194dc300e6c630d2207c",
+    "size": 49579102,
+    "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17.0.21%2B5/sapmachine-jre-17.0.21-ea.5_linux-x64_bin.tar.gz",
+    "vendor": "sap",
+    "version": "17.0.21-ea.5"
   }
 ]

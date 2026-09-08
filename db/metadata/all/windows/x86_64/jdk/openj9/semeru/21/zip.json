@@ -130,6 +130,7 @@
     "image_type": "jdk",
     "java_version": "21.0.6+7",
     "jvm_impl": "openj9",
+    "last_verified": "2026-09-08",
     "md5": "e909166e60164b3e1e25f78432b67a3b",
     "os": "windows",
     "release_type": "ga",

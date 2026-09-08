@@ -403,6 +403,7 @@
     "image_type": "jre",
     "java_version": "11.0.32.1+1",
     "jvm_impl": "hotspot",
+    "last_verified": "2026-09-08",
     "md5": "4c1caa7888da54437e6e37f5d2474218",
     "os": "linux",
     "release_type": "ga",

@@ -295,6 +295,7 @@
     "image_type": "jdk",
     "java_version": "25.0.2+10",
     "jvm_impl": "openj9",
+    "last_verified": "2026-09-08",
     "md5": "a899a1c4a2ff0c04b0cc632e58d8bfd4",
     "os": "aix",
     "release_type": "ga",

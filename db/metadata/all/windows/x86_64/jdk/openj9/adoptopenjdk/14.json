@@ -96,6 +96,7 @@
     "image_type": "jdk",
     "java_version": "14.0.1+7",
     "jvm_impl": "openj9",
+    "last_verified": "2026-09-08",
     "md5": "473a6e53836c4dbfe99c94ebdbf038aa",
     "os": "windows",
     "release_type": "ga",

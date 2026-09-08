@@ -297,5 +297,28 @@
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-28%2B13/sapmachine-jdk-28-ea.13_linux-ppc64le_bin.tar.gz",
     "vendor": "sap",
     "version": "28-ea.13"
+  },
+  {
+    "architecture": "ppc64",
+    "distro": "sapmachine",
+    "features": [
+      "le"
+    ],
+    "file_type": "tar.gz",
+    "filename": "sapmachine-jdk-28-ea.14_linux-ppc64le_bin.tar.gz",
+    "image_type": "jdk",
+    "java_version": "28-ea.14",
+    "jvm_impl": "hotspot",
+    "last_verified": "2026-09-08",
+    "md5": "3d5953491b6543573396601568f2503f",
+    "os": "linux",
+    "release_type": "ea",
+    "sha1": "41ad18bfd5a37241a67146a02f9d8c4bb83899d8",
+    "sha256": "f23b16c7e5b0a50d82e1e8ecc32cd79e06e81cd17189961af8612fee66e7d1fd",
+    "sha512": "b3037c7f1370f1b74f072b00761f22866263fe5e62d48b9c97137f4797c721637ac9bd7980032349a170356cac8cc5a60b220c4a7cb0e07385a53ec8347d2523",
+    "size": 127695487,
+    "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-28%2B14/sapmachine-jdk-28-ea.14_linux-ppc64le_bin.tar.gz",
+    "vendor": "sap",
+    "version": "28-ea.14"
   }
 ]

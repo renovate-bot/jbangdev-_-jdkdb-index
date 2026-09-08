@@ -153,6 +153,7 @@
     "image_type": "jdk",
     "java_version": "11.0.30+7-adhoc.root.jdk11u",
     "jvm_impl": "hotspot",
+    "last_verified": "2026-09-08",
     "md5": "263007e3a4dbdc424ba56be2dd702e18",
     "os": "linux",
     "release_type": "ga",

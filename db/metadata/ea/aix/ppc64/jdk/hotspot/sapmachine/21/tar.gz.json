@@ -1944,5 +1944,26 @@
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21.0.13%2B4/sapmachine-jdk-21.0.13-ea.4_aix-ppc64_bin.tar.gz",
     "vendor": "sap",
     "version": "21.0.13-ea.4"
+  },
+  {
+    "architecture": "ppc64",
+    "distro": "sapmachine",
+    "features": null,
+    "file_type": "tar.gz",
+    "filename": "sapmachine-jdk-21.0.13-ea.5_aix-ppc64_bin.tar.gz",
+    "image_type": "jdk",
+    "java_version": "21.0.13-ea.5",
+    "jvm_impl": "hotspot",
+    "last_verified": "2026-09-08",
+    "md5": "37562fece1cb6117c398c06b79363e0e",
+    "os": "aix",
+    "release_type": "ea",
+    "sha1": "d33fae90bf83ef0aa107f07f20afc4a8162c9ec9",
+    "sha256": "410465427ff70f11eddecd2fe2d6277d1aa9b15cbeb3d4ef6c4e69dff0806b83",
+    "sha512": "64d7e91d20cfc0b1eb5a00a2fce127016bb40eecc7561fd01b1a4c9ca79dd1d6235c5963c3bc44f868e8c670f6471c712dc6d6e51d0840e37930d8364c8131a8",
+    "size": 188199753,
+    "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21.0.13%2B5/sapmachine-jdk-21.0.13-ea.5_aix-ppc64_bin.tar.gz",
+    "vendor": "sap",
+    "version": "21.0.13-ea.5"
   }
 ]

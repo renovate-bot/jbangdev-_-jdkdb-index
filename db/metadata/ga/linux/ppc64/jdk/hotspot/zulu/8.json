@@ -70,6 +70,7 @@
     "image_type": "jdk",
     "java_version": "8.0.265",
     "jvm_impl": "hotspot",
+    "last_verified": "2026-09-08",
     "md5": "b8c8065760e0f342f3ec32d903ed76b8",
     "os": "linux",
     "release_type": "ga",

@@ -1406,6 +1406,7 @@
     "image_type": "jdk",
     "java_version": "15+36",
     "jvm_impl": "openj9",
+    "last_verified": "2026-09-08",
     "md5": "7d9ad618e61214c72000a40ab58113f2",
     "os": "linux",
     "release_type": "ga",

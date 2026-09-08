@@ -70,6 +70,7 @@
     "image_type": "jdk",
     "java_version": "23.0.1+11",
     "jvm_impl": "openj9",
+    "last_verified": "2026-09-08",
     "md5": "33496b72991e5cb46ed77ceed4aa48d3",
     "os": "linux",
     "release_type": "ga",

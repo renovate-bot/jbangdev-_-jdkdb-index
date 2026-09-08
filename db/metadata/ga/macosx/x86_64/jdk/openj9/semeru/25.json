@@ -488,6 +488,7 @@
     "image_type": "jdk",
     "java_version": "25.0.4+5-LTS",
     "jvm_impl": "openj9",
+    "last_verified": "2026-09-08",
     "md5": "8bc7ba53743c001866f9e562dfec7236",
     "os": "macosx",
     "release_type": "ga",

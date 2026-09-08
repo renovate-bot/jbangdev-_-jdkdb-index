@@ -414,6 +414,7 @@
     "sha256": "649a925eb78f4f21b5ebe63b9e2ea35e0b6a9f8e5442bd19e40360e664e0ae14",
     "sha512": "ab61c0edab0dabb828a58c88eea08177f32eaf174cfd1901f10b43392642233a7d5008425a639c3e4b085b9d52f766d43277d720e9b10038e2708c30f8b12c12",
     "size": 219526513,
+    "unlisted_since": "2026-09-08",
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-27%2B20/sapmachine-jdk-27-ea.20_macos-aarch64_bin.dmg",
     "vendor": "sap",
     "version": "27-ea.20"

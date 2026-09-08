@@ -464,6 +464,7 @@
     "image_type": "jdk",
     "java_version": "11.0.31+11-LTS",
     "jvm_impl": "hotspot",
+    "last_verified": "2026-09-08",
     "md5": "083d43231a24baf1467ccb640eb4e98b",
     "os": "solaris",
     "release_type": "ga",

@@ -367,6 +367,7 @@
     "image_type": "jdk",
     "java_version": "21.0.11+7-LTS",
     "jvm_impl": "openj9",
+    "last_verified": "2026-09-08",
     "md5": "0d07eb33c81107fa60e3a3c66779f21e",
     "os": "windows",
     "release_type": "ga",

@@ -618,6 +618,7 @@
     "image_type": "jdk",
     "java_version": "1.8.0_502-b05",
     "jvm_impl": "openj9",
+    "last_verified": "2026-09-08",
     "md5": "0c3438d1b07c858497582c9bde4592b3",
     "os": "windows",
     "release_type": "ga",

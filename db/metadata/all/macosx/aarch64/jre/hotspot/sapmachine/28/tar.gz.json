@@ -271,5 +271,26 @@
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-28%2B13/sapmachine-jre-28-ea.13_macos-aarch64_bin.tar.gz",
     "vendor": "sap",
     "version": "28-ea.13"
+  },
+  {
+    "architecture": "aarch64",
+    "distro": "sapmachine",
+    "features": null,
+    "file_type": "tar.gz",
+    "filename": "sapmachine-jre-28-ea.14_macos-aarch64_bin.tar.gz",
+    "image_type": "jre",
+    "java_version": "28-ea.14",
+    "jvm_impl": "hotspot",
+    "last_verified": "2026-09-08",
+    "md5": "8623210e0a41a4bde007d59d7daf871e",
+    "os": "macosx",
+    "release_type": "ea",
+    "sha1": "b344ec54cc5369fde864091f0207071b0081b0ec",
+    "sha256": "2d80d7fa45c71882d585636f89e5c4e4ca80151f6ca46af48ca2c7bd59657f5f",
+    "sha512": "a61adb4918870ed4b2531bcd5ac9f02a8ef0f0697688cd52a9094da42212726fb0bb67072f6c43b314548cf2583bc78204f77c0c2ade690b41b98f55fa57c7c0",
+    "size": 47080553,
+    "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-28%2B14/sapmachine-jre-28-ea.14_macos-aarch64_bin.tar.gz",
+    "vendor": "sap",
+    "version": "28-ea.14"
   }
 ]

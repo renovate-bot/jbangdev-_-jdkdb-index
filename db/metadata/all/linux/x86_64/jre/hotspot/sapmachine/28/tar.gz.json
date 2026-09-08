@@ -570,5 +570,49 @@
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-28%2B13/sapmachine-jre-28-ea.13_linux-x64_bin.tar.gz",
     "vendor": "sap",
     "version": "28-ea.13"
+  },
+  {
+    "architecture": "x86_64",
+    "distro": "sapmachine",
+    "features": [
+      "musl"
+    ],
+    "file_type": "tar.gz",
+    "filename": "sapmachine-jre-28-ea.14_linux-x64-musl_bin.tar.gz",
+    "image_type": "jre",
+    "java_version": "28-ea.14",
+    "jvm_impl": "hotspot",
+    "last_verified": "2026-09-08",
+    "md5": "97f2b6f92fe611ad2808b6b447068aa5",
+    "os": "linux",
+    "release_type": "ea",
+    "sha1": "d7b511496d94735e68d81da0544a72c681bdacac",
+    "sha256": "4b4dfc2e66bef077f0cf81ccf2b8f47f7e4f54e62ac38214d0856defb9ecd569",
+    "sha512": "3a5ee0cb60657aa5a749644ceee486c7e16858057fc0eac6064de39c1653e715b734b16781fa4506c8c26d614db5435ce26b466a4ec3994dd075d51f032451f1",
+    "size": 52379958,
+    "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-28%2B14/sapmachine-jre-28-ea.14_linux-x64-musl_bin.tar.gz",
+    "vendor": "sap",
+    "version": "28-ea.14"
+  },
+  {
+    "architecture": "x86_64",
+    "distro": "sapmachine",
+    "features": null,
+    "file_type": "tar.gz",
+    "filename": "sapmachine-jre-28-ea.14_linux-x64_bin.tar.gz",
+    "image_type": "jre",
+    "java_version": "28-ea.14",
+    "jvm_impl": "hotspot",
+    "last_verified": "2026-09-08",
+    "md5": "c20bfe875c99b721b1622d26bb559ecb",
+    "os": "linux",
+    "release_type": "ea",
+    "sha1": "3c8a97cb970e4cd1bd1063cbbded4a9ea5907951",
+    "sha256": "4aa8f1af047389e973a352eacfd3409dafcd260ab0c6c5d7de8aacd129940751",
+    "sha512": "a910b185d470e99937382cf0deb344327e9f0347614da53626af90804e7a76b70c5416fe803186b876289be9a6160cfebea2f14fce5b65398e828e58f0403dc0",
+    "size": 53201590,
+    "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-28%2B14/sapmachine-jre-28-ea.14_linux-x64_bin.tar.gz",
+    "vendor": "sap",
+    "version": "28-ea.14"
   }
 ]

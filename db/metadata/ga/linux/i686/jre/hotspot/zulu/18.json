@@ -180,6 +180,7 @@
     "image_type": "jre",
     "java_version": "18.0.2",
     "jvm_impl": "hotspot",
+    "last_verified": "2026-09-08",
     "md5": "caf500ba8b31dc8dfb8b8c04f1288140",
     "os": "linux",
     "release_type": "ga",

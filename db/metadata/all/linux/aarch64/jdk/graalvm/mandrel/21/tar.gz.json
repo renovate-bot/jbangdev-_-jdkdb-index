@@ -29,6 +29,7 @@
     "image_type": "jdk",
     "java_version": "21",
     "jvm_impl": "graalvm",
+    "last_verified": "2026-09-08",
     "md5": "5dc634322b29692a6b9a39c731d2baaa",
     "os": "linux",
     "release_type": "ga",

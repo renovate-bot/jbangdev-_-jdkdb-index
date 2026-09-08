@@ -824,6 +824,7 @@
     "image_type": "jdk",
     "java_version": "24+36-jvmci-b01",
     "jvm_impl": "graalvm",
+    "last_verified": "2026-09-08",
     "md5": "b2f3a868734d3aed5e3ea88dcc448544",
     "os": "windows",
     "release_type": "ga",

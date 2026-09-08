@@ -78,6 +78,7 @@
     "image_type": "jdk",
     "java_version": "21.0.4+7",
     "jvm_impl": "openj9",
+    "last_verified": "2026-09-08",
     "md5": "eede5b3be30ba2d243df606be9cc8af1",
     "os": "aix",
     "release_type": "ga",
