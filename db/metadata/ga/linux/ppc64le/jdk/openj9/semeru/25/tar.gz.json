@@ -357,6 +357,7 @@
     "image_type": "jdk",
     "java_version": "25.0.4+6-LTS",
     "jvm_impl": "openj9",
+    "last_verified": "2026-09-09",
     "md5": "e03db45e9982741bb7726fef778f2599",
     "os": "linux",
     "release_type": "ga",

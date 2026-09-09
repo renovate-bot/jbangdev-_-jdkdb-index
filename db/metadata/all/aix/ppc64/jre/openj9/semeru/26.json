@@ -51,6 +51,7 @@
     "image_type": "jre",
     "java_version": "26.0.1.0",
     "jvm_impl": "openj9",
+    "last_verified": "2026-09-09",
     "md5": "7377f176cb67176c45db8ebde31d153d",
     "os": "aix",
     "release_type": "ga",

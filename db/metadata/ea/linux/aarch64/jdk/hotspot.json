@@ -12363,6 +12363,27 @@
   },
   {
     "architecture": "aarch64",
+    "distro": "sapmachine",
+    "features": null,
+    "file_type": "tar.gz",
+    "filename": "sapmachine-jdk-17.0.21-ea.5_linux-aarch64_bin.tar.gz",
+    "image_type": "jdk",
+    "java_version": "17.0.21-ea.5",
+    "jvm_impl": "hotspot",
+    "last_verified": "2026-09-09",
+    "md5": "648baa89abf16833465c9210cf5d068f",
+    "os": "linux",
+    "release_type": "ea",
+    "sha1": "68220975b81ec8494a7f484e95e062f2d7cedfb3",
+    "sha256": "064fdbe9036b8d7111a9f5e32ecedb489876d03492f3dcb44b1e252361a994e0",
+    "sha512": "5e3d7f611ee45eb32ca6d1130d1af1bd101c13c0f5b972d1c143cb81d84da61587f865ec0c9012243a14d8833bee6d114726ef7a8e2108401a99d8c760043471",
+    "size": 195463286,
+    "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17.0.21%2B5/sapmachine-jdk-17.0.21-ea.5_linux-aarch64_bin.tar.gz",
+    "vendor": "sap",
+    "version": "17.0.21-ea.5"
+  },
+  {
+    "architecture": "aarch64",
     "distro": "temurin",
     "features": [
       "musl"
@@ -21636,6 +21657,27 @@
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21.0.13%2B4/sapmachine-jdk-21.0.13-ea.4_linux-aarch64_bin.tar.gz",
     "vendor": "sap",
     "version": "21.0.13-ea.4"
+  },
+  {
+    "architecture": "aarch64",
+    "distro": "sapmachine",
+    "features": null,
+    "file_type": "tar.gz",
+    "filename": "sapmachine-jdk-21.0.13-ea.5_linux-aarch64_bin.tar.gz",
+    "image_type": "jdk",
+    "java_version": "21.0.13-ea.5",
+    "jvm_impl": "hotspot",
+    "last_verified": "2026-09-09",
+    "md5": "34903c2b2191bdb0f14c67b979699ab3",
+    "os": "linux",
+    "release_type": "ea",
+    "sha1": "9ada09e819d2564dda3e4674540db6f36b7c2c90",
+    "sha256": "643b62a4010a0833984824de2065445e4bb9a738ff7a8e912a87888b3b04a1ca",
+    "sha512": "abf9b90edfdccefa18ec37ffb2ca1b1cc06cfd572ea0129f8915e3937b37b929b0f4f15ba41838765cbfe688194f6b67cfae604c958673fc396fc6dde58b6617",
+    "size": 209627240,
+    "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21.0.13%2B5/sapmachine-jdk-21.0.13-ea.5_linux-aarch64_bin.tar.gz",
+    "vendor": "sap",
+    "version": "21.0.13-ea.5"
   },
   {
     "architecture": "aarch64",

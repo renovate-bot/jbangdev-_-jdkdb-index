@@ -55,6 +55,7 @@
     "image_type": "jdk",
     "java_version": "24.0.1+11",
     "jvm_impl": "hotspot",
+    "last_verified": "2026-09-09",
     "md5": "cba0184fd55bb65e66ddd25d43312846",
     "os": "windows",
     "release_type": "ga",

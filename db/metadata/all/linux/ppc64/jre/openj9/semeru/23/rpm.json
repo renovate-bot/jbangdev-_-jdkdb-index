@@ -28,6 +28,7 @@
     "image_type": "jre",
     "java_version": "23.0.1+11",
     "jvm_impl": "openj9",
+    "last_verified": "2026-09-09",
     "md5": "f8bbbd8885b8ae1bd2f43904bcaa9c3a",
     "os": "linux",
     "release_type": "ga",

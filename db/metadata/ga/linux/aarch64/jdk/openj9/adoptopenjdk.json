@@ -302,6 +302,7 @@
     "image_type": "jdk",
     "java_version": "15.0.1-ea+9",
     "jvm_impl": "openj9",
+    "last_verified": "2026-09-09",
     "md5": "8d1c84d2c69d884ebd4f001aa666cf59",
     "os": "linux",
     "release_type": "ga",

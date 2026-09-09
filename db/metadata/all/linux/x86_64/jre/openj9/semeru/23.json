@@ -154,6 +154,7 @@
     "image_type": "jre",
     "java_version": "23.0.2+7",
     "jvm_impl": "openj9",
+    "last_verified": "2026-09-09",
     "md5": "78b0aec6860362412e1e2d5529f1041d",
     "os": "linux",
     "release_type": "ga",

@@ -406,6 +406,7 @@
     "image_type": "jdk",
     "java_version": "8u462-b08",
     "jvm_impl": "openj9",
+    "last_verified": "2026-09-09",
     "md5": "fcc3f484c6ce234c40fdf298e4bb5314",
     "os": "linux",
     "release_type": "ga",

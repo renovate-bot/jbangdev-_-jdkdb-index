@@ -300,6 +300,7 @@
     "image_type": "jre",
     "java_version": "8u422-b05",
     "jvm_impl": "openj9",
+    "last_verified": "2026-09-09",
     "md5": "42304ab8cd9f84edee1f32879f00f2df",
     "os": "linux",
     "release_type": "ga",

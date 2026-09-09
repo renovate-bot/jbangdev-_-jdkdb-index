@@ -31,6 +31,7 @@
     "image_type": "jdk",
     "java_version": "25+36",
     "jvm_impl": "openj9",
+    "last_verified": "2026-09-09",
     "md5": "cf64e93fc8dcaf3d67d2a18a8295343d",
     "os": "aix",
     "release_type": "ga",

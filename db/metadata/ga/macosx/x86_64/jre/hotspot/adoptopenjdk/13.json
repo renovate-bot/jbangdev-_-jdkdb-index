@@ -8,6 +8,7 @@
     "image_type": "jre",
     "java_version": "13+33",
     "jvm_impl": "hotspot",
+    "last_verified": "2026-09-09",
     "md5": "c475294b6a4b00ca5e9bd093ba9255a3",
     "os": "macosx",
     "release_type": "ga",

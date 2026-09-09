@@ -8,6 +8,7 @@
     "image_type": "jdk",
     "java_version": "21.0.3+7-LTS-jvmci-23.1-b37",
     "jvm_impl": "graalvm",
+    "last_verified": "2026-09-09",
     "md5": "5382d73934d0bf299efd326afaa5e355",
     "os": "linux",
     "release_type": "ga",

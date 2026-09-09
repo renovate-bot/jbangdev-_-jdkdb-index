@@ -28,6 +28,7 @@
     "image_type": "jdk",
     "java_version": "24.0.1",
     "jvm_impl": "hotspot",
+    "last_verified": "2026-09-09",
     "md5": "7e42a5b07c2ff3199590c791aad860a3",
     "os": "windows",
     "release_type": "ga",

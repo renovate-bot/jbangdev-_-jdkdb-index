@@ -435,6 +435,7 @@
     "image_type": "jre",
     "java_version": "11.0.24+8",
     "jvm_impl": "hotspot",
+    "last_verified": "2026-09-09",
     "md5": "fd92c8d87ed56e76561d70f7de2f46ce",
     "os": "aix",
     "release_type": "ga",

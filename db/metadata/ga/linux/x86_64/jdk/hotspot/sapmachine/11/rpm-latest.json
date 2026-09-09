@@ -8,6 +8,7 @@
     "image_type": "jdk",
     "java_version": "11.0.27+6-LTS-sapmachine",
     "jvm_impl": "hotspot",
+    "last_verified": "2026-09-09",
     "md5": "3db20ff15d657a1f559ec32ecdf4c304",
     "os": "linux",
     "release_type": "ga",

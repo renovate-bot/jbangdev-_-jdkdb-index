@@ -539,6 +539,7 @@
     "image_type": "jdk",
     "java_version": "23.0.1+11-jvmci-b01",
     "jvm_impl": "graalvm",
+    "last_verified": "2026-09-09",
     "md5": "946038835ec1b4cb10776f77f1a6be78",
     "os": "macosx",
     "release_type": "ga",
