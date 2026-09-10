@@ -50,6 +50,7 @@
     "image_type": "jdk",
     "java_version": "21.0.5+9-LTS-jvmci-23.1-b48",
     "jvm_impl": "graalvm",
+    "last_verified": "2026-09-10",
     "md5": "c38d1479dd6419b3f3fb4df2640db9dc",
     "os": "linux",
     "release_type": "ga",

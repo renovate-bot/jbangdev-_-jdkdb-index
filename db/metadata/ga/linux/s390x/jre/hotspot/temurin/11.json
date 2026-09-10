@@ -134,6 +134,7 @@
     "image_type": "jre",
     "java_version": "11.0.16.1+1",
     "jvm_impl": "hotspot",
+    "last_verified": "2026-09-10",
     "md5": "be33c7fdae31fcea69dceaccaecd8565",
     "os": "linux",
     "release_type": "ga",

@@ -50,6 +50,7 @@
     "image_type": "jre",
     "java_version": "1.8.0_504",
     "jvm_impl": "hotspot",
+    "last_verified": "2026-09-10",
     "md5": "a1de3e7108d83adae08de29af511c825",
     "os": "solaris",
     "release_type": "ga",

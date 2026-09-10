@@ -151,6 +151,7 @@
     "image_type": "jdk",
     "java_version": "25.0.4+7-adhoc.admin.jdk25u",
     "jvm_impl": "hotspot",
+    "last_verified": "2026-09-10",
     "md5": "d510b4a8919543db4f7e6fe7e132f565",
     "os": "macosx",
     "release_type": "ga",

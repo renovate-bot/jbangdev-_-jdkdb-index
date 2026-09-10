@@ -406,6 +406,7 @@
     "image_type": "jdk",
     "java_version": "11.0.28+6",
     "jvm_impl": "hotspot",
+    "last_verified": "2026-09-10",
     "md5": "f1d6da3eec26db3d9fcf011788527a6a",
     "os": "macosx",
     "release_type": "ga",
@@ -761,6 +762,7 @@
     "sha256": "47b46f692e0eef762b54c2e20c4af6ae4e046c6e732ad9d9b8278c8f0944da2c",
     "sha512": "978499a80faafad350fa2397e58a94bcb7ed7e60273d8906e56124eafb2c583125f827c496fcc7c4801a1863dd320af53fabc4211b76e4a52b9ceaa2df3fb877",
     "size": 187306593,
+    "unlisted_since": "2026-09-10",
     "url": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.31%2B4-ea-beta/OpenJDK11U-jdk_x64_mac_hotspot_11.0.31_4-ea.tar.gz",
     "vendor": "eclipse",
     "version": "11.0.31+4-ea-beta"
@@ -782,6 +784,7 @@
     "sha256": "392c361aae73abad37d3ae14a1d1cf2be2020437f7eb3eed9090bde29013c328",
     "sha512": "b096f1d3b986de0466b97540e34fcc01a4272a503527be408e5fa98727fdfd36a3c1a74c3b94713710838e1c88c5aa39d0e4cdcadaba1bf4caa17f73c36e945a",
     "size": 187339101,
+    "unlisted_since": "2026-09-10",
     "url": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.31%2B6-ea-beta/OpenJDK11U-jdk_x64_mac_hotspot_11.0.31_6-ea.tar.gz",
     "vendor": "eclipse",
     "version": "11.0.31+6-ea-beta"
@@ -816,6 +819,7 @@
     "image_type": "jdk",
     "java_version": "11.0.31+11",
     "jvm_impl": "hotspot",
+    "last_verified": "2026-09-10",
     "md5": "442bd321d2b096004e56ef1673a6f1e3",
     "os": "macosx",
     "release_type": "ga",

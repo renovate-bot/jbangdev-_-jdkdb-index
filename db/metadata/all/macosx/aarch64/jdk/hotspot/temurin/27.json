@@ -402,6 +402,7 @@
     "sha256": "b0b47195fdc04f75bd36999cf85587c67d5833ea1660b3f06a6f2b4dd65ce428",
     "sha512": "2f1eac4b4a05d9a26c1d8aba7ecdec0ed352c371d97b75a49dfe84d565cb93f6171832f1bb0bda60f2bbfeff4197c847a05a22dfbe544016b35c5f960b38f7d9",
     "size": 140438925,
+    "unlisted_since": "2026-09-10",
     "url": "https://github.com/adoptium/temurin27-binaries/releases/download/jdk-27%2B13-ea-beta/OpenJDK-jdk_aarch64_mac_hotspot_27_13-ea.pkg",
     "vendor": "eclipse",
     "version": "27+13-ea-beta"
@@ -423,6 +424,7 @@
     "sha256": "04bcdbb1d8f180c8feaa065f6dbe8d11d5be84526cbb371c78d95356c617ec50",
     "sha512": "d790b4d6eae27d22a3c265295f825544639961651de8b6960abe1da7bc4d0a66c18334733d6044ae1781e9c2ec78b71ce88f22b5975adce36104621fb083b948",
     "size": 139899762,
+    "unlisted_since": "2026-09-10",
     "url": "https://github.com/adoptium/temurin27-binaries/releases/download/jdk-27%2B13-ea-beta/OpenJDK-jdk_aarch64_mac_hotspot_27_13-ea.tar.gz",
     "vendor": "eclipse",
     "version": "27+13-ea-beta"

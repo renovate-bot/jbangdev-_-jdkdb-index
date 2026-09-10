@@ -29,6 +29,7 @@
     "image_type": "jdk",
     "java_version": "24.0.1+9-jvmci-b01",
     "jvm_impl": "graalvm",
+    "last_verified": "2026-09-10",
     "md5": "a1060502853f1cc531776ea2dea0a99a",
     "os": "windows",
     "release_type": "ga",

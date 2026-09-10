@@ -148,6 +148,7 @@
     "sha256": "a52073f3984202986344b0f05f836482b9b7acbaa2ef6bb796fc1c483909c8dd",
     "sha512": "09b24d05a295f815dfcb997ddce7b2a1309251c500445ad31b8fdb528e09d0f63a62ee379645dc5a2f6d9f86505bcf9f9ddba21749f76056e52995cd9e45e0c4",
     "size": 39204102,
+    "unlisted_since": "2026-09-10",
     "url": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u492-b06-ea-beta/OpenJDK8U-jre_arm_linux_hotspot_8u492b06-ea.tar.gz",
     "vendor": "eclipse",
     "version": "8u492-b06-ea-beta"
@@ -413,6 +414,7 @@
     "image_type": "jre",
     "java_version": "1.8.0_332-b09",
     "jvm_impl": "hotspot",
+    "last_verified": "2026-09-10",
     "md5": "7b6af2d55099c798ed713bb5943b6493",
     "os": "linux",
     "release_type": "ga",
@@ -538,6 +540,7 @@
     "image_type": "jre",
     "java_version": "1.8.0_382-b05",
     "jvm_impl": "hotspot",
+    "last_verified": "2026-09-10",
     "md5": "51d17a6efb7d3e63958e00492ce702f5",
     "os": "linux",
     "release_type": "ga",

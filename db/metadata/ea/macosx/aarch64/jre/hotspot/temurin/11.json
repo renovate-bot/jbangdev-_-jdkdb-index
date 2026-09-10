@@ -553,6 +553,7 @@
     "sha256": "246350f6210f2c6c198444ee49135dbef41f10b76ec7543821310dab4367a020",
     "sha512": "11d95920aa95a122f3a422b634d376f128d4f0549aba830795957e62350b6cb2f5ef4c0de12512ed6ca61230c0b0fdf06c77ae67e2064812dac158c8ce6c3758",
     "size": 37994327,
+    "unlisted_since": "2026-09-10",
     "url": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.31%2B4-ea-beta/OpenJDK11U-jre_aarch64_mac_hotspot_11.0.31_4-ea.pkg",
     "vendor": "eclipse",
     "version": "11.0.31+4-ea-beta"
@@ -574,6 +575,7 @@
     "sha256": "08b3f047c9baed1dadba73f1cd3679e33172799f467e6089fc589b8d441e942f",
     "sha512": "615f2c8b37bd1c3f2aff1016367a6257d3a48901448a780640935df55c19e44b84367db0f46a0946142172d9ebdbc28c3ccbb5e9b00737239a2a8f5b4b2204b7",
     "size": 37864253,
+    "unlisted_since": "2026-09-10",
     "url": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.31%2B4-ea-beta/OpenJDK11U-jre_aarch64_mac_hotspot_11.0.31_4-ea.tar.gz",
     "vendor": "eclipse",
     "version": "11.0.31+4-ea-beta"
@@ -594,6 +596,7 @@
     "sha256": "316209d7f33c24dae81111376f5316df30d9a50cd1abc66eabf28b1ad5072ad0",
     "sha512": "ad03c3b9e89dd6ab276f811ef7320d903f4ab24361119b04707f169e1ce9add2820ba8a014aecf2f90c00a56598370b7a8d445880d93a28f889bff4032474328",
     "size": 38005359,
+    "unlisted_since": "2026-09-10",
     "url": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.31%2B6-ea-beta/OpenJDK11U-jre_aarch64_mac_hotspot_11.0.31_6-ea.pkg",
     "vendor": "eclipse",
     "version": "11.0.31+6-ea-beta"
@@ -615,6 +618,7 @@
     "sha256": "fd27d59cc9dbc112a41bb1ad44e132d3b65095d1e30a0935b1435ae19a6a22a6",
     "sha512": "5177210fc0cbe6e394a6bf38f44658cd6f18a2761fc491615effb31326baa3435c966f0c6af0d45d79eaa50a16dc32dde1c5a8d91cb2ffdc3f6131dc9f4810ba",
     "size": 37877525,
+    "unlisted_since": "2026-09-10",
     "url": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.31%2B6-ea-beta/OpenJDK11U-jre_aarch64_mac_hotspot_11.0.31_6-ea.tar.gz",
     "vendor": "eclipse",
     "version": "11.0.31+6-ea-beta"

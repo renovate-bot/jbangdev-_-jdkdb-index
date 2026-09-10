@@ -71,6 +71,7 @@
     "image_type": "jdk",
     "java_version": "17.0.13+11-adhoc.root.jdk17u",
     "jvm_impl": "hotspot",
+    "last_verified": "2026-09-10",
     "md5": "fab6c2040764a8bd8750995796c5cdad",
     "os": "linux",
     "release_type": "ga",

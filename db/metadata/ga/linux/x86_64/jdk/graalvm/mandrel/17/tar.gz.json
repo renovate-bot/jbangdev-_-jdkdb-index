@@ -406,6 +406,7 @@
     "image_type": "jdk",
     "java_version": "17",
     "jvm_impl": "graalvm",
+    "last_verified": "2026-09-10",
     "md5": "7aa3e2ac5832add27c2c468347ee6d18",
     "os": "linux",
     "release_type": "ga",

@@ -574,6 +574,7 @@
     "sha256": "1b2c9468f45222cfea5e9de7c0877dfdff3b782232a814339000cceaaffcac13",
     "sha512": "3565000b1121a4cb5a114529769041ff9be8caa23c07d784a68fa39b73f26b6f7112f97c8b9a85d5ceaeadedde4bc494ca217782f482bdee1db06613d490a100",
     "size": 39206908,
+    "unlisted_since": "2026-09-10",
     "url": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.31%2B4-ea-beta/OpenJDK11U-jre_x64_mac_hotspot_11.0.31_4-ea.pkg",
     "vendor": "eclipse",
     "version": "11.0.31+4-ea-beta"
@@ -595,6 +596,7 @@
     "sha256": "598f87904e6665a467dc0533894e9e58b531134455732cb8ab971f08908f7c16",
     "sha512": "05b9ff241391ecef069a006e714139820c9361a83cdf742715ffd23969b37f7c4f4ef5f6e9a16606d36556b77c20f975434d7add376ad57f8c4250f0e6dbf392",
     "size": 39062255,
+    "unlisted_since": "2026-09-10",
     "url": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.31%2B4-ea-beta/OpenJDK11U-jre_x64_mac_hotspot_11.0.31_4-ea.tar.gz",
     "vendor": "eclipse",
     "version": "11.0.31+4-ea-beta"
@@ -615,6 +617,7 @@
     "sha256": "7e22487004296fef46895f269ac5be6c15fe359a9973492669355ed3e206ca19",
     "sha512": "cda5c568d18274c79f6dbb49ee80af00c2033ba83eae344fd41f99dd5f531f3085e87421eaeca2e431b0ecda7019b2687243c923e82660fbc209938fc07547cf",
     "size": 39227868,
+    "unlisted_since": "2026-09-10",
     "url": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.31%2B6-ea-beta/OpenJDK11U-jre_x64_mac_hotspot_11.0.31_6-ea.pkg",
     "vendor": "eclipse",
     "version": "11.0.31+6-ea-beta"
@@ -636,6 +639,7 @@
     "sha256": "36ae2663be13714af19e53570d5b2dd3b65f16c36bf35d0e8bd5c719b1f2c1e9",
     "sha512": "14df974f6746ecf76835238dad597e33204908446dd76dcae646ce7f6db3529d1da21571cbc2f11d287e5ac87b50e931a955f5e468e7112fc293999b534f63c3",
     "size": 39084023,
+    "unlisted_since": "2026-09-10",
     "url": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.31%2B6-ea-beta/OpenJDK11U-jre_x64_mac_hotspot_11.0.31_6-ea.tar.gz",
     "vendor": "eclipse",
     "version": "11.0.31+6-ea-beta"

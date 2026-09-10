@@ -8,6 +8,7 @@
     "image_type": "jdk",
     "java_version": "21.0.12+8-adhoc.root.jdk21u",
     "jvm_impl": "hotspot",
+    "last_verified": "2026-09-10",
     "md5": "a0caa633e68d38de2947b108155eed9d",
     "os": "linux",
     "release_type": "ga",

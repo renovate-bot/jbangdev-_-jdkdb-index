@@ -92,6 +92,7 @@
     "image_type": "jdk",
     "java_version": "17.0.15+6",
     "jvm_impl": "hotspot",
+    "last_verified": "2026-09-10",
     "md5": "785f87aedbeca007ba89238dd2b8ba5e",
     "os": "linux",
     "release_type": "ga",
@@ -557,6 +558,7 @@
     "sha256": "5bdb1b05de9c1e1a2d36d67c86266f68399c66037d6e190dea804ade40070a3a",
     "sha512": "fa4f03e58a1aeaa5ce9f4d8b459b2d9b5d33806b4a4794c59fd6caa9b4cce94a7aaab474cde7b00cb065eae07f03b7eda09c66e791891a995036c755f6c08e70",
     "size": 190013197,
+    "unlisted_since": "2026-09-10",
     "url": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.19%2B6-ea-beta/OpenJDK17U-jdk_riscv64_linux_hotspot_17.0.19_6-ea.tar.gz",
     "vendor": "eclipse",
     "version": "17.0.19+6-ea-beta"

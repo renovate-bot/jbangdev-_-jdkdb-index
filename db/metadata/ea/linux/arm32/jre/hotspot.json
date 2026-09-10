@@ -148,6 +148,7 @@
     "sha256": "a52073f3984202986344b0f05f836482b9b7acbaa2ef6bb796fc1c483909c8dd",
     "sha512": "09b24d05a295f815dfcb997ddce7b2a1309251c500445ad31b8fdb528e09d0f63a62ee379645dc5a2f6d9f86505bcf9f9ddba21749f76056e52995cd9e45e0c4",
     "size": 39204102,
+    "unlisted_since": "2026-09-10",
     "url": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u492-b06-ea-beta/OpenJDK8U-jre_arm_linux_hotspot_8u492b06-ea.tar.gz",
     "vendor": "eclipse",
     "version": "8u492-b06-ea-beta"
@@ -623,6 +624,7 @@
     "sha256": "834986be5a123c617bdfaab7f388e0ba6be466005bb9626f926a2eec7bf4aa25",
     "sha512": "0cd5b465725075a17da877bdc4e39e4cfccb8cb442f3d4fdf03cad802da9ee8e647e9523d5ffe9dbf48dacb4dd902b22cab2b675c400c86e5b6e8348fd6d2357",
     "size": 41861836,
+    "unlisted_since": "2026-09-10",
     "url": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.31%2B4-ea-beta/OpenJDK11U-jre_arm_linux_hotspot_11.0.31_4-ea.tar.gz",
     "vendor": "eclipse",
     "version": "11.0.31+4-ea-beta"
@@ -644,6 +646,7 @@
     "sha256": "2d5ab79aa787c9e439b80bd6f55a10c2709bf40cabc0c23522320a2355e5e660",
     "sha512": "f6fb6b9685c973163f07a94479ec7c5502f45c440f1646ac34fe495e5d24e8b2524c7094b356846b607a71a551f36b69a9375936586ef0b100be076e8da656b5",
     "size": 41885923,
+    "unlisted_since": "2026-09-10",
     "url": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.31%2B6-ea-beta/OpenJDK11U-jre_arm_linux_hotspot_11.0.31_6-ea.tar.gz",
     "vendor": "eclipse",
     "version": "11.0.31+6-ea-beta"
@@ -1314,6 +1317,7 @@
     "sha256": "890e122d030967a7723a9c7b70128edaad4ebfcc22cbd11ab751111444b32149",
     "sha512": "af3be9cdcebcafbb016dd4189ce7f643f2364238eaabd617943ed8abc95555725957d3ba3098e5a008507470f03fda5ad4100521bf8c64dd64641f68dc4beb69",
     "size": 44066502,
+    "unlisted_since": "2026-09-10",
     "url": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.19%2B6-ea-beta/OpenJDK17U-jre_arm_linux_hotspot_17.0.19_6-ea.tar.gz",
     "vendor": "eclipse",
     "version": "17.0.19+6-ea-beta"

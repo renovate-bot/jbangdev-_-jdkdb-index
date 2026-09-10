@@ -71,6 +71,7 @@
     "image_type": "jdk",
     "java_version": "26+35",
     "jvm_impl": "hotspot",
+    "last_verified": "2026-09-10",
     "md5": "ba87ea719fb710564ddb7c5159068ed3",
     "os": "aix",
     "release_type": "ga",

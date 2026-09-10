@@ -434,6 +434,7 @@
     "sha256": "ae9bb7176f8b9f26746e73ffeeb4a1bdaa2fd4137dd81e2f43945c72e60fe045",
     "sha512": "01d75ebe613eacc559fc32b89ca4e9ccc2c71ba1426ae2d93c2ee1f6c57fecdec5e6dec56bae542415a98a93c1c895639cac48ec9a4f7ed1a8db88c68cbe9a57",
     "size": 48330018,
+    "unlisted_since": "2026-09-10",
     "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.11%2B6-ea-beta/OpenJDK21U-jre_ppc64_aix_hotspot_21.0.11_6-ea.tar.gz",
     "vendor": "eclipse",
     "version": "21.0.11+6-ea-beta"
@@ -773,5 +774,26 @@
     "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.13%2B5-ea-beta/OpenJDK21U-jre_ppc64_aix_hotspot_21.0.13_5-ea.tar.gz",
     "vendor": "eclipse",
     "version": "21.0.13+5-ea-beta"
+  },
+  {
+    "architecture": "ppc64",
+    "distro": "temurin",
+    "features": [ ],
+    "file_type": "tar.gz",
+    "filename": "OpenJDK21U-jre_ppc64_aix_hotspot_21.0.13_6-ea.tar.gz",
+    "image_type": "jre",
+    "java_version": "21",
+    "jvm_impl": "hotspot",
+    "last_verified": "2026-09-10",
+    "md5": "2d60e4752f7b173fc61b2842d1d6ef5c",
+    "os": "aix",
+    "release_type": "ea",
+    "sha1": "d8901eae5a6a24f1b47d166f24d3478bb2ce6700",
+    "sha256": "2dabe87f40ce5a67d08da083e3563f93d03f5c1ef001cef59937a14484dbdfc9",
+    "sha512": "7462bb3119917829ac1cf0098509e1c2fdf0d404b93edeeffdcb8e27eec1067d40d8be51404abb3894b8d9fd0b689ce8f030d4379a4cf53637e3fffd799b3ccd",
+    "size": 48465388,
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.13%2B6-ea-beta/OpenJDK21U-jre_ppc64_aix_hotspot_21.0.13_6-ea.tar.gz",
+    "vendor": "eclipse",
+    "version": "21.0.13+6-ea-beta"
   }
 ]

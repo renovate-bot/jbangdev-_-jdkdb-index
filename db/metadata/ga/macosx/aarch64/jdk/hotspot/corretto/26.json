@@ -155,6 +155,7 @@
     "image_type": "jdk",
     "java_version": "26.0.1+8-FR",
     "jvm_impl": "hotspot",
+    "last_verified": "2026-09-10",
     "md5": "80be9e452e480be42fc64767a899646b",
     "os": "macosx",
     "release_type": "ga",

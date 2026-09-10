@@ -553,6 +553,7 @@
     "sha256": "2851bba7893befdf19ced0567652eab6c574b75efa70d3be86b2c09a6edf7de1",
     "sha512": "1fa1cdc22d6b28c4603638db717b1b4628ce08d8d940c1e1f9baac8212f65cde9678677835983654de2183ff59076a8bd6c9a1c60e4abde63e12d13a79bbee1f",
     "size": 184972179,
+    "unlisted_since": "2026-09-10",
     "url": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.31%2B4-ea-beta/OpenJDK11U-jdk_aarch64_mac_hotspot_11.0.31_4-ea.pkg",
     "vendor": "eclipse",
     "version": "11.0.31+4-ea-beta"
@@ -574,6 +575,7 @@
     "sha256": "8ce7d738008a36bba8fbc7981a596560cf0f3e38e809e5ce8fce4e333c60110b",
     "sha512": "86eefc31ad68dc207007e0eb23c5b58025a8da7a443c5e37871109588fa495ffaa49185caad81f3401015dce8572e39e8c56e218481157c739407c0b86deaad2",
     "size": 184615337,
+    "unlisted_since": "2026-09-10",
     "url": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.31%2B4-ea-beta/OpenJDK11U-jdk_aarch64_mac_hotspot_11.0.31_4-ea.tar.gz",
     "vendor": "eclipse",
     "version": "11.0.31+4-ea-beta"
@@ -594,6 +596,7 @@
     "sha256": "05c1a664b4a50a5f9a7a75581f4b562ea0c88afc0b6fece2092cf20a89138df4",
     "sha512": "8450f178dd795f13512ad1a20385cb2ae64a782b4b64101240f722dd22a143f56f13a0ed943e5f670a1de9a1a80fea32bb6e60f9bc6fce81080ed790abad8459",
     "size": 184986350,
+    "unlisted_since": "2026-09-10",
     "url": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.31%2B6-ea-beta/OpenJDK11U-jdk_aarch64_mac_hotspot_11.0.31_6-ea.pkg",
     "vendor": "eclipse",
     "version": "11.0.31+6-ea-beta"
@@ -615,6 +618,7 @@
     "sha256": "eb79f089e787587789888f80e1d5452bfa239f447ecdb78daa95f499d78aea6d",
     "sha512": "36282282875e25b5f3adeccbecae4ab7cb6b6ba8061bb0438768d09a8a7ebc0934e6e0c9023e302eddbacc3fdd0953e67997f0748ea135ef2f183fc109df7754",
     "size": 184646418,
+    "unlisted_since": "2026-09-10",
     "url": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.31%2B6-ea-beta/OpenJDK11U-jdk_aarch64_mac_hotspot_11.0.31_6-ea.tar.gz",
     "vendor": "eclipse",
     "version": "11.0.31+6-ea-beta"

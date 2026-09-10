@@ -456,6 +456,7 @@
     "sha256": "744b868d29bfaafffb4498fba18ed2b608531949bbdc1e08cce7c995d5f91208",
     "sha512": "504e1d414392786034dcf7d5ebb13f012f40af451ef4448f0c875ebecfa9140e7c2db50adfa4b0309dc87ba7b219fe53ea4b84a152f347a983e866ef5c223afb",
     "size": 118812672,
+    "unlisted_since": "2026-09-10",
     "url": "https://github.com/adoptium/temurin27-binaries/releases/download/jdk-27%2B13-ea-beta/OpenJDK-jdk_x64_windows_hotspot_27_13-ea.msi",
     "vendor": "eclipse",
     "version": "27+13-ea-beta"
@@ -477,6 +478,7 @@
     "sha256": "d3271442d464b2613edc3d5f918e675f7197beb402851eadbb24a2e15f8bb95a",
     "sha512": "040f5702623297344733df31deb142cab8c4df68f467cdc9404b382b8f8c8a456bbd116fdee72290e0862ea8161e8fee7b072a24328441cc68efcb8791a91563",
     "size": 144599668,
+    "unlisted_since": "2026-09-10",
     "url": "https://github.com/adoptium/temurin27-binaries/releases/download/jdk-27%2B13-ea-beta/OpenJDK-jdk_x64_windows_hotspot_27_13-ea.zip",
     "vendor": "eclipse",
     "version": "27+13-ea-beta"

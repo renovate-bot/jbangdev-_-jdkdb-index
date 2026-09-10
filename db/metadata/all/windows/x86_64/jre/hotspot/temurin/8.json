@@ -92,6 +92,7 @@
     "image_type": "jre",
     "java_version": "1.8.0_342-b07",
     "jvm_impl": "hotspot",
+    "last_verified": "2026-09-10",
     "md5": "e5cf33bc5f30e2c043bd33171c56ac1d",
     "os": "windows",
     "release_type": "ga",
@@ -1093,6 +1094,7 @@
     "sha256": "e1abf285da7dbf27a08759642702025b01d981aeb8a0a84998a36fb0c20d0dbe",
     "sha512": "9341b19436c08e23f174fce730da3fef2902c7c51dcc15c024ba3d97edbf26e87ae3f9a33b6ef3037889056ba7fa83cafd3a51a43ca448805708dbabcf6dcd3d",
     "size": 32026624,
+    "unlisted_since": "2026-09-10",
     "url": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u492-b06-ea-beta/OpenJDK8U-jre_x64_windows_hotspot_8u492b06-ea.msi",
     "vendor": "eclipse",
     "version": "8u492-b06-ea-beta"
@@ -1114,6 +1116,7 @@
     "sha256": "e45c46e16ff33dd9190cdaf90fbc14ab2149311e5e1d0beac44e9d815ce12ef2",
     "sha512": "6835a03f3fd30d6f02285626ff28ed00a2b8fa0decdf96223ccadc9f070bde38e159f1d9cc5e8c4493f6717d8a1d5ee284e20935e2eeb1fd52e4d24f25917be8",
     "size": 40113930,
+    "unlisted_since": "2026-09-10",
     "url": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u492-b06-ea-beta/OpenJDK8U-jre_x64_windows_hotspot_8u492b06-ea.zip",
     "vendor": "eclipse",
     "version": "8u492-b06-ea-beta"
@@ -1901,6 +1904,7 @@
     "image_type": "jre",
     "java_version": "1.8.0_402-b06",
     "jvm_impl": "hotspot",
+    "last_verified": "2026-09-10",
     "md5": "58a4c5fe27900bb7712a34535bd6758f",
     "os": "windows",
     "release_type": "ga",

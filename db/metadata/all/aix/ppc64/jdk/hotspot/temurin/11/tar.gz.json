@@ -71,6 +71,7 @@
     "image_type": "jdk",
     "java_version": "11.0.14.1+1",
     "jvm_impl": "hotspot",
+    "last_verified": "2026-09-10",
     "md5": "9f02fa50458a3acbbfaedfb6609704ce",
     "os": "aix",
     "release_type": "ga",
@@ -321,6 +322,7 @@
     "image_type": "jdk",
     "java_version": "11.0.28+6",
     "jvm_impl": "hotspot",
+    "last_verified": "2026-09-10",
     "md5": "4ad25005e1a719748b74f19a023ad4ee",
     "os": "aix",
     "release_type": "ga",
@@ -677,6 +679,7 @@
     "sha256": "8cbaa6bd6f6deef27e44487dd99874016aada45dc935795175a9274b5534da77",
     "sha512": "660cbfd07c616e08e6f60f4971a39235c6bae996320c281fdb81268d067537922ef9d9c9012129128efb42845108455353e29dc5107f1e8cd796bb13dbec2ab0",
     "size": 180733536,
+    "unlisted_since": "2026-09-10",
     "url": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.31%2B4-ea-beta/OpenJDK11U-jdk_ppc64_aix_hotspot_11.0.31_4-ea.tar.gz",
     "vendor": "eclipse",
     "version": "11.0.31+4-ea-beta"
@@ -698,6 +701,7 @@
     "sha256": "227aebeb23b2ab363244ca7359f06203fb60057ab9ea7d926e8ad583eb314f3b",
     "sha512": "62631f7f86757696a60dde7aa3127f8d1daebadc1dd3c94f2ae93d868aa220475ea1785784acd56f08fe312ba5813c54defe86f7c80b63206aa3c4c93120d1dc",
     "size": 180761360,
+    "unlisted_since": "2026-09-10",
     "url": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.31%2B6-ea-beta/OpenJDK11U-jdk_ppc64_aix_hotspot_11.0.31_6-ea.tar.gz",
     "vendor": "eclipse",
     "version": "11.0.31+6-ea-beta"

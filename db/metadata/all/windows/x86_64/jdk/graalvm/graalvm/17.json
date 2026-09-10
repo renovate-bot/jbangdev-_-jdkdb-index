@@ -134,6 +134,7 @@
     "image_type": "jdk",
     "java_version": "17",
     "jvm_impl": "graalvm",
+    "last_verified": "2026-09-10",
     "md5": "92b2e875a631f513898eb7700fdd3973",
     "os": "windows",
     "release_type": "ga",

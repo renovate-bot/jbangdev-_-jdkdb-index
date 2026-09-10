@@ -333,6 +333,7 @@
     "image_type": "jdk",
     "java_version": "11.0.16+8",
     "jvm_impl": "hotspot",
+    "last_verified": "2026-09-10",
     "md5": "d239b1447b0a4d6a08333fc77dbb3350",
     "os": "aix",
     "release_type": "ga",

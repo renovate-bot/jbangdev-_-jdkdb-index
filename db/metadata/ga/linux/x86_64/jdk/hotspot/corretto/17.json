@@ -930,6 +930,7 @@
     "image_type": "jdk",
     "java_version": "17.0.17+10-LTS",
     "jvm_impl": "hotspot",
+    "last_verified": "2026-09-10",
     "md5": "96e9fce7ed1380bf9d66469d99ac3908",
     "os": "linux",
     "release_type": "ga",

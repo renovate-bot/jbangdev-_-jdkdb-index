@@ -8,6 +8,7 @@
     "image_type": "jdk",
     "java_version": "8.0.504",
     "jvm_impl": "hotspot",
+    "last_verified": "2026-09-10",
     "md5": "6a02504438c62526907dfb2650298c6b",
     "os": "solaris",
     "release_type": "ga",

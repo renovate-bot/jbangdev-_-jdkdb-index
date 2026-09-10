@@ -434,6 +434,7 @@
     "sha256": "53f52303ee9ee2251d010b8231766671c3631da8ad4f3a35286937f0a5f06dc4",
     "sha512": "a1e7922db2dda633943b352563641615a653efcc712ee8d33ba841c79c0055338d0f9a20656b85d6acf65de435aa7ec7a27b4e3989c75dc36089875795b79760",
     "size": 52069523,
+    "unlisted_since": "2026-09-10",
     "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.11%2B6-ea-beta/OpenJDK21U-jre_ppc64le_linux_hotspot_21.0.11_6-ea.tar.gz",
     "vendor": "eclipse",
     "version": "21.0.11+6-ea-beta"
@@ -773,5 +774,26 @@
     "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.13%2B5-ea-beta/OpenJDK21U-jre_ppc64le_linux_hotspot_21.0.13_5-ea.tar.gz",
     "vendor": "eclipse",
     "version": "21.0.13+5-ea-beta"
+  },
+  {
+    "architecture": "ppc64le",
+    "distro": "temurin",
+    "features": [ ],
+    "file_type": "tar.gz",
+    "filename": "OpenJDK21U-jre_ppc64le_linux_hotspot_21.0.13_6-ea.tar.gz",
+    "image_type": "jre",
+    "java_version": "21",
+    "jvm_impl": "hotspot",
+    "last_verified": "2026-09-10",
+    "md5": "1b2aa36e1f1c24bee3e1e13666498ce0",
+    "os": "linux",
+    "release_type": "ea",
+    "sha1": "530e9a510c7a342ccf267380e5834510d8148691",
+    "sha256": "01fd4bc6cec9a84797fdace8fa11271a21b04f3ebc3f3a8c930eec2f49a39ca2",
+    "sha512": "b770a0358f207392dde7a59eb98feef542a98d00d4bc9f8d4b4c6accb86724852f18599f6320b1b83f877ccfee6c8d5d3e2b35ae456fb3109e0cb1cc62eac600",
+    "size": 52149559,
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.13%2B6-ea-beta/OpenJDK21U-jre_ppc64le_linux_hotspot_21.0.13_6-ea.tar.gz",
+    "vendor": "eclipse",
+    "version": "21.0.13+6-ea-beta"
   }
 ]

@@ -604,6 +604,7 @@
     "image_type": "jre",
     "java_version": "11.0.26+4",
     "jvm_impl": "hotspot",
+    "last_verified": "2026-09-10",
     "md5": "44640e73b76f01a520d0c7a7fbbe8c06",
     "os": "windows",
     "release_type": "ga",

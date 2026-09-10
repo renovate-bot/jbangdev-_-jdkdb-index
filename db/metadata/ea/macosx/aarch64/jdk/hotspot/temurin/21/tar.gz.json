@@ -434,6 +434,7 @@
     "sha256": "bc8e855aae30df4fec80055caf9493a95986aa8849037e375c00a556ce9d4cdb",
     "sha512": "97216b2c013310f8160e6a8e02f44231c5a2070c3b33551bf444981c124ea86d0a31fd91dc4ce304ef5d7edfa6eb485ef341ac64269fed6ca2953e927696b4d7",
     "size": 200029808,
+    "unlisted_since": "2026-09-10",
     "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.11%2B6-ea-beta/OpenJDK21U-jdk_aarch64_mac_hotspot_21.0.11_6-ea.tar.gz",
     "vendor": "eclipse",
     "version": "21.0.11+6-ea-beta"
@@ -773,5 +774,26 @@
     "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.13%2B5-ea-beta/OpenJDK21U-jdk_aarch64_mac_hotspot_21.0.13_5-ea.tar.gz",
     "vendor": "eclipse",
     "version": "21.0.13+5-ea-beta"
+  },
+  {
+    "architecture": "aarch64",
+    "distro": "temurin",
+    "features": [ ],
+    "file_type": "tar.gz",
+    "filename": "OpenJDK21U-jdk_aarch64_mac_hotspot_21.0.13_6-ea.tar.gz",
+    "image_type": "jdk",
+    "java_version": "21",
+    "jvm_impl": "hotspot",
+    "last_verified": "2026-09-10",
+    "md5": "6884f63dc0b11f59a627b632ef44f271",
+    "os": "macosx",
+    "release_type": "ea",
+    "sha1": "8c76a016f7ee63d5ecd00892c9bec59ff47fc7fc",
+    "sha256": "f4cde0bb0278a05701bb0b0c0cfecaa82d609a04ee83e9b5ec56d28e19b0b6f4",
+    "sha512": "0310c432200b53a4e4be87e6746a13cb6fb31bf793ff61faf091cd1d177e386c461a80c76b451e0e1eba56148f4d9ae09f8333f5deaabb753e5873516dacf88d",
+    "size": 199702001,
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.13%2B6-ea-beta/OpenJDK21U-jdk_aarch64_mac_hotspot_21.0.13_6-ea.tar.gz",
+    "vendor": "eclipse",
+    "version": "21.0.13+6-ea-beta"
   }
 ]

@@ -353,6 +353,7 @@
     "image_type": "jdk",
     "java_version": "11.0.26+4",
     "jvm_impl": "openj9",
+    "last_verified": "2026-09-10",
     "md5": "52af4d5012c83f0d4d69f1a499b61184",
     "os": "linux",
     "release_type": "ga",

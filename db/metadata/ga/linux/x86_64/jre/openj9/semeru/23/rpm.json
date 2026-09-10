@@ -50,6 +50,7 @@
     "image_type": "jre",
     "java_version": "23.0.1+11",
     "jvm_impl": "openj9",
+    "last_verified": "2026-09-10",
     "md5": "b2d32dd5ca80d33c8839adf6a4b3ce04",
     "os": "linux",
     "release_type": "ga",
