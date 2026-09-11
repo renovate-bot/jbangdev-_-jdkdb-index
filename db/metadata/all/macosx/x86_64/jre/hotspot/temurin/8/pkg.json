@@ -871,5 +871,26 @@
     "url": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u504-b01/OpenJDK8U-jre_x64_mac_hotspot_8u504b01.pkg",
     "vendor": "eclipse",
     "version": "8u504-b01"
+  },
+  {
+    "architecture": "x86_64",
+    "distro": "temurin",
+    "features": [ ],
+    "file_type": "pkg",
+    "filename": "OpenJDK8U-jre_x64_mac_hotspot_8u512b04-ea.pkg",
+    "image_type": "jre",
+    "java_version": "1.8.0_512-beta-202609102003-b04",
+    "jvm_impl": "hotspot",
+    "last_verified": "2026-09-11",
+    "md5": "bab5d6ebb0946be1a4f47c6aef2bdeab",
+    "os": "macosx",
+    "release_type": "ea",
+    "sha1": "f8642c8dd7fa108a119afa34c2a8d7cc4550fcf0",
+    "sha256": "8248ed1f2e66aea4a2f3195cfda293cd0e59ae85b85f14a7944130656236a5e3",
+    "sha512": "89d3491197a513350b70af12988323b3c0b7bc2fadc47e31fbf850fb2ab1657a08e4e42d698e03c9ec2a8e8d0ca286993fb85ad5167b435a0b2a605e5dbde658",
+    "size": 44413761,
+    "url": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u512-b04-ea-beta/OpenJDK8U-jre_x64_mac_hotspot_8u512b04-ea.pkg",
+    "vendor": "eclipse",
+    "version": "8u512-b04-ea-beta"
   }
 ]

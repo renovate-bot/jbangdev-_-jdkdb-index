@@ -281,6 +281,7 @@
     "image_type": "jre",
     "java_version": "11.0.22+7",
     "jvm_impl": "hotspot",
+    "last_verified": "2026-09-11",
     "md5": "0f3ea78afd701c3b6ebeb29a24351d56",
     "os": "linux",
     "release_type": "ga",
@@ -493,6 +494,7 @@
     "image_type": "jre",
     "java_version": "11.0.29+7",
     "jvm_impl": "hotspot",
+    "last_verified": "2026-09-11",
     "md5": "90cc4c9e9ec2eeff7dbd609cb99fa106",
     "os": "linux",
     "release_type": "ga",
@@ -1082,5 +1084,26 @@
     "url": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.33%2B1-ea-beta/OpenJDK11U-jre_ppc64le_linux_hotspot_11.0.33_1-ea.tar.gz",
     "vendor": "eclipse",
     "version": "11.0.33+1-ea-beta"
+  },
+  {
+    "architecture": "ppc64le",
+    "distro": "temurin",
+    "features": [ ],
+    "file_type": "tar.gz",
+    "filename": "OpenJDK11U-jre_ppc64le_linux_hotspot_11.0.33_4-ea.tar.gz",
+    "image_type": "jre",
+    "java_version": "11",
+    "jvm_impl": "hotspot",
+    "last_verified": "2026-09-11",
+    "md5": "303698ba772a58ce7cedcec96fce131b",
+    "os": "linux",
+    "release_type": "ea",
+    "sha1": "e5b55693b8c7b1db195be8b7cc6f2b323012645e",
+    "sha256": "657abbb02edddfd8fedac89d86931b8a77384f3a03a72bf854d5a8d70c94b817",
+    "sha512": "e5b5eaa2f70cb270285ac9243c0dfef349f55cd11b691ccb779e96aff848c47bcbf37b3729bc979d313f4ef4a3be5a2476ba55d5e6386ba4e5ef3e41c95d68dc",
+    "size": 39141846,
+    "url": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.33%2B4-ea-beta/OpenJDK11U-jre_ppc64le_linux_hotspot_11.0.33_4-ea.tar.gz",
+    "vendor": "eclipse",
+    "version": "11.0.33+4-ea-beta"
   }
 ]

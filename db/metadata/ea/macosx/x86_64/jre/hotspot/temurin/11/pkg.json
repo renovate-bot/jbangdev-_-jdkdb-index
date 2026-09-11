@@ -533,5 +533,26 @@
     "url": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.33%2B1-ea-beta/OpenJDK11U-jre_x64_mac_hotspot_11.0.33_1-ea.pkg",
     "vendor": "eclipse",
     "version": "11.0.33+1-ea-beta"
+  },
+  {
+    "architecture": "x86_64",
+    "distro": "temurin",
+    "features": [ ],
+    "file_type": "pkg",
+    "filename": "OpenJDK11U-jre_x64_mac_hotspot_11.0.33_4-ea.pkg",
+    "image_type": "jre",
+    "java_version": "11",
+    "jvm_impl": "hotspot",
+    "last_verified": "2026-09-11",
+    "md5": "0bccdbc44ba61ad79e8cda33eb600d3a",
+    "os": "macosx",
+    "release_type": "ea",
+    "sha1": "ef80cbd0828f3063996fe1b689d53befa153b60a",
+    "sha256": "130309130f43300665719b7c7df9d0792d0f3409dbe96ed35476995ef5e44520",
+    "sha512": "ecff807e76263ee7733717a14fa91b5180bfd3439bf06f851f24f5e356046aeaaec1038796a87c894a7a900ee3f591e9ddc8f51897a5f860d2ca13dfea167370",
+    "size": 39220347,
+    "url": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.33%2B4-ea-beta/OpenJDK11U-jre_x64_mac_hotspot_11.0.33_4-ea.pkg",
+    "vendor": "eclipse",
+    "version": "11.0.33+4-ea-beta"
   }
 ]

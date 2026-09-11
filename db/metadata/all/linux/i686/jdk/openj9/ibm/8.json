@@ -117,6 +117,7 @@
     "image_type": "jdk",
     "java_version": "1.8.0_501",
     "jvm_impl": "openj9",
+    "last_verified": "2026-09-11",
     "md5": "e90c08715099394c15f581ea963f075d",
     "os": "linux",
     "release_type": "ga",

@@ -639,6 +639,7 @@
     "image_type": "jdk",
     "java_version": "11.0.25+9-LTS-sapmachine",
     "jvm_impl": "hotspot",
+    "last_verified": "2026-09-11",
     "md5": "ef3a4dd408c8c50688f7e4cabd5c5d17",
     "os": "macosx",
     "release_type": "ga",

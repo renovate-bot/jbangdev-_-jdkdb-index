@@ -625,6 +625,7 @@
     "image_type": "jre",
     "java_version": "21.0.10+7.1",
     "jvm_impl": "openj9",
+    "last_verified": "2026-09-11",
     "md5": "dca7d606bacbbc98f3ae37015a73c96e",
     "os": "aix",
     "release_type": "ga",

@@ -344,6 +344,7 @@
     "image_type": "jdk",
     "java_version": "8u442-b06",
     "jvm_impl": "openj9",
+    "last_verified": "2026-09-11",
     "md5": "74abbde8fe7d17ebed4b342efe10aa87",
     "os": "windows",
     "release_type": "ga",

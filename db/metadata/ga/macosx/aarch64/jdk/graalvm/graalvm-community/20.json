@@ -8,6 +8,7 @@
     "image_type": "jdk",
     "java_version": "20.0.1",
     "jvm_impl": "graalvm",
+    "last_verified": "2026-09-11",
     "md5": "bf9ce65fd57997a6541297d2ef6382f6",
     "os": "macosx",
     "release_type": "ga",

@@ -806,6 +806,7 @@
     "image_type": "jdk",
     "java_version": "1.8.0_482-b01",
     "jvm_impl": "hotspot",
+    "last_verified": "2026-09-11",
     "md5": "78aaa3e0307cd1dcfa755402db477170",
     "os": "linux",
     "release_type": "ga",

@@ -514,6 +514,7 @@
     "image_type": "jdk",
     "java_version": "11.0.27+6-LTS",
     "jvm_impl": "hotspot",
+    "last_verified": "2026-09-11",
     "md5": "941ac534e5fe54217c87141cb941b10f",
     "os": "linux",
     "release_type": "ga",

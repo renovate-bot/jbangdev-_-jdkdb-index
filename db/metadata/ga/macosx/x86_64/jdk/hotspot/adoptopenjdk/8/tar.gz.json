@@ -506,6 +506,7 @@
     "image_type": "jdk",
     "java_version": "1.8.0_382-b05",
     "jvm_impl": "hotspot",
+    "last_verified": "2026-09-11",
     "md5": "6b366b1d74c2750914f46e9910f32200",
     "os": "macosx",
     "release_type": "ga",

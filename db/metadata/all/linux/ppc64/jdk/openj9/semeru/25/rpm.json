@@ -269,6 +269,7 @@
     "image_type": "jdk",
     "java_version": "25.0.4+6-LTS",
     "jvm_impl": "openj9",
+    "last_verified": "2026-09-11",
     "md5": "7c7d31b60d8c714dadc339361f1e0f7d",
     "os": "linux",
     "release_type": "ga",

@@ -538,5 +538,26 @@
     "url": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.33%2B1-ea-beta/OpenJDK11U-jdk_s390x_linux_hotspot_11.0.33_1-ea.tar.gz",
     "vendor": "eclipse",
     "version": "11.0.33+1-ea-beta"
+  },
+  {
+    "architecture": "s390x",
+    "distro": "temurin",
+    "features": [ ],
+    "file_type": "tar.gz",
+    "filename": "OpenJDK11U-jdk_s390x_linux_hotspot_11.0.33_4-ea.tar.gz",
+    "image_type": "jdk",
+    "java_version": "11",
+    "jvm_impl": "hotspot",
+    "last_verified": "2026-09-11",
+    "md5": "aa7c14a0ffd268d2f84e02bb35a24ccd",
+    "os": "linux",
+    "release_type": "ea",
+    "sha1": "fe86177b4c1e4e957096d18ca73b67fa5fe319df",
+    "sha256": "cf254663df0f0702a82c4641d1ed137d44a88f67af18b69945b9ef7c7081153d",
+    "sha512": "6d4c419eea5aa8586b0e2c5d11f5642079f646efb1476559545c5ee493c56ab696c129dba91ec192174894b9e3cd990292308dc9430d150fadd28f4403b32abe",
+    "size": 169559887,
+    "url": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.33%2B4-ea-beta/OpenJDK11U-jdk_s390x_linux_hotspot_11.0.33_4-ea.tar.gz",
+    "vendor": "eclipse",
+    "version": "11.0.33+4-ea-beta"
   }
 ]

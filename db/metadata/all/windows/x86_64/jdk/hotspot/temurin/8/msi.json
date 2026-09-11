@@ -1043,5 +1043,26 @@
     "url": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u512-b01-ea-beta/OpenJDK8U-jdk_x64_windows_hotspot_8u512b01-ea.msi",
     "vendor": "eclipse",
     "version": "8u512-b01-ea-beta"
+  },
+  {
+    "architecture": "x86_64",
+    "distro": "temurin",
+    "features": [ ],
+    "file_type": "msi",
+    "filename": "OpenJDK8U-jdk_x64_windows_hotspot_8u512b04-ea.msi",
+    "image_type": "jdk",
+    "java_version": "1.8.0_512-beta-202609102005-b04",
+    "jvm_impl": "hotspot",
+    "last_verified": "2026-09-11",
+    "md5": "126d2e045d3468b9931db1567b2e8b67",
+    "os": "windows",
+    "release_type": "ea",
+    "sha1": "7ff583725cb9368247d3e375cd3a5deb9b24854f",
+    "sha256": "fd510b0d63a8563c5a35111a82be63991aa749018c3d81d2d6d70f9b3528cc94",
+    "sha512": "3fea1c6f46119382af579fd8b7fc18768a3d828e66523efee41bee112b0df036fb16584df64b0bce058a6fdff39a0b6bfb3eb3f00cca943220dbc2ce161add01",
+    "size": 88870912,
+    "url": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u512-b04-ea-beta/OpenJDK8U-jdk_x64_windows_hotspot_8u512b04-ea.msi",
+    "vendor": "eclipse",
+    "version": "8u512-b04-ea-beta"
   }
 ]

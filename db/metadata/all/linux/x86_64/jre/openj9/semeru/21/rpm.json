@@ -251,6 +251,7 @@
     "image_type": "jre",
     "java_version": "21.0.5+11",
     "jvm_impl": "openj9",
+    "last_verified": "2026-09-11",
     "md5": "0831da7914728e58de8bb4e7a918d56f",
     "os": "linux",
     "release_type": "ga",

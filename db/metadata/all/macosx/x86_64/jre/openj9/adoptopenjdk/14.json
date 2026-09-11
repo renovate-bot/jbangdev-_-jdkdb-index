@@ -96,6 +96,7 @@
     "image_type": "jre",
     "java_version": "14.0.1+7",
     "jvm_impl": "openj9",
+    "last_verified": "2026-09-11",
     "md5": "b83e36ae32aa6d98aee7a30e86b60dee",
     "os": "macosx",
     "release_type": "ga",

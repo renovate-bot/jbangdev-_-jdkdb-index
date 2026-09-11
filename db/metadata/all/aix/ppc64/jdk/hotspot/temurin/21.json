@@ -50,6 +50,7 @@
     "image_type": "jdk",
     "java_version": "21.0.4+7-LTS",
     "jvm_impl": "hotspot",
+    "last_verified": "2026-09-11",
     "md5": "ee3839533327ed8846054d948a994931",
     "os": "aix",
     "release_type": "ga",

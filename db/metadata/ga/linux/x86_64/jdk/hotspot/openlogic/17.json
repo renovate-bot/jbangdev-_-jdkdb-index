@@ -79,7 +79,6 @@
     "sha256": "ff474977b93dd155646e18462444930c0b1c37a24f6be2bec280b0b760fc4b7a",
     "sha512": "714ebda0ed4b6ad01e5f79f0de52d226e6177b84af70dc52b3ffa631a9b5e1f1f66e7b3c1d95aad674e38a8606c3564150f01d97fe51f134702ac965e2c2cab2",
     "size": 229049220,
-    "unlisted_since": "2026-09-10",
     "url": "https://builds.openlogic.com/downloadJDK/openlogic-openjdk/17.0.11+9/openlogic-openjdk-17.0.11+9-linux-x64-deb.deb",
     "vendor": "openlogic",
     "version": "17.0.11+9"
@@ -156,6 +155,7 @@
     "image_type": "jdk",
     "java_version": "17.0.12+7-adhoc.root.jdk17u",
     "jvm_impl": "hotspot",
+    "last_verified": "2026-09-11",
     "md5": "5ec1ce1f16ec3239dd2b00472d65af2d",
     "os": "linux",
     "release_type": "ga",
@@ -407,6 +407,7 @@
     "image_type": "jdk",
     "java_version": "17.0.16+8-adhoc.root.jdk17u",
     "jvm_impl": "hotspot",
+    "last_verified": "2026-09-11",
     "md5": "5a96c00e0e40b3ac831b9d30b7323f07",
     "os": "linux",
     "release_type": "ga",

@@ -176,6 +176,7 @@
     "image_type": "jre",
     "java_version": "11.0.18+10",
     "jvm_impl": "openj9",
+    "last_verified": "2026-09-11",
     "md5": "ddf2d70f2a0387219b87894c81f8056e",
     "os": "windows",
     "release_type": "ga",

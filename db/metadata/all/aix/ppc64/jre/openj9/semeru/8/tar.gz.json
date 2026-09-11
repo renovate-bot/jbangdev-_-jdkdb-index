@@ -92,6 +92,7 @@
     "image_type": "jre",
     "java_version": "8u332-b09",
     "jvm_impl": "openj9",
+    "last_verified": "2026-09-11",
     "md5": "3bf76db2bdb94d04813678116e3cbb5f",
     "os": "aix",
     "release_type": "ga",

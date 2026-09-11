@@ -302,6 +302,7 @@
     "image_type": "jre",
     "java_version": "11.0.26+4",
     "jvm_impl": "openj9",
+    "last_verified": "2026-09-11",
     "md5": "cdf7716e3d3514cf03bd09f07eb092f9",
     "os": "macosx",
     "release_type": "ga",

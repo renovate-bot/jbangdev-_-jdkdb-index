@@ -317,6 +317,7 @@
     "image_type": "jdk",
     "java_version": "17.0.8+7",
     "jvm_impl": "openj9",
+    "last_verified": "2026-09-11",
     "md5": "5f0b8a9d7d010f3e9e24ad437fb2e4c3",
     "os": "macosx",
     "release_type": "ga",

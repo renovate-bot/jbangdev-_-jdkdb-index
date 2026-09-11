@@ -92,6 +92,7 @@
     "image_type": "jdk",
     "java_version": "21.0.6+7-adhoc.Administrator.jdk21u",
     "jvm_impl": "hotspot",
+    "last_verified": "2026-09-11",
     "md5": "e08349de38a0d867cf0b337645b5602f",
     "os": "windows",
     "release_type": "ga",

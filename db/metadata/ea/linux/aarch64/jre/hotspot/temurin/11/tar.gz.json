@@ -559,5 +559,26 @@
     "url": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.33%2B1-ea-beta/OpenJDK11U-jre_aarch64_linux_hotspot_11.0.33_1-ea.tar.gz",
     "vendor": "eclipse",
     "version": "11.0.33+1-ea-beta"
+  },
+  {
+    "architecture": "aarch64",
+    "distro": "temurin",
+    "features": [ ],
+    "file_type": "tar.gz",
+    "filename": "OpenJDK11U-jre_aarch64_linux_hotspot_11.0.33_4-ea.tar.gz",
+    "image_type": "jre",
+    "java_version": "11",
+    "jvm_impl": "hotspot",
+    "last_verified": "2026-09-11",
+    "md5": "610412247e9001259e6bdf44fe8b22be",
+    "os": "linux",
+    "release_type": "ea",
+    "sha1": "ae2e2a31ebf40ed9e2eccbc2921e660d4da519f8",
+    "sha256": "65087dbe02790869c72a0a0916aebb67fae99bd4e7738984809fb79f17978ee3",
+    "sha512": "8d46265c00a5bad15eacbf916cb812aba9827175e684a3f333f5b8e999f522c213bcef8778af156effcd56378483d4cea7422814103eadfa57a2c0b93dde01a5",
+    "size": 41828182,
+    "url": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.33%2B4-ea-beta/OpenJDK11U-jre_aarch64_linux_hotspot_11.0.33_4-ea.tar.gz",
+    "vendor": "eclipse",
+    "version": "11.0.33+4-ea-beta"
   }
 ]

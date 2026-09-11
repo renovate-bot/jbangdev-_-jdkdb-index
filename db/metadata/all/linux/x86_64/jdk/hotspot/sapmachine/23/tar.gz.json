@@ -1523,6 +1523,7 @@
     "image_type": "jdk",
     "java_version": "23.0.2+7",
     "jvm_impl": "hotspot",
+    "last_verified": "2026-09-11",
     "md5": "d6854cd37a1b1567e586f5c9e48cc78e",
     "os": "linux",
     "release_type": "ga",

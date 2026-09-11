@@ -71,6 +71,7 @@
     "image_type": "jdk",
     "java_version": "23.0.2+7",
     "jvm_impl": "openj9",
+    "last_verified": "2026-09-11",
     "md5": "66ec0f6391c79d9114491b4d3191f561",
     "os": "linux",
     "release_type": "ga",

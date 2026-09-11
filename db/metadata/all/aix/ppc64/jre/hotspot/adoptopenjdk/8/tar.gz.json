@@ -695,6 +695,7 @@
     "image_type": "jre",
     "java_version": "1.8.0_472-b08",
     "jvm_impl": "hotspot",
+    "last_verified": "2026-09-11",
     "md5": "61b103d8afae8a0535b43316747fb613",
     "os": "aix",
     "release_type": "ga",

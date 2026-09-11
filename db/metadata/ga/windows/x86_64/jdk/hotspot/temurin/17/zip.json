@@ -260,6 +260,7 @@
     "image_type": "jdk",
     "java_version": "17.0.10+7",
     "jvm_impl": "hotspot",
+    "last_verified": "2026-09-11",
     "md5": "78a81d94d0abd5ef23b699cf0f2d372f",
     "os": "windows",
     "release_type": "ga",

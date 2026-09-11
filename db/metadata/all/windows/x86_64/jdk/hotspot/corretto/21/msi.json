@@ -303,6 +303,7 @@
     "image_type": "jdk",
     "java_version": "21.0.12.1+9-LTS",
     "jvm_impl": "hotspot",
+    "last_verified": "2026-09-11",
     "md5": "ba673eba2c473a7d2cf5544b1e3ca586",
     "os": "windows",
     "release_type": "ga",

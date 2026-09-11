@@ -494,6 +494,7 @@
     "image_type": "jre",
     "java_version": "11.0.29+7",
     "jvm_impl": "hotspot",
+    "last_verified": "2026-09-11",
     "md5": "d1f0fadafe13470ae762d5e4ff42f96a",
     "os": "windows",
     "release_type": "ga",
@@ -1062,5 +1063,26 @@
     "url": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.33%2B1-ea-beta/OpenJDK11U-jre_x64_windows_hotspot_11.0.33_1-ea.msi",
     "vendor": "eclipse",
     "version": "11.0.33+1-ea-beta"
+  },
+  {
+    "architecture": "x86_64",
+    "distro": "temurin",
+    "features": [ ],
+    "file_type": "msi",
+    "filename": "OpenJDK11U-jre_x64_windows_hotspot_11.0.33_4-ea.msi",
+    "image_type": "jre",
+    "java_version": "11",
+    "jvm_impl": "hotspot",
+    "last_verified": "2026-09-11",
+    "md5": "b86552dab51a3de616c317cb4b6f0cf3",
+    "os": "windows",
+    "release_type": "ea",
+    "sha1": "9d59272b2514dbc6373b7648bc18f134939c6541",
+    "sha256": "541291c18161d0abd3f73caaa7a3198bfc2c433f46473edcd13eb305f6b04a0a",
+    "sha512": "41fa42cd1d44aa31c6ac318898484be62403400f415159540da5c8317cabbc6dd8a76785805b27d1412c572decef9222522668a33d3d9b55a19bb5d15c554bc1",
+    "size": 31547392,
+    "url": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.33%2B4-ea-beta/OpenJDK11U-jre_x64_windows_hotspot_11.0.33_4-ea.msi",
+    "vendor": "eclipse",
+    "version": "11.0.33+4-ea-beta"
   }
 ]
