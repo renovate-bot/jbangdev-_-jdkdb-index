@@ -708,5 +708,26 @@
     "url": "https://github.com/adoptium/temurin25-binaries/releases/download/jdk-25.0.5%2B5-ea-beta/OpenJDK25U-jre_x64_windows_hotspot_25.0.5_5-ea.zip",
     "vendor": "eclipse",
     "version": "25.0.5+5-ea-beta"
+  },
+  {
+    "architecture": "x86_64",
+    "distro": "temurin",
+    "features": [ ],
+    "file_type": "zip",
+    "filename": "OpenJDK25U-jre_x64_windows_hotspot_25.0.5_6-ea.zip",
+    "image_type": "jre",
+    "java_version": "25",
+    "jvm_impl": "hotspot",
+    "last_verified": "2026-09-12",
+    "md5": "d6e888c18731877f8b23187efc09c34d",
+    "os": "windows",
+    "release_type": "ea",
+    "sha1": "93928972cbb6c3db2ff45d9614b0a8ad52a7c5d9",
+    "sha256": "cb7131a66311b28572023ede08b4485a170411c2d8342277fccda8c237c8088f",
+    "sha512": "a50eddb92cdbad2e3e9ac1185e1163adc9053c4eaf1096a0feef211d00d6252bb3f34c865ced7571c3b97e3db4d4b7bb1633adb241a5cb802f655ed2b839c147",
+    "size": 58585788,
+    "url": "https://github.com/adoptium/temurin25-binaries/releases/download/jdk-25.0.5%2B6-ea-beta/OpenJDK25U-jre_x64_windows_hotspot_25.0.5_6-ea.zip",
+    "vendor": "eclipse",
+    "version": "25.0.5+6-ea-beta"
   }
 ]

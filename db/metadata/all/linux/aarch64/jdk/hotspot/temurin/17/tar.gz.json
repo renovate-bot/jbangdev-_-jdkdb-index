@@ -2126,5 +2126,26 @@
     "url": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.21%2B6-ea-beta/OpenJDK17U-jdk_aarch64_alpine-linux_hotspot_17.0.21_6-ea.tar.gz",
     "vendor": "eclipse",
     "version": "17.0.21+6-ea-beta"
+  },
+  {
+    "architecture": "aarch64",
+    "distro": "temurin",
+    "features": [ ],
+    "file_type": "tar.gz",
+    "filename": "OpenJDK17U-jdk_aarch64_linux_hotspot_17.0.21_6-ea.tar.gz",
+    "image_type": "jdk",
+    "java_version": "17",
+    "jvm_impl": "hotspot",
+    "last_verified": "2026-09-12",
+    "md5": "aa329614f8dd540685035a2901a2a66a",
+    "os": "linux",
+    "release_type": "ea",
+    "sha1": "e922422fbbbbcd9cc34b36b0665649b53d33cddb",
+    "sha256": "5b9e151510f911e9d04e5846d78cd23c4e9195b084ac9be8848fc3a66717cf25",
+    "sha512": "73912ad5d8e8b8d6e47be73d8ee248ef582fe5db181c1c153d49ce2f531163980fa86755a677da8e30f84825d935543edea80520c733a303c4afc68d10dfac00",
+    "size": 192258284,
+    "url": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.21%2B6-ea-beta/OpenJDK17U-jdk_aarch64_linux_hotspot_17.0.21_6-ea.tar.gz",
+    "vendor": "eclipse",
+    "version": "17.0.21+6-ea-beta"
   }
 ]

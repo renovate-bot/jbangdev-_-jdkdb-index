@@ -2066,6 +2066,7 @@
     "sha256": "557622b9a44065fa68ac12201ce5f1e866d3a2bda870c54da04d23b47dedc630",
     "sha512": "5b9162f34f52a4a2b1e45b107a404a19f392c3b6ececa61c4b7c9869a7f62928ed86e98ec93e6882b87e8479267d75d3a3554e5388c94fa9b744d3b43878255e",
     "size": 113130581,
+    "unlisted_since": "2026-09-12",
     "url": "https://builds.openlogic.com/downloadJDK/openlogic-openjdk/8u482-b08/openlogic-openjdk-8u482-b08-linux-x32.tar.gz",
     "vendor": "openlogic",
     "version": "8u482-b08"
@@ -3070,6 +3071,7 @@
     "sha256": "58108cb1747a28d30fe4e4f35e4da7089d75ef67aea404bbc560f9be3fc6d019",
     "sha512": "26f7a761df8b5ee52cbf46137c9e0a890bb7c27c61c8276251fc36fb539d7dc65fc217e68b90432b140213979285f08e9e693e9db59ebac8775a6b7102f7736b",
     "size": 113168879,
+    "unlisted_since": "2026-09-12",
     "url": "https://builds.openlogic.com/downloadJDK/openlogic-openjdk/8u502-b07/openlogic-openjdk-8u502-b07-linux-x32.tar.gz",
     "vendor": "openlogic",
     "version": "8u502-b07"
@@ -4385,7 +4387,6 @@
     "sha256": "4e30b56bb72672c47118fb173dc233a1b23daf147cb73f37e843c9106fb19f64",
     "sha512": "93ed920ae7bb75286d7c39e7f3ef3802e449c84c1ede854fe72d689c65c2e6d367de5e87b1c697631a68e87d0f10d9a119010d080f37c62d867e57020dde580a",
     "size": 49254453,
-    "unlisted_since": "2026-09-10",
     "url": "https://builds.openlogic.com/downloadJDK/openlogic-openjdk-jre/11.0.25+9/openlogic-openjdk-jre-11.0.25+9-windows-x64.zip",
     "vendor": "openlogic",
     "version": "11.0.25+9"
@@ -12105,7 +12106,6 @@
     "sha256": "6f4f11c28ccf1dcc1736616a666c2090d774873da63843cf5989c1b0fcbb7fae",
     "sha512": "86793e0a2897a4aa0d366d06370386c2830b947bec1a96f7ab8bb6749f081da534e2ec529f0aff0f27a783c4273ac392f2eac8a075549a421a884b88b3f97c0b",
     "size": 58094222,
-    "unlisted_since": "2026-09-11",
     "url": "https://builds.openlogic.com/downloadJDK/openlogic-openjdk-jre/21.0.10+7/openlogic-openjdk-jre-21.0.10+7-linux-x64.tar.gz",
     "vendor": "openlogic",
     "version": "21.0.10+7"

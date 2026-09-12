@@ -1257,5 +1257,26 @@
     "url": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.21%2B5-ea-beta/OpenJDK17U-jre_s390x_linux_hotspot_17.0.21_5-ea.tar.gz",
     "vendor": "eclipse",
     "version": "17.0.21+5-ea-beta"
+  },
+  {
+    "architecture": "s390x",
+    "distro": "temurin",
+    "features": [ ],
+    "file_type": "tar.gz",
+    "filename": "OpenJDK17U-jre_s390x_linux_hotspot_17.0.21_6-ea.tar.gz",
+    "image_type": "jre",
+    "java_version": "17",
+    "jvm_impl": "hotspot",
+    "last_verified": "2026-09-12",
+    "md5": "3eed3bf772cb89d70fb1b0116a8e506e",
+    "os": "linux",
+    "release_type": "ea",
+    "sha1": "cee33fdd5a628f9e1b42fcdfe8ea9e2e7c157ce7",
+    "sha256": "f25c095034343f115912536cf0e195509a5ead4cf509c79c0d7a83c417c01629",
+    "sha512": "4cb0b5743698c15ff3ee8bcd2d7ce027ee059d74dda1e09736a25ee16fccda0a260f60208baadedf053624ae8478b8453bd372ccc8fefe09ad0a20e79be2b778",
+    "size": 43914305,
+    "url": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.21%2B6-ea-beta/OpenJDK17U-jre_s390x_linux_hotspot_17.0.21_6-ea.tar.gz",
+    "vendor": "eclipse",
+    "version": "17.0.21+6-ea-beta"
   }
 ]

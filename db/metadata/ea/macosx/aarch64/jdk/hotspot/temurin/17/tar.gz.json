@@ -774,5 +774,26 @@
     "url": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.21%2B5-ea-beta/OpenJDK17U-jdk_aarch64_mac_hotspot_17.0.21_5-ea.tar.gz",
     "vendor": "eclipse",
     "version": "17.0.21+5-ea-beta"
+  },
+  {
+    "architecture": "aarch64",
+    "distro": "temurin",
+    "features": [ ],
+    "file_type": "tar.gz",
+    "filename": "OpenJDK17U-jdk_aarch64_mac_hotspot_17.0.21_6-ea.tar.gz",
+    "image_type": "jdk",
+    "java_version": "17",
+    "jvm_impl": "hotspot",
+    "last_verified": "2026-09-12",
+    "md5": "5038bd55c34f7e052cd502286eae43ea",
+    "os": "macosx",
+    "release_type": "ea",
+    "sha1": "0ee221661a79eec8eb81ff9a163b79b333e3ec91",
+    "sha256": "9b170f1359e1b824052aa3dc3bc322391d9f776b51e5aacd3b2a3aff225bfc32",
+    "sha512": "50677bca058520f0092a4e1bd1d83c0481b18d50238176baa63167fe47c42a23a7d386bbbc4efd269522860bcee879c0714985c4ea2692e0e9f405296c9d6b0a",
+    "size": 186134268,
+    "url": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.21%2B6-ea-beta/OpenJDK17U-jdk_aarch64_mac_hotspot_17.0.21_6-ea.tar.gz",
+    "vendor": "eclipse",
+    "version": "17.0.21+6-ea-beta"
   }
 ]

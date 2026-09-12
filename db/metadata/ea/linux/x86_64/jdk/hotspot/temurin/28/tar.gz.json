@@ -570,5 +570,49 @@
     "url": "https://github.com/adoptium/temurin28-binaries/releases/download/jdk-28%2B14-ea-beta/OpenJDK-jdk_x64_linux_hotspot_28_14-ea.tar.gz",
     "vendor": "eclipse",
     "version": "28+14-ea-beta"
+  },
+  {
+    "architecture": "x86_64",
+    "distro": "temurin",
+    "features": [
+      "musl"
+    ],
+    "file_type": "tar.gz",
+    "filename": "OpenJDK-jdk_x64_alpine-linux_hotspot_28_15-ea.tar.gz",
+    "image_type": "jdk",
+    "java_version": "28",
+    "jvm_impl": "hotspot",
+    "last_verified": "2026-09-12",
+    "md5": "41b66ee9c856846a97bfd6c5ea843f60",
+    "os": "linux",
+    "release_type": "ea",
+    "sha1": "ba4ccad290155bfa682482de8f6a24619b375f0f",
+    "sha256": "de19ada025b851aa300277093bc1c4f6e1017b76e248c02b3385dbbdd4f71bb1",
+    "sha512": "d4a6eac34444dbb1529473708e34d96c1510a095134dc3f7a56ec49a626ce53fd2f057e865a0d9c5b6f612e9047880bfb2e89c4fb8b1efa93772ec974db5640d",
+    "size": 159425503,
+    "url": "https://github.com/adoptium/temurin28-binaries/releases/download/jdk-28%2B15-ea-beta/OpenJDK-jdk_x64_alpine-linux_hotspot_28_15-ea.tar.gz",
+    "vendor": "eclipse",
+    "version": "28+15-ea-beta"
+  },
+  {
+    "architecture": "x86_64",
+    "distro": "temurin",
+    "features": [ ],
+    "file_type": "tar.gz",
+    "filename": "OpenJDK-jdk_x64_linux_hotspot_28_15-ea.tar.gz",
+    "image_type": "jdk",
+    "java_version": "28",
+    "jvm_impl": "hotspot",
+    "last_verified": "2026-09-12",
+    "md5": "202a3ad75b2341d55265a8f0a7cf0cc3",
+    "os": "linux",
+    "release_type": "ea",
+    "sha1": "62481ff69f3555f7be45df28c327cd21e285bbf5",
+    "sha256": "bb86023304967517512b76e3232a96484fa9ad1462d101c954ebe27b7edd2869",
+    "sha512": "f3f925491e0199abe1f1e426b31c00d74e4b082eac74ea12b03f20f25d14a8fb87c2f600651f2882992d8ef14d399d9fdc5751242d63dbf37749ab6bc8fc6e00",
+    "size": 160181928,
+    "url": "https://github.com/adoptium/temurin28-binaries/releases/download/jdk-28%2B15-ea-beta/OpenJDK-jdk_x64_linux_hotspot_28_15-ea.tar.gz",
+    "vendor": "eclipse",
+    "version": "28+15-ea-beta"
   }
 ]

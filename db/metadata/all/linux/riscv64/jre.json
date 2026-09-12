@@ -3389,6 +3389,27 @@
   },
   {
     "architecture": "riscv64",
+    "distro": "temurin",
+    "features": [ ],
+    "file_type": "tar.gz",
+    "filename": "OpenJDK17U-jre_riscv64_linux_hotspot_17.0.21_6-ea.tar.gz",
+    "image_type": "jre",
+    "java_version": "17",
+    "jvm_impl": "hotspot",
+    "last_verified": "2026-09-12",
+    "md5": "eb81cffe3f1338b2367c4849fc2520f2",
+    "os": "linux",
+    "release_type": "ea",
+    "sha1": "4ea5a5d5742919f39c98b61d60f57f20e9f63f4c",
+    "sha256": "34eef77eadd91513f22913097d63516da843d265688ffeb88d38f129d1177ef9",
+    "sha512": "3a42a2fd5dcfb942e0303c53649803410f3f1017e0a4b90c177de49c87143aa07e4016f28bb7f42bdea5f7d5ec69ba459e9844144ac23dd91270ad4a61dc049b",
+    "size": 45303948,
+    "url": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.21%2B6-ea-beta/OpenJDK17U-jre_riscv64_linux_hotspot_17.0.21_6-ea.tar.gz",
+    "vendor": "eclipse",
+    "version": "17.0.21+6-ea-beta"
+  },
+  {
+    "architecture": "riscv64",
     "distro": "debian",
     "features": [
       "headless"
@@ -9311,6 +9332,27 @@
   },
   {
     "architecture": "riscv64",
+    "distro": "temurin",
+    "features": [ ],
+    "file_type": "tar.gz",
+    "filename": "OpenJDK25U-jre_riscv64_linux_hotspot_25.0.5_6-ea.tar.gz",
+    "image_type": "jre",
+    "java_version": "25",
+    "jvm_impl": "hotspot",
+    "last_verified": "2026-09-12",
+    "md5": "2136357fd3d7137b6d8fdb12bf610f8d",
+    "os": "linux",
+    "release_type": "ea",
+    "sha1": "055c35adfe2ce79a6d845ffbf43e39e7559053bf",
+    "sha256": "8975a413c677ffac49684f14fdcf90172745366c8640df9894418ed88c9171c6",
+    "sha512": "131cb2c622e0207acdab755ea05c0d7ae3af7ef534a06710eec2c92667b40d965137f7f5e7df594f904f88d5640e91a7166d41faba722ac9489bb72fca4d67c9",
+    "size": 60422026,
+    "url": "https://github.com/adoptium/temurin25-binaries/releases/download/jdk-25.0.5%2B6-ea-beta/OpenJDK25U-jre_riscv64_linux_hotspot_25.0.5_6-ea.tar.gz",
+    "vendor": "eclipse",
+    "version": "25.0.5+6-ea-beta"
+  },
+  {
+    "architecture": "riscv64",
     "distro": "liberica",
     "features": [ ],
     "file_type": "deb",
@@ -11560,5 +11602,26 @@
     "url": "https://github.com/adoptium/temurin28-binaries/releases/download/jdk-28%2B14-ea-beta/OpenJDK-jre_riscv64_linux_hotspot_28_14-ea.tar.gz",
     "vendor": "eclipse",
     "version": "28+14-ea-beta"
+  },
+  {
+    "architecture": "riscv64",
+    "distro": "temurin",
+    "features": [ ],
+    "file_type": "tar.gz",
+    "filename": "OpenJDK-jre_riscv64_linux_hotspot_28_15-ea.tar.gz",
+    "image_type": "jre",
+    "java_version": "28",
+    "jvm_impl": "hotspot",
+    "last_verified": "2026-09-12",
+    "md5": "c311f234c10abd16e0baf7121db6c540",
+    "os": "linux",
+    "release_type": "ea",
+    "sha1": "e3cd01617d79bae726adc96d8cf306dd30d57346",
+    "sha256": "81861351e601491669f9cb8708768a4744738e656b86406c9c7a27d44a4534ac",
+    "sha512": "ba9cd442e4bdbf06dd497ca89893ca601e97b5d3a90d851d56abb2c30000708053c97903e9f2c1df88241ac1835ffc77c155439ccc85cca17cde225b6e86a7e3",
+    "size": 78399362,
+    "url": "https://github.com/adoptium/temurin28-binaries/releases/download/jdk-28%2B15-ea-beta/OpenJDK-jre_riscv64_linux_hotspot_28_15-ea.tar.gz",
+    "vendor": "eclipse",
+    "version": "28+15-ea-beta"
   }
 ]

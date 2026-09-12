@@ -730,5 +730,26 @@
     "url": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.21%2B5-ea-beta/OpenJDK17U-jdk_x64_windows_hotspot_17.0.21_5-ea.msi",
     "vendor": "eclipse",
     "version": "17.0.21+5-ea-beta"
+  },
+  {
+    "architecture": "x86_64",
+    "distro": "temurin",
+    "features": [ ],
+    "file_type": "msi",
+    "filename": "OpenJDK17U-jdk_x64_windows_hotspot_17.0.21_6-ea.msi",
+    "image_type": "jdk",
+    "java_version": "17",
+    "jvm_impl": "hotspot",
+    "last_verified": "2026-09-12",
+    "md5": "1245fd72b56ad1e127a74a6877e3e573",
+    "os": "windows",
+    "release_type": "ea",
+    "sha1": "2aa430a3385f84d51e1680c91eb009e8ceb1edb8",
+    "sha256": "dc6dd49c5cc31c5c6c20af758dfd1f207c7dbb70fe214e8cced6f4868eda1417",
+    "sha512": "ead19ba3d0f7c77bd42ed79bd8f7940fbeef54b856c39de196cb8eb49271a3f59d53ac608a325362b65db736902927b768c687e5ecca7484999b5f890f210c17",
+    "size": 168665088,
+    "url": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.21%2B6-ea-beta/OpenJDK17U-jdk_x64_windows_hotspot_17.0.21_6-ea.msi",
+    "vendor": "eclipse",
+    "version": "17.0.21+6-ea-beta"
   }
 ]

@@ -49323,6 +49323,30 @@
     "architecture": "x86_64",
     "distro": "liberica",
     "features": [
+      "lite",
+      "musl"
+    ],
+    "file_type": "tar.gz",
+    "filename": "bellsoft-jdk8u392+9-linux-x64-musl-lite.tar.gz",
+    "image_type": "jdk",
+    "java_version": "1.8.0_392",
+    "jvm_impl": "hotspot",
+    "last_verified": "2026-09-12",
+    "md5": "93fa1d3efa27b4c5da212401c8c55b00",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "039369693c64363f0c8f266abfb69cb367527901",
+    "sha256": "82a66c4c748352c99964ba4adf0d8de6c1064462fb237364ee8a763000804267",
+    "sha512": "9674e66fff1938c7d1be46e26b42a97f038e8d3bd12499c003172353fb18b56dab0a5a8f54dee80835bf1c7bde007511a803683f9176d08d9c16a93ef0dcd6a2",
+    "size": 51907027,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/8u392+9/bellsoft-jdk8u392+9-linux-x64-musl-lite.tar.gz",
+    "vendor": "bellsoft",
+    "version": "8u392+9"
+  },
+  {
+    "architecture": "x86_64",
+    "distro": "liberica",
+    "features": [
       "musl"
     ],
     "file_type": "apk",
@@ -159410,6 +159434,27 @@
     "sha512": "3d3a0fd3a7839357b81592ec3341c014d7e82a73f63c50f5b0e1e95e89dec47c143b5f678cdf047c79d32e3db806f84fa1270b6bf0fe48f8c0c3ad6f672f5209",
     "size": 27338024,
     "url": "https://github.com/bell-sw/Liberica/releases/download/11.0.20+8/bellsoft-jre11.0.20+8-linux-ppc64le.rpm",
+    "vendor": "bellsoft",
+    "version": "11.0.20+8"
+  },
+  {
+    "architecture": "ppc64le",
+    "distro": "liberica",
+    "features": [ ],
+    "file_type": "tar.gz",
+    "filename": "bellsoft-jre11.0.20+8-linux-ppc64le.tar.gz",
+    "image_type": "jre",
+    "java_version": "11.0.20+8-LTS",
+    "jvm_impl": "hotspot",
+    "last_verified": "2026-09-12",
+    "md5": "6a3a79c9cc8056dd5839f92989d0fc61",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "19cf467e2d0581e67aff596900b9f90b27ee6515",
+    "sha256": "cab18fc617036dbbdb1aa49f44436651a2c48542e5487b22ef1f261614abfef0",
+    "sha512": "74411fc7c2b708d8a1672360cdbc256622269159d82cc54d3190e7729fc953f339ee28d606cfa807b48b2f18c834973db44c43b3fc5b16666fd8b3952d13dc3a",
+    "size": 39423774,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/11.0.20+8/bellsoft-jre11.0.20+8-linux-ppc64le.tar.gz",
     "vendor": "bellsoft",
     "version": "11.0.20+8"
   },

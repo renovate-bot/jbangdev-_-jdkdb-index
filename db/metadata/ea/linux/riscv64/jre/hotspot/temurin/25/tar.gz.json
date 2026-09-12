@@ -730,5 +730,26 @@
     "url": "https://github.com/adoptium/temurin25-binaries/releases/download/jdk-25.0.5%2B5-ea-beta/OpenJDK25U-jre_riscv64_linux_hotspot_25.0.5_5-ea.tar.gz",
     "vendor": "eclipse",
     "version": "25.0.5+5-ea-beta"
+  },
+  {
+    "architecture": "riscv64",
+    "distro": "temurin",
+    "features": [ ],
+    "file_type": "tar.gz",
+    "filename": "OpenJDK25U-jre_riscv64_linux_hotspot_25.0.5_6-ea.tar.gz",
+    "image_type": "jre",
+    "java_version": "25",
+    "jvm_impl": "hotspot",
+    "last_verified": "2026-09-12",
+    "md5": "2136357fd3d7137b6d8fdb12bf610f8d",
+    "os": "linux",
+    "release_type": "ea",
+    "sha1": "055c35adfe2ce79a6d845ffbf43e39e7559053bf",
+    "sha256": "8975a413c677ffac49684f14fdcf90172745366c8640df9894418ed88c9171c6",
+    "sha512": "131cb2c622e0207acdab755ea05c0d7ae3af7ef534a06710eec2c92667b40d965137f7f5e7df594f904f88d5640e91a7166d41faba722ac9489bb72fca4d67c9",
+    "size": 60422026,
+    "url": "https://github.com/adoptium/temurin25-binaries/releases/download/jdk-25.0.5%2B6-ea-beta/OpenJDK25U-jre_riscv64_linux_hotspot_25.0.5_6-ea.tar.gz",
+    "vendor": "eclipse",
+    "version": "25.0.5+6-ea-beta"
   }
 ]

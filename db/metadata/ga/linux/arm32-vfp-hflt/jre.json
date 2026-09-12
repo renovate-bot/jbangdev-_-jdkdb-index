@@ -5789,6 +5789,53 @@
       "hard-float"
     ],
     "file_type": "deb",
+    "filename": "openjdk-11-jre-headless_11.0.32.1+1-2_armhf.deb",
+    "image_type": "jre",
+    "java_version": "11.0.32.1+1-post-2-Debian",
+    "jvm_impl": "hotspot",
+    "last_verified": "2026-09-12",
+    "md5": "f2a3f32340f40d145c0b8189ad209cfc",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "7ccc3d3a5b5d5d345ee280861c72b3a13a0d4548",
+    "sha256": "474e1bfc77352909961f14ffd18728c51674b87d2316fc09a54f337a7858a833",
+    "sha512": "b37933372b656dc9227c5521931dbd5d10d7cd198c58aea0909e27bf6ef6b6caa11bcfdb42e4ffc30b5df4a730d70bab8a7c3914cdb7046018623a73325a6840",
+    "size": 34064556,
+    "url": "http://ftp.debian.org/debian/pool/main/o/openjdk-11/openjdk-11-jre-headless_11.0.32.1+1-2_armhf.deb",
+    "vendor": "debian",
+    "version": "11.0.32.1+1-2"
+  },
+  {
+    "architecture": "arm32-vfp-hflt",
+    "distro": "debian",
+    "features": [
+      "hard-float"
+    ],
+    "file_type": "deb",
+    "filename": "openjdk-11-jre_11.0.32.1+1-2_armhf.deb",
+    "image_type": "jre",
+    "java_version": "11.0.32.1+1",
+    "jvm_impl": "hotspot",
+    "last_verified": "2026-09-12",
+    "md5": "be481b092693cde05fe640995cfacddc",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "06a4f45c51b92b1877dcb09269f76506b20e2ff2",
+    "sha256": "e77e325aa15a4620d1bcff6e388a18bffa3b291b3ec139fdc078c44038e7478a",
+    "sha512": "0bf87575647d70c98bbd46481ba89d5dd1e8f02668bf30703e2d9f991bf07b5fb7bc2b0f849d724b1da7593a481ef7a471a4b7735d5c255bb36d95830db8ffe1",
+    "size": 174344,
+    "url": "http://ftp.debian.org/debian/pool/main/o/openjdk-11/openjdk-11-jre_11.0.32.1+1-2_armhf.deb",
+    "vendor": "debian",
+    "version": "11.0.32.1+1-2"
+  },
+  {
+    "architecture": "arm32-vfp-hflt",
+    "distro": "debian",
+    "features": [
+      "headless",
+      "hard-float"
+    ],
+    "file_type": "deb",
     "filename": "openjdk-11-jre-headless_11.0.32+9-1_armhf.deb",
     "image_type": "jre",
     "java_version": "11.0.32+9-post-1-Debian",

@@ -271,5 +271,26 @@
     "url": "https://github.com/adoptium/temurin28-binaries/releases/download/jdk-28%2B14-ea-beta/OpenJDK-jdk_riscv64_linux_hotspot_28_14-ea.tar.gz",
     "vendor": "eclipse",
     "version": "28+14-ea-beta"
+  },
+  {
+    "architecture": "riscv64",
+    "distro": "temurin",
+    "features": [ ],
+    "file_type": "tar.gz",
+    "filename": "OpenJDK-jdk_riscv64_linux_hotspot_28_15-ea.tar.gz",
+    "image_type": "jdk",
+    "java_version": "28",
+    "jvm_impl": "hotspot",
+    "last_verified": "2026-09-12",
+    "md5": "cbf8ba6d7c3076871fc8054b2674de91",
+    "os": "linux",
+    "release_type": "ea",
+    "sha1": "5a631d3442c6199a69ad65f283e9b0eb3f839eb4",
+    "sha256": "af18988ec08ca6139a6d5d364772bdcf677d8665452471a70e6364c53f246bb0",
+    "sha512": "35e7a9e740f2165b3c0d76d9caded8779dfb7017ce80d2d281cc198e061234183409073ed8c1e41eacceb618b3ab2f301af5e466e0fc9a2836dab4057645a0fc",
+    "size": 158709830,
+    "url": "https://github.com/adoptium/temurin28-binaries/releases/download/jdk-28%2B15-ea-beta/OpenJDK-jdk_riscv64_linux_hotspot_28_15-ea.tar.gz",
+    "vendor": "eclipse",
+    "version": "28+15-ea-beta"
   }
 ]

@@ -686,5 +686,26 @@
     "url": "https://github.com/adoptium/temurin25-binaries/releases/download/jdk-25.0.5%2B5-ea-beta/OpenJDK25U-jdk_aarch64_windows_hotspot_25.0.5_5-ea.msi",
     "vendor": "eclipse",
     "version": "25.0.5+5-ea-beta"
+  },
+  {
+    "architecture": "aarch64",
+    "distro": "temurin",
+    "features": [ ],
+    "file_type": "msi",
+    "filename": "OpenJDK25U-jdk_aarch64_windows_hotspot_25.0.5_6-ea.msi",
+    "image_type": "jdk",
+    "java_version": "25",
+    "jvm_impl": "hotspot",
+    "last_verified": "2026-09-12",
+    "md5": "01009a08085ed7263aa676cfaf8c8b54",
+    "os": "windows",
+    "release_type": "ea",
+    "sha1": "3e98046830bb675118f6dc0e36811f2782505d0b",
+    "sha256": "1d22790cf4652254acd064c522b7a975b7aa9dd17844fa0958fdeaef01345891",
+    "sha512": "ae72f75462b752b00ce705d6302fc496a2e02014a364694329a000d90b6cff09542a40c9b1d3da13b942584aa0970895dea5400217fbd43b8b9969a391a08737",
+    "size": 99463168,
+    "url": "https://github.com/adoptium/temurin25-binaries/releases/download/jdk-25.0.5%2B6-ea-beta/OpenJDK25U-jdk_aarch64_windows_hotspot_25.0.5_6-ea.msi",
+    "vendor": "eclipse",
+    "version": "25.0.5+6-ea-beta"
   }
 ]

@@ -656,5 +656,26 @@
     "url": "https://github.com/adoptium/temurin25-binaries/releases/download/jdk-25.0.5%2B5-ea-beta/OpenJDK25U-jdk_x64_mac_hotspot_25.0.5_5-ea.pkg",
     "vendor": "eclipse",
     "version": "25.0.5+5-ea-beta"
+  },
+  {
+    "architecture": "x86_64",
+    "distro": "temurin",
+    "features": [ ],
+    "file_type": "pkg",
+    "filename": "OpenJDK25U-jdk_x64_mac_hotspot_25.0.5_6-ea.pkg",
+    "image_type": "jdk",
+    "java_version": "25",
+    "jvm_impl": "hotspot",
+    "last_verified": "2026-09-12",
+    "md5": "50f2b9567af186a3f1d1b21568737d78",
+    "os": "macosx",
+    "release_type": "ea",
+    "sha1": "341dce535d25503b0af6df960fe391d355818911",
+    "sha256": "16e2c5650ce72656b771b20161bf6d461673b0e63133bd9c147390878d57e696",
+    "sha512": "11960c6d83c6e1d2955e0392bb4020b80d2e22400ad1c076b28d5df4a9f442b8b9972177dd14ff1e3936fb9f069b6a24a80eb6abc39b2c0097efcf253a72dfa2",
+    "size": 120625231,
+    "url": "https://github.com/adoptium/temurin25-binaries/releases/download/jdk-25.0.5%2B6-ea-beta/OpenJDK25U-jdk_x64_mac_hotspot_25.0.5_6-ea.pkg",
+    "vendor": "eclipse",
+    "version": "25.0.5+6-ea-beta"
   }
 ]

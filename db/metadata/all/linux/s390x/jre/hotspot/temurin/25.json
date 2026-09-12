@@ -834,5 +834,26 @@
     "url": "https://github.com/adoptium/temurin25-binaries/releases/download/jdk-25.0.5%2B5-ea-beta/OpenJDK25U-jre_s390x_linux_hotspot_25.0.5_5-ea.tar.gz",
     "vendor": "eclipse",
     "version": "25.0.5+5-ea-beta"
+  },
+  {
+    "architecture": "s390x",
+    "distro": "temurin",
+    "features": [ ],
+    "file_type": "tar.gz",
+    "filename": "OpenJDK25U-jre_s390x_linux_hotspot_25.0.5_6-ea.tar.gz",
+    "image_type": "jre",
+    "java_version": "25",
+    "jvm_impl": "hotspot",
+    "last_verified": "2026-09-12",
+    "md5": "7f56483f88b75af6d71ed876cfcf065a",
+    "os": "linux",
+    "release_type": "ea",
+    "sha1": "c12d946e7405ca783faf020195aff3bd18299a12",
+    "sha256": "81078e52cabc25cc917612e4ba53dc1850ced2fdd130d6f2c275687ffb4c3691",
+    "sha512": "c3b90031b3a8a54fc5d6750f0af9846c9e08b7cad5f6e5adf3c8c6f88f15901fcae47b5c5fb1855e9ec7176e3db8cec06e06bf435ba07447bd577f51572a1e99",
+    "size": 59359042,
+    "url": "https://github.com/adoptium/temurin25-binaries/releases/download/jdk-25.0.5%2B6-ea-beta/OpenJDK25U-jre_s390x_linux_hotspot_25.0.5_6-ea.tar.gz",
+    "vendor": "eclipse",
+    "version": "25.0.5+6-ea-beta"
   }
 ]

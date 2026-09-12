@@ -271,5 +271,26 @@
     "url": "https://github.com/adoptium/temurin28-binaries/releases/download/jdk-28%2B14-ea-beta/OpenJDK-jre_x64_windows_hotspot_28_14-ea.msi",
     "vendor": "eclipse",
     "version": "28+14-ea-beta"
+  },
+  {
+    "architecture": "x86_64",
+    "distro": "temurin",
+    "features": [ ],
+    "file_type": "msi",
+    "filename": "OpenJDK-jre_x64_windows_hotspot_28_15-ea.msi",
+    "image_type": "jre",
+    "java_version": "28",
+    "jvm_impl": "hotspot",
+    "last_verified": "2026-09-12",
+    "md5": "67985a05e5061b9e347e76d619397808",
+    "os": "windows",
+    "release_type": "ea",
+    "sha1": "da15c4d767edaafbe6c1e3a53fb81f538ae6ce81",
+    "sha256": "720646c91cf35843866bfa65004dbd9bf9dbf124e3e39682e55b43fd3aea7223",
+    "sha512": "500c081ce50d747223318a1aafebba464fa4026f59f39043151bd8a0d92af13c41ee07a9ecfa9102104040ad94c0c1be2f585127dab9a37435513922bb5b9bf0",
+    "size": 57614336,
+    "url": "https://github.com/adoptium/temurin28-binaries/releases/download/jdk-28%2B15-ea-beta/OpenJDK-jre_x64_windows_hotspot_28_15-ea.msi",
+    "vendor": "eclipse",
+    "version": "28+15-ea-beta"
   }
 ]

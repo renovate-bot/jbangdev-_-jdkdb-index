@@ -1414,5 +1414,49 @@
     "url": "https://github.com/adoptium/temurin25-binaries/releases/download/jdk-25.0.5%2B5-ea-beta/OpenJDK25U-jdk_aarch64_linux_hotspot_25.0.5_5-ea.tar.gz",
     "vendor": "eclipse",
     "version": "25.0.5+5-ea-beta"
+  },
+  {
+    "architecture": "aarch64",
+    "distro": "temurin",
+    "features": [
+      "musl"
+    ],
+    "file_type": "tar.gz",
+    "filename": "OpenJDK25U-jdk_aarch64_alpine-linux_hotspot_25.0.5_6-ea.tar.gz",
+    "image_type": "jdk",
+    "java_version": "25",
+    "jvm_impl": "hotspot",
+    "last_verified": "2026-09-12",
+    "md5": "fa9e1b5b51d610dcf3873ff247e6d028",
+    "os": "linux",
+    "release_type": "ea",
+    "sha1": "5072e80b6e21f8534431e11260bc8e703631031f",
+    "sha256": "4d724496f98a384dcf1be71c1609a95b29aefc8750b42051904908d0686608ca",
+    "sha512": "07bdf6e9ecb9bc28c396e4716baaa5d39d11e45bf2470f2b76ea41a4334189752d0d67735a89f0ffe665cc49556451ca63817578d8c703c2959a9093125658bd",
+    "size": 139160290,
+    "url": "https://github.com/adoptium/temurin25-binaries/releases/download/jdk-25.0.5%2B6-ea-beta/OpenJDK25U-jdk_aarch64_alpine-linux_hotspot_25.0.5_6-ea.tar.gz",
+    "vendor": "eclipse",
+    "version": "25.0.5+6-ea-beta"
+  },
+  {
+    "architecture": "aarch64",
+    "distro": "temurin",
+    "features": [ ],
+    "file_type": "tar.gz",
+    "filename": "OpenJDK25U-jdk_aarch64_linux_hotspot_25.0.5_6-ea.tar.gz",
+    "image_type": "jdk",
+    "java_version": "25",
+    "jvm_impl": "hotspot",
+    "last_verified": "2026-09-12",
+    "md5": "1e9c5d732287d1565f1a98a8c0a507d4",
+    "os": "linux",
+    "release_type": "ea",
+    "sha1": "ad25609014afac55847439e7fe826c18a3c3b33f",
+    "sha256": "dbbfc1f77e7ccd17f3e5a686959db2e2e9f0d002f1d33357b4c62c407553fd0e",
+    "sha512": "c596e38fe1662c3f674413989b18cec481613356b0d84b6dc6cfcab517404b4d823d31883795e662e24d77708856d0ffc8b1b7c95e66077777762ea0707488ab",
+    "size": 140143555,
+    "url": "https://github.com/adoptium/temurin25-binaries/releases/download/jdk-25.0.5%2B6-ea-beta/OpenJDK25U-jdk_aarch64_linux_hotspot_25.0.5_6-ea.tar.gz",
+    "vendor": "eclipse",
+    "version": "25.0.5+6-ea-beta"
   }
 ]

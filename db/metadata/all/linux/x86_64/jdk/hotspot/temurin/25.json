@@ -1748,5 +1748,49 @@
     "url": "https://github.com/adoptium/temurin25-binaries/releases/download/jdk-25.0.5%2B5-ea-beta/OpenJDK25U-jdk_x64_linux_hotspot_25.0.5_5-ea.tar.gz",
     "vendor": "eclipse",
     "version": "25.0.5+5-ea-beta"
+  },
+  {
+    "architecture": "x86_64",
+    "distro": "temurin",
+    "features": [
+      "musl"
+    ],
+    "file_type": "tar.gz",
+    "filename": "OpenJDK25U-jdk_x64_alpine-linux_hotspot_25.0.5_6-ea.tar.gz",
+    "image_type": "jdk",
+    "java_version": "25",
+    "jvm_impl": "hotspot",
+    "last_verified": "2026-09-12",
+    "md5": "1bde30e4a2a5d22b4f9260e6113542c6",
+    "os": "linux",
+    "release_type": "ea",
+    "sha1": "1b90577ce8fbce3a1895e9c9d2f95189756fb10d",
+    "sha256": "47504ad1df7d7f9134db55f2008e4dc9a8dfe42ec445c31af52ac55dd9035fce",
+    "sha512": "1d3d8762466193f3a024391338cef820c83b7386fa219501e02cc5c18f04f1c55d0c3d708e681be4e6dbf5eca2b1851cc40ce821d6e2c9add78bee0641d15dd5",
+    "size": 140378634,
+    "url": "https://github.com/adoptium/temurin25-binaries/releases/download/jdk-25.0.5%2B6-ea-beta/OpenJDK25U-jdk_x64_alpine-linux_hotspot_25.0.5_6-ea.tar.gz",
+    "vendor": "eclipse",
+    "version": "25.0.5+6-ea-beta"
+  },
+  {
+    "architecture": "x86_64",
+    "distro": "temurin",
+    "features": [ ],
+    "file_type": "tar.gz",
+    "filename": "OpenJDK25U-jdk_x64_linux_hotspot_25.0.5_6-ea.tar.gz",
+    "image_type": "jdk",
+    "java_version": "25",
+    "jvm_impl": "hotspot",
+    "last_verified": "2026-09-12",
+    "md5": "9cf474d03e31ed071276dcf6df8d3ff9",
+    "os": "linux",
+    "release_type": "ea",
+    "sha1": "4fd87cb1d3f08da9129711211f693456023e45d2",
+    "sha256": "32f2997b0dd12b254ac315beefce8a5812be0307238392d1322e033931904069",
+    "sha512": "c31b636ac4135a1820f0eb66078791038d8f739ad55a70cf030324d95a99331c051534dfc5ba2ea45e593444bd24f55fa6a677391fe6596b505e580c7b04f952",
+    "size": 141330570,
+    "url": "https://github.com/adoptium/temurin25-binaries/releases/download/jdk-25.0.5%2B6-ea-beta/OpenJDK25U-jdk_x64_linux_hotspot_25.0.5_6-ea.tar.gz",
+    "vendor": "eclipse",
+    "version": "25.0.5+6-ea-beta"
   }
 ]
