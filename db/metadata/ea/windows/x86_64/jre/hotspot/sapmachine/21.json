@@ -2759,5 +2759,26 @@
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21.0.13%2B7/sapmachine-jre-21.0.13-ea.7_windows-x64_bin.zip",
     "vendor": "sap",
     "version": "21.0.13-ea.7"
+  },
+  {
+    "architecture": "x86_64",
+    "distro": "sapmachine",
+    "features": null,
+    "file_type": "zip",
+    "filename": "sapmachine-jre-21.0.13-ea.8_windows-x64_bin.zip",
+    "image_type": "jre",
+    "java_version": "21.0.13-ea.8",
+    "jvm_impl": "hotspot",
+    "last_verified": "2026-10-06",
+    "md5": "732c7fe59b7cb415e0f9efe1267536bc",
+    "os": "windows",
+    "release_type": "ea",
+    "sha1": "a3a2c2202776d6b37cb836b85a3c6d5ee1a2a018",
+    "sha256": "df7d23314304c773680b4fa842d31e111333f1ee7beda942190faa10cbd85211",
+    "sha512": "9134c1e425b45115e3d35438c7078cbdd0531ecf2804faf814bbc0087a355823224d85fe2d558676a1ce62f8eca4eb1222393f7aba1c42dcf979e872b418185c",
+    "size": 54851925,
+    "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21.0.13%2B8/sapmachine-jre-21.0.13-ea.8_windows-x64_bin.zip",
+    "vendor": "sap",
+    "version": "21.0.13-ea.8"
   }
 ]
