@@ -1356,5 +1356,49 @@
     "url": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u512-b05-ea-beta/OpenJDK8U-jdk_x64_linux_hotspot_8u512b05-ea.tar.gz",
     "vendor": "eclipse",
     "version": "8u512-b05-ea-beta"
+  },
+  {
+    "architecture": "x86_64",
+    "distro": "temurin",
+    "features": [
+      "musl"
+    ],
+    "file_type": "tar.gz",
+    "filename": "OpenJDK8U-jdk_x64_alpine-linux_hotspot_8u512b07-ea.tar.gz",
+    "image_type": "jdk",
+    "java_version": "1.8.0_512-beta-202610062022-b07",
+    "jvm_impl": "hotspot",
+    "last_verified": "2026-10-07",
+    "md5": "22873c27c753779088db4c04bf8b7eda",
+    "os": "linux",
+    "release_type": "ea",
+    "sha1": "facc7ac7ed35456dcbccf7f8f97b4dfc77d35d63",
+    "sha256": "5388ec8688b48de5ca313b0b8010e9a8b756302ec35ad2c2a145e667c24cea82",
+    "sha512": "360a8874b6eddce5a3bf2d403b06fe4740e7f8a75f8bab169fe6089713e5f30caea3d4a634addab8404eb807ee41f73dd37db2ddfeffdc8ef4b768653383b296",
+    "size": 101422401,
+    "url": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u512-b07-ea-beta/OpenJDK8U-jdk_x64_alpine-linux_hotspot_8u512b07-ea.tar.gz",
+    "vendor": "eclipse",
+    "version": "8u512-b07-ea-beta"
+  },
+  {
+    "architecture": "x86_64",
+    "distro": "temurin",
+    "features": [ ],
+    "file_type": "tar.gz",
+    "filename": "OpenJDK8U-jdk_x64_linux_hotspot_8u512b07-ea.tar.gz",
+    "image_type": "jdk",
+    "java_version": "1.8.0_512-beta-202610062008-b07",
+    "jvm_impl": "hotspot",
+    "last_verified": "2026-10-07",
+    "md5": "a5d59a52819e9dcf6df0c892dcbe82ff",
+    "os": "linux",
+    "release_type": "ea",
+    "sha1": "bfd9b68b10f1d2b43c0e62ed42db6a7d1a988965",
+    "sha256": "9bcf845d1c735e793583ed6ed652360b5aa62ce3fbe6eb2263b2b5bd5e05e9f8",
+    "sha512": "160becedbe402e7a450f5ec46e80d4c044d897f2a8966054ed684c5191e2b99e353b4ccd24a9a326c7a875cc46bab588437d008989c85d7e22098b3674fef9b4",
+    "size": 103519005,
+    "url": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u512-b07-ea-beta/OpenJDK8U-jdk_x64_linux_hotspot_8u512b07-ea.tar.gz",
+    "vendor": "eclipse",
+    "version": "8u512-b07-ea-beta"
   }
 ]

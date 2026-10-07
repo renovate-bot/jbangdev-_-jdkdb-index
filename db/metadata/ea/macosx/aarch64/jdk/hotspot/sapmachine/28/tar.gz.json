@@ -355,5 +355,26 @@
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-28%2B17/sapmachine-jdk-28-ea.17_macos-aarch64_bin.tar.gz",
     "vendor": "sap",
     "version": "28-ea.17"
+  },
+  {
+    "architecture": "aarch64",
+    "distro": "sapmachine",
+    "features": null,
+    "file_type": "tar.gz",
+    "filename": "sapmachine-jdk-28-ea.18_macos-aarch64_bin.tar.gz",
+    "image_type": "jdk",
+    "java_version": "28-ea.18",
+    "jvm_impl": "hotspot",
+    "last_verified": "2026-10-07",
+    "md5": "719a278ff5add1a8f306c29488bfb391",
+    "os": "macosx",
+    "release_type": "ea",
+    "sha1": "0f136d95641029634450046269b23c96e08c5453",
+    "sha256": "b1b727ab5d483d325f772ff5526548f02eb01128fcd631f0762989baa7dcf882",
+    "sha512": "0b9b65fa758a29d2bb897109270ebb9c801da16c1a318ac618441ca6a3a9d65bab36f2caec7d52c44e06f65ecaa561d48bc3a52da531460226a1c96e8da7efab",
+    "size": 124315548,
+    "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-28%2B18/sapmachine-jdk-28-ea.18_macos-aarch64_bin.tar.gz",
+    "vendor": "sap",
+    "version": "28-ea.18"
   }
 ]
