@@ -458,6 +458,7 @@
     "sha256": "3893572636ba2cd0725edbfdf207aeb09436d2c516cbaec3e8d461932bb4389a",
     "sha512": "5a0d41c9c4d3f442c774c1a0b4807f8ce6218e9ef67e493af2377b70fe6b4160d8c429d1396ea3dcd15395904406ffc659174bbb60cbf4ca7d8dc7881acf0a12",
     "size": 82534181,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu17.44.15-ca-fx-jre17.0.8-macosx_x64.zip",
     "vendor": "azul",
     "version": "17.44.15"
@@ -479,6 +480,7 @@
     "sha256": "acc014e996209524240ef5174ffee8d3c01401eaf5c58a93eab2fa46b80a62e0",
     "sha512": "44ce3bc27037c6b8f6a8929bff5a2a1cc9fa8a331cc130ed150cccc65c2fea95cfbcc38070a3ea4ce28a79b7f82bcd6b6e4b26f683d6f6e2f6fe6684dba3d8a5",
     "size": 44527025,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu17.44.15-ca-jre17.0.8-macosx_x64.zip",
     "vendor": "azul",
     "version": "17.44.15"

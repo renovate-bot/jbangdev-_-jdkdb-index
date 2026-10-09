@@ -31249,6 +31249,48 @@
   },
   {
     "architecture": "x86_64",
+    "distro": "temurin",
+    "features": [ ],
+    "file_type": "pkg",
+    "filename": "OpenJDK11U-jre_x64_mac_hotspot_11.0.33_8-ea.pkg",
+    "image_type": "jre",
+    "java_version": "11",
+    "jvm_impl": "hotspot",
+    "last_verified": "2026-10-09",
+    "md5": "0b0f0399f3a2c7241123b5d24fad6add",
+    "os": "macosx",
+    "release_type": "ea",
+    "sha1": "0142e0c9fa2a5459bfdbfc678e6486587dc2c7fc",
+    "sha256": "026847c8da545a1038210006ae25a68166aa0fe96232819007793955a1144b2f",
+    "sha512": "ee7173508e3cccb722c9e7b8f73f27650cb0f38e01064dd4f170cf2fe87ed001cc9b83d3cbe456f3a64066d062fee83933a1926dc437a5367322054ff3d555e0",
+    "size": 39221715,
+    "url": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.33%2B8-ea-beta/OpenJDK11U-jre_x64_mac_hotspot_11.0.33_8-ea.pkg",
+    "vendor": "eclipse",
+    "version": "11.0.33+8-ea-beta"
+  },
+  {
+    "architecture": "x86_64",
+    "distro": "temurin",
+    "features": [ ],
+    "file_type": "tar.gz",
+    "filename": "OpenJDK11U-jre_x64_mac_hotspot_11.0.33_8-ea.tar.gz",
+    "image_type": "jre",
+    "java_version": "11",
+    "jvm_impl": "hotspot",
+    "last_verified": "2026-10-09",
+    "md5": "80e6f84a1cae900d12571a55e9e56186",
+    "os": "macosx",
+    "release_type": "ea",
+    "sha1": "e6e196390de9aaa4adb6ec0b2614ac693db4581d",
+    "sha256": "b25a00df6fb2ac64647a696b6ff83f81ccd6da636ecdb7862f637dcbe778a6ca",
+    "sha512": "ad966f41746fd7227f50b05ff83f6f4f180f32e18e469bd7f2c51acf276753269f29a5b1033bd2ab217cd89fa8475dabe97800a2613465815488ecd13d1e909d",
+    "size": 39077766,
+    "url": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.33%2B8-ea-beta/OpenJDK11U-jre_x64_mac_hotspot_11.0.33_8-ea.tar.gz",
+    "vendor": "eclipse",
+    "version": "11.0.33+8-ea-beta"
+  },
+  {
+    "architecture": "x86_64",
     "distro": "zulu",
     "features": [
       "javafx"
@@ -33227,6 +33269,7 @@
     "sha256": "564c2c628f41524f9001319d2525aca6177846aaac690e218bcdd9dca347eee9",
     "sha512": "101323e19b158c56d79f6308d0e662c13c9349e3a60a6c2c8c786319c2de5cd5432f5f56462d0018bbd210840a8056ec7dbd4d75042ab6bd882612ad02724f6b",
     "size": 77415143,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu11.66.15-ca-fx-jre11.0.20-macosx_x64.tar.gz",
     "vendor": "azul",
     "version": "11.66.15"
@@ -33250,6 +33293,7 @@
     "sha256": "2e1df07720104a40f6113ec8f9ddd2fcc996c927a184af00b224ff4cce73abf2",
     "sha512": "f3e207dabef7a8f69a9a6986cb673056139fc46ac55e986ac215607d6f35d039d31bdb83d712fac57961d9bedb4d245214cec8c0c3dd4d4e7c0303b77a82918c",
     "size": 77758654,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu11.66.15-ca-fx-jre11.0.20-macosx_x64.zip",
     "vendor": "azul",
     "version": "11.66.15"
@@ -33271,6 +33315,7 @@
     "sha256": "aa9d003a56033980985bd913305926d5e7560440026a759dbe1552738e62d7a0",
     "sha512": "3c43e80bb6dbdd809a4774435b43a93fe36ce12dba2ed6ccc997f119a3bb1ae0ce55313e5c71b091759a1844291bf06ae44a96f13f5662868e36b11c22d52fb2",
     "size": 39559398,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu11.66.15-ca-jre11.0.20-macosx_x64.tar.gz",
     "vendor": "azul",
     "version": "11.66.15"
@@ -33292,6 +33337,7 @@
     "sha256": "6c54a9d2c0abe1db3bf832e2b25193fb07dcdb73a2c8f235e2d717bd303eda4d",
     "sha512": "8bc70ed50c13c51491c0a08ab9306111db283f34a29af00a0443babc4826cee731c5b7a70040f19779e39e7d83dcd2c5c4007aa6be41cccf74a16680e0ed1f97",
     "size": 39817707,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu11.66.15-ca-jre11.0.20-macosx_x64.zip",
     "vendor": "azul",
     "version": "11.66.15"
@@ -63336,6 +63382,7 @@
     "sha256": "9f2dd5e627129991cbd2c6a4521b3a2ff69f0dee24eccc440832d83364b52134",
     "sha512": "0032a8de6164f2d380e202ac6ec55aa545ca07ca5f49f050fe9711e0e25a4559af5ebb7169cd7d21e4f8166f6e83d771a4c30e043d36d0e0855be55206e8d201",
     "size": 82181713,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu17.44.15-ca-fx-jre17.0.8-macosx_x64.tar.gz",
     "vendor": "azul",
     "version": "17.44.15"
@@ -63359,6 +63406,7 @@
     "sha256": "3893572636ba2cd0725edbfdf207aeb09436d2c516cbaec3e8d461932bb4389a",
     "sha512": "5a0d41c9c4d3f442c774c1a0b4807f8ce6218e9ef67e493af2377b70fe6b4160d8c429d1396ea3dcd15395904406ffc659174bbb60cbf4ca7d8dc7881acf0a12",
     "size": 82534181,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu17.44.15-ca-fx-jre17.0.8-macosx_x64.zip",
     "vendor": "azul",
     "version": "17.44.15"
@@ -63380,6 +63428,7 @@
     "sha256": "299b8f4fdd918ec03e3209988a38b545c8fae109a3b231e7e830894e5f6275ff",
     "sha512": "a3389838d2a57509ff9b6e2eef95e7dfe20f76e47c6f59a40004c9bf72f60dd8d1a4a3523f4151faae9827636b44f52a9b964bbcd3d78f0f86d15ef8468df581",
     "size": 44262215,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu17.44.15-ca-jre17.0.8-macosx_x64.tar.gz",
     "vendor": "azul",
     "version": "17.44.15"
@@ -63401,6 +63450,7 @@
     "sha256": "acc014e996209524240ef5174ffee8d3c01401eaf5c58a93eab2fa46b80a62e0",
     "sha512": "44ce3bc27037c6b8f6a8929bff5a2a1cc9fa8a331cc130ed150cccc65c2fea95cfbcc38070a3ea4ce28a79b7f82bcd6b6e4b26f683d6f6e2f6fe6684dba3d8a5",
     "size": 44527025,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu17.44.15-ca-jre17.0.8-macosx_x64.zip",
     "vendor": "azul",
     "version": "17.44.15"
@@ -69063,6 +69113,7 @@
     "sha256": "329372a2953f8dc1c1f814cfdd9751bbba7491a1d52ff3d13550c60b90ee3a82",
     "sha512": "9b04effb6accf873e9ded85ac102c7899000e099540c1265c0bbf2dab39647162442ca716f9f99c4f9a3652893857b529606c1e4b7a274eb01f4c36e721c6da7",
     "size": 84893481,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu20.32.11-ca-fx-jre20.0.2-macosx_x64.tar.gz",
     "vendor": "azul",
     "version": "20.32.11"
@@ -69086,6 +69137,7 @@
     "sha256": "a36ace810b885ac0c80879a989e6b5b88551ef10e26a79aec5c7f38726e31ac4",
     "sha512": "361fedc0b7acc05ac93aa6ed678f91d2fec8253b86eda0e1076593fd0f02898f1ca3f4c43f0b5dea46fc57a4fc1afbaca222d4c827534e30bfd868c61d6ae4f7",
     "size": 85205216,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu20.32.11-ca-fx-jre20.0.2-macosx_x64.zip",
     "vendor": "azul",
     "version": "20.32.11"
@@ -69107,6 +69159,7 @@
     "sha256": "7a69831c68a10f76c6c98c9ff4d873892ea9b6c29a9c388b5a1ad7f181c1c298",
     "sha512": "fde2ffc379a5cd2d968508ecb8806430e65ef45665fba696d0fb3decdc26115d4eae80a4e564400475cfbc5105461cea9e2974758d0d44e80a3317b212f027df",
     "size": 46938822,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu20.32.11-ca-jre20.0.2-macosx_x64.tar.gz",
     "vendor": "azul",
     "version": "20.32.11"
@@ -69128,6 +69181,7 @@
     "sha256": "a9cea35281f8680eb32db7da59a80c484744860758f86c8b39ab1782a6c0e704",
     "sha512": "e648cd95463e94975c83ac58aa7be2171c80d446e8812ee353d4ca25315b9236b00ee636d4468710bb568dde20ce0606e2c42546720f567ec78a7f63a89cbb41",
     "size": 47156451,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu20.32.11-ca-jre20.0.2-macosx_x64.zip",
     "vendor": "azul",
     "version": "20.32.11"
@@ -99597,6 +99651,7 @@
     "sha256": "2f2b31471df512af3ded0b8c16f1ae68e92e43162b299d80219365b99b850dff",
     "sha512": "c2b5d629da7584d5d80e801aa037413b90a63789fb096e92d19261ef0f624c782f2a66c369cf9e68203fbf94d918865c3288dcbc02e0f823982635e0354a395b",
     "size": 43633000,
+    "unlisted_since": "2026-10-09",
     "url": "https://github.com/adoptium/temurin27-binaries/releases/download/jdk-27%2B17-ea-beta/OpenJDK-jre_x64_mac_hotspot_27_17-ea.pkg",
     "vendor": "eclipse",
     "version": "27+17-ea-beta"
@@ -99618,6 +99673,7 @@
     "sha256": "297919c7495dd9a950850fd9337b9f5343160f9cfefb7886b4b252fc747bd674",
     "sha512": "20ffebc4f0adb0052102938d9056412237094bac4e2d44b9ebdc89ba5c8f2d223166add78e2fa120cd208a6ce40fffd59e4243c72dd0beda1081d858dbb1f69c",
     "size": 43471521,
+    "unlisted_since": "2026-10-09",
     "url": "https://github.com/adoptium/temurin27-binaries/releases/download/jdk-27%2B17-ea-beta/OpenJDK-jre_x64_mac_hotspot_27_17-ea.tar.gz",
     "vendor": "eclipse",
     "version": "27+17-ea-beta"

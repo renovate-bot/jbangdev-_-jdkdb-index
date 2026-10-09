@@ -18,6 +18,7 @@
     "sha256": "739c68b61003faab246bf7d9e41673ccee06677f30c9779d2ff04a98f10767c8",
     "sha512": "f280d794bacf16453774f6d01c086caa8c74f2aab54e2ee88e6be646f8d112340114e2f9a231a4d86c1c7c774c6135cf4f63483af7b9a6137074fe1f01aba9da",
     "size": 328550621,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu20.32.11-ca-fx-jdk20.0.2-macosx_x64.zip",
     "vendor": "azul",
     "version": "20.32.11"
@@ -39,6 +40,7 @@
     "sha256": "d1f6859182ade8421b93d0c3bab4fba898fedc03393891fc8e38e16eca1278d2",
     "sha512": "d045cade4c0193dd2b5527afa2a84239cdc48075d25b834926b2d126907d10d0bc2950b4b2e934f09f1ecbe7edeb6146a751d0adc1e984b108418636eea96dd7",
     "size": 208809275,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu20.32.11-ca-jdk20.0.2-macosx_x64.zip",
     "vendor": "azul",
     "version": "20.32.11"

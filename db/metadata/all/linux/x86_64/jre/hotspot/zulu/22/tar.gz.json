@@ -85,6 +85,7 @@
     "sha256": "5473c57b06d71a35e27d17115d8ec398763dc749c2262d35aa3499ca633a78f9",
     "sha512": "a6a829b7b1521bf0ef9905ac342f2cfa55fe7b6934bbc2d0f71d030ec7143f2c0dc39bdf3814ff16eadceba0605534e84cf38ab88d1cd35c2b4253b79b1e8042",
     "size": 55033085,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu22.28.93-ca-crac-jre22.0.0-linux_x64.tar.gz",
     "vendor": "azul",
     "version": "22.28.93"
@@ -108,6 +109,7 @@
     "sha256": "742697b245e4126bde6bf7d7fb7981ba462200238b6f445831366ed1bb42527c",
     "sha512": "ae6ac5abc12b3a6b9bad2fb2c78e2970d610efc85714635bade9ca4c336adf11f28792948cb15789d37b10d3a2c85a8154966cf63c411537401cfb74fd8f5e8b",
     "size": 55056497,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu22.30.13-ca-crac-jre22.0.1-linux_x64.tar.gz",
     "vendor": "azul",
     "version": "22.30.13"

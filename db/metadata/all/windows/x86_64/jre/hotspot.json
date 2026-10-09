@@ -28824,6 +28824,48 @@
   },
   {
     "architecture": "x86_64",
+    "distro": "temurin",
+    "features": [ ],
+    "file_type": "msi",
+    "filename": "OpenJDK11U-jre_x64_windows_hotspot_11.0.33_8-ea.msi",
+    "image_type": "jre",
+    "java_version": "11",
+    "jvm_impl": "hotspot",
+    "last_verified": "2026-10-09",
+    "md5": "f62d37c26357dad8af2928547acf247e",
+    "os": "windows",
+    "release_type": "ea",
+    "sha1": "f6ed1402f8860ddd2adc08c690582ed2f6e81961",
+    "sha256": "b84bbd45c252be333656c22468d8ae7d180fdf8bdc79612b2ce4ad77f356de79",
+    "sha512": "2baf24231cde388eba481354fd9da0925cb9dd7169f65a8f91d1ccf6f16392bbc9901d1d002f030e925d996c45042bcec7a4da3e7184ea2aa4097627156a94ca",
+    "size": 31555584,
+    "url": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.33%2B8-ea-beta/OpenJDK11U-jre_x64_windows_hotspot_11.0.33_8-ea.msi",
+    "vendor": "eclipse",
+    "version": "11.0.33+8-ea-beta"
+  },
+  {
+    "architecture": "x86_64",
+    "distro": "temurin",
+    "features": [ ],
+    "file_type": "zip",
+    "filename": "OpenJDK11U-jre_x64_windows_hotspot_11.0.33_8-ea.zip",
+    "image_type": "jre",
+    "java_version": "11",
+    "jvm_impl": "hotspot",
+    "last_verified": "2026-10-09",
+    "md5": "f95402bd5a73712c9c3b766ee5e6f4e3",
+    "os": "windows",
+    "release_type": "ea",
+    "sha1": "312c6dabace664973797f35c8a6e9117b07eae0d",
+    "sha256": "6ddffef0966190900dc8efa94f38c9aa0a19d969209bb4bdd66654bdfb0f2278",
+    "sha512": "05fc5ba5beb1ecc82e5ff72c772183bd5f6c8ab5e0c12b9313c1f07b7cca143c03fd795f299d91bf6232ae0d7b30edfbe39c0df8d89d74aa1a4105093b38f97c",
+    "size": 43578919,
+    "url": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.33%2B8-ea-beta/OpenJDK11U-jre_x64_windows_hotspot_11.0.33_8-ea.zip",
+    "vendor": "eclipse",
+    "version": "11.0.33+8-ea-beta"
+  },
+  {
+    "architecture": "x86_64",
     "distro": "zulu",
     "features": [
       "javafx"
@@ -55310,6 +55352,7 @@
     "sha256": "ceeddfed90d346bfe26722a1fd20cd287a2c28cd706739a167445cdc18abf70b",
     "sha512": "5eb3c9c02aff93837826eb919da85d812371b77fcfdfb7b042bf051b409bd1bcb23e0c4a922489ec6c83350f1aafe6a636a849a762a4a0d1a09dd046eb6664f7",
     "size": 32321536,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu17.66.15-ca-jre17.0.19-win_x64.msi",
     "vendor": "azul",
     "version": "17.66.15"
@@ -55331,6 +55374,7 @@
     "sha256": "078871f6038a07b0d71d8c54d223c7349ab2064716b0f3ab8d963eb082aa16cd",
     "sha512": "a36376d25a93101053d2f4cbef23169a819468afb00fb8983c52bb83a6d40caeae3bb4a01f382a6b0d92781df37483b2ff08491507bcd9206e07169776487c24",
     "size": 43653342,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu17.66.15-ca-jre17.0.19-win_x64.tar.gz",
     "vendor": "azul",
     "version": "17.66.15"
@@ -55352,6 +55396,7 @@
     "sha256": "6d84e44eafc9a325480483b45bf3035e956ce082bf956493045a7b577dbd4a41",
     "sha512": "4eba4b0c17cb7011593b39bf1cc02e97d2b871d33229e047839bf473fa790a1975f536c908492c9d90d62bc28a6a6bc3d2462a5cca45512d93d616c3b92876d9",
     "size": 44096920,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu17.66.15-ca-jre17.0.19-win_x64.zip",
     "vendor": "azul",
     "version": "17.66.15"
@@ -73681,6 +73726,7 @@
     "sha256": "fd53dc88bbfbfbee5a9cd4888a9701f1f2965844166b9fb6d5d2979700ea10be",
     "sha512": "8f98442f38e2375203514e6e9d34fd21b3b5e4cdda424e7a5c9cc42a9f585b2921170e3d6ee72cc39a914a611b5b113772c2f4371df39588c7678857fc2fa618",
     "size": 35868672,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu21.50.15-ca-jre21.0.11-win_x64.msi",
     "vendor": "azul",
     "version": "21.50.15"
@@ -73702,6 +73748,7 @@
     "sha256": "5a9c63d878aacac7141ddac3dfeed9da94562c714d85bd9e408caadb59f0e25e",
     "sha512": "1d8699d5578f8d566cb861fc84454dffc7a7d6baf2ac90987f10ec3d46557c1986f5d47670454ecc09d6c969426972da5e270bcbe963cfe6893175b03bab9c36",
     "size": 49610699,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu21.50.15-ca-jre21.0.11-win_x64.zip",
     "vendor": "azul",
     "version": "21.50.15"
@@ -83296,6 +83343,7 @@
     "sha256": "f5a142ab2eb4bac02eba307b351cbacfab700bd9d9124591c77d090af118e302",
     "sha512": "3eac8c7949c8df190d86618ae5d24d877e35d3341569e890c994eb032ae2790ee9be21a2024887f9da879f85dc3bbce1d65262fec7ee46c53440b9f37247499c",
     "size": 43479040,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu25.34.15-ca-jre25.0.3-win_x64.msi",
     "vendor": "azul",
     "version": "25.34.15"
@@ -83317,6 +83365,7 @@
     "sha256": "4a52b5b0da39344bb17e1e0f8915cede89e693402684e5ea4a3de5fd9803c4e0",
     "sha512": "727650243e61551d327e7a29961b3fd75c8f7fa5a97644a1e59a4fe46fa47b0467a943bc4d316bdd01974c2d5e3d355c3df098711461c330891d02c1f03727e4",
     "size": 58870944,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu25.34.15-ca-jre25.0.3-win_x64.zip",
     "vendor": "azul",
     "version": "25.34.15"
@@ -86739,6 +86788,7 @@
     "sha256": "a88f041a1cd7180dc39ff121fea07e0c680c2d872a16924b16991510d1f69c1d",
     "sha512": "62b2f0ae34c8b4a8e920060804647028dd65adb865ec24c800177fd09be84fb5a1f097164648caecd9db7a1c49711d1b10e59350f0338bd349edddc72949de1c",
     "size": 43958272,
+    "unlisted_since": "2026-10-09",
     "url": "https://github.com/adoptium/temurin27-binaries/releases/download/jdk-27%2B17-ea-beta/OpenJDK-jre_x64_windows_hotspot_27_17-ea.msi",
     "vendor": "eclipse",
     "version": "27+17-ea-beta"
@@ -86760,6 +86810,7 @@
     "sha256": "a4ad59c7a392ac1a2e0ea68bbab9cad69d999443ca1268226ff3f4e38693d0a2",
     "sha512": "740a95175545676c9be15231c17748ed8f3a7c0f1b6ec86be20137dd6e9ac16bc69cc3ffbe579abfc6dba0678184fc42c1591cc9549137fc868ab87be5441685",
     "size": 60160085,
+    "unlisted_since": "2026-10-09",
     "url": "https://github.com/adoptium/temurin27-binaries/releases/download/jdk-27%2B17-ea-beta/OpenJDK-jre_x64_windows_hotspot_27_17-ea.zip",
     "vendor": "eclipse",
     "version": "27+17-ea-beta"
@@ -88571,5 +88622,47 @@
     "url": "https://github.com/adoptium/temurin28-binaries/releases/download/jdk-28%2B18-ea-beta/OpenJDK-jre_x64_windows_hotspot_28_18-ea.zip",
     "vendor": "eclipse",
     "version": "28+18-ea-beta"
+  },
+  {
+    "architecture": "x86_64",
+    "distro": "temurin",
+    "features": [ ],
+    "file_type": "msi",
+    "filename": "OpenJDK-jre_x64_windows_hotspot_28_19-ea.msi",
+    "image_type": "jre",
+    "java_version": "28",
+    "jvm_impl": "hotspot",
+    "last_verified": "2026-10-09",
+    "md5": "52fbabee58d7220b24d550f8712a70fd",
+    "os": "windows",
+    "release_type": "ea",
+    "sha1": "97995aef1af50d4035b3044c7062f09a10133006",
+    "sha256": "f2c6a0f8fa228a170d0c8cd463b23c4cbd4b4cae7b4162e212de9204699cb0c4",
+    "sha512": "959323d12efa1bdd8557296ea24846d7e54c99bd2232ee78a05a2acd55eddbfebeae3b142d65476002cfdaf02cb3fd6b8f8ca94069749588dc5665b229a764a1",
+    "size": 57626624,
+    "url": "https://github.com/adoptium/temurin28-binaries/releases/download/jdk-28%2B19-ea-beta/OpenJDK-jre_x64_windows_hotspot_28_19-ea.msi",
+    "vendor": "eclipse",
+    "version": "28+19-ea-beta"
+  },
+  {
+    "architecture": "x86_64",
+    "distro": "temurin",
+    "features": [ ],
+    "file_type": "zip",
+    "filename": "OpenJDK-jre_x64_windows_hotspot_28_19-ea.zip",
+    "image_type": "jre",
+    "java_version": "28",
+    "jvm_impl": "hotspot",
+    "last_verified": "2026-10-09",
+    "md5": "eea5dd1604d72e091f84d10089c184cf",
+    "os": "windows",
+    "release_type": "ea",
+    "sha1": "40dbab2516d1a59d47a001a76aaa56bf3c049a16",
+    "sha256": "43c3e8c7eed8170ed40271d4b34ac78c32df3c70f011f2d456bdd822cc5f0ef0",
+    "sha512": "70d2d4b895a53a69ff28b460c3e6d3a6e1888bdfb20936034ddb71881664f1d52b9c877422a7ea852af2f0bb4247da9a3d89de685900e57f0838f354ff8d2d70",
+    "size": 77190392,
+    "url": "https://github.com/adoptium/temurin28-binaries/releases/download/jdk-28%2B19-ea-beta/OpenJDK-jre_x64_windows_hotspot_28_19-ea.zip",
+    "vendor": "eclipse",
+    "version": "28+19-ea-beta"
   }
 ]

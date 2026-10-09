@@ -53559,6 +53559,7 @@
     "sha256": "b952eeb26ba4e870b59fc7416b76e7f83581eebe67f706bd28f3cefe4d31c013",
     "sha512": "b9ab36553a7a91e6aa3d77d1a14deab06c2dbf9f0d37d17c1e01ca8281b250d935091ec3d2dd6a1befe8dd6148c8964b44378c638f5e817404bfa35c8989cc0e",
     "size": 107354397,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu8.94.0.15-ca-jdk8.0.492-linux_aarch64.tar.gz",
     "vendor": "azul",
     "version": "8.94.0.15"
@@ -53580,6 +53581,7 @@
     "sha256": "df151aabcf5f72801d0048938cf0e3da1056ed9fac79e1ee5246a890413429f4",
     "sha512": "6348daaa376409a061a43a51057168047bbd93e5ac66cffe4d397a42fab7a4441d347f7be34ace67dab56e3073d3f141910164540562335879286b483473fee5",
     "size": 109761371,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu8.94.0.15-ca-jdk8.0.492-linux_i686.tar.gz",
     "vendor": "azul",
     "version": "8.94.0.15"
@@ -53601,6 +53603,7 @@
     "sha256": "6c8aaaeaf6ec448330243207c1fb07f2fd7195b772205b1fc1d73c4068a54a47",
     "sha512": "0e6bd2de4c21bcff9855a9e79037d3b46f1d7834c95fdbda8b057f3e5174bf61d272da08ba8e075acdce61bec1ffa480b91dec3d1bcb0eedd1d51373518ff72a",
     "size": 114253501,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu8.94.0.15-ca-jdk8.0.492-linux_i686.zip",
     "vendor": "azul",
     "version": "8.94.0.15"
@@ -53624,6 +53627,7 @@
     "sha256": "1389f88fb71ed1bc89e047bab10533de370ae7dd6ff1adfce6b587bfb95ef282",
     "sha512": "10e508b7880d9f11a31acf0710ef18f29d583c38b21ee0ccd45d405e2d3d74f625331d586fbc5badf20b2360d3696bd37debfe72e793cfc1bf8a16b40d52a751",
     "size": 106653404,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu8.94.0.15-ca-jdk8.0.492-linux_musl_aarch64.tar.gz",
     "vendor": "azul",
     "version": "8.94.0.15"
@@ -53836,6 +53840,7 @@
     "sha256": "7711c9d995bbb234878dc06bdf53f3afc99126554ed87824a69a8e42b7c84fa8",
     "sha512": "2ffe5364be9eef18ab45b0ece6e040bb4ba194dea5f67dab40874ee6b7d849132bdec8943e9aab30623e6338aec126b0792710dfc7d1ed97ab9869a5c4ed873e",
     "size": 42666249,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu8.94.0.15-ca-jre8.0.492-linux_aarch64.tar.gz",
     "vendor": "azul",
     "version": "8.94.0.15"
@@ -53857,6 +53862,7 @@
     "sha256": "a09f2d77c5e400dd8e715dca57dbfe142ac874ef0c84a76d854ec36a8d81318a",
     "sha512": "f77f027216dc9314d3161959be9c5f377b77812e123a7610292b5eaac29a95b92512891f2e8d50d4e66e80c3e41ecd2d55488a65874673ec3dda53ba77b50f29",
     "size": 45166750,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu8.94.0.15-ca-jre8.0.492-linux_i686.tar.gz",
     "vendor": "azul",
     "version": "8.94.0.15"
@@ -53878,6 +53884,7 @@
     "sha256": "34a8c36050a505363535154740c6b952314f277518affd751ee687d060947a34",
     "sha512": "ee577393646c583fae72db25385462b30046a205b28dea9e02d6d383c715213aa1ede4f12869b544960d6a34a5c85d781746e2a6987d0767d81498d5c52e81aa",
     "size": 45264652,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu8.94.0.15-ca-jre8.0.492-linux_i686.zip",
     "vendor": "azul",
     "version": "8.94.0.15"
@@ -53901,6 +53908,7 @@
     "sha256": "f69d3f8ef63b9c6a1120a034489fda0f1b5303cc53b98a2049cb9760c1ac68e5",
     "sha512": "ef250fd1971581f1a6786166a09b6d9ea22629e02df1ed144a71a14312e6ba612681474eb624a25ddc0d3fec62fb555e033730d056ca75a789f7e07f1abec944",
     "size": 41786263,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu8.94.0.15-ca-jre8.0.492-linux_musl_aarch64.tar.gz",
     "vendor": "azul",
     "version": "8.94.0.15"
@@ -53924,6 +53932,7 @@
     "sha256": "3f8badf6b554bb64e9c8f48ad074e73120465fa7ae9aa60a04b20c7c7ee57aea",
     "sha512": "01c61a573e45673ea608af6e22a4b40d6cf04af3d13da1e30964267df4932a01d6788ca419535bb94d41ba69a163c218812e9687ea805313dd1f97395b4d1e0d",
     "size": 42737642,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu8.94.0.15-ca-jre8.0.492-linux_musl_x64.tar.gz",
     "vendor": "azul",
     "version": "8.94.0.15"
@@ -53945,6 +53954,7 @@
     "sha256": "8f4d04ad9e858cd2dc05f7e4a75b6b9e7e68dfec3d308eb5f97efe88d605ed4b",
     "sha512": "99d0d31a4a70b1680828169a0049e134834ad5531445b7c526501df062c4da6af4d81baf832c2f77d5a8634d14a643070e25b39b35ebbc991dae195643981049",
     "size": 42507079,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu8.94.0.15-ca-jre8.0.492-linux_x64.tar.gz",
     "vendor": "azul",
     "version": "8.94.0.15"
@@ -53966,6 +53976,7 @@
     "sha256": "144aa9f8b5a01bed66e4570e07c19e8ba191ae4503ffeba18f938128eb5f195b",
     "sha512": "916e7bc55da08a877a263bbfbbf21ab525ff7aac514695c934462702929cbaa72ad93fb7565aea62e6082dfd75c0f8c63e0e5020ceb7fb5198f5839f29da654f",
     "size": 42596414,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu8.94.0.15-ca-jre8.0.492-linux_x64.zip",
     "vendor": "azul",
     "version": "8.94.0.15"
@@ -81730,6 +81741,7 @@
     "sha256": "5a3ab4c94054617dffc96470e041b2bbc08387326dce385629d3a67346f40eba",
     "sha512": "67cdc9d2ebbfacfe8fa399da6eec5f1f0a7dd16832d720db176a112e71e7cff1e60347a3d5f4761a483d63b695d2a5ce25107d5b3d4dc3f1838abfef9b489cd4",
     "size": 308458827,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu11.66.15-ca-fx-jdk11.0.20-macosx_aarch64.dmg",
     "vendor": "azul",
     "version": "11.66.15"
@@ -81753,6 +81765,7 @@
     "sha256": "568668df8482514f871e74e5ea22ded10042fb854390f3f5e0df7ca2a4a0f444",
     "sha512": "143e1dc5843b150403e8ea009b8e5767332c2262cc43eb639395c3e4a185f8ed1df8ec1a5a2d477a479e9a0741be519a09dc749433bab5e385a1fdf52861858a",
     "size": 305168631,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu11.66.15-ca-fx-jdk11.0.20-macosx_aarch64.tar.gz",
     "vendor": "azul",
     "version": "11.66.15"
@@ -81776,6 +81789,7 @@
     "sha256": "03150d8ffe2dea2e46b8e65f768efe9da9426aee8f92d2dcd0c806da0ed76c0f",
     "sha512": "85f9f36acb284c72931807a69f0306986e9ac03ad56706198d494ac4206d1ea0d60ee253709d11a8a80fe22f9949e18c33e9ef720d6521b051c1e4f449682053",
     "size": 310395359,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu11.66.15-ca-fx-jdk11.0.20-macosx_aarch64.zip",
     "vendor": "azul",
     "version": "11.66.15"
@@ -81799,6 +81813,7 @@
     "sha256": "ee747410fb26a274a703475adf377e106b68e055482b13df1dfa5765c8d352c1",
     "sha512": "c349dfdf811a2c722496cb643d0c19e56b0419acfc900cc34f2c8ff2fb74066ef7f6b87e6b84cf6c98514ca1e961b5fcf75408c424c6abf0be43c8ae2b683002",
     "size": 350440021,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu11.66.15-ca-fx-jdk11.0.20-macosx_x64.dmg",
     "vendor": "azul",
     "version": "11.66.15"
@@ -81822,6 +81837,7 @@
     "sha256": "a558022648184e515e2fb9e490c58b789fc9f042e182f59bee0cdfddead93fb6",
     "sha512": "565b620cf7677c5936bf7ebad9f6e1a8b8f0b937d718de3459acc814a4de8e9b36eff07d970bd7bde0c32c2ae392e502dda625d8e406e5e833d360c9bd4ce854",
     "size": 347174103,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu11.66.15-ca-fx-jdk11.0.20-macosx_x64.tar.gz",
     "vendor": "azul",
     "version": "11.66.15"
@@ -81845,6 +81861,7 @@
     "sha256": "46bc295c0adbb476c8004029e30730c75f6a7236d7a4a31f2754796718be6015",
     "sha512": "40cf931b6d99f497d5764edcc2c6426c18a3c0df20c52dd93f95edb4c29405874a7ae03c41749bbc673c19383f78106d1303eddabf5a4459f9dc622a884e5059",
     "size": 352445751,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu11.66.15-ca-fx-jdk11.0.20-macosx_x64.zip",
     "vendor": "azul",
     "version": "11.66.15"
@@ -81983,6 +82000,7 @@
     "sha256": "b94923deb7eea7dfc96d5ac33ce58bb938a7b63b4e50820cf7c3da29d365b789",
     "sha512": "bbca20407d98630f16e97034ef0090fa9bc96ad0268fda1294390557e580a135a5848e012c57f1eb037509e69fdb80175a723ff22d2e3f15bae4ce5fec720052",
     "size": 73331706,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu11.66.15-ca-fx-jre11.0.20-macosx_aarch64.tar.gz",
     "vendor": "azul",
     "version": "11.66.15"
@@ -82006,6 +82024,7 @@
     "sha256": "d1a5c347d81989e2b9fd54bec45c1c18960992b8e0bebd363e7be3a4acdcae64",
     "sha512": "19998966b2cabd2558e2063b744b64c5a017aa1746dc3076fb66c82cfa3e2f00521c0d797189bab073a4470498fe6ce3a457772b13a3a0dec4c8a0bd6e417869",
     "size": 73653490,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu11.66.15-ca-fx-jre11.0.20-macosx_aarch64.zip",
     "vendor": "azul",
     "version": "11.66.15"
@@ -82029,6 +82048,7 @@
     "sha256": "564c2c628f41524f9001319d2525aca6177846aaac690e218bcdd9dca347eee9",
     "sha512": "101323e19b158c56d79f6308d0e662c13c9349e3a60a6c2c8c786319c2de5cd5432f5f56462d0018bbd210840a8056ec7dbd4d75042ab6bd882612ad02724f6b",
     "size": 77415143,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu11.66.15-ca-fx-jre11.0.20-macosx_x64.tar.gz",
     "vendor": "azul",
     "version": "11.66.15"
@@ -82052,6 +82072,7 @@
     "sha256": "2e1df07720104a40f6113ec8f9ddd2fcc996c927a184af00b224ff4cce73abf2",
     "sha512": "f3e207dabef7a8f69a9a6986cb673056139fc46ac55e986ac215607d6f35d039d31bdb83d712fac57961d9bedb4d245214cec8c0c3dd4d4e7c0303b77a82918c",
     "size": 77758654,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu11.66.15-ca-fx-jre11.0.20-macosx_x64.zip",
     "vendor": "azul",
     "version": "11.66.15"
@@ -82270,6 +82291,7 @@
     "sha256": "8bf03fce77655e6f96e9c6694ddcf9c41301178a82eefe7c7476c92061d297e4",
     "sha512": "5c51ef42b841ddc046f1660cec2553334e716243ae91ca3d012d1933476405b12eb17360356faa3b86cc17518015c2e96db397b4c5391e76da60cc6334987caf",
     "size": 197893473,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu11.66.15-ca-jdk11.0.20-macosx_aarch64.dmg",
     "vendor": "azul",
     "version": "11.66.15"
@@ -82291,6 +82313,7 @@
     "sha256": "7632bc29f8a4b7d492b93f3bc75a7b61630894db85d136456035ab2a24d38885",
     "sha512": "ac2cc7a7bbb14c29a33f48f21735ece9c48acf1209316de93796c863918298a497bbd7b9cf0de7b5ce9ea331112cecbc5fbb088c6aa8c2e263315fab69cd8879",
     "size": 194993088,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu11.66.15-ca-jdk11.0.20-macosx_aarch64.tar.gz",
     "vendor": "azul",
     "version": "11.66.15"
@@ -82312,6 +82335,7 @@
     "sha256": "d07f8c734e377fe527792d3a082cd50c5119840b9cadc660691df3a950fd2981",
     "sha512": "f770ae23bb97780f201e77fcc0df493d958ea24d0cb07e3b3cbb84fce4273ed42c00ac301393e6a59e7bd1406e49d55589fe19608dad79336549bc653e73f84d",
     "size": 199686542,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu11.66.15-ca-jdk11.0.20-macosx_aarch64.zip",
     "vendor": "azul",
     "version": "11.66.15"
@@ -82333,6 +82357,7 @@
     "sha256": "c9f010d6540e4cb7ca1b227b15a46d1cb309efd707b196d9e7d1d7dd34bbd991",
     "sha512": "819f079bb43ca0de5b1948dba3ab147cbae9bb93698630d54a86a2c841cadfb19e6b77b3806570e301c73bd9905a87cb9bcc4e3d22697aa766a320c126266218",
     "size": 199371360,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu11.66.15-ca-jdk11.0.20-macosx_x64.dmg",
     "vendor": "azul",
     "version": "11.66.15"
@@ -82354,6 +82379,7 @@
     "sha256": "bcaab11cfe586fae7583c6d9d311c64384354fb2638eb9a012eca4c3f1a1d9fd",
     "sha512": "b9d5c53e4ccfb9507fc5bd28b1386dc7a7006900cd0849daadc2841a5f38b783320d8de7be599c5ea8fe00bb78005742a8564164ec64c8cb7a099d1b35e42d55",
     "size": 196471694,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu11.66.15-ca-jdk11.0.20-macosx_x64.tar.gz",
     "vendor": "azul",
     "version": "11.66.15"
@@ -82375,6 +82401,7 @@
     "sha256": "20cbb825705cc0353e3640643e50f2c83827334ded5e9bae91cd4656ef2e7f11",
     "sha512": "8fa8ba2f6c8e45d012d600056a674b4d4d3665974c3d60177f2887f201d38ecec1bd8ca475c2802ce53ce8eda2909965c800fc40ade5d0ffc4b265c638b45dad",
     "size": 201228234,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu11.66.15-ca-jdk11.0.20-macosx_x64.zip",
     "vendor": "azul",
     "version": "11.66.15"
@@ -82673,6 +82700,7 @@
     "sha256": "72cec0c2ba7810f7750f8a3a70fad4031c596ad4b515203b4db11d8959cdd602",
     "sha512": "4703dc2fedc5810f3c06d489dbc4e9c6883d0242d7736695b5afb79c518fec4d12b04d76b5675ae38f9250df12f34e8f8299eaef6e883b8cdea68f375b6f8c45",
     "size": 40566616,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu11.66.15-ca-jre11.0.20-macosx_aarch64.dmg",
     "vendor": "azul",
     "version": "11.66.15"
@@ -82694,6 +82722,7 @@
     "sha256": "4a01e6b0ead1c50c748528745e05a1353edf535c34dd8f22507b23da95cc55f7",
     "sha512": "0bcab45c70f5d7a3ae5cc0fd8003fd5370801d6704610c254585b65bce6931a6647354471e525a6502a7baa468b18b9637c998d5075fd0626928bb6f9d4171f1",
     "size": 38543043,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu11.66.15-ca-jre11.0.20-macosx_aarch64.tar.gz",
     "vendor": "azul",
     "version": "11.66.15"
@@ -82715,6 +82744,7 @@
     "sha256": "ee82027ca3b684fad15c203e966e050b5b335ea34b10784eb70300a937f9bd01",
     "sha512": "7892e00b520e283f48c3c6b8c9812ad11c7609daa4c0ab6d9ecf9edffa796c2f81811828dae4377d969c0ebf037ddbb350f6a0d100cdfbc51d45b3c7317076ac",
     "size": 38769974,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu11.66.15-ca-jre11.0.20-macosx_aarch64.zip",
     "vendor": "azul",
     "version": "11.66.15"
@@ -82736,6 +82766,7 @@
     "sha256": "aa9d003a56033980985bd913305926d5e7560440026a759dbe1552738e62d7a0",
     "sha512": "3c43e80bb6dbdd809a4774435b43a93fe36ce12dba2ed6ccc997f119a3bb1ae0ce55313e5c71b091759a1844291bf06ae44a96f13f5662868e36b11c22d52fb2",
     "size": 39559398,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu11.66.15-ca-jre11.0.20-macosx_x64.tar.gz",
     "vendor": "azul",
     "version": "11.66.15"
@@ -82757,6 +82788,7 @@
     "sha256": "6c54a9d2c0abe1db3bf832e2b25193fb07dcdb73a2c8f235e2d717bd303eda4d",
     "sha512": "8bc70ed50c13c51491c0a08ab9306111db283f34a29af00a0443babc4826cee731c5b7a70040f19779e39e7d83dcd2c5c4007aa6be41cccf74a16680e0ed1f97",
     "size": 39817707,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu11.66.15-ca-jre11.0.20-macosx_x64.zip",
     "vendor": "azul",
     "version": "11.66.15"
@@ -97541,6 +97573,7 @@
     "sha256": "bdaa9540fb494b63a0771fe91115f4f9daf07161384be46f4e8030de2221ca18",
     "sha512": "1cbecf96e8eeb285d1211ce0b4f530111914cc50be3fc24aae6a4beafb45e3c649463a5d25eb135bd085f2523afa69c83aee0836e9849d5de927c92372ee25cd",
     "size": 200086712,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu11.88.15-ca-jdk11.0.31-linux_aarch64.tar.gz",
     "vendor": "azul",
     "version": "11.88.15"
@@ -97562,6 +97595,7 @@
     "sha256": "e6326faaf29cf8991eba3acd30fdbac7ddf67fe0acda6a5d50ef8b659096974e",
     "sha512": "1fada25dc402ed07e44b733d1895bdf1ca5044da0d6715c4e53561c6cf89542bd0a43aa3aeaf12c79eaf861fdc9ef0c40e3668542281e3e48735e01732098da7",
     "size": 181960746,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu11.88.15-ca-jdk11.0.31-linux_i686.tar.gz",
     "vendor": "azul",
     "version": "11.88.15"
@@ -97583,6 +97617,7 @@
     "sha256": "262fff591ab5bb5a11ef37bbcafac8490339fa2e17e6792aafea4a48246d5eb2",
     "sha512": "e05d92022a1c0b220e4f45a130f4a67f27f7d78762e482517f5126946809f7224c8dc5fe263d595c12cc9bba5c5ded4fb5c17248eb7023a4578e83a9f3358e8a",
     "size": 185936475,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu11.88.15-ca-jdk11.0.31-linux_i686.zip",
     "vendor": "azul",
     "version": "11.88.15"
@@ -97606,6 +97641,7 @@
     "sha256": "3be61f8c276e355aaa84de983172dd56da812dad2d2c40469050f171d93b17ab",
     "sha512": "101a8b893d50408f23635e474c1f60ecfbf69c2fda27a5b2aee855bbb38d381dc583985ab554bb80cdbdc9b7b0e4a8add626a344b17d258827276f9892d5559b",
     "size": 198868297,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu11.88.15-ca-jdk11.0.31-linux_musl_aarch64.tar.gz",
     "vendor": "azul",
     "version": "11.88.15"
@@ -97795,6 +97831,7 @@
     "sha256": "f4c2a5e37104d20c4b4db51c83ffe87215a665020d18d50f646b8e2ab44259df",
     "sha512": "8eb7872af5436e75f4dec23f72f9f539ec9cf06030d4b190452ea5b149c60697631ade63702f3d1200b5870b140e55d81112b9758555557d216d9cfe2b36ff03",
     "size": 42996310,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu11.88.15-ca-jre11.0.31-linux_aarch64.tar.gz",
     "vendor": "azul",
     "version": "11.88.15"
@@ -97816,6 +97853,7 @@
     "sha256": "aaea520ca85e7022a1aade2109a598f1a51fd70f5bad29d537588da6d7cac5b0",
     "sha512": "59dacbb581ec7b3ea2d9c0112b619a9c28b298117419fc6599ae9116f1a3ead92a406708f32d18fc29189dbb7c11a4f08858286fe16e30f980f3785b2452717e",
     "size": 38683123,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu11.88.15-ca-jre11.0.31-linux_i686.tar.gz",
     "vendor": "azul",
     "version": "11.88.15"
@@ -97837,6 +97875,7 @@
     "sha256": "3f0d9532c2186f631b64fba94fec50decbd49be9dad5953a42460fb864e73d97",
     "sha512": "924314bed48c91ae3bed1c53054e321ed8d7989fb8cb00573be67a37c866d2ca2acbc638c3c9137e00a4a5ea3bb0b7e4f23729627e1d775dcf30c893b8c87311",
     "size": 38831684,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu11.88.15-ca-jre11.0.31-linux_i686.zip",
     "vendor": "azul",
     "version": "11.88.15"
@@ -97860,6 +97899,7 @@
     "sha256": "f0701341e60ec9842f4d58a02ffd6c41d1c16f66f1bf17155387a8aaddab05cd",
     "sha512": "a51b503f39a0959ec2b32284722eb70a5f648e7bb87479a9d8d991508309f7fd111fd7223a7aa0251644a0ee2dca1049ec978cd487bb7d8294a3ff7fcd825501",
     "size": 42577001,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu11.88.15-ca-jre11.0.31-linux_musl_aarch64.tar.gz",
     "vendor": "azul",
     "version": "11.88.15"
@@ -97883,6 +97923,7 @@
     "sha256": "79ca03453cc853e6acb0946be991d44a8e4ec9838910d593daafa456ecdce3b3",
     "sha512": "ce47953f9d58bdb3f4a5e22e44b5ec888b7d7299f190c1915bd544da658f55288aff62012c988a7aaff288163101db14395cbaf979f6b9f117ba2f2e879ee662",
     "size": 43842124,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu11.88.15-ca-jre11.0.31-linux_musl_x64.tar.gz",
     "vendor": "azul",
     "version": "11.88.15"
@@ -97904,6 +97945,7 @@
     "sha256": "4907e6e006c617d135a85a6170027ec8b929c70c6ee35e5f3734e339f5695f80",
     "sha512": "951d1347468e08843354f36f488b89ad0c1f1f3a80c7cc98a048930291cc7d899cdb53f6955b6249deb147196979e29f4d77463b337ac80e03257afe8f18c312",
     "size": 43239913,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu11.88.15-ca-jre11.0.31-linux_x64.tar.gz",
     "vendor": "azul",
     "version": "11.88.15"
@@ -97925,6 +97967,7 @@
     "sha256": "6e50a19180cd99c342a7fcb8de262e65abc8fce943b4b68ef62a7c7aa98b7d58",
     "sha512": "fedfc953722fc0b60e2fb68fc843c8dec0cb8d9c7ace176b7470bc639b501b9f0e21db84cd4ff56e2a97d9d88b61258d049ff08f88c5296399304b196508a8b7",
     "size": 43393377,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu11.88.15-ca-jre11.0.31-linux_x64.zip",
     "vendor": "azul",
     "version": "11.88.15"
@@ -157848,6 +157891,7 @@
     "sha256": "a8306337957fc87b92168fcf5e71efcd5fcbb568561f1e2ada25a03506222b24",
     "sha512": "ec655777ceffb6bc46f22b7682c377a72f5a83359ef397c5a48907c7c9e1a461ac0995ef1ff722abf736b3145e6ca1353a7b8fc92c9957c58f4f84c8e0387b2f",
     "size": 306843401,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu17.44.15-ca-fx-jdk17.0.8-macosx_aarch64.dmg",
     "vendor": "azul",
     "version": "17.44.15"
@@ -157871,6 +157915,7 @@
     "sha256": "9afc9faa99c0a00d391c907d1017b05b6303ba14013afa7ab2fcf26b25758ab2",
     "sha512": "5713ba8ffa85f979f51bededb15965922633ae75f1fb02dbba35fcba59e05cefd45bae25873555fc5e7ae87b8181b9747a7ef1edc11cc0e4d506adbbc82ba7ca",
     "size": 303718944,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu17.44.15-ca-fx-jdk17.0.8-macosx_aarch64.tar.gz",
     "vendor": "azul",
     "version": "17.44.15"
@@ -157894,6 +157939,7 @@
     "sha256": "df74795dcc905fa8c6fb2dd29d956c1fb9b08c983212a47d916c1f0d1f585978",
     "sha512": "360380cec37201feaf39c1c561c2b64f4b4c9c0fcee75cc458da81bf7195add329439853801940c08062cb0be4a043755b533194e122632f7403f3e4bed4e536",
     "size": 307982122,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu17.44.15-ca-fx-jdk17.0.8-macosx_aarch64.zip",
     "vendor": "azul",
     "version": "17.44.15"
@@ -157917,6 +157963,7 @@
     "sha256": "c890dcca978031b443b772d416cf96d04e196ec0c5fe8c0fd278c89bdc9d2b42",
     "sha512": "54173cac8329b73b2b4d3bf1227475b388838f3ca65120caf3b49b5e3fc0014b7078b78f9487b1c76743816ffd982b3099b798b4098df8c33fd4cf3db39163c9",
     "size": 318057307,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu17.44.15-ca-fx-jdk17.0.8-macosx_x64.dmg",
     "vendor": "azul",
     "version": "17.44.15"
@@ -157940,6 +157987,7 @@
     "sha256": "8260e4bbf0245b33be783462b5ecccf700ad4d80eb50cb57c8cba5c6a8bdb4d2",
     "sha512": "f41936fd130a501e194de377738788b0cbf2c516ff08fe22f525d9d3d5126cf6e6c2b2cf79aeb4b3de7e95a77ada7f5ab87488cf05e926933fba61c1496493b0",
     "size": 315088258,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu17.44.15-ca-fx-jdk17.0.8-macosx_x64.tar.gz",
     "vendor": "azul",
     "version": "17.44.15"
@@ -157963,6 +158011,7 @@
     "sha256": "9b0848ca3d1552bb04faea94ed6350ec5c25ece845409360d37bded2d2b2dd18",
     "sha512": "9646b5e797e5f8b5bbde14eefabe3ccfce556a5a2bb59d70d8b9bbfaa278ae78f1e89f35a4cc1ac64c3afe347d159b879990414035332861a9449c3488602214",
     "size": 319506143,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu17.44.15-ca-fx-jdk17.0.8-macosx_x64.zip",
     "vendor": "azul",
     "version": "17.44.15"
@@ -158101,6 +158150,7 @@
     "sha256": "22d153a2cb2b80b8d27aed34344b6f427942b9141e3b9f43d6d02877ec5ce9cb",
     "sha512": "b96b38d3212b77ad98cfdbc3c08dd2ebe448bdad85122473edf061df85e880d418736ed5b5f0e2841f840b1ce70af61c1df3593f2df2197186ba917e93d9f36e",
     "size": 77948918,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu17.44.15-ca-fx-jre17.0.8-macosx_aarch64.tar.gz",
     "vendor": "azul",
     "version": "17.44.15"
@@ -158124,6 +158174,7 @@
     "sha256": "2061e724b409bfc5e4a140262ea99404cd75abd9e4a185a9305496ce2016bc31",
     "sha512": "b7d67abf19791c1b58940b57e5672b61305f0982d4f2f08bb35b6958fad562eb91d9b20563b2b56bccdba71f74861d90c246d5e30db190a144f51a2c551d4b14",
     "size": 78271559,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu17.44.15-ca-fx-jre17.0.8-macosx_aarch64.zip",
     "vendor": "azul",
     "version": "17.44.15"
@@ -158147,6 +158198,7 @@
     "sha256": "9f2dd5e627129991cbd2c6a4521b3a2ff69f0dee24eccc440832d83364b52134",
     "sha512": "0032a8de6164f2d380e202ac6ec55aa545ca07ca5f49f050fe9711e0e25a4559af5ebb7169cd7d21e4f8166f6e83d771a4c30e043d36d0e0855be55206e8d201",
     "size": 82181713,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu17.44.15-ca-fx-jre17.0.8-macosx_x64.tar.gz",
     "vendor": "azul",
     "version": "17.44.15"
@@ -158170,6 +158222,7 @@
     "sha256": "3893572636ba2cd0725edbfdf207aeb09436d2c516cbaec3e8d461932bb4389a",
     "sha512": "5a0d41c9c4d3f442c774c1a0b4807f8ce6218e9ef67e493af2377b70fe6b4160d8c429d1396ea3dcd15395904406ffc659174bbb60cbf4ca7d8dc7881acf0a12",
     "size": 82534181,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu17.44.15-ca-fx-jre17.0.8-macosx_x64.zip",
     "vendor": "azul",
     "version": "17.44.15"
@@ -158388,6 +158441,7 @@
     "sha256": "b939350c5901fd8027356d03ecd2614526a1f682a4cf030ab440aa50b3165ef5",
     "sha512": "f7f065d88af9beb44d96303e3adfda36df1d0245c862904a5de63de079f8662ea133d11822e86216537aa82cb3c41ac9f95912d74694b7b9f0488cf93832cf75",
     "size": 196359173,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu17.44.15-ca-jdk17.0.8-macosx_aarch64.dmg",
     "vendor": "azul",
     "version": "17.44.15"
@@ -158409,6 +158463,7 @@
     "sha256": "f1bf35418e8319754eb1328cf100f32676235d5d22a426d859a6b3ea817603a9",
     "sha512": "5287fa32c6e57cdd9d32afa75e6e08154c2cc8413063aefaf7f51a266d9da1f5b504824fa189943dce37d3da0c6f73caaa875c5887f930bd51821aecf15bcf29",
     "size": 193606336,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu17.44.15-ca-jdk17.0.8-macosx_aarch64.tar.gz",
     "vendor": "azul",
     "version": "17.44.15"
@@ -158430,6 +158485,7 @@
     "sha256": "663456415af5ecca385036b1a4c0cd1ee2e8cf554c4531347fc9c6ec7f9bff29",
     "sha512": "1a02be02f2d68f67885bb83abdd762b92066705da7c5080c13695888d7966f9caf06cddefa97a0bd98f2554bb1ead7e022a67d2d605fac87022b2db94f220b8d",
     "size": 197339590,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu17.44.15-ca-jdk17.0.8-macosx_aarch64.zip",
     "vendor": "azul",
     "version": "17.44.15"
@@ -158451,6 +158507,7 @@
     "sha256": "d8e2e67b7a814062fb34309a6dc2b636f8d062714451ea76ccb56639d46fc1f6",
     "sha512": "46cd220880bb31d764a8b07da8fc190646cdbfcf9842c6099da8dbe845ebef5761573a497a8c1a5ef186c740bc39f16d8416fbacc196db9e10d660bfad0e1de5",
     "size": 198567989,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu17.44.15-ca-jdk17.0.8-macosx_x64.dmg",
     "vendor": "azul",
     "version": "17.44.15"
@@ -158472,6 +158529,7 @@
     "sha256": "0a2d7c801900bff514210c3d2a59df89b710317c10446c7a2bb2ff34107b6fb4",
     "sha512": "f17a75c224a3604c998078449b02f558a37d997227bb426116408e5edf17819c8f8b6f5f5c0cdd235fc023645af1bd78a3eb5308f5fca6195f4f9a4b61be88de",
     "size": 195814035,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu17.44.15-ca-jdk17.0.8-macosx_x64.tar.gz",
     "vendor": "azul",
     "version": "17.44.15"
@@ -158493,6 +158551,7 @@
     "sha256": "a10ffaf8d77107fc3141b475ea1aaad7f03b4f2c68a972923547d469b99925e6",
     "sha512": "09dd6f8a0e0210f1bbe92df8fb662ea7337e1888b93c3391f165899b46311bf662486f55ca19ec98d6a4ea43d29b271c67e1645d6a1b9056912a47412564d992",
     "size": 199725860,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu17.44.15-ca-jdk17.0.8-macosx_x64.zip",
     "vendor": "azul",
     "version": "17.44.15"
@@ -158770,6 +158829,7 @@
     "sha256": "98fe42e709696cae8236fba70d42ddee977aa80d18d6d18f7f8430967c21f471",
     "sha512": "8e0527f0d3bdb039912d3f228bbe27f1715054949867d62ee5546e2162b364c5066143063a1dfd8d12d5656b5914e267865188e4d5f4578e46b97faab7074368",
     "size": 44923891,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu17.44.15-ca-jre17.0.8-macosx_aarch64.dmg",
     "vendor": "azul",
     "version": "17.44.15"
@@ -158791,6 +158851,7 @@
     "sha256": "df33c1f1cc6cbf45ad85b1971cae5e937cf57b5abe63df751b119c5747826726",
     "sha512": "9de07b6f8a7efc4375995ca00984b33e9fd387728234882935b7f1e138ea295dea7b1edf41ee912ffab5446fab65a6822763072e2400f1833edf0e7521c7ad7e",
     "size": 43090778,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu17.44.15-ca-jre17.0.8-macosx_aarch64.tar.gz",
     "vendor": "azul",
     "version": "17.44.15"
@@ -158812,6 +158873,7 @@
     "sha256": "e7318d4ac3d26826a1e702728473731c0a4554af9be2ad3576f66c93252f57ee",
     "sha512": "f783d05e1dfc841122915d6e2c971c74d00536e66a9f2e760ec1ae0725a5b2742666e6bfe3411d317d74183477e25e55460f57d2567ce0b6f922b351a6e02149",
     "size": 43320053,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu17.44.15-ca-jre17.0.8-macosx_aarch64.zip",
     "vendor": "azul",
     "version": "17.44.15"
@@ -158833,6 +158895,7 @@
     "sha256": "299b8f4fdd918ec03e3209988a38b545c8fae109a3b231e7e830894e5f6275ff",
     "sha512": "a3389838d2a57509ff9b6e2eef95e7dfe20f76e47c6f59a40004c9bf72f60dd8d1a4a3523f4151faae9827636b44f52a9b964bbcd3d78f0f86d15ef8468df581",
     "size": 44262215,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu17.44.15-ca-jre17.0.8-macosx_x64.tar.gz",
     "vendor": "azul",
     "version": "17.44.15"
@@ -158854,6 +158917,7 @@
     "sha256": "acc014e996209524240ef5174ffee8d3c01401eaf5c58a93eab2fa46b80a62e0",
     "sha512": "44ce3bc27037c6b8f6a8929bff5a2a1cc9fa8a331cc130ed150cccc65c2fea95cfbcc38070a3ea4ce28a79b7f82bcd6b6e4b26f683d6f6e2f6fe6684dba3d8a5",
     "size": 44527025,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu17.44.15-ca-jre17.0.8-macosx_x64.zip",
     "vendor": "azul",
     "version": "17.44.15"
@@ -160296,6 +160360,7 @@
     "sha256": "4eda28e91a5387000e10e5e51cbfbf844b3c8968f130314775406b4aa05494c6",
     "sha512": "59b5a3d65c5008ddcf6101671e4085a50cabe7a918eed82b7f3c1c9ef05b9c997ab9005c046fbb16239f2dcf29dedf986560b7d0105fcbeabe572602a9ee1994",
     "size": 49244051,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu17.44.55-ca-crac-jre17.0.8.1-linux_aarch64.tar.gz",
     "vendor": "azul",
     "version": "17.44.55"
@@ -160319,6 +160384,7 @@
     "sha256": "b7a6f4d2ba568a764562cd6038abe551b3404639bb97d33ec3c0c75a48f7fb6f",
     "sha512": "aaeb9263dc2c594011043d219004260774c597662b9c33d6a3729c3e181bc924781ffa3c1fa53e005d05225fa8c292127038a479ba285b01ea3d8cd470e565d4",
     "size": 49386050,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu17.44.55-ca-crac-jre17.0.8.1-linux_x64.tar.gz",
     "vendor": "azul",
     "version": "17.44.55"
@@ -160342,6 +160408,7 @@
     "sha256": "78406bddc41298bba48851ead3297868b6f24a7e093f93b40745754a3ff1d082",
     "sha512": "2e337fe9c6eaf8bceb168d219122a693dda0eaf676de598212e3e0ec0976afb7cc5aff8541ded1691da532dc2cc71cf38968d378e8b3712095eecd348fa53659",
     "size": 203367710,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu17.46.27_1-ca-crac-jdk17.0.9-linux_aarch64.tar.gz",
     "vendor": "azul",
     "version": "17.46.27_1"
@@ -160365,6 +160432,7 @@
     "sha256": "0822064bd34b62088bd471c46072fc53f65c9e4f981f0abbae766d2eb02bd867",
     "sha512": "9195aeb6c52d40919d86046ecc7a29acb519536a9435ee0b7650a8d17bc517ba2b5a2aeab38d672b476ca2861f7309f4d4a1e4e62615c0a00045684c744e9857",
     "size": 203531500,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu17.46.27_1-ca-crac-jdk17.0.9-linux_x64.tar.gz",
     "vendor": "azul",
     "version": "17.46.27_1"
@@ -160388,6 +160456,7 @@
     "sha256": "420374270ee9b226a1d103481288e607df3de381867eee01e8ae5333ae683ace",
     "sha512": "f55d83d58cc6ad2fb32179c65725aa20f837e72e6dfd40f2a1d582c38d10b6c7c466e1acbb9b26d54cb717bc950572c22ab5c2d0afcd99a129d176b997e3bb45",
     "size": 49144307,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu17.46.27_1-ca-crac-jre17.0.9-linux_aarch64.tar.gz",
     "vendor": "azul",
     "version": "17.46.27_1"
@@ -160411,6 +160480,7 @@
     "sha256": "a94174ea2d44eb8c85b6465934c152a05dda1f8e45d2631176475df38814f5de",
     "sha512": "03bcb1ddb089e5ef013d1e586688392dbb57b0213c94f13d67db03e0e47353cb8050d307816b9cfcae3991f7117e4530af41d78bf479ff578a806806ff365664",
     "size": 49274787,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu17.46.27_1-ca-crac-jre17.0.9-linux_x64.tar.gz",
     "vendor": "azul",
     "version": "17.46.27_1"
@@ -161702,6 +161772,7 @@
     "sha256": "c124dddb1099c3f12a462c4425b0400e09414738f7d5398be243b97a717ca466",
     "sha512": "128073ff662b10710cda558474a0320836a30a5d222918ce53a6878a0fe3b1a5de5ffc6dc2c5abe3a285620c06e827fca05734bfdf0061f341c4f0a4f56aaf76",
     "size": 203378023,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu17.46.27-ca-crac-jdk17.0.9-linux_aarch64.tar.gz",
     "vendor": "azul",
     "version": "17.46.27"
@@ -161725,6 +161796,7 @@
     "sha256": "e28be986e4740d9e905850a847bef8d3401728f8ae6110a6e119ef921f1a1b20",
     "sha512": "b22fe836d2ae7f1b24249cead85578cae4495e5aa006c8efd40f1aff6c3f5f383060ee1c5ad7d59bc822a8e591701b0e774a6dbabcd0faba637d4810e2093dec",
     "size": 203540977,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu17.46.27-ca-crac-jdk17.0.9-linux_x64.tar.gz",
     "vendor": "azul",
     "version": "17.46.27"
@@ -161748,6 +161820,7 @@
     "sha256": "92690005bb5e57c8d1570c8971c755af9fcbfc9266fb2c47b3a536673fde9ef6",
     "sha512": "5e4ea8eae5356cac44a744fd2bd4fd2713245d524409303310f53b0c8201102cc48ecbdee43a0ccb6b92f7e635ab5f84799a030d0ff668a23c1a303ac0d348a9",
     "size": 49141794,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu17.46.27-ca-crac-jre17.0.9-linux_aarch64.tar.gz",
     "vendor": "azul",
     "version": "17.46.27"
@@ -161771,6 +161844,7 @@
     "sha256": "185b2842115b084c106aa3cd3d78207774070bb432389dcf0590fde222a832e3",
     "sha512": "c46c460cdc38d3cc37e6379191b67f777fbb2f6360b6eb17156aa5cf79790adb8e3fec9146fbaf8ee10253cbe83456f2d379232c5cd27dd07681a2b66d479e51",
     "size": 49267536,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu17.46.27-ca-crac-jre17.0.9-linux_x64.tar.gz",
     "vendor": "azul",
     "version": "17.46.27"
@@ -161888,6 +161962,7 @@
     "sha256": "c28f7e0d13a11ac6d20baa6fe1938145011df657ac448efbb4454b03eebc6e24",
     "sha512": "a2d4b32a26caf3a50d62d799742bec8530816bb444ce50ae3b449918047c61f0ade5aa085e8da4ca383ead941e0b1fa107ca76af0637e1a69a7daa7df78d8bf1",
     "size": 49144724,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu17.46.29-ca-crac-jre17.0.9-linux_aarch64.tar.gz",
     "vendor": "azul",
     "version": "17.46.29"
@@ -161912,6 +161987,7 @@
     "sha256": "269fdb7fd35850bc706768bb128fe095c3c4bd34ed138b9b25152440cc8c176a",
     "sha512": "52aae8029477944a7e5525eba142eae4a17a0c9790ca6f26e51260027ca813d22e9efadef51c2e8096f266b34babbfd16c2d21492041734ca987615675bfaca2",
     "size": 49773945,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu17.46.29-ca-crac-jre17.0.9-linux_musl_aarch64.tar.gz",
     "vendor": "azul",
     "version": "17.46.29"
@@ -161936,6 +162012,7 @@
     "sha256": "b999b5d629ee0351c5e8479a1730aa2291a5c6de99f3dd95435105a4f1c46d82",
     "sha512": "e90442b22b57f21b270d5b2c6652d514fdcadc65579ed1d7e6dce6a07cc8f98731a87b645e989e1a5525e0ae200a2e7710892ab64acd447a8db9bf07e049a7a6",
     "size": 50677820,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu17.46.29-ca-crac-jre17.0.9-linux_musl_x64.tar.gz",
     "vendor": "azul",
     "version": "17.46.29"
@@ -161959,6 +162036,7 @@
     "sha256": "17add1a9f08591f77aae581f7d5f6bfbcc676b0cbbd58eda0df7d4a7f3980ff8",
     "sha512": "8c34f7efa310e537b3fe6b6cf5c0c0d434dd3be083e936d0a5cafa95a7cd88c9e888ea428513e5435f3ec494e2c509e5a31b7af1a5132b52b28a82033b61ec8d",
     "size": 49266347,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu17.46.29-ca-crac-jre17.0.9-linux_x64.tar.gz",
     "vendor": "azul",
     "version": "17.46.29"
@@ -162191,6 +162269,7 @@
     "sha256": "b6d8f29affdc2ac43ad2011a72cdf9508851aa654b3ab58ee178c216f40f3da1",
     "sha512": "5e32daff19ba61b1786b320d5f9c7945ae7e985070cd99f377470e229cdc9b3596b3967100ac3636b88fd4f43f3942eb5541ef381a8b7a90bc0070be4a9142c3",
     "size": 49168806,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu17.48.15-ca-crac-jre17.0.10-linux_aarch64.tar.gz",
     "vendor": "azul",
     "version": "17.48.15"
@@ -162215,6 +162294,7 @@
     "sha256": "d943d22a7239635783794a0aa3381b141f04abd3961c63e19069066e3f975ba0",
     "sha512": "0589af8f7f8d44b44d02740cd7d042aa964a2cd781c5285631e7fa44f8771bea9eeba0c570a86c75892f3113d09501f58f22fdef26afe919c4d5f5c250290a9b",
     "size": 49793231,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu17.48.15-ca-crac-jre17.0.10-linux_musl_aarch64.tar.gz",
     "vendor": "azul",
     "version": "17.48.15"
@@ -162239,6 +162319,7 @@
     "sha256": "95c1cc67c34c5c3ae7194d52f43cf85d5af4952d566a6cbc807b7fe3449658f4",
     "sha512": "9975e007681b5778d65ccae0a99d63bee1479d159b03c424fca44345eda8c57107abd8e07b9865ff86a123260ab1ad34ef3cc7e2086675cc18b35a61c234a7fe",
     "size": 50691105,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu17.48.15-ca-crac-jre17.0.10-linux_musl_x64.tar.gz",
     "vendor": "azul",
     "version": "17.48.15"
@@ -162262,6 +162343,7 @@
     "sha256": "d41d91b93d69a7dda5b39d823c9b1a5b2a995a4bd4ac55db0a1d8487766f13fe",
     "sha512": "6f26f33248d76a1e0ab95abff3bff4d0ae6ba32157607f7a2064a507266798a6059ba178874fd9ad9a82fafc4596999629fbe3b957f1ce242ed5adf71ab8eacd",
     "size": 49284220,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu17.48.15-ca-crac-jre17.0.10-linux_x64.tar.gz",
     "vendor": "azul",
     "version": "17.48.15"
@@ -163762,6 +163844,7 @@
     "sha256": "756d60b50d2f64d85ba70bfaa00802ca560abee8ed18815ffa68055ee779e75d",
     "sha512": "1ff5781a582dfc6ba7d13a9429e71981954c28ebb0418b050b2bbada061c2fc7946883dd2342185696081a46bc8cc3989d0821d549751961c64e0eeec89c45bc",
     "size": 49275490,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu17.50.19-ca-crac-jre17.0.11-linux_aarch64.tar.gz",
     "vendor": "azul",
     "version": "17.50.19"
@@ -163785,6 +163868,7 @@
     "sha256": "c49af6e8b43a4bc70ded00a662339c38ba6927ef56e664a5a9dfa6e2fbf60db7",
     "sha512": "ef3bdfad3f286de83663fc7a84bec78759dcf99afb397f42c079a5b9780774e7762377c8a93876a9dd8df9a08505a7604237ebde336ffb7e660ba7087666cb3d",
     "size": 49413787,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu17.50.19-ca-crac-jre17.0.11-linux_x64.tar.gz",
     "vendor": "azul",
     "version": "17.50.19"
@@ -177308,6 +177392,7 @@
     "sha256": "d4096a6ecaebbfa7fd8676e037df0bac0008f9ef508400d4b955214f656b7f0d",
     "sha512": "986bbd6531dc8a7150fe2a0f003066efeb055b3943e202bee9fd34c79896026e58c8d42add4f3644841107e9dd81fd255486a3318c8f7f5de0324c23cd2e91e7",
     "size": 199112381,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu17.66.15-ca-jdk17.0.19-linux_aarch64.tar.gz",
     "vendor": "azul",
     "version": "17.66.15"
@@ -177329,6 +177414,7 @@
     "sha256": "8c385574e92da533f4a015e4d955d073bebf37e5afc7138f05bbe5da005234a7",
     "sha512": "b2c61ff37722668bc334c01672ac9cab4cc4ed788154d488efaf70156667a8882826e54d43080ff13058f510858168c7306a69274228a86460a33f8657983278",
     "size": 190083406,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu17.66.15-ca-jdk17.0.19-linux_i686.tar.gz",
     "vendor": "azul",
     "version": "17.66.15"
@@ -177350,6 +177436,7 @@
     "sha256": "10b40e0606c2605c70cd64b6aea44fb64078f7ef69ff29e658ab971327d85c38",
     "sha512": "ccac66153c8c71fc6c973cc76e99926d287a2f0371c3f9b1fb75ce6ca81f4f4fbec88a52e84d3c4115d9550c7ff06b567a358dd57879d22596a40e71612a2d99",
     "size": 193856721,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu17.66.15-ca-jdk17.0.19-linux_i686.zip",
     "vendor": "azul",
     "version": "17.66.15"
@@ -177373,6 +177460,7 @@
     "sha256": "6a6cdb5ce46c0dc3299386f0f34511a756a012ac4eea20d5b1d049ba7f9101a6",
     "sha512": "b650d82c69fc1d38a08d74182a623245895da2abb7bb50ad5d7c308f65d7c1f4ef872decc08ef96931d6436e0c8d6697f73945db237f27c3d67b29ce37f89f64",
     "size": 197635487,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu17.66.15-ca-jdk17.0.19-linux_musl_aarch64.tar.gz",
     "vendor": "azul",
     "version": "17.66.15"
@@ -177396,6 +177484,7 @@
     "sha256": "9d029deea2a4d7c69a1cce3fc58c9fd016c9df4b62bed5f9d3a1f94d44340406",
     "sha512": "6b4f40b9b0712098284b2f816567fb621034a961c008d3f58c26524cf38cc37d4bc217aa2de274e5808cef87aa727f0d1357eff4f4af7cba226d4236a20704fe",
     "size": 200387968,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu17.66.15-ca-jdk17.0.19-linux_musl_x64.tar.gz",
     "vendor": "azul",
     "version": "17.66.15"
@@ -177417,6 +177506,7 @@
     "sha256": "70de9123e3e65f1cd899577f6922170da6ff727881d4d75375d535cc62194cca",
     "sha512": "9c303739d1f58cbaaaf94d89498d825eab40ae14263e232b1fd2222f130f2b4ef609fe2f9c6bc5cc6d67517049e43f971dcfb696584c25225e062663227e7bd6",
     "size": 199225983,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu17.66.15-ca-jdk17.0.19-linux_x64.tar.gz",
     "vendor": "azul",
     "version": "17.66.15"
@@ -177438,6 +177528,7 @@
     "sha256": "4c28df0eb052e84a825f4d1825a53990beba0362e43cf28a1f08ece5fbcb99e0",
     "sha512": "9212ad132dfa1881a74bb403527ee3a41eebed193b08d8e7439f3997c069126647b11c56f8580af04e17862678709ffb8b4a1a54119943cabf83604f5622addb",
     "size": 203084902,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu17.66.15-ca-jdk17.0.19-linux_x64.zip",
     "vendor": "azul",
     "version": "17.66.15"
@@ -177459,6 +177550,7 @@
     "sha256": "e1e0e83e7539254eb932a3878afc75f3d976d45d72fcc98ca93adc426d259c5c",
     "sha512": "12fe6df5059eb21f198dfe73b15e5268bc4be9d4d2cc0aa2ea8bb7c7d072f412f50ea2a4595ca03a17a8d879faab7b27a6dd4fccea068096f519246c3eca4877",
     "size": 184621199,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu17.66.15-ca-jdk17.0.19-win_aarch64.zip",
     "vendor": "azul",
     "version": "17.66.15"
@@ -177480,6 +177572,7 @@
     "sha256": "a9e8b868989e66ba7a1ea1d8d2c100b570c8920da27798c48c711ba558b576f0",
     "sha512": "feba25e7403d28a769319245611cf629fd496c38f6f69510f02991d47c33a8070c5c0dbedbd86bcaa374f3612dac023a1947ba831ef006bcda4a92a610e91330",
     "size": 170917888,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu17.66.15-ca-jdk17.0.19-win_i686.msi",
     "vendor": "azul",
     "version": "17.66.15"
@@ -177501,6 +177594,7 @@
     "sha256": "8f0b9dc3638c098ef6745e196acf7a845d6440732104e58c2a8c87e5cb9b450c",
     "sha512": "9bb34f666356ec89c5b21440dc0ccf9001875e7f7e50f2b0fe2feee5ca4d3d3fc8cd34d4ce6715d688eb7227baf8d0ebf1eb88d4b7a63327e6b2e72a0ce293d2",
     "size": 191335408,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu17.66.15-ca-jdk17.0.19-win_i686.zip",
     "vendor": "azul",
     "version": "17.66.15"
@@ -177522,6 +177616,7 @@
     "sha256": "507348a2434c377c5819d39d02068a621d89ef52309e1d5f098b2452d37ceea0",
     "sha512": "cff42488ebad8f1f1d18d50fea5d39dba466cc9abc3325ea0ca14e456de698460fd718a53d320913bd099091d3ffeda435d91f4f480a6fc15ab9ab3333ef6d68",
     "size": 175439872,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu17.66.15-ca-jdk17.0.19-win_x64.msi",
     "vendor": "azul",
     "version": "17.66.15"
@@ -177543,6 +177638,7 @@
     "sha256": "405ee3a659c4468114ca8009eccb088cdf7a2d0a6914d724a8d5cb77e56304c5",
     "sha512": "73bff3bb488c8f2ef25d01af8101351dd4e6edada58b433076a4f199e5fc1ae1458672a46772e0cb8a6fff148ae399e428382b8ccfcf92eff15ddcb46306f238",
     "size": 196812115,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu17.66.15-ca-jdk17.0.19-win_x64.zip",
     "vendor": "azul",
     "version": "17.66.15"
@@ -177564,6 +177660,7 @@
     "sha256": "48839d83d149c6b55b5216f728508f3fe424cd5dd580192579a73c9e71053e77",
     "sha512": "6d138f8b53865855fe48f184522c6f9342c1e9809e1b38c904b9a1a6781a0a000f015e71cf85f4d35c3f9ff48fef7d04a1417623848b694e2a809211f5928930",
     "size": 46777888,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu17.66.15-ca-jre17.0.19-linux_aarch64.tar.gz",
     "vendor": "azul",
     "version": "17.66.15"
@@ -177585,6 +177682,7 @@
     "sha256": "4158563e1afdfce26bda6d19392f00a5e3d3d3719a4df7a8ef751511cfe4fbed",
     "sha512": "36fe73a8d92ad1ace4077035a346627cab398ab014cb6695d98865c43b280e0df810114d57bb25559debcc87c872d9fda9b9349d43ae294914aaa0e7736f8eb2",
     "size": 41289141,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu17.66.15-ca-jre17.0.19-linux_i686.tar.gz",
     "vendor": "azul",
     "version": "17.66.15"
@@ -177606,6 +177704,7 @@
     "sha256": "d339499f2fa08815c72a8d914cbda0149eea0dd51ef4d7c3b9a416063a6942b4",
     "sha512": "839e14a4f5e5bcc9be14b5c7fbf8ba12fef2723837a74d3b172794820a40e39ebb43f363e0c5b8aba7f2de78dd68422ec90065262564278c99d5124a24e1766f",
     "size": 41408756,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu17.66.15-ca-jre17.0.19-linux_i686.zip",
     "vendor": "azul",
     "version": "17.66.15"
@@ -177629,6 +177728,7 @@
     "sha256": "97e22fd54855421d682d4d0901f38b6ce84332904680719da3c6e7f519d1c915",
     "sha512": "e8f48266d41a1b4881fd76514956080a2c734681d958f3377dbc7c576704098b48d3af97d4d4f36bdeb6b6bee686aea78f22e5aa6a3900f73ecc24b48dc478c6",
     "size": 46318799,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu17.66.15-ca-jre17.0.19-linux_musl_aarch64.tar.gz",
     "vendor": "azul",
     "version": "17.66.15"
@@ -177652,6 +177752,7 @@
     "sha256": "45e8fddb28ac86445703577d21fb0cc25a88cde00039261fe4a688c498d7475e",
     "sha512": "42815ef9962ff380dd92e692e74972f547f708f00c47f30c0a6566f57fc431d0e9efc97d0f753af5d86cc0f8eb8bc93f9734f8e4da7e98ee425501544cc5c445",
     "size": 47520140,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu17.66.15-ca-jre17.0.19-linux_musl_x64.tar.gz",
     "vendor": "azul",
     "version": "17.66.15"
@@ -177673,6 +177774,7 @@
     "sha256": "4e2b9499b8e4f40ce0095e3ab3cde1112ffbf0adf49771a4413cc1d10974a74c",
     "sha512": "e5a2dc71b2132ffec79c97ccaccef43fec37042a15dca3f3443680116b1be0ee0a2b5099b3b190edcaa6ca86960d08ba2b16606763b9bf8d26985d4a98ed2283",
     "size": 46852980,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu17.66.15-ca-jre17.0.19-linux_x64.tar.gz",
     "vendor": "azul",
     "version": "17.66.15"
@@ -177694,6 +177796,7 @@
     "sha256": "306298af7f61fb5393d2097a77491e5e8cf1c7fab7df72c4b034db0bfe405ca3",
     "sha512": "9442569ffb0e563ee18a4c556e3fe394db64277da7fcddb820eac5ce3d82e03e42c774ce032c6f63aaea039e4dfe685016fbac669a017e9053e9fd509cd2e2ad",
     "size": 46984477,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu17.66.15-ca-jre17.0.19-linux_x64.zip",
     "vendor": "azul",
     "version": "17.66.15"
@@ -177715,6 +177818,7 @@
     "sha256": "17a8b588d1a8d334f75fe89fc2c8df22bb02892e5c106a0104eab931d55e220d",
     "sha512": "d21c34ac43c00d39acce967cb909529f0b106176dd53394a41af3dfd87c22c9cd842f9d9d0742b79059e75686a1e3772aee1978f13b0e8752103dfd2305ecdeb",
     "size": 29736960,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu17.66.15-ca-jre17.0.19-win_i686.msi",
     "vendor": "azul",
     "version": "17.66.15"
@@ -177736,6 +177840,7 @@
     "sha256": "1999a6e693f16bd9efd94eb72a8960a3ff1c4e68e0059b0c0586c870b7b701e3",
     "sha512": "5e6d9a1ba1bf81362440824e228a21f9b53ee938741edad17f6117fbd4605d1c8563b47fe34ce2674c117f3a8e63bdb1f4c444f0cbd351e251c9aea71d718b2e",
     "size": 40331743,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu17.66.15-ca-jre17.0.19-win_i686.tar.gz",
     "vendor": "azul",
     "version": "17.66.15"
@@ -177757,6 +177862,7 @@
     "sha256": "2b0c18f5220707f24a347a6a0f219907c1c51ecc2918f726dbe95e2d96140f02",
     "sha512": "26e2be989dcae1f2a3e0fae7df7f36e0273b00cf25f12a3798b76d8c0334b38d1b3e2c2e15c49d5c3de67d508c61fcbd5de9037112d61e4d8b32394d02dddb71",
     "size": 40802300,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu17.66.15-ca-jre17.0.19-win_i686.zip",
     "vendor": "azul",
     "version": "17.66.15"
@@ -177778,6 +177884,7 @@
     "sha256": "ceeddfed90d346bfe26722a1fd20cd287a2c28cd706739a167445cdc18abf70b",
     "sha512": "5eb3c9c02aff93837826eb919da85d812371b77fcfdfb7b042bf051b409bd1bcb23e0c4a922489ec6c83350f1aafe6a636a849a762a4a0d1a09dd046eb6664f7",
     "size": 32321536,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu17.66.15-ca-jre17.0.19-win_x64.msi",
     "vendor": "azul",
     "version": "17.66.15"
@@ -177799,6 +177906,7 @@
     "sha256": "078871f6038a07b0d71d8c54d223c7349ab2064716b0f3ab8d963eb082aa16cd",
     "sha512": "a36376d25a93101053d2f4cbef23169a819468afb00fb8983c52bb83a6d40caeae3bb4a01f382a6b0d92781df37483b2ff08491507bcd9206e07169776487c24",
     "size": 43653342,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu17.66.15-ca-jre17.0.19-win_x64.tar.gz",
     "vendor": "azul",
     "version": "17.66.15"
@@ -177820,6 +177928,7 @@
     "sha256": "6d84e44eafc9a325480483b45bf3035e956ce082bf956493045a7b577dbd4a41",
     "sha512": "4eba4b0c17cb7011593b39bf1cc02e97d2b871d33229e047839bf473fa790a1975f536c908492c9d90d62bc28a6a6bc3d2462a5cca45512d93d616c3b92876d9",
     "size": 44096920,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu17.66.15-ca-jre17.0.19-win_x64.zip",
     "vendor": "azul",
     "version": "17.66.15"
@@ -208444,6 +208553,7 @@
     "sha256": "ad937ba8cc7ad4b311b2510ed8c436b532a9da047cf540c39c2855fa8aa82f5b",
     "sha512": "95c214a23e55468dc3a2339cdc3fcfd858badb5f3f4b7e68ab8d1080ed8c6631a4d0db48f73e3b2aeb01c0a8f6141a555c21bc21539bf49e9a978586bedefdfb",
     "size": 316513416,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu20.32.11-ca-fx-jdk20.0.2-macosx_aarch64.dmg",
     "vendor": "azul",
     "version": "20.32.11"
@@ -208467,6 +208577,7 @@
     "sha256": "88f433652e02c1aa2a4fc712ce0e245824f53b21814892eaf8d11371bb9c2e8e",
     "sha512": "14cd03685c169274be81ac5acadd16e1c5f9d67556011b76d6d8378c23239baf4c61f69e3cdd5aeda548293a91daf9ab396dc81e759ae958f22b20f78343fe11",
     "size": 312942269,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu20.32.11-ca-fx-jdk20.0.2-macosx_aarch64.tar.gz",
     "vendor": "azul",
     "version": "20.32.11"
@@ -208490,6 +208601,7 @@
     "sha256": "891d4bab8404cac5f8671636bf65711276ebed94a78267b1a00c89c3038918b5",
     "sha512": "eb47e5e05b1f942c4b1509462c815716519ef46d0525bf9ae0aab0f8b0c4d8486af0c57083aa3cb279eafba9430106544b036951704854966eb0dbfb21efd59b",
     "size": 316936457,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu20.32.11-ca-fx-jdk20.0.2-macosx_aarch64.zip",
     "vendor": "azul",
     "version": "20.32.11"
@@ -208513,6 +208625,7 @@
     "sha256": "faa99f7b2c9b067f7c3a812ce4c21757b0645e090d78472323a73df9c35694d2",
     "sha512": "c982734093d4d74e4bd9e316394637f17406fc47f6e3aa11cadfba3c147e9e95bdec6ebdd5569f045dc478497bfe572d79a6902e9c596db500b6bf644d2c1dbf",
     "size": 328187783,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu20.32.11-ca-fx-jdk20.0.2-macosx_x64.dmg",
     "vendor": "azul",
     "version": "20.32.11"
@@ -208536,6 +208649,7 @@
     "sha256": "872c50022bd9017b6a31e6dedf42fe1186bba7e4dd49d28d623ed197f67044d4",
     "sha512": "340ad364e11f96edbd07238ddb5f6cf6a46a7c9854c96b204ec45d4144b08ca5db566f07042c4ed96be0acf242ad05216248cb0c8f6e17ac98697ea4026734da",
     "size": 324559160,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu20.32.11-ca-fx-jdk20.0.2-macosx_x64.tar.gz",
     "vendor": "azul",
     "version": "20.32.11"
@@ -208559,6 +208673,7 @@
     "sha256": "739c68b61003faab246bf7d9e41673ccee06677f30c9779d2ff04a98f10767c8",
     "sha512": "f280d794bacf16453774f6d01c086caa8c74f2aab54e2ee88e6be646f8d112340114e2f9a231a4d86c1c7c774c6135cf4f63483af7b9a6137074fe1f01aba9da",
     "size": 328550621,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu20.32.11-ca-fx-jdk20.0.2-macosx_x64.zip",
     "vendor": "azul",
     "version": "20.32.11"
@@ -208651,6 +208766,7 @@
     "sha256": "9c91ad5b6b2eab7d33191b96e3af40f74b9f5f36b8f8be307ae2b21f8f4d2b17",
     "sha512": "959618fb0f8837d9f023968d5c643394282c9840da7f35c3e416e29056dfb1d39d7a6cf94757665f51c0a897c1be89993e55f76b25fb78464a63b8914e16c2a9",
     "size": 80594599,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu20.32.11-ca-fx-jre20.0.2-macosx_aarch64.tar.gz",
     "vendor": "azul",
     "version": "20.32.11"
@@ -208674,6 +208790,7 @@
     "sha256": "67775aad5437d3ab28e5b9e446cf012886ba393cb5e2a4fa0517c95a95280411",
     "sha512": "36a58e4761f9e11abaf627f3b15a111ce5a6ab59b1fd7399e284c43333cfa72a01a645c5f6093477854b6fa997496d502dd0a1d97902b87c1ba9cea2bf4b4fc5",
     "size": 80914948,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu20.32.11-ca-fx-jre20.0.2-macosx_aarch64.zip",
     "vendor": "azul",
     "version": "20.32.11"
@@ -208697,6 +208814,7 @@
     "sha256": "329372a2953f8dc1c1f814cfdd9751bbba7491a1d52ff3d13550c60b90ee3a82",
     "sha512": "9b04effb6accf873e9ded85ac102c7899000e099540c1265c0bbf2dab39647162442ca716f9f99c4f9a3652893857b529606c1e4b7a274eb01f4c36e721c6da7",
     "size": 84893481,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu20.32.11-ca-fx-jre20.0.2-macosx_x64.tar.gz",
     "vendor": "azul",
     "version": "20.32.11"
@@ -208720,6 +208838,7 @@
     "sha256": "a36ace810b885ac0c80879a989e6b5b88551ef10e26a79aec5c7f38726e31ac4",
     "sha512": "361fedc0b7acc05ac93aa6ed678f91d2fec8253b86eda0e1076593fd0f02898f1ca3f4c43f0b5dea46fc57a4fc1afbaca222d4c827534e30bfd868c61d6ae4f7",
     "size": 85205216,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu20.32.11-ca-fx-jre20.0.2-macosx_x64.zip",
     "vendor": "azul",
     "version": "20.32.11"
@@ -208873,6 +208992,7 @@
     "sha256": "6db524f701c3a64ade65e83d21d34a832e39a8342650d4c1515f0a50cdc63ef0",
     "sha512": "a8af599712d847e1e292c29fe87ab504d3f982830a2be9fe15a318abb52afcaea46d602e0dcbb9e6164508646167316a81cf5c752af5ec7b29c129f73dee2742",
     "size": 205984994,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu20.32.11-ca-jdk20.0.2-macosx_aarch64.dmg",
     "vendor": "azul",
     "version": "20.32.11"
@@ -208894,6 +209014,7 @@
     "sha256": "d79b8d67ab8c7d2012577414daada803f8c19363c21ce7d28e7d4663bffba886",
     "sha512": "868cc0f99e9871f7ffa5f2b313ef375c5560c8cce7ba6e2257c8271ec1f2a23046184b3eade77148ae864af8cdcc995074e78429d46a14fb129e8a60e9ec9dd7",
     "size": 202801603,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu20.32.11-ca-jdk20.0.2-macosx_aarch64.tar.gz",
     "vendor": "azul",
     "version": "20.32.11"
@@ -208915,6 +209036,7 @@
     "sha256": "22311c1efcbbb5a68048a88a1e4ef7aa778500af87cca18d0beef777d7987422",
     "sha512": "f22711367503b90180a850d1d5b29281d6aae0c835c80a92fd949e1c32874d7389a064d3c8db0e25dba7dbcb71b17c7f4088605290c29e8c7c1bf5c7b54c84e0",
     "size": 206341603,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu20.32.11-ca-jdk20.0.2-macosx_aarch64.zip",
     "vendor": "azul",
     "version": "20.32.11"
@@ -208936,6 +209058,7 @@
     "sha256": "78dc577888711f954d690eb5d41c5408dd02a45ae25782d36efc170df02a0ee9",
     "sha512": "877a59bc33f005960ab312e4e19922848bfb2f8080188fc2f4a65774ffca4a3831b681b5c8df08876061c3d9c2e365a2a47b8f2b40821530b50507e9ff96fc38",
     "size": 208474304,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu20.32.11-ca-jdk20.0.2-macosx_x64.dmg",
     "vendor": "azul",
     "version": "20.32.11"
@@ -208957,6 +209080,7 @@
     "sha256": "12ff4a1ba0efb819ec66b3a0b8bb0ed4a433b9d1c205c24dc0a878e489e99dfa",
     "sha512": "5d4ed72a3dd3d4da15102c0437894edccbf83f7e3cd4e6302ffedebe458127eacc4107920491facaa4b990222a2aface94936ba43af18797eaef3825f357c7fd",
     "size": 205278797,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu20.32.11-ca-jdk20.0.2-macosx_x64.tar.gz",
     "vendor": "azul",
     "version": "20.32.11"
@@ -208978,6 +209102,7 @@
     "sha256": "d1f6859182ade8421b93d0c3bab4fba898fedc03393891fc8e38e16eca1278d2",
     "sha512": "d045cade4c0193dd2b5527afa2a84239cdc48075d25b834926b2d126907d10d0bc2950b4b2e934f09f1ecbe7edeb6146a751d0adc1e984b108418636eea96dd7",
     "size": 208809275,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu20.32.11-ca-jdk20.0.2-macosx_x64.zip",
     "vendor": "azul",
     "version": "20.32.11"
@@ -209150,6 +209275,7 @@
     "sha256": "7245c047d2ee12661fe8f0f5f28e19fef857a869076fcb068d14927c063fda22",
     "sha512": "b69aeb7386f1f9329b81ac179262bc101a43588da4c8b4c22191e0d99c51b85cc890b03488b956478c84bcd6584369e683c43dc2d19e39c059b28e83048ab148",
     "size": 47450270,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu20.32.11-ca-jre20.0.2-macosx_aarch64.dmg",
     "vendor": "azul",
     "version": "20.32.11"
@@ -209171,6 +209297,7 @@
     "sha256": "a3611bcad922337574ee4f1e421e013e3552d3e35115b4642c6518dd1fe7e2f4",
     "sha512": "f62f1ad35f5de899d12d064dc9a70c33645236b8fd6e2d7b16b547789f49b5f96822f976b3eb428b9869d2695b89554df1135a9fa5fa6277c4b9bbc763b2af81",
     "size": 45710563,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu20.32.11-ca-jre20.0.2-macosx_aarch64.tar.gz",
     "vendor": "azul",
     "version": "20.32.11"
@@ -209192,6 +209319,7 @@
     "sha256": "76c3b2fc262281f4f1dd5481f061a182c22845a4a233dcc3f04371055c84f0a8",
     "sha512": "293307cd88baa483b3a702e45a5c291521b2c8ef99d5cbbf290c6a6e73952a7e8698bb60af5a993f37e5de1aab4a045e73cf8b1e80d910e221af1082bb21ea1e",
     "size": 45931546,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu20.32.11-ca-jre20.0.2-macosx_aarch64.zip",
     "vendor": "azul",
     "version": "20.32.11"
@@ -209213,6 +209341,7 @@
     "sha256": "7a69831c68a10f76c6c98c9ff4d873892ea9b6c29a9c388b5a1ad7f181c1c298",
     "sha512": "fde2ffc379a5cd2d968508ecb8806430e65ef45665fba696d0fb3decdc26115d4eae80a4e564400475cfbc5105461cea9e2974758d0d44e80a3317b212f027df",
     "size": 46938822,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu20.32.11-ca-jre20.0.2-macosx_x64.tar.gz",
     "vendor": "azul",
     "version": "20.32.11"
@@ -209234,6 +209363,7 @@
     "sha256": "a9cea35281f8680eb32db7da59a80c484744860758f86c8b39ab1782a6c0e704",
     "sha512": "e648cd95463e94975c83ac58aa7be2171c80d446e8812ee353d4ca25315b9236b00ee636d4468710bb568dde20ce0606e2c42546720f567ec78a7f63a89cbb41",
     "size": 47156451,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu20.32.11-ca-jre20.0.2-macosx_x64.zip",
     "vendor": "azul",
     "version": "20.32.11"
@@ -210181,6 +210311,7 @@
     "sha256": "ae025bb2fa976de576e8d6818baaf6e4a5feaa338e48c9495784509d89e6b83c",
     "sha512": "8e87a449116ec611fa13970dbc5a0fa4994b562d66ea1c3f39676a241467a0fea555b88b7f50670626528b6611e9c54f3901ae60c724d9763f0e3df89a7eef74",
     "size": 54999558,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu21.28.89-ca-crac-jre21.0.0-linux_aarch64.tar.gz",
     "vendor": "azul",
     "version": "21.28.89"
@@ -210204,6 +210335,7 @@
     "sha256": "09d147410fc6d17c243d90950667939c65650bb5d57a2c9280ef018aa07d1301",
     "sha512": "193cbdc77c5224f940b8e97a481c2d082adfff60856073579d0cd71b0a73bb5ac165213376ebcf90d4dac05f52fb3eb56c43f14b04ebe5514d8638740c667dfb",
     "size": 55434179,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu21.28.89-ca-crac-jre21.0.0-linux_x64.tar.gz",
     "vendor": "azul",
     "version": "21.28.89"
@@ -210227,6 +210359,7 @@
     "sha256": "7565ceeea4f6e1618f41199ff68f41bbbfa9e1efe5c4a5d1d86ea5a1e63734df",
     "sha512": "8576084e4d7292abb15c7a4cb1119dba7cba444a9e543eb55ce2d70663fb2bdaf0a2f31191f45af63ed752567a4588b9dca462bf1c1c968969b0176aaca8fbf8",
     "size": 217936695,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu21.30.19_1-ca-crac-jdk21.0.1-linux_aarch64.tar.gz",
     "vendor": "azul",
     "version": "21.30.19_1"
@@ -210250,6 +210383,7 @@
     "sha256": "42f952791f4b2ed07f8d6d5024da62717c97864160570cf4f3cff4cc074f0e1e",
     "sha512": "9f2eadfa1ffdaed4b834308808be4402c602b27e34bbfcfc31e95c707cd4bf18795a506acab4542b344c0f93df7544a9cb611d5b9e047b513bf506b6dfcb0a00",
     "size": 218699743,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu21.30.19_1-ca-crac-jdk21.0.1-linux_x64.tar.gz",
     "vendor": "azul",
     "version": "21.30.19_1"
@@ -210273,6 +210407,7 @@
     "sha256": "cb910021bde3af8a3670ae77fb34754268b8242159c8e93f02d8b8fa150ad496",
     "sha512": "63a7edd6e92d3b4385407e58e7c23359aa3821ab31eb34773d7e4946c0c8e679ab030b41deb5cf05c6ecbca5d02e85a8d0f59e3637b53d009bb1499368a2b4ce",
     "size": 55013762,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu21.30.19_1-ca-crac-jre21.0.1-linux_aarch64.tar.gz",
     "vendor": "azul",
     "version": "21.30.19_1"
@@ -210296,6 +210431,7 @@
     "sha256": "4f19bdaf835b3eaa594d672e0a092d9227e922e4a96c026f01838a55bcc4a075",
     "sha512": "2fb00798bfcb59947b4af42d782d9566928930823403163522897ee4f3018a54514d38104d324d06971b2f4fe41ecc2522e79bc30ea88854fd998430933b0801",
     "size": 55439583,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu21.30.19_1-ca-crac-jre21.0.1-linux_x64.tar.gz",
     "vendor": "azul",
     "version": "21.30.19_1"
@@ -211176,6 +211312,7 @@
     "sha256": "f66d30ec30ed97791f1d04d5448b9d9aa324af97a86c48cf1a9c9b3522e45e9b",
     "sha512": "c6177258e4f0b86d78367711de4fb16b41ad1616e08f9b66ac91dd3c9550450c2db400224afc3394a615c4a7e746e13555c66e21221b2aeb3a311798ef9ea072",
     "size": 217969443,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu21.30.19-ca-crac-jdk21.0.1-linux_aarch64.tar.gz",
     "vendor": "azul",
     "version": "21.30.19"
@@ -211199,6 +211336,7 @@
     "sha256": "0efa12401a4d8c928c5953f208f0936f165dd17ec7bb1f74d0db209022b226b7",
     "sha512": "d3e780db7087ae9001d09db10fbdfb8a4e6b45474bff7a1eb3461d560004211d36f88a1bc7e67db2657ddf0b7a6eead91189b6bf5ed9bbd2073de709a60addf2",
     "size": 218704117,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu21.30.19-ca-crac-jdk21.0.1-linux_x64.tar.gz",
     "vendor": "azul",
     "version": "21.30.19"
@@ -211222,6 +211360,7 @@
     "sha256": "b436f1213a7a8dfaf85285d6926dc834b9f5b14cd3d9a9214d82cb2cfa4af84b",
     "sha512": "9aaa13f5d4b5b128c3d6fbacfcddb89737898077b127b3f03dff30168ee49fe55e646d7ec7804f792da064919382050303b2e7e2e543d351bdb08a6dc6e3e654",
     "size": 55024973,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu21.30.19-ca-crac-jre21.0.1-linux_aarch64.tar.gz",
     "vendor": "azul",
     "version": "21.30.19"
@@ -211245,6 +211384,7 @@
     "sha256": "ee4feebd03d7409a5618c9d0e3375e9a3cb12ef361ce07f3b4b3a57d2e403acc",
     "sha512": "c0a8e575481b61e9c843f9833d19602023cbfea010e29fb2cf39a5c1bf31966ab65330b2dcee39aef6a49d99c6f48178e77b2ab179fb6bda69811b08b1c8fc7c",
     "size": 55436330,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu21.30.19-ca-crac-jre21.0.1-linux_x64.tar.gz",
     "vendor": "azul",
     "version": "21.30.19"
@@ -211362,6 +211502,7 @@
     "sha256": "914f22628f4311e5b6dd99647936fff1e152fb5da290b4f6814fa52c41e04b5d",
     "sha512": "a52148c0286ec3a89d4d098b0e82e385d5f3a829bc225fd9824ef693efa5ca4fc689e80e6ff0a89a9e452db0b8d5c540e55d300bb80842581571731c16f9e407",
     "size": 55027143,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu21.30.23-ca-crac-jre21.0.1-linux_aarch64.tar.gz",
     "vendor": "azul",
     "version": "21.30.23"
@@ -211386,6 +211527,7 @@
     "sha256": "598d0e673b17230d0c2eda20df63fbcfe0e3a31236070d77dee74bdd773fbf0c",
     "sha512": "6b4275e1882298d7323171c43623ad743f4aa28efbd0366b65c8298ad074efb7da61a56166bd3abf6b00887ce7f0beb47908ae2d1bac3deb8bc7b70cd95691a5",
     "size": 55732747,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu21.30.23-ca-crac-jre21.0.1-linux_musl_aarch64.tar.gz",
     "vendor": "azul",
     "version": "21.30.23"
@@ -211410,6 +211552,7 @@
     "sha256": "059da491827e5dfbf5572a9b38241f87ca1e054b65ac516087c5950212b6c8f6",
     "sha512": "3190397010cbf2986b66612a995ecca7c5ba3cda3f8c9d735265709481d14ebadd486cc38a12efd914268c727c153f3105b2996b6b20bc632e2bc7a403469964",
     "size": 56765180,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu21.30.23-ca-crac-jre21.0.1-linux_musl_x64.tar.gz",
     "vendor": "azul",
     "version": "21.30.23"
@@ -211433,6 +211576,7 @@
     "sha256": "a8c2ed09ac7d02bdff785d3499d4908d8962134aef47b9cc4396227ed86e8a29",
     "sha512": "fa2b5200c10580db77e73ac4ef1d6c475ac339e9ea2204db782a83bb6fb817610841c9794c98ae32f4bcbc2a1bcc90d23642ffbe36c53bb30b839645d577e597",
     "size": 55442378,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu21.30.23-ca-crac-jre21.0.1-linux_x64.tar.gz",
     "vendor": "azul",
     "version": "21.30.23"
@@ -211665,6 +211809,7 @@
     "sha256": "dd69efb570cc16b7b0cb94f948a157d9f3d564806721f991868dd566bb30523c",
     "sha512": "a31eb7c635af242118ae39459f4df19d2545a99f2faf377f1a0068808ef18aa84c2f994d8813d4ac4b399e5024988c1f57722bfc206961f3d2bf6b7e7d8e8496",
     "size": 55119120,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu21.32.17-ca-crac-jre21.0.2-linux_aarch64.tar.gz",
     "vendor": "azul",
     "version": "21.32.17"
@@ -211689,6 +211834,7 @@
     "sha256": "5cf9532bd03c5c391cd2a12e34cf52c3df6403246c5932e835b387dee4fb3f6b",
     "sha512": "a5f61d450245dbb1e0d781e84e3d6ae36981d2af4e51bf7dd8c1245a52585e37ef82d191986ce884c5e923caf5f82895b2950d49fd21bd86283c1c79c05e6260",
     "size": 55858645,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu21.32.17-ca-crac-jre21.0.2-linux_musl_aarch64.tar.gz",
     "vendor": "azul",
     "version": "21.32.17"
@@ -211713,6 +211859,7 @@
     "sha256": "f38ead6dfe34c62bb8efb2c69091c7892882d3ccce0acefa7e33621be7a4eaa1",
     "sha512": "dd80cad8496b7284a6a09f1099a1001ed090b1dba808fa5260d837fb6711437cc094cec72354b98d5136b914816944fd7759fb6ec6406f5bfb4b314798b62e12",
     "size": 56905160,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu21.32.17-ca-crac-jre21.0.2-linux_musl_x64.tar.gz",
     "vendor": "azul",
     "version": "21.32.17"
@@ -211736,6 +211883,7 @@
     "sha256": "d7146d7bc612a6fcf3eaa5bb82bb64b618b2e1dd8faa9d9b5983c1afb36085af",
     "sha512": "9fa3a0ddd9621c4ab9c85c17b41799e0caf641ef72bdd396f0cf3bc164293e49f36ab8c42c48119b6e3cfa869b2ad159dfded539fd8f387e72ec5a3dc4499ff1",
     "size": 55571693,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu21.32.17-ca-crac-jre21.0.2-linux_x64.tar.gz",
     "vendor": "azul",
     "version": "21.32.17"
@@ -212825,6 +212973,7 @@
     "sha256": "e4262e663475d1c04e071f7f0ffb857c4f53667d4d61f56c57513b6c9aad181b",
     "sha512": "7bf713538f583f77a681b1f84a629bed8d853923269de8822e3984967814453f419f8d89c7759df84cec865f876be3464fd555844044ea3dee7792e8c7911823",
     "size": 55146020,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu21.34.19-ca-crac-jre21.0.3-linux_aarch64.tar.gz",
     "vendor": "azul",
     "version": "21.34.19"
@@ -212848,6 +212997,7 @@
     "sha256": "c1073c4592a488fc76dc8e7dfb66695633d3c2e4b4f671cce1b8154e7367fa4a",
     "sha512": "0ed07c0d85a6766d489b2fe559aaded5722f21167ed47377a26e65e39086702626bce136d39227b252f3e5fb688ec76a795b8cff593b1399fb24ed754e6dd504",
     "size": 55650257,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu21.34.19-ca-crac-jre21.0.3-linux_x64.tar.gz",
     "vendor": "azul",
     "version": "21.34.19"
@@ -223328,6 +223478,7 @@
     "sha256": "a3f4eced4d55fd47f5f5427b70cef9433f8e881388d505946a550469efa918f4",
     "sha512": "8eda9275f505d84bcbfb0be0381eca149f7ff5f8f99750ee3a3fd460d2ca9945cde4bd4d48ea0a1f05a4f71b8e885ba1c93ae9754e4ae7351b25c9c339420173",
     "size": 213445293,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu21.50.15-ca-jdk21.0.11-linux_aarch64.tar.gz",
     "vendor": "azul",
     "version": "21.50.15"
@@ -223351,6 +223502,7 @@
     "sha256": "2b8a1c28750e6f0abc17febb8ba62aecab7630bd4f142f8bab3e621ec21defeb",
     "sha512": "c75c54ccc47e5635a94bbab84699b9122b63aa8ad7e75a77408e3d1f04a9fd1eb0f8bcd7ada2ab285ad1429a68cf2cbadd0d4003487d3acb7f8a77582fe8725d",
     "size": 212125815,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu21.50.15-ca-jdk21.0.11-linux_musl_aarch64.tar.gz",
     "vendor": "azul",
     "version": "21.50.15"
@@ -223374,6 +223526,7 @@
     "sha256": "94600074520a397f13081ed355ff4a8b2906ecce0bc2ef84d213264ecd88e2ab",
     "sha512": "d0f6b64e42722e62796eb288024aa877131bf500d662921e0ae91f7a7e1300e357c5c98987cae2054b48c8b64c946962e1d1a6aef8d5f9584cf217d329f2ba83",
     "size": 215072236,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu21.50.15-ca-jdk21.0.11-linux_musl_x64.tar.gz",
     "vendor": "azul",
     "version": "21.50.15"
@@ -223395,6 +223548,7 @@
     "sha256": "80ee7f26b29d04da5c4b53742c53e915673b8cca8183bd6d3ae734f00a249a7d",
     "sha512": "4ee472f84f07da896c89bea00a893ff98b23acd1b9a1c6866347145c9aa5fcd159fa27d7e3c5cc5915fea74e537033a013b8673e5a46b7b391e274ee8164fef9",
     "size": 214189998,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu21.50.15-ca-jdk21.0.11-linux_x64.tar.gz",
     "vendor": "azul",
     "version": "21.50.15"
@@ -223416,6 +223570,7 @@
     "sha256": "776de0e097b156ae6f6d2b4e4349f7c10698cbcdc250cf6d0eb635edd04cb5af",
     "sha512": "3dcdbeadcf677ecdd89ec79a8306e3565144ba042a3e609a4c05ccfbe5b688c5a26a42fc0672ac24f0ec337d9e488892a5b3203a79d8f55cd418b41a7b2a85e4",
     "size": 217862537,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu21.50.15-ca-jdk21.0.11-linux_x64.zip",
     "vendor": "azul",
     "version": "21.50.15"
@@ -223437,6 +223592,7 @@
     "sha256": "5a10c73f694e3d47d9e18dc1940e8441a2d093bbab865fa952403fc26473f1ab",
     "sha512": "f51cc6d956b8a8037143d8370190f0b5376e8a288f6ee1fb12cf14863aab284531d864a1f20cbed77b803070c11e812000d0dfb5068d0277355b4c38be08d607",
     "size": 198519039,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu21.50.15-ca-jdk21.0.11-win_aarch64.zip",
     "vendor": "azul",
     "version": "21.50.15"
@@ -223458,6 +223614,7 @@
     "sha256": "ce05d282db7707cb7d760cfaf14e7c91a74ef67b89f2e05df9120941f9dc2a82",
     "sha512": "a840a51d3794f94253597d5ef80b80ab4dadac885f48713248b9d18a07ec027301da0bbabd3e0c343d2e277ef8640f603a27b835ec09a1ae9c97462db3d77e25",
     "size": 186867712,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu21.50.15-ca-jdk21.0.11-win_x64.msi",
     "vendor": "azul",
     "version": "21.50.15"
@@ -223479,6 +223636,7 @@
     "sha256": "62c6e404aa36976a0b9a3e18efc283577462b22976be0cca231a2b605c0c2a67",
     "sha512": "d610fb724c5c28653f2bfe927c58a34b2d4b42a68f924e596be8752fbc508bc85ec849961340324de61fa3afc1e5e5786adb35cb7f1bc44ef1d55fd63c35f635",
     "size": 211614426,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu21.50.15-ca-jdk21.0.11-win_x64.zip",
     "vendor": "azul",
     "version": "21.50.15"
@@ -223500,6 +223658,7 @@
     "sha256": "09ac1f2141a03ec60c353d5b4e06a6817862864fcf73333f02b8a6cde00d835a",
     "sha512": "41d368bf17a87b979bfcd1a6c93ff874eb401545018fdbbc12863b93e055aaa09b3eba4e9e8c08e57cd7e6b6d47477d013ca065ba3264fb8d50d33deeab20541",
     "size": 52405384,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu21.50.15-ca-jre21.0.11-linux_aarch64.tar.gz",
     "vendor": "azul",
     "version": "21.50.15"
@@ -223523,6 +223682,7 @@
     "sha256": "2c09b013808734fc106164dd9ab19d33cbe1d7cefd149afef8f06132812ba5c7",
     "sha512": "76015edd9a253017e78276d1942686c0ef4556af99e68462c1b352e72eda75e853e7a3bc2593cf4b999e91d85c22971f6fad0de6a2f6251cd81f899bcda714bc",
     "size": 52052400,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu21.50.15-ca-jre21.0.11-linux_musl_aarch64.tar.gz",
     "vendor": "azul",
     "version": "21.50.15"
@@ -223546,6 +223706,7 @@
     "sha256": "1ebe92a60b296159832857779efa31f55a395cb960a26b891e4530301165b0cc",
     "sha512": "3511b4766efedbd9eaa51356ae045698fd9e1a9548561ec60e0d665a63ea2414c48bb562eed2bd8537a48a7ca14a7e7dcb22c9e46b98d3174bab588b748eb022",
     "size": 53387147,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu21.50.15-ca-jre21.0.11-linux_musl_x64.tar.gz",
     "vendor": "azul",
     "version": "21.50.15"
@@ -223567,6 +223728,7 @@
     "sha256": "32a7cdab1e1b3eee7e78b9c7faec06ba857377db36789bcc10ae8f0ec403bdb8",
     "sha512": "a5ef268877c5e239ed8a7f232d2978934fb39c9a6936c3579128c091479fe39457295ec1bbd67ee72f92081386e070a88a8ebc08bd4b05e2effb9cb53d491056",
     "size": 52834447,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu21.50.15-ca-jre21.0.11-linux_x64.tar.gz",
     "vendor": "azul",
     "version": "21.50.15"
@@ -223588,6 +223750,7 @@
     "sha256": "09178e3b2d04271b8ecaee90068b992988c6c9713056bb0c805df9f6026093da",
     "sha512": "904e31b39a987c6d5f82affb07af89003bf8b5da91a0f99a3beb53c4507d3c84f2253295657696112fbfbb68963a1bed0685395ee69f79de7c683e819785b32c",
     "size": 52983401,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu21.50.15-ca-jre21.0.11-linux_x64.zip",
     "vendor": "azul",
     "version": "21.50.15"
@@ -223609,6 +223772,7 @@
     "sha256": "90866f6497e8326fa696c30693148bb668e28220057d266d8d9f83d7a50f41ea",
     "sha512": "3054a3f4cc66c70f1b174620f2bd6cc0b795429e776015068694f2ec48f7f4db76e23d519c8c3f1f5868416403aa3e20d681e6ac7e56e53687a3105582c8900e",
     "size": 40362891,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu21.50.15-ca-jre21.0.11-win_aarch64.zip",
     "vendor": "azul",
     "version": "21.50.15"
@@ -223630,6 +223794,7 @@
     "sha256": "fd53dc88bbfbfbee5a9cd4888a9701f1f2965844166b9fb6d5d2979700ea10be",
     "sha512": "8f98442f38e2375203514e6e9d34fd21b3b5e4cdda424e7a5c9cc42a9f585b2921170e3d6ee72cc39a914a611b5b113772c2f4371df39588c7678857fc2fa618",
     "size": 35868672,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu21.50.15-ca-jre21.0.11-win_x64.msi",
     "vendor": "azul",
     "version": "21.50.15"
@@ -223651,6 +223816,7 @@
     "sha256": "5a9c63d878aacac7141ddac3dfeed9da94562c714d85bd9e408caadb59f0e25e",
     "sha512": "1d8699d5578f8d566cb861fc84454dffc7a7d6baf2ac90987f10ec3d46557c1986f5d47670454ecc09d6c969426972da5e270bcbe963cfe6893175b03bab9c36",
     "size": 49610699,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu21.50.15-ca-jre21.0.11-win_x64.zip",
     "vendor": "azul",
     "version": "21.50.15"
@@ -230309,6 +230475,7 @@
     "sha256": "2357c9cbe63fcbf41140738d2e0bc7b91f0e6c41bbd64af9bf0756a14d028356",
     "sha512": "51db67fc097a9b507546c1150e3ed5c13557bb034264b98b073d4f7194dbbe585e99219e4f526060ee8732c66a6bf1a20aae3404b291a18ce1501f7c66fccb3a",
     "size": 205020721,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu22.28.91-ca-crac-jdk22.0.0-macosx_aarch64.tar.gz",
     "vendor": "azul",
     "version": "22.28.91"
@@ -230332,6 +230499,7 @@
     "sha256": "a61b3b3050765677e844577a3368b6bff478d025ae729184c037c7508b62e25f",
     "sha512": "d68d87ae80533edd93d61fe6ff189eeb8f54627661d938a7a3bdf9c2ce9427c9d6f73e56bdc81336441ec22e1aa31a9afb86d0d853789f06639aa43090a41499",
     "size": 208635629,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu22.28.91-ca-crac-jdk22.0.0-macosx_aarch64.zip",
     "vendor": "azul",
     "version": "22.28.91"
@@ -230355,6 +230523,7 @@
     "sha256": "ce93f7d03595d4ced2f759dbed06bda562c8c1c3d921762ebc31b90f04d2b7a7",
     "sha512": "e3ab243a5959b7cc413d4c0c83f9868d112e895a70315345b4a3ae534c4a2e97a9b8b0b73781ebfbfcc1b162069ad609f6d8e64df1eccbde25204efde7f046c1",
     "size": 207324170,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu22.28.91-ca-crac-jdk22.0.0-macosx_x64.tar.gz",
     "vendor": "azul",
     "version": "22.28.91"
@@ -230378,6 +230547,7 @@
     "sha256": "3c1db87e7dbfb8ac49168fdedd989a85807e9c42d40b31b1985ec8153d699aad",
     "sha512": "2dbf67bf87bb3fbdf33d8f9d12787a6dde2d5327da4123f49865a1b53b880f7a699e5603e293dcfac562d4101265783bd85b13e34ded86e6a7f8ffddeff51fed",
     "size": 210930034,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu22.28.91-ca-crac-jdk22.0.0-macosx_x64.zip",
     "vendor": "azul",
     "version": "22.28.91"
@@ -230401,6 +230571,7 @@
     "sha256": "12c77a9afdbb112a6b7c3dc5fe6422a7e3935e73813cf9b24295fb97a4fb85b5",
     "sha512": "8875e9c02972e40034890e745eb3c760ed81697afa240642bb976199d2fcae209de75d174c1769aa6f622f4ddaf6091f6e0b9ea0ef1c0b5a70a659c2c20052f4",
     "size": 208421920,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu22.28.91-ca-crac-jdk22.0.0-win_x64.zip",
     "vendor": "azul",
     "version": "22.28.91"
@@ -231444,6 +231615,7 @@
     "sha256": "fd028c87e0154c1a591fab2ea003381e903ecc09627e5c59a90463e6d53d4b78",
     "sha512": "f588c5974074878c9318cfa2e503a25d0778a3490ceb942e9144c8a924132644c2144448838f502a9deb3e9515195dd55acc94f62989d782fea62e7d31f2ef87",
     "size": 54494110,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu22.28.93-ca-crac-jre22.0.0-linux_aarch64.tar.gz",
     "vendor": "azul",
     "version": "22.28.93"
@@ -231467,6 +231639,7 @@
     "sha256": "5473c57b06d71a35e27d17115d8ec398763dc749c2262d35aa3499ca633a78f9",
     "sha512": "a6a829b7b1521bf0ef9905ac342f2cfa55fe7b6934bbc2d0f71d030ec7143f2c0dc39bdf3814ff16eadceba0605534e84cf38ab88d1cd35c2b4253b79b1e8042",
     "size": 55033085,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu22.28.93-ca-crac-jre22.0.0-linux_x64.tar.gz",
     "vendor": "azul",
     "version": "22.28.93"
@@ -231745,6 +231918,7 @@
     "sha256": "68cf3974548b95385390764a3ce77cdc7c248ec031a048c3625ea8c3026735e3",
     "sha512": "506abe717c58d349bf9ea119f195c3167e009d6885df1f50e03caed82b7c77f88f031d971f9e7c109538c31f0f1388f97c8f1d506e5a91ea4c70b41cc3dfe71d",
     "size": 54491954,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu22.30.13-ca-crac-jre22.0.1-linux_aarch64.tar.gz",
     "vendor": "azul",
     "version": "22.30.13"
@@ -231768,6 +231942,7 @@
     "sha256": "742697b245e4126bde6bf7d7fb7981ba462200238b6f445831366ed1bb42527c",
     "sha512": "ae6ac5abc12b3a6b9bad2fb2c78e2970d610efc85714635bade9ca4c336adf11f28792948cb15789d37b10d3a2c85a8154966cf63c411537401cfb74fd8f5e8b",
     "size": 55056497,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu22.30.13-ca-crac-jre22.0.1-linux_x64.tar.gz",
     "vendor": "azul",
     "version": "22.30.13"
@@ -258232,6 +258407,7 @@
     "sha256": "79cb276fac24c94fc25501e3f376d2c76768771bf4f536789b7e80c113b2bcf9",
     "sha512": "ad269c2e96a13ee6c5cf2927ebb701722aaa7589f40bf731f8ed338f7bde87c654f806900d7cd1bffa2efca4e49e54cbf71762c9dd0cf4542335020b5d63d7a4",
     "size": 207213080,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu25.34.15-ca-jdk25.0.3-win_aarch64.zip",
     "vendor": "azul",
     "version": "25.34.15"
@@ -258253,6 +258429,7 @@
     "sha256": "a9344aa1b305b77230d1a810fb1139974ade05523e777e9035d84d1a7ea34aa8",
     "sha512": "fcae46e6ce76c2ad34f7aa9b74dcd13936f14536b34f0ddfb720fda1f94b0646db3827b9e875c8d7689a85afd85bc163740297aa45438e8419ae394c3312c1eb",
     "size": 205463552,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu25.34.15-ca-jdk25.0.3-win_x64.msi",
     "vendor": "azul",
     "version": "25.34.15"
@@ -258404,6 +258581,7 @@
     "sha256": "09f0423c7674ac87ef952cce7d8cf904e3f41180b1dbf4ce182a6e637c20b760",
     "sha512": "65125b0495a66e2cd7487d47fe55334c91c87be6e32c4384df3691525e6daafa6bd368f8ab653bb85d697d82ce5c55bc40f277aa50a0e512cd850821ce4f7458",
     "size": 40334635,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu25.34.15-ca-jre25.0.3-win_aarch64.zip",
     "vendor": "azul",
     "version": "25.34.15"
@@ -258425,6 +258603,7 @@
     "sha256": "f5a142ab2eb4bac02eba307b351cbacfab700bd9d9124591c77d090af118e302",
     "sha512": "3eac8c7949c8df190d86618ae5d24d877e35d3341569e890c994eb032ae2790ee9be21a2024887f9da879f85dc3bbce1d65262fec7ee46c53440b9f37247499c",
     "size": 43479040,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu25.34.15-ca-jre25.0.3-win_x64.msi",
     "vendor": "azul",
     "version": "25.34.15"
@@ -258446,6 +258625,7 @@
     "sha256": "4a52b5b0da39344bb17e1e0f8915cede89e693402684e5ea4a3de5fd9803c4e0",
     "sha512": "727650243e61551d327e7a29961b3fd75c8f7fa5a97644a1e59a4fe46fa47b0467a943bc4d316bdd01974c2d5e3d355c3df098711461c330891d02c1f03727e4",
     "size": 58870944,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu25.34.15-ca-jre25.0.3-win_x64.zip",
     "vendor": "azul",
     "version": "25.34.15"

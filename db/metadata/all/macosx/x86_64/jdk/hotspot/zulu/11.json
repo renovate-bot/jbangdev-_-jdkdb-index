@@ -3258,6 +3258,7 @@
     "sha256": "ee747410fb26a274a703475adf377e106b68e055482b13df1dfa5765c8d352c1",
     "sha512": "c349dfdf811a2c722496cb643d0c19e56b0419acfc900cc34f2c8ff2fb74066ef7f6b87e6b84cf6c98514ca1e961b5fcf75408c424c6abf0be43c8ae2b683002",
     "size": 350440021,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu11.66.15-ca-fx-jdk11.0.20-macosx_x64.dmg",
     "vendor": "azul",
     "version": "11.66.15"
@@ -3281,6 +3282,7 @@
     "sha256": "a558022648184e515e2fb9e490c58b789fc9f042e182f59bee0cdfddead93fb6",
     "sha512": "565b620cf7677c5936bf7ebad9f6e1a8b8f0b937d718de3459acc814a4de8e9b36eff07d970bd7bde0c32c2ae392e502dda625d8e406e5e833d360c9bd4ce854",
     "size": 347174103,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu11.66.15-ca-fx-jdk11.0.20-macosx_x64.tar.gz",
     "vendor": "azul",
     "version": "11.66.15"
@@ -3304,6 +3306,7 @@
     "sha256": "46bc295c0adbb476c8004029e30730c75f6a7236d7a4a31f2754796718be6015",
     "sha512": "40cf931b6d99f497d5764edcc2c6426c18a3c0df20c52dd93f95edb4c29405874a7ae03c41749bbc673c19383f78106d1303eddabf5a4459f9dc622a884e5059",
     "size": 352445751,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu11.66.15-ca-fx-jdk11.0.20-macosx_x64.zip",
     "vendor": "azul",
     "version": "11.66.15"
@@ -3325,6 +3328,7 @@
     "sha256": "c9f010d6540e4cb7ca1b227b15a46d1cb309efd707b196d9e7d1d7dd34bbd991",
     "sha512": "819f079bb43ca0de5b1948dba3ab147cbae9bb93698630d54a86a2c841cadfb19e6b77b3806570e301c73bd9905a87cb9bcc4e3d22697aa766a320c126266218",
     "size": 199371360,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu11.66.15-ca-jdk11.0.20-macosx_x64.dmg",
     "vendor": "azul",
     "version": "11.66.15"
@@ -3346,6 +3350,7 @@
     "sha256": "bcaab11cfe586fae7583c6d9d311c64384354fb2638eb9a012eca4c3f1a1d9fd",
     "sha512": "b9d5c53e4ccfb9507fc5bd28b1386dc7a7006900cd0849daadc2841a5f38b783320d8de7be599c5ea8fe00bb78005742a8564164ec64c8cb7a099d1b35e42d55",
     "size": 196471694,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu11.66.15-ca-jdk11.0.20-macosx_x64.tar.gz",
     "vendor": "azul",
     "version": "11.66.15"
@@ -3367,6 +3372,7 @@
     "sha256": "20cbb825705cc0353e3640643e50f2c83827334ded5e9bae91cd4656ef2e7f11",
     "sha512": "8fa8ba2f6c8e45d012d600056a674b4d4d3665974c3d60177f2887f201d38ecec1bd8ca475c2802ce53ce8eda2909965c800fc40ade5d0ffc4b265c638b45dad",
     "size": 201228234,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu11.66.15-ca-jdk11.0.20-macosx_x64.zip",
     "vendor": "azul",
     "version": "11.66.15"

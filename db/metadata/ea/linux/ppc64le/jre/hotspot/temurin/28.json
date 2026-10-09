@@ -355,5 +355,26 @@
     "url": "https://github.com/adoptium/temurin28-binaries/releases/download/jdk-28%2B18-ea-beta/OpenJDK-jre_ppc64le_linux_hotspot_28_18-ea.tar.gz",
     "vendor": "eclipse",
     "version": "28+18-ea-beta"
+  },
+  {
+    "architecture": "ppc64le",
+    "distro": "temurin",
+    "features": [ ],
+    "file_type": "tar.gz",
+    "filename": "OpenJDK-jre_ppc64le_linux_hotspot_28_19-ea.tar.gz",
+    "image_type": "jre",
+    "java_version": "28",
+    "jvm_impl": "hotspot",
+    "last_verified": "2026-10-09",
+    "md5": "72435b62883241afa1e511755320b301",
+    "os": "linux",
+    "release_type": "ea",
+    "sha1": "e61796feb13c6d2ad8e736e203a1e234f478426f",
+    "sha256": "8f9bd4c84a0a1e9b4ee5a8c6978cdeb235f98fab207205cfb91ed597c0208c4b",
+    "sha512": "97fbe9d3ae39518776554981fc7df8d36b45345c68445ba050f37c3d2281dbf5beca7ea913cd6a127ee53b276bee8bb9ce827d8085b63ec1a89df387a0ba7a23",
+    "size": 78495596,
+    "url": "https://github.com/adoptium/temurin28-binaries/releases/download/jdk-28%2B19-ea-beta/OpenJDK-jre_ppc64le_linux_hotspot_28_19-ea.tar.gz",
+    "vendor": "eclipse",
+    "version": "28+19-ea-beta"
   }
 ]

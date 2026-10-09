@@ -5047,6 +5047,7 @@
     "sha256": "83149c36ca3e4695db3f71e866c16ba45a8baf408763d4dc193295ed12374d77",
     "sha512": "373e9bc89d85bf9be2c44ad7e8435eba6410fed5ccc67ae745a9b66815ae444cbe289e0119b51f94575add0efce58f49373fdee42b3e15692c34a863b9df64c4",
     "size": 143268950,
+    "unlisted_since": "2026-10-09",
     "url": "https://github.com/adoptium/temurin27-binaries/releases/download/jdk-27%2B17-ea-beta/OpenJDK-jdk_ppc64le_linux_hotspot_27_17-ea.tar.gz",
     "vendor": "eclipse",
     "version": "27+17-ea-beta"
@@ -5722,5 +5723,26 @@
     "url": "https://github.com/adoptium/temurin28-binaries/releases/download/jdk-28%2B18-ea-beta/OpenJDK-jdk_ppc64le_linux_hotspot_28_18-ea.tar.gz",
     "vendor": "eclipse",
     "version": "28+18-ea-beta"
+  },
+  {
+    "architecture": "ppc64le",
+    "distro": "temurin",
+    "features": [ ],
+    "file_type": "tar.gz",
+    "filename": "OpenJDK-jdk_ppc64le_linux_hotspot_28_19-ea.tar.gz",
+    "image_type": "jdk",
+    "java_version": "28",
+    "jvm_impl": "hotspot",
+    "last_verified": "2026-10-09",
+    "md5": "c9379f94c9cfc0cf5b97a50752f96863",
+    "os": "linux",
+    "release_type": "ea",
+    "sha1": "208b1d8b518a2c6f3bca9a55001bec9c7e1651a4",
+    "sha256": "55179aaf080952d63dae5a812389caf88f8556d3b939fefa1d17bb0aaf82978a",
+    "sha512": "b6226cec94d0fb707d757ba4dac842a7998998cac9c06176740cb1a7cb48f3e9936cf18fed6f04176dc9214aa3d1e47f8cc615f20a3892ff17a224e446588568",
+    "size": 158874636,
+    "url": "https://github.com/adoptium/temurin28-binaries/releases/download/jdk-28%2B19-ea-beta/OpenJDK-jdk_ppc64le_linux_hotspot_28_19-ea.tar.gz",
+    "vendor": "eclipse",
+    "version": "28+19-ea-beta"
   }
 ]

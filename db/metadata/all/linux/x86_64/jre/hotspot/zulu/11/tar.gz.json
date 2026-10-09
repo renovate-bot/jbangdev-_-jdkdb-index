@@ -2296,6 +2296,7 @@
     "sha256": "79ca03453cc853e6acb0946be991d44a8e4ec9838910d593daafa456ecdce3b3",
     "sha512": "ce47953f9d58bdb3f4a5e22e44b5ec888b7d7299f190c1915bd544da658f55288aff62012c988a7aaff288163101db14395cbaf979f6b9f117ba2f2e879ee662",
     "size": 43842124,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu11.88.15-ca-jre11.0.31-linux_musl_x64.tar.gz",
     "vendor": "azul",
     "version": "11.88.15"
@@ -2317,6 +2318,7 @@
     "sha256": "4907e6e006c617d135a85a6170027ec8b929c70c6ee35e5f3734e339f5695f80",
     "sha512": "951d1347468e08843354f36f488b89ad0c1f1f3a80c7cc98a048930291cc7d899cdb53f6955b6249deb147196979e29f4d77463b337ac80e03257afe8f18c312",
     "size": 43239913,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu11.88.15-ca-jre11.0.31-linux_x64.tar.gz",
     "vendor": "azul",
     "version": "11.88.15"

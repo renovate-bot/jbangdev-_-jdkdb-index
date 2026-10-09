@@ -23801,6 +23801,7 @@
     "sha256": "e1e0e83e7539254eb932a3878afc75f3d976d45d72fcc98ca93adc426d259c5c",
     "sha512": "12fe6df5059eb21f198dfe73b15e5268bc4be9d4d2cc0aa2ea8bb7c7d072f412f50ea2a4595ca03a17a8d879faab7b27a6dd4fccea068096f519246c3eca4877",
     "size": 184621199,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu17.66.15-ca-jdk17.0.19-win_aarch64.zip",
     "vendor": "azul",
     "version": "17.66.15"
@@ -45059,6 +45060,7 @@
     "sha256": "5a10c73f694e3d47d9e18dc1940e8441a2d093bbab865fa952403fc26473f1ab",
     "sha512": "f51cc6d956b8a8037143d8370190f0b5376e8a288f6ee1fb12cf14863aab284531d864a1f20cbed77b803070c11e812000d0dfb5068d0277355b4c38be08d607",
     "size": 198519039,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu21.50.15-ca-jdk21.0.11-win_aarch64.zip",
     "vendor": "azul",
     "version": "21.50.15"
@@ -45080,6 +45082,7 @@
     "sha256": "90866f6497e8326fa696c30693148bb668e28220057d266d8d9f83d7a50f41ea",
     "sha512": "3054a3f4cc66c70f1b174620f2bd6cc0b795429e776015068694f2ec48f7f4db76e23d519c8c3f1f5868416403aa3e20d681e6ac7e56e53687a3105582c8900e",
     "size": 40362891,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu21.50.15-ca-jre21.0.11-win_aarch64.zip",
     "vendor": "azul",
     "version": "21.50.15"
@@ -56031,6 +56034,7 @@
     "sha256": "79cb276fac24c94fc25501e3f376d2c76768771bf4f536789b7e80c113b2bcf9",
     "sha512": "ad269c2e96a13ee6c5cf2927ebb701722aaa7589f40bf731f8ed338f7bde87c654f806900d7cd1bffa2efca4e49e54cbf71762c9dd0cf4542335020b5d63d7a4",
     "size": 207213080,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu25.34.15-ca-jdk25.0.3-win_aarch64.zip",
     "vendor": "azul",
     "version": "25.34.15"
@@ -56052,6 +56056,7 @@
     "sha256": "09f0423c7674ac87ef952cce7d8cf904e3f41180b1dbf4ce182a6e637c20b760",
     "sha512": "65125b0495a66e2cd7487d47fe55334c91c87be6e32c4384df3691525e6daafa6bd368f8ab653bb85d697d82ce5c55bc40f277aa50a0e512cd850821ce4f7458",
     "size": 40334635,
+    "unlisted_since": "2026-10-09",
     "url": "https://static.azul.com/zulu/bin/zulu25.34.15-ca-jre25.0.3-win_aarch64.zip",
     "vendor": "azul",
     "version": "25.34.15"

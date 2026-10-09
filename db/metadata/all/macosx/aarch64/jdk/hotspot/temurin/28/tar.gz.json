@@ -355,5 +355,26 @@
     "url": "https://github.com/adoptium/temurin28-binaries/releases/download/jdk-28%2B18-ea-beta/OpenJDK-jdk_aarch64_mac_hotspot_28_18-ea.tar.gz",
     "vendor": "eclipse",
     "version": "28+18-ea-beta"
+  },
+  {
+    "architecture": "aarch64",
+    "distro": "temurin",
+    "features": [ ],
+    "file_type": "tar.gz",
+    "filename": "OpenJDK-jdk_aarch64_mac_hotspot_28_19-ea.tar.gz",
+    "image_type": "jdk",
+    "java_version": "28",
+    "jvm_impl": "hotspot",
+    "last_verified": "2026-10-09",
+    "md5": "01e4b23b4b3e54543408e28918dbf9d5",
+    "os": "macosx",
+    "release_type": "ea",
+    "sha1": "237c1a562b4deef9297b2442c5e3979114eab6f6",
+    "sha256": "c12c8ace543e9683d1c5e4d504490e21f9ebe0e6ed81cb153c6b9710b9e9620b",
+    "sha512": "8b599feaf675340fd2f0b794955ea3d38f60890c064f6f2d4f1d0c20dda2c58cac84cefb6cfea41db3226f0389f54114c2d11f9ca7bffea9294bf24a5e74362b",
+    "size": 155554838,
+    "url": "https://github.com/adoptium/temurin28-binaries/releases/download/jdk-28%2B19-ea-beta/OpenJDK-jdk_aarch64_mac_hotspot_28_19-ea.tar.gz",
+    "vendor": "eclipse",
+    "version": "28+19-ea-beta"
   }
 ]
