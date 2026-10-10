@@ -18,6 +18,7 @@
     "sha256": "6493e1e7c75b2031b48907cca41b9327c373d253c172e9644eb144d961595d9a",
     "sha512": "8c4387002d11a7ddf98aeb8b013169fa502ab0ffaf133a72d1c9d790ee868e1b0c6cc969e7bbe9a9a6f97cc13e088f30593b9bbe1a02a989d5bca59b79982d95",
     "size": 33974364,
+    "unlisted_since": "2026-10-10",
     "url": "http://ftp.debian.org/debian/pool/main/o/openjdk-11/openjdk-11-jre-headless_11.0.33~4ea-1_s390x.deb",
     "vendor": "debian",
     "version": "11.0.33~4ea-1"
@@ -41,6 +42,7 @@
     "sha256": "c3638b524504a5d146c0d624d2f6c376e978f77f26dd875584cdc7136c879283",
     "sha512": "0e40115021f591eb7ad3f956d3db1a95855e602a5febf50eaea8ff291f8b6d998c15e8f87864477a62c865ccf4ef52c7df2785baed8480adcfeaac9ab5c71f86",
     "size": 2116080,
+    "unlisted_since": "2026-10-10",
     "url": "http://ftp.debian.org/debian/pool/main/o/openjdk-11/openjdk-11-jre-zero_11.0.33~4ea-1_s390x.deb",
     "vendor": "debian",
     "version": "11.0.33~4ea-1"
@@ -62,6 +64,7 @@
     "sha256": "9f87d48ae0e7b243c608d900e707bfc93c68b9890c6570f66d2c5febf0ed0256",
     "sha512": "e1d824b47602c9538b5fb96f88a82dc8559fe5e69164fbfc77636aa2c30a89e1f4fbc815295ede58d2f818c94f253bda984c2afbf5ab75c98579af24fa0d8d9d",
     "size": 195116,
+    "unlisted_since": "2026-10-10",
     "url": "http://ftp.debian.org/debian/pool/main/o/openjdk-11/openjdk-11-jre_11.0.33~4ea-1_s390x.deb",
     "vendor": "debian",
     "version": "11.0.33~4ea-1"

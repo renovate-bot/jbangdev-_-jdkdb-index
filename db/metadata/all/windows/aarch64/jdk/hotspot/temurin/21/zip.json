@@ -986,5 +986,26 @@
     "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.13%2B7-ea-beta/OpenJDK21U-jdk_aarch64_windows_hotspot_21.0.13_7-ea.zip",
     "vendor": "eclipse",
     "version": "21.0.13+7-ea-beta"
+  },
+  {
+    "architecture": "aarch64",
+    "distro": "temurin",
+    "features": [ ],
+    "file_type": "zip",
+    "filename": "OpenJDK21U-jdk_aarch64_windows_hotspot_21.0.13_8-ea.zip",
+    "image_type": "jdk",
+    "java_version": "21",
+    "jvm_impl": "hotspot",
+    "last_verified": "2026-10-10",
+    "md5": "0e7dbfa09b315ae52c782d3165bb0ec7",
+    "os": "windows",
+    "release_type": "ea",
+    "sha1": "24524314286cb0e3924d2d2c01f98bfdb338c4a8",
+    "sha256": "f95aca179d9951adf019e30f198ad735b95aeef8c8c09205ed1ecf9b255e8641",
+    "sha512": "d6912da849589dadac6d8b321d239c428f287c3ec6dc5397b5ebfc26e1bb4da259cab539ba32aa8c4982aa96843f45b80d5cf2204e0985193a97543d05608f1f",
+    "size": 192978867,
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.13%2B8-ea-beta/OpenJDK21U-jdk_aarch64_windows_hotspot_21.0.13_8-ea.zip",
+    "vendor": "eclipse",
+    "version": "21.0.13+8-ea-beta"
   }
 ]

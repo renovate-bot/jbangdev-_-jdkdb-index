@@ -15564,6 +15564,7 @@
     "sha256": "1a36f2d0e432abcdc598f4d3c03d89625c4795a353ac13a6d93a71fb499062ae",
     "sha512": "8e6a544759f84e57f888fbdd3378642ea33d563d739f7974305022d2af2c96e1405e752bff24dfa083717093ac160c9ba3dd46d32dd54a0e944cfad27265ebc7",
     "size": 38777328,
+    "unlisted_since": "2026-10-10",
     "url": "http://ftp.debian.org/debian/pool/main/o/openjdk-11/openjdk-11-jre-headless_11.0.33~4ea-1_amd64.deb",
     "vendor": "debian",
     "version": "11.0.33~4ea-1"
@@ -15587,6 +15588,7 @@
     "sha256": "60e6ef17d89bc06034cfb76c7a4fc5c1341557e002c6420db1300875bd8eceb2",
     "sha512": "059f7c04cf36abf109eabf2374d082f013f901291836fc5cfd09aa137473eff4e6d9f74f684ec0d3db975ff9105577be4b2ad6b5b2d2bad4a94023298df7bc26",
     "size": 2522616,
+    "unlisted_since": "2026-10-10",
     "url": "http://ftp.debian.org/debian/pool/main/o/openjdk-11/openjdk-11-jre-zero_11.0.33~4ea-1_amd64.deb",
     "vendor": "debian",
     "version": "11.0.33~4ea-1"
@@ -15608,6 +15610,7 @@
     "sha256": "a107c26a356947f4d40bf55a2d9557cfb828ec028f6117499215af9801a7a6f2",
     "sha512": "74ae8435b2c23f3dfdfdf7868ed17d12780c8b82df60737842011790a9f49af6acdf360610f9048be722f0fe076c8faf9eb58f7629e41f31c24010a39d1e78fc",
     "size": 201552,
+    "unlisted_since": "2026-10-10",
     "url": "http://ftp.debian.org/debian/pool/main/o/openjdk-11/openjdk-11-jre_11.0.33~4ea-1_amd64.deb",
     "vendor": "debian",
     "version": "11.0.33~4ea-1"
@@ -24325,7 +24328,6 @@
     "sha256": "7a658affcdf5e09748612d51181ace0ef90c19d541f4bae9a1d871e441e7b911",
     "sha512": "a2498dca3a8034b1dc16d5e7ba96ee29eacee3ef9bcd3ffff5b9dcb92f2769e01f60351ec02f392342f53953448102bae0a31e370910f3222adf3dfb3092a8b6",
     "size": 56571467,
-    "unlisted_since": "2026-10-09",
     "url": "https://builds.openlogic.com/downloadJDK/openlogic-openjdk-jre/11.0.27+6/openlogic-openjdk-jre-11.0.27+6-linux-x64.tar.gz",
     "vendor": "openlogic",
     "version": "11.0.27+6"
@@ -24640,7 +24642,6 @@
     "sha256": "a8b72c221ca74f920f575511607e8672fc10e24da0f2b3441dc3c63a97d0d728",
     "sha512": "3e2018f15f82580878847a61992187631a62da04157f4059942f42b7030c121353d2a61fbd10ebaaa9a7f6f7cc52197954a3a8b1fd4021a870de1059bd8e6e4b",
     "size": 56604600,
-    "unlisted_since": "2026-10-09",
     "url": "https://builds.openlogic.com/downloadJDK/openlogic-openjdk-jre/11.0.28+6/openlogic-openjdk-jre-11.0.28+6-linux-x64-deb.deb",
     "vendor": "openlogic",
     "version": "11.0.28+6"
@@ -37004,6 +37005,7 @@
     "sha256": "2103ab04d5429f3f87ffaea1cbbeb9b6ee40bde2d39cf9e2fee32426d302b960",
     "sha512": "34113d9403693ebd547dc86b14eb08d0225bbbf428170082fd56e9208c0322782d3c6b6518f0b6c1086b861143fdfd4bec14480326d0d8219d10c71d34cac0d6",
     "size": 44379404,
+    "unlisted_since": "2026-10-10",
     "url": "http://ftp.debian.org/debian/pool/main/o/openjdk-17/openjdk-17-jre-headless_17.0.21~6ea-1_amd64.deb",
     "vendor": "debian",
     "version": "17.0.21~6ea-1"
@@ -37027,6 +37029,7 @@
     "sha256": "900c33d80ab01ef08cf31092d2a8248c29d08565a13bbeb43c85ceaa62805b97",
     "sha512": "b3cdb5b283b5e19b7e2f29003522e645fa5d701091db975548eac214765ec53f245580053ab449e682540cf79a3719d9622cea658706aab93fca5c11d880f87f",
     "size": 2896888,
+    "unlisted_since": "2026-10-10",
     "url": "http://ftp.debian.org/debian/pool/main/o/openjdk-17/openjdk-17-jre-zero_17.0.21~6ea-1_amd64.deb",
     "vendor": "debian",
     "version": "17.0.21~6ea-1"
@@ -37048,6 +37051,7 @@
     "sha256": "3a2d183c05034c9666ca5a1f652744a28e3b6eacdbeb21715d446449442e14f6",
     "sha512": "7db3d51115e05b465714bee1ca5b7f371a15eaebbec57a575fd659f3c20e8a21005314926cc4bc042fa5ccf96eb5042ed136fe6fe10aa7f1667dbac009c81ec2",
     "size": 217776,
+    "unlisted_since": "2026-10-10",
     "url": "http://ftp.debian.org/debian/pool/main/o/openjdk-17/openjdk-17-jre_17.0.21~6ea-1_amd64.deb",
     "vendor": "debian",
     "version": "17.0.21~6ea-1"
@@ -68092,6 +68096,7 @@
     "sha256": "357fbeaecb12c4b596c47820f7b34ae7e944c0f361a6a0786931f4a82a8773a3",
     "sha512": "c49249f45d5f1a646abe2d4be978a72c527d6520d6def66b3dffc26904139d049fe4bf8daafbfd3f017bb21f8df1984dfe93757195827f11911f10f6187c5509",
     "size": 57975928,
+    "unlisted_since": "2026-10-10",
     "url": "https://builds.openlogic.com/downloadJDK/openlogic-openjdk-jre/21.0.7+6/openlogic-openjdk-jre-21.0.7+6-linux-x64-el.rpm",
     "vendor": "openlogic",
     "version": "21.0.7+6"
@@ -69457,7 +69462,6 @@
     "sha256": "50b5e24d665f5a7ba3f0d925b488adbf6b328d34ba52942517f93ed40249ad1f",
     "sha512": "f96fa941d4f820a4dcbb816c317890109bf5f619dd7b70d77795465093558448784c19500e490a97356b2b6791e3d7d433112f4b473f434abd5ea2b781b04544",
     "size": 58094576,
-    "unlisted_since": "2026-10-09",
     "url": "https://builds.openlogic.com/downloadJDK/openlogic-openjdk-jre/21.0.10+7/openlogic-openjdk-jre-21.0.10+7-linux-x64-deb.deb",
     "vendor": "openlogic",
     "version": "21.0.10+7"
@@ -69500,6 +69504,7 @@
     "sha256": "6f4f11c28ccf1dcc1736616a666c2090d774873da63843cf5989c1b0fcbb7fae",
     "sha512": "86793e0a2897a4aa0d366d06370386c2830b947bec1a96f7ab8bb6749f081da534e2ec529f0aff0f27a783c4273ac392f2eac8a075549a421a884b88b3f97c0b",
     "size": 58094222,
+    "unlisted_since": "2026-10-10",
     "url": "https://builds.openlogic.com/downloadJDK/openlogic-openjdk-jre/21.0.10+7/openlogic-openjdk-jre-21.0.10+7-linux-x64.tar.gz",
     "vendor": "openlogic",
     "version": "21.0.10+7"

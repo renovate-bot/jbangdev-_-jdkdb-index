@@ -18,6 +18,7 @@
     "sha256": "769ef92bae1abce6bc8c494c2037dd2b5c94aa3c80dcfe65a48ade21e6c28040",
     "sha512": "12b7ccffacc3908ffa2ab71943e36b49106154a29a7df3bdfe6109de17b15570ebc633a99c6e4ade148f85e1941a4b95647d36745608c6e7ebfe2d9715cebb30",
     "size": 35253888,
+    "unlisted_since": "2026-10-10",
     "url": "http://ftp.debian.org/debian/pool/main/o/openjdk-11/openjdk-11-jre-headless_11.0.33~4ea-1_ppc64el.deb",
     "vendor": "debian",
     "version": "11.0.33~4ea-1"
@@ -41,6 +42,7 @@
     "sha256": "87efc034ac2d18c3d2c67427b6b59c9da63de3e0aa721a30c7a8bfb9fff8fdf7",
     "sha512": "85a0fe3bee9a3950f6c84f5b99b74eaac361ff7d10c5b2a63d66782ba2dd258f6bf6e29ec166840aacc4133b1fb96a301f3ea780e2ce7988b8d67e3f0e78d238",
     "size": 2524576,
+    "unlisted_since": "2026-10-10",
     "url": "http://ftp.debian.org/debian/pool/main/o/openjdk-11/openjdk-11-jre-zero_11.0.33~4ea-1_ppc64el.deb",
     "vendor": "debian",
     "version": "11.0.33~4ea-1"
@@ -62,6 +64,7 @@
     "sha256": "9b916b13b34c2ea028c1998a09887348ffcfca2255be472d126f189c01a1b5b6",
     "sha512": "682a46bf73be84b56917a83438d8146a426888da8ca83ea0b646d10ade2436013fee5bccb19ed138c29e09e0709ceec54fd6070bbf9fdc7629752fdadd424fd7",
     "size": 214528,
+    "unlisted_since": "2026-10-10",
     "url": "http://ftp.debian.org/debian/pool/main/o/openjdk-11/openjdk-11-jre_11.0.33~4ea-1_ppc64el.deb",
     "vendor": "debian",
     "version": "11.0.33~4ea-1"
