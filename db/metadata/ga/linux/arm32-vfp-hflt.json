@@ -31385,6 +31385,7 @@
     "sha256": "d742ebbf0bd3a14017980d82b98b2fe8a026aece6ee46d0555569e5f4ebb7bcf",
     "sha512": "2d4c290ca497ae215b1320f757af75cfa11062268fd5ae595c2167e4b0a541ff640ad64141517fc2cf8b294e14ae4a0ac07548288ef22ac72120348514e867fd",
     "size": 78839992,
+    "unlisted_since": "2026-10-11",
     "url": "http://ftp.debian.org/debian/pool/main/o/openjdk-21/openjdk-21-jdk-headless_21.0.13~6ea-1_armhf.deb",
     "vendor": "debian",
     "version": "21.0.13~6ea-1"
@@ -31408,6 +31409,7 @@
     "sha256": "0a5bd425b59f5469cd8f4b825863e3a0c81e3d32335829b0cab1963831e274f1",
     "sha512": "7addb3e8c904f6925f9e9fa5d6ad2b7a42494b6a7bf76854217e599d90c9812906382412f9f68073b47a52476656a45a2c188fc12169ec6e333e829cb8f6d817",
     "size": 3542584,
+    "unlisted_since": "2026-10-11",
     "url": "http://ftp.debian.org/debian/pool/main/o/openjdk-21/openjdk-21-jdk_21.0.13~6ea-1_armhf.deb",
     "vendor": "debian",
     "version": "21.0.13~6ea-1"
@@ -31432,6 +31434,7 @@
     "sha256": "639e3e511f47a11fd2512fc516c3337c8498d67311b1b3b55f90ac3909c8d06e",
     "sha512": "d353c69805d9d5b1a7c138c3fd210518ac4f22257cf50290f6c5a1bb0eb62cce04cb86697683212a6bb475fbdcbd4156a5f7435e24beac359f418b1355f3cf34",
     "size": 35937624,
+    "unlisted_since": "2026-10-11",
     "url": "http://ftp.debian.org/debian/pool/main/o/openjdk-21/openjdk-21-jre-headless_21.0.13~6ea-1_armhf.deb",
     "vendor": "debian",
     "version": "21.0.13~6ea-1"
@@ -31456,6 +31459,7 @@
     "sha256": "3206a708b938fdc353ddd0b765dec69b6056e8b55234f36eb58b55e20f223330",
     "sha512": "23b2de3c5ad36bf17018fb2f9da50a41d13f0accb313e84c3b931d60b7afd8371958f41c85f1d7a7420728acf1800c6a06872c43f8c64e88e3c395ef98f0eb97",
     "size": 5110852,
+    "unlisted_since": "2026-10-11",
     "url": "http://ftp.debian.org/debian/pool/main/o/openjdk-21/openjdk-21-jre-zero_21.0.13~6ea-1_armhf.deb",
     "vendor": "debian",
     "version": "21.0.13~6ea-1"
@@ -31479,6 +31483,7 @@
     "sha256": "eb10b11f153dbee965d4be626ed7b4700294d7ed768ca32cffc7ec79c6d303c2",
     "sha512": "fb57dd2b41c3cd612b396295b8261d517516dd5dcc21f41e26a773964846ffee0815c32dbfc9e5cce38f08c4326c1ba23c058158b9599f378472fb167397c834",
     "size": 186544,
+    "unlisted_since": "2026-10-11",
     "url": "http://ftp.debian.org/debian/pool/main/o/openjdk-21/openjdk-21-jre_21.0.13~6ea-1_armhf.deb",
     "vendor": "debian",
     "version": "21.0.13~6ea-1"

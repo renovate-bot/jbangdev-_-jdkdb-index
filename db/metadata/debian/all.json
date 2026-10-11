@@ -4342,6 +4342,7 @@
     "sha256": "9ffc4b2f56d69fdf41827c40e8042a26b0ea1b0790cacc279eee87a5d204825e",
     "sha512": "6ddb0a7d331f8352506bd12b639dfdadd00d3dfa770211ffd015b9be36d5a8ddad0f4a88c944d762ded38b70b2b09f983105252d028188a3d6de5f996ffaf0cb",
     "size": 64561700,
+    "unlisted_since": "2026-10-11",
     "url": "http://ftp.debian.org/debian/pool/main/o/openjdk-17/openjdk-17-jdk-headless_17.0.20~7ea-1_loong64.deb",
     "vendor": "debian",
     "version": "17.0.20~7ea-1"
@@ -4363,6 +4364,7 @@
     "sha256": "d1e0fa182ca9b5a5f044d8c7d5b9d42725bf51443aebe180054e757786dd1793",
     "sha512": "0e2e5b05af96b28f43b0af21386585a98b2e32484d482fe6ee0daf51c2768611e9e04825e3b33ff3e7bca005e9ff6b65a53507f3c6ede0123f94dcb01b88e505",
     "size": 10396,
+    "unlisted_since": "2026-10-11",
     "url": "http://ftp.debian.org/debian/pool/main/o/openjdk-17/openjdk-17-jdk_17.0.20~7ea-1_loong64.deb",
     "vendor": "debian",
     "version": "17.0.20~7ea-1"
@@ -4386,6 +4388,7 @@
     "sha256": "256fb33119c48c67329f3095cf52ab574a23e10d508e7841ee8be9b66212d3a8",
     "sha512": "935a7318cb60fea6d7e6614be90c57826fe1d59840ba2656ab5a1a907c8131d2bdfc6b68d3cd4acf9f5861258bb8748d462b17eac1a349a94a55b82185ef9d88",
     "size": 33682540,
+    "unlisted_since": "2026-10-11",
     "url": "http://ftp.debian.org/debian/pool/main/o/openjdk-17/openjdk-17-jre-headless_17.0.20~7ea-1_loong64.deb",
     "vendor": "debian",
     "version": "17.0.20~7ea-1"
@@ -4407,6 +4410,7 @@
     "sha256": "96dd7df84bd59a72a510d6fa428508e16540b78e5507e0988610a5a6b88dda99",
     "sha512": "d0b9130303803c647fe11ebefc88c5062364c3da1d3587ebe481a7897963d8fe4ac628afb0921f3078817bff1f1c96c111fb1031159d9fc594a4c9f585a82b5c",
     "size": 205688,
+    "unlisted_since": "2026-10-11",
     "url": "http://ftp.debian.org/debian/pool/main/o/openjdk-17/openjdk-17-jre_17.0.20~7ea-1_loong64.deb",
     "vendor": "debian",
     "version": "17.0.20~7ea-1"
@@ -4527,6 +4531,7 @@
     "sha256": "f92c7b915efa9678eb3b2a2c35955c7bd9f9ef2b0bfa6050ffd56d48895c1ef1",
     "sha512": "68b7e69976da4e888676bdc883bd6f5c831158825bc71b71724045b4ad3e11442be6fc1c3250839f9f2cebf6403dc4a0fa26438b719b57e9b29d6fe4172f7395",
     "size": 71721952,
+    "unlisted_since": "2026-10-11",
     "url": "http://ftp.debian.org/debian/pool/main/o/openjdk-17/openjdk-17-jdk-headless_17.0.21~6ea-1_ppc64el.deb",
     "vendor": "debian",
     "version": "17.0.21~6ea-1"
@@ -4684,6 +4689,7 @@
     "sha256": "3392a0a55f998799c13087aa6a588f9a4032201df90938d9829a985dff686529",
     "sha512": "2a58ba40f87ae95fae76fa76d9bcdaef28c45d76566deca56ef80b3febc579bb41b7940cdb3698176cfade0a7e4e90d54461a4774b3b7a14c6489fc980a3bb06",
     "size": 2494752,
+    "unlisted_since": "2026-10-11",
     "url": "http://ftp.debian.org/debian/pool/main/o/openjdk-17/openjdk-17-jdk_17.0.21~6ea-1_ppc64el.deb",
     "vendor": "debian",
     "version": "17.0.21~6ea-1"
@@ -4846,6 +4852,7 @@
     "sha256": "0eebeec55f4f8385728a9a2ee29eac15ec15597b7c8cdee3fa2b8bb7eb0b5d42",
     "sha512": "9ce52ca376f5f221795cfd7311e6b8981828d3c418ee0e88bbcd0e4292d3c5d74b8c6f0275fcc054726a820f35003b97c87808a3ff7bf10183a7dec632fee351",
     "size": 43301204,
+    "unlisted_since": "2026-10-11",
     "url": "http://ftp.debian.org/debian/pool/main/o/openjdk-17/openjdk-17-jre-headless_17.0.21~6ea-1_ppc64el.deb",
     "vendor": "debian",
     "version": "17.0.21~6ea-1"
@@ -5012,6 +5019,7 @@
     "sha256": "794c1a6701698798c27b41069b6ceb2a8ea80e000d3574a1107b857cf95f93b1",
     "sha512": "7c8f50b37c1e0ed56539a5535f468ef846ab02f5a8e093f57b257d644053ff750576d69c40e2950ce6c11c0b1a8f2a9685f0760ad8fea2eaaff2706229036ab7",
     "size": 2928572,
+    "unlisted_since": "2026-10-11",
     "url": "http://ftp.debian.org/debian/pool/main/o/openjdk-17/openjdk-17-jre-zero_17.0.21~6ea-1_ppc64el.deb",
     "vendor": "debian",
     "version": "17.0.21~6ea-1"
@@ -5169,6 +5177,7 @@
     "sha256": "ceacdfc20425d58b56b8218dd481d741fd749ef2198b6021e0ba9bc754b77ba9",
     "sha512": "a53844b49cd84bc88c38d9ef1af7d5fd7b7f4bcdf06ea42d07b86b8eaa88fdd7dad3cd70ca641d3ca3bac374a723fd9044623ae808947b53c645fa26618f9f89",
     "size": 229356,
+    "unlisted_since": "2026-10-11",
     "url": "http://ftp.debian.org/debian/pool/main/o/openjdk-17/openjdk-17-jre_17.0.21~6ea-1_ppc64el.deb",
     "vendor": "debian",
     "version": "17.0.21~6ea-1"
@@ -5355,6 +5364,29 @@
     "version": "17.0.21~8ea-1"
   },
   {
+    "architecture": "riscv64",
+    "distro": "debian",
+    "features": [
+      "headless"
+    ],
+    "file_type": "deb",
+    "filename": "openjdk-17-jdk-headless_17.0.21~8ea-1_riscv64.deb",
+    "image_type": "jdk",
+    "java_version": "17.0.21",
+    "jvm_impl": "hotspot",
+    "last_verified": "2026-10-11",
+    "md5": "0d1424b1092d01cb55a4391756b1d80b",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "dae0dca399f332cd937f5c5e6ca31e271921c6d5",
+    "sha256": "3c85dfa3c5568fc69270d2fe603f2357218cfe54a0a0f3c5a5f105a5d1517fae",
+    "sha512": "5e877ea358736be1eeed2aff30412e4cfdc15793ba8c3e06498d6217fe5164e1a28f4f150211b4b63ae74d67715e36da3bbc90ed7811d0241c3721766cc5504f",
+    "size": 70766336,
+    "url": "http://ftp.debian.org/debian/pool/main/o/openjdk-17/openjdk-17-jdk-headless_17.0.21~8ea-1_riscv64.deb",
+    "vendor": "debian",
+    "version": "17.0.21~8ea-1"
+  },
+  {
     "architecture": "s390x",
     "distro": "debian",
     "features": [
@@ -5502,6 +5534,27 @@
     "sha512": "85ef1a149491f923a59580378783686e444f923c761c84f10ab17c1d013e783b6a7689fadd2c058a957e40f58ea908fad9f647fabf93baaacde2c30483fa0ac4",
     "size": 2494248,
     "url": "http://ftp.debian.org/debian/pool/main/o/openjdk-17/openjdk-17-jdk_17.0.21~8ea-1_ppc64el.deb",
+    "vendor": "debian",
+    "version": "17.0.21~8ea-1"
+  },
+  {
+    "architecture": "riscv64",
+    "distro": "debian",
+    "features": [ ],
+    "file_type": "deb",
+    "filename": "openjdk-17-jdk_17.0.21~8ea-1_riscv64.deb",
+    "image_type": "jdk",
+    "java_version": "17.0.21",
+    "jvm_impl": "hotspot",
+    "last_verified": "2026-10-11",
+    "md5": "7484b4678b7f5d85c8450276ede6ecd1",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "1fb0334fa7a069c69300da0cafe0cbf1ced3471a",
+    "sha256": "2d0c46edd1076c659b609699082532bd9e2893dd04da22cd43d9e7743285f1f8",
+    "sha512": "6240c99de3079343e0f2d60d66d43b0def385be015e145e5c11ace3f4976eef50d494e71fe0d470489fa0dac559e0906696f9c10cc59ced876cee1fe5843dcc9",
+    "size": 10240,
+    "url": "http://ftp.debian.org/debian/pool/main/o/openjdk-17/openjdk-17-jdk_17.0.21~8ea-1_riscv64.deb",
     "vendor": "debian",
     "version": "17.0.21~8ea-1"
   },
@@ -5666,6 +5719,29 @@
     "version": "17.0.21~8ea-1"
   },
   {
+    "architecture": "riscv64",
+    "distro": "debian",
+    "features": [
+      "headless"
+    ],
+    "file_type": "deb",
+    "filename": "openjdk-17-jre-headless_17.0.21~8ea-1_riscv64.deb",
+    "image_type": "jre",
+    "java_version": "17.0.21-ea+8-1-Debian",
+    "jvm_impl": "hotspot",
+    "last_verified": "2026-10-11",
+    "md5": "caa2830e9dc0de5c8f16369e82621b41",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "b15d0c973944e2f19c74fc47d1e85700521465f8",
+    "sha256": "8bb74d2e9647d3dab4e392a64e277be6ff390ad03eec5fe1492c58d1d6fac683",
+    "sha512": "c41eb5c473b16221d4a73e1c0c13966b21272100776196facb43258119427a9119440eefa0c9a5214279e852b012f6c476c4c0c85c099664fbfcac30f9010356",
+    "size": 43366152,
+    "url": "http://ftp.debian.org/debian/pool/main/o/openjdk-17/openjdk-17-jre-headless_17.0.21~8ea-1_riscv64.deb",
+    "vendor": "debian",
+    "version": "17.0.21~8ea-1"
+  },
+  {
     "architecture": "s390x",
     "distro": "debian",
     "features": [
@@ -5801,6 +5877,29 @@
     "sha512": "501950af613b503dfef8881a819857bc31d1542a0d7f0e6081389ebd769a8fa5ff24db59ba5716839ab5ada427d6d155404f15d8e7e739a51b3555191bdd8b45",
     "size": 2928188,
     "url": "http://ftp.debian.org/debian/pool/main/o/openjdk-17/openjdk-17-jre-zero_17.0.21~8ea-1_ppc64el.deb",
+    "vendor": "debian",
+    "version": "17.0.21~8ea-1"
+  },
+  {
+    "architecture": "riscv64",
+    "distro": "debian",
+    "features": [
+      "zero"
+    ],
+    "file_type": "deb",
+    "filename": "openjdk-17-jre-zero_17.0.21~8ea-1_riscv64.deb",
+    "image_type": "jre",
+    "java_version": "17.0.21",
+    "jvm_impl": "hotspot",
+    "last_verified": "2026-10-11",
+    "md5": "9dd96a1917352fec714fbf3b36ddc45d",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "a1f3e9be676f1c8849fa4d84f8f3dc08fe0e605b",
+    "sha256": "52a6e2eab1b4d9e890e2b22238b761e48981058f16f9a844ce04fd26828e90e1",
+    "sha512": "3fe7119f72af50a737f57c99703c100fdc895d0c71816c3b5f3cdf16e4df2f7994b5016b8627032054344988c82db172bb8e795a2689a7d3418fdc4868d6aa06",
+    "size": 2900132,
+    "url": "http://ftp.debian.org/debian/pool/main/o/openjdk-17/openjdk-17-jre-zero_17.0.21~8ea-1_riscv64.deb",
     "vendor": "debian",
     "version": "17.0.21~8ea-1"
   },
@@ -5952,6 +6051,27 @@
     "sha512": "a173bca43b315b1e3b3b55959e85a3724a9ab857d25e73b33c249195ebd9c9ec228d54bc274b3545a7e41a4a2bbbb4bcebc7098198a53aca2fbe33e382cef1ce",
     "size": 229604,
     "url": "http://ftp.debian.org/debian/pool/main/o/openjdk-17/openjdk-17-jre_17.0.21~8ea-1_ppc64el.deb",
+    "vendor": "debian",
+    "version": "17.0.21~8ea-1"
+  },
+  {
+    "architecture": "riscv64",
+    "distro": "debian",
+    "features": [ ],
+    "file_type": "deb",
+    "filename": "openjdk-17-jre_17.0.21~8ea-1_riscv64.deb",
+    "image_type": "jre",
+    "java_version": "17.0.21",
+    "jvm_impl": "hotspot",
+    "last_verified": "2026-10-11",
+    "md5": "fd8c294fa1e033c8407c18286c705a2a",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "d60f422d578ac1914ab9f6781c41bfd2329f27e8",
+    "sha256": "3abe1748e4d642c74d30b42d099161966e6b8e50e5881ce5b20c54b813f38710",
+    "sha512": "e4178e4457cc4c8b0baf3c443992bde2dcbf3ef6cf560b868f18b6841b266d20a8a67097d5613eb56cf832ffcd2f469e176824be22369a2fae87be88d7abc89d",
+    "size": 213036,
+    "url": "http://ftp.debian.org/debian/pool/main/o/openjdk-17/openjdk-17-jre_17.0.21~8ea-1_riscv64.deb",
     "vendor": "debian",
     "version": "17.0.21~8ea-1"
   },
@@ -8322,6 +8442,7 @@
     "sha256": "d987b74c50c1f9de91c0707b786b88139d28df5a5910ffd733f9a8003f0bd528",
     "sha512": "e03eee91ca60adaa5d93207d2625caa187d0268aec334c16aa9a518132dc0e2d44afb4786d727dd4f4dc5e9968c2f6445912043095b1823906b8b15b3cfec0f1",
     "size": 83601156,
+    "unlisted_since": "2026-10-11",
     "url": "http://ftp.debian.org/debian/pool/main/o/openjdk-21/openjdk-21-jdk-headless_21.0.13~6ea-1_amd64.deb",
     "vendor": "debian",
     "version": "21.0.13~6ea-1"
@@ -8345,6 +8466,7 @@
     "sha256": "3d78fc128fc3a875a0b3d9c01f9d7968ec4c3081139299ae860637ec95b1fe18",
     "sha512": "031dccfd42a455e322ab961e83db010fb71b41e188f8a94bb26c2f0b8293814dc8562de52f709b44d8d7f46b384a72a5356ff18524041057342697d40e2dcee0",
     "size": 82727800,
+    "unlisted_since": "2026-10-11",
     "url": "http://ftp.debian.org/debian/pool/main/o/openjdk-21/openjdk-21-jdk-headless_21.0.13~6ea-1_arm64.deb",
     "vendor": "debian",
     "version": "21.0.13~6ea-1"
@@ -8369,6 +8491,7 @@
     "sha256": "d742ebbf0bd3a14017980d82b98b2fe8a026aece6ee46d0555569e5f4ebb7bcf",
     "sha512": "2d4c290ca497ae215b1320f757af75cfa11062268fd5ae595c2167e4b0a541ff640ad64141517fc2cf8b294e14ae4a0ac07548288ef22ac72120348514e867fd",
     "size": 78839992,
+    "unlisted_since": "2026-10-11",
     "url": "http://ftp.debian.org/debian/pool/main/o/openjdk-21/openjdk-21-jdk-headless_21.0.13~6ea-1_armhf.deb",
     "vendor": "debian",
     "version": "21.0.13~6ea-1"
@@ -8392,6 +8515,7 @@
     "sha256": "93b083330c1a478d8d0d47c9ed731153822d132d6186a19964f8044f2dd0f416",
     "sha512": "536a5c46f1d57e79ab8dbefba592968ad89b07d74afd5ca31e002c3f1b4785461fbdaac3d633280a032ae2a1170d27ac65e324594ff4c1e46a2d8aa550fcfc49",
     "size": 86226504,
+    "unlisted_since": "2026-10-11",
     "url": "http://ftp.debian.org/debian/pool/main/o/openjdk-21/openjdk-21-jdk-headless_21.0.13~6ea-1_i386.deb",
     "vendor": "debian",
     "version": "21.0.13~6ea-1"
@@ -8415,6 +8539,7 @@
     "sha256": "78d26e0192ba4b5ed3a3b1e02793507580b439de110a337a9607d89c9d5b8b92",
     "sha512": "fa425f1490053099034f627b1715d0099336deda7514d01e52cf43b49b3b2e5cc0ac05a52c7019f0864f6f2110226b6d2006a48630a37e9888a66904cdd40acd",
     "size": 82878244,
+    "unlisted_since": "2026-10-11",
     "url": "http://ftp.debian.org/debian/pool/main/o/openjdk-21/openjdk-21-jdk-headless_21.0.13~6ea-1_ppc64el.deb",
     "vendor": "debian",
     "version": "21.0.13~6ea-1"
@@ -8438,6 +8563,7 @@
     "sha256": "9a2a9826e05c96a51c5d8640aa0461956519a045b487ee65bd07f94bd07a210b",
     "sha512": "47726a68282321c7a51a3c425f99bf0b84ae0c9170b11a91964dbdc94f9531ff98a2f7e1414a705e41101b4b1b7151dabd92c6e3c54ef30f14f17dc9187b4e65",
     "size": 78809180,
+    "unlisted_since": "2026-10-11",
     "url": "http://ftp.debian.org/debian/pool/main/o/openjdk-21/openjdk-21-jdk-headless_21.0.13~6ea-1_s390x.deb",
     "vendor": "debian",
     "version": "21.0.13~6ea-1"
@@ -8459,6 +8585,7 @@
     "sha256": "fc2eb1db6079d927b459f38adfa7011189b5f07fce9abe6e68eaca617aa445c4",
     "sha512": "d8cd8ed3ece6209b5cc5431fb8d8259adbf774e2ba11d2e1a4d98184c1fc0c6eb66ea8e2f9854046872f0c55f52c41ec83830cac39028417f4615e9869b012b3",
     "size": 3607164,
+    "unlisted_since": "2026-10-11",
     "url": "http://ftp.debian.org/debian/pool/main/o/openjdk-21/openjdk-21-jdk_21.0.13~6ea-1_amd64.deb",
     "vendor": "debian",
     "version": "21.0.13~6ea-1"
@@ -8480,6 +8607,7 @@
     "sha256": "8d814c015a48ebc513b8af73c7e14a0f58a0869b5109c9af3fcad04a901d8374",
     "sha512": "d9138572db1cc023d9f2a6a971a5e55e08be16c1551560c4faff6aef2e9f8435374aa2275c4dbd9517506c1eeedf3d314cd02cbe6baf5a9fc45868a2958c608a",
     "size": 3617552,
+    "unlisted_since": "2026-10-11",
     "url": "http://ftp.debian.org/debian/pool/main/o/openjdk-21/openjdk-21-jdk_21.0.13~6ea-1_arm64.deb",
     "vendor": "debian",
     "version": "21.0.13~6ea-1"
@@ -8503,6 +8631,7 @@
     "sha256": "0a5bd425b59f5469cd8f4b825863e3a0c81e3d32335829b0cab1963831e274f1",
     "sha512": "7addb3e8c904f6925f9e9fa5d6ad2b7a42494b6a7bf76854217e599d90c9812906382412f9f68073b47a52476656a45a2c188fc12169ec6e333e829cb8f6d817",
     "size": 3542584,
+    "unlisted_since": "2026-10-11",
     "url": "http://ftp.debian.org/debian/pool/main/o/openjdk-21/openjdk-21-jdk_21.0.13~6ea-1_armhf.deb",
     "vendor": "debian",
     "version": "21.0.13~6ea-1"
@@ -8524,6 +8653,7 @@
     "sha256": "55f9c04d396e4a9c8db0ebda816397cf91ace60d6a0018805f8fb763ffac8a04",
     "sha512": "bfc9d21a61e1b7304572810ecb75ffe35332533de03864b2ff982e93991b012d434da45d54c8860e5fd08fa842317d139235db61072507d76b649faf5472c856",
     "size": 3588176,
+    "unlisted_since": "2026-10-11",
     "url": "http://ftp.debian.org/debian/pool/main/o/openjdk-21/openjdk-21-jdk_21.0.13~6ea-1_i386.deb",
     "vendor": "debian",
     "version": "21.0.13~6ea-1"
@@ -8545,6 +8675,7 @@
     "sha256": "67f0728546d3fecd97f1198f9fb2adce069c1d74958de34bdbc31f06b464a6ef",
     "sha512": "84512d34f0975d8ac054d3cc540c316fd92e12abcde56cf16a27aa68c2076f241480be15c7319ea0a9da2fdd0625a95a9dcbb3e80493d4e7780311d563a9ecd8",
     "size": 3602108,
+    "unlisted_since": "2026-10-11",
     "url": "http://ftp.debian.org/debian/pool/main/o/openjdk-21/openjdk-21-jdk_21.0.13~6ea-1_ppc64el.deb",
     "vendor": "debian",
     "version": "21.0.13~6ea-1"
@@ -8566,6 +8697,7 @@
     "sha256": "04f7b9d6c38bb936730d4986c15feffb971ccbebd3ffa79d0a5ea5d6c0c02a3d",
     "sha512": "44ad21e96f95e670931c8320a90861a6c652f4d5335684828ca902f04190e08c52cdfb1bef52603238323bc3680ce7fff4f6fdb9fb78c355e629cdf808bc1206",
     "size": 3592944,
+    "unlisted_since": "2026-10-11",
     "url": "http://ftp.debian.org/debian/pool/main/o/openjdk-21/openjdk-21-jdk_21.0.13~6ea-1_s390x.deb",
     "vendor": "debian",
     "version": "21.0.13~6ea-1"
@@ -8589,6 +8721,7 @@
     "sha256": "5d7700467d053979e422cf617bf75d9ae143ba988cd2a9a144a90e70ba8a31e1",
     "sha512": "373a10f723d36fcf530b01b1e5730e34e2df903c80f669dfbe52b250f46dbd873b28b71673d88f553a7add11cce0d69b65d87d519d2758b5dac6751710f86ce7",
     "size": 42302312,
+    "unlisted_since": "2026-10-11",
     "url": "http://ftp.debian.org/debian/pool/main/o/openjdk-21/openjdk-21-jre-headless_21.0.13~6ea-1_amd64.deb",
     "vendor": "debian",
     "version": "21.0.13~6ea-1"
@@ -8612,6 +8745,7 @@
     "sha256": "2ef2da686808c21eeda8eb75de182e61ef7a2e9795bb36787cd6fd1bf029062a",
     "sha512": "ed4c4517012f752db6407caeb45023c3096b0b2cc5ea4e6138b9aa068caf658bb071e87dca167651c73e6512787cf34b7ae7e94a1421f8267321b59e06a88ae4",
     "size": 41119476,
+    "unlisted_since": "2026-10-11",
     "url": "http://ftp.debian.org/debian/pool/main/o/openjdk-21/openjdk-21-jre-headless_21.0.13~6ea-1_arm64.deb",
     "vendor": "debian",
     "version": "21.0.13~6ea-1"
@@ -8636,6 +8770,7 @@
     "sha256": "639e3e511f47a11fd2512fc516c3337c8498d67311b1b3b55f90ac3909c8d06e",
     "sha512": "d353c69805d9d5b1a7c138c3fd210518ac4f22257cf50290f6c5a1bb0eb62cce04cb86697683212a6bb475fbdcbd4156a5f7435e24beac359f418b1355f3cf34",
     "size": 35937624,
+    "unlisted_since": "2026-10-11",
     "url": "http://ftp.debian.org/debian/pool/main/o/openjdk-21/openjdk-21-jre-headless_21.0.13~6ea-1_armhf.deb",
     "vendor": "debian",
     "version": "21.0.13~6ea-1"
@@ -8659,6 +8794,7 @@
     "sha256": "e5b3429b1fb83430db567b8a1d34fbb28c610faa9d9a187f95ff92ee9f6ee302",
     "sha512": "e71e2d316272f84cc8e596963086df072e0c52ba4acd6272d167dab60ebdb39eafc0f76523199789d947543a8936bf74f864fa10479fe795ab6a0357d2d8b9c8",
     "size": 43897880,
+    "unlisted_since": "2026-10-11",
     "url": "http://ftp.debian.org/debian/pool/main/o/openjdk-21/openjdk-21-jre-headless_21.0.13~6ea-1_i386.deb",
     "vendor": "debian",
     "version": "21.0.13~6ea-1"
@@ -8682,6 +8818,7 @@
     "sha256": "0c865985ff53bf477ec6d5e66ffb6fb7682504fdd51a462cd8eeb5b1fb29682d",
     "sha512": "5e62dda1a0d75e34ef38456821e3bedba00d7e6a2fb3d5f541b799006d7326ff7cc49c7288183419ce5f8e13f9e68cfa6f14a2a1623d0ccc4e473ae14f8c5e0d",
     "size": 41085788,
+    "unlisted_since": "2026-10-11",
     "url": "http://ftp.debian.org/debian/pool/main/o/openjdk-21/openjdk-21-jre-headless_21.0.13~6ea-1_ppc64el.deb",
     "vendor": "debian",
     "version": "21.0.13~6ea-1"
@@ -8705,6 +8842,7 @@
     "sha256": "30cbd51fe84a85d87a12f035a8768e2e95c5715133af983f177cc3124c048500",
     "sha512": "56a47e7118f1837b3689968c9018085e28200e667083e6c21ae5edada6355212de707cce78b8c396de501dfe053e7fa10663b2204ccaadaf57306d12d452a057",
     "size": 39187292,
+    "unlisted_since": "2026-10-11",
     "url": "http://ftp.debian.org/debian/pool/main/o/openjdk-21/openjdk-21-jre-headless_21.0.13~6ea-1_s390x.deb",
     "vendor": "debian",
     "version": "21.0.13~6ea-1"
@@ -8728,6 +8866,7 @@
     "sha256": "94f0b09dbb27921f2ff029ee948a3cb4a5916477966e2240016410268c6fcb85",
     "sha512": "f0b7ec766bac16a0a3e6273f759ca0a142088055b7463c62bd011347252b4c43e17da5dfbf12d4e7a819587ffaa36caa3edbcd3b8ae22ba9d31d2535d22dc00f",
     "size": 9164452,
+    "unlisted_since": "2026-10-11",
     "url": "http://ftp.debian.org/debian/pool/main/o/openjdk-21/openjdk-21-jre-zero_21.0.13~6ea-1_amd64.deb",
     "vendor": "debian",
     "version": "21.0.13~6ea-1"
@@ -8751,6 +8890,7 @@
     "sha256": "083af97c57b4ba056746b4a43f3d4d4c0c007a0617ea9ef158d62500517b3ff0",
     "sha512": "d9cd9c1c3f173d91810087554633675da5d27ff0ebdec04b0c153b70733927a14f2ec38e5aa2cced18943e23ef6742a1bb3e5decd1d8e05762485c21fba7dfb2",
     "size": 8936012,
+    "unlisted_since": "2026-10-11",
     "url": "http://ftp.debian.org/debian/pool/main/o/openjdk-21/openjdk-21-jre-zero_21.0.13~6ea-1_arm64.deb",
     "vendor": "debian",
     "version": "21.0.13~6ea-1"
@@ -8775,6 +8915,7 @@
     "sha256": "3206a708b938fdc353ddd0b765dec69b6056e8b55234f36eb58b55e20f223330",
     "sha512": "23b2de3c5ad36bf17018fb2f9da50a41d13f0accb313e84c3b931d60b7afd8371958f41c85f1d7a7420728acf1800c6a06872c43f8c64e88e3c395ef98f0eb97",
     "size": 5110852,
+    "unlisted_since": "2026-10-11",
     "url": "http://ftp.debian.org/debian/pool/main/o/openjdk-21/openjdk-21-jre-zero_21.0.13~6ea-1_armhf.deb",
     "vendor": "debian",
     "version": "21.0.13~6ea-1"
@@ -8798,6 +8939,7 @@
     "sha256": "f61d1792bcd63c73c39089c2ed2eba22d0ce8286d5a0993e012ea79f98536d94",
     "sha512": "d902f7cc48bbc928baa8c363afaf394ef8b5c8570fc38fa262a737aa3a7dfc0bd85ecc347638a90fc11b3963407c0b2fa66bb3d5fb852c40a793d6314fa87cd3",
     "size": 5570552,
+    "unlisted_since": "2026-10-11",
     "url": "http://ftp.debian.org/debian/pool/main/o/openjdk-21/openjdk-21-jre-zero_21.0.13~6ea-1_i386.deb",
     "vendor": "debian",
     "version": "21.0.13~6ea-1"
@@ -8821,6 +8963,7 @@
     "sha256": "82f8b910b26c2eb63b47f3a4c633d059c83badb017fa65aa30ca7650ad4e9676",
     "sha512": "3d9e8eec02a9ac5e1826f1e870219ffe3a76e3c2f8356efa788e133ae172cbb4b4881e1b6681b72c7e86f51709c765bb92e6d8096e54f24d6ba7e1eb6d1ddde7",
     "size": 9206760,
+    "unlisted_since": "2026-10-11",
     "url": "http://ftp.debian.org/debian/pool/main/o/openjdk-21/openjdk-21-jre-zero_21.0.13~6ea-1_ppc64el.deb",
     "vendor": "debian",
     "version": "21.0.13~6ea-1"
@@ -8844,6 +8987,7 @@
     "sha256": "0871902a9e042869c0b6859bb2d6aaf04f8f60f9bee578ab4caf13a2bcb325cb",
     "sha512": "efa44fbb122651b09548e3262377524d2b101711da304646d92d12302a3c687ece6ad2168e1f48a8ede2671134c4a366aab0117a7c366a4fe842eb007127cb39",
     "size": 8458604,
+    "unlisted_since": "2026-10-11",
     "url": "http://ftp.debian.org/debian/pool/main/o/openjdk-21/openjdk-21-jre-zero_21.0.13~6ea-1_s390x.deb",
     "vendor": "debian",
     "version": "21.0.13~6ea-1"
@@ -8865,6 +9009,7 @@
     "sha256": "720fbc66778b220e3dcbfd67f2c8c58715b0fd46140581ffb1901746a7759e08",
     "sha512": "5348d5012f47e0bcba8d9e5b3f82f5f236463244a22a258ff3746da5fb64971d7b0eb5c0a681147cfb638ee2fd3ae35589e3d88543a1b26abc5a02f1088f8439",
     "size": 215416,
+    "unlisted_since": "2026-10-11",
     "url": "http://ftp.debian.org/debian/pool/main/o/openjdk-21/openjdk-21-jre_21.0.13~6ea-1_amd64.deb",
     "vendor": "debian",
     "version": "21.0.13~6ea-1"
@@ -8886,6 +9031,7 @@
     "sha256": "b03f1c0e6685937ea5094f604efcc19852ce5339e05230889c42045dbe18816e",
     "sha512": "de1cda5bac8a3e53c69d7eeb2b92a18e1ef0bb058cdf7e508a7e8248e34800244ad4b6ab7fbb906498e1717851e1aeacb78b68070d088a10fe571d2a63ffc11c",
     "size": 196180,
+    "unlisted_since": "2026-10-11",
     "url": "http://ftp.debian.org/debian/pool/main/o/openjdk-21/openjdk-21-jre_21.0.13~6ea-1_arm64.deb",
     "vendor": "debian",
     "version": "21.0.13~6ea-1"
@@ -8909,6 +9055,7 @@
     "sha256": "eb10b11f153dbee965d4be626ed7b4700294d7ed768ca32cffc7ec79c6d303c2",
     "sha512": "fb57dd2b41c3cd612b396295b8261d517516dd5dcc21f41e26a773964846ffee0815c32dbfc9e5cce38f08c4326c1ba23c058158b9599f378472fb167397c834",
     "size": 186544,
+    "unlisted_since": "2026-10-11",
     "url": "http://ftp.debian.org/debian/pool/main/o/openjdk-21/openjdk-21-jre_21.0.13~6ea-1_armhf.deb",
     "vendor": "debian",
     "version": "21.0.13~6ea-1"
@@ -8930,6 +9077,7 @@
     "sha256": "8b7c3c60e46b48e2868c5861e719064cb7faf05bd34f9eadde0e90f1f3ecb325",
     "sha512": "d99912e8b352fc223dc705327c30a823e38311e791d4a6c05cd259c6cb595df5cab0a20e5b51b3dc4c7f0d18a056838b694bc985069cac098bbeb6e00be8e738",
     "size": 210008,
+    "unlisted_since": "2026-10-11",
     "url": "http://ftp.debian.org/debian/pool/main/o/openjdk-21/openjdk-21-jre_21.0.13~6ea-1_i386.deb",
     "vendor": "debian",
     "version": "21.0.13~6ea-1"
@@ -8951,6 +9099,7 @@
     "sha256": "2e3c3b2a20a390663c5f6ec660773efcfd03ae466b2959ef1257751367b27f46",
     "sha512": "bb26b417a0a9ed812902d2fe041c91de112735935e199bf0191e5d63d471a8a36f381bd42b917ff18f692b4068170b54782cb053aa10556c053e02d48eefa35e",
     "size": 227032,
+    "unlisted_since": "2026-10-11",
     "url": "http://ftp.debian.org/debian/pool/main/o/openjdk-21/openjdk-21-jre_21.0.13~6ea-1_ppc64el.deb",
     "vendor": "debian",
     "version": "21.0.13~6ea-1"
@@ -8972,6 +9121,7 @@
     "sha256": "037b75faa8b8ab91836c458e8ac8a616706dd9cc904b61e2eaef2650ddf8dfb2",
     "sha512": "621f606a11b4167524a8c8cf9bd9fc4c07e852d6643ccaa5e1c19a528d11c81f3c14f507304fb9e5529abb982e366673c1021bc1c7f690338340d7408d4f5fbe",
     "size": 212636,
+    "unlisted_since": "2026-10-11",
     "url": "http://ftp.debian.org/debian/pool/main/o/openjdk-21/openjdk-21-jre_21.0.13~6ea-1_s390x.deb",
     "vendor": "debian",
     "version": "21.0.13~6ea-1"

@@ -546,6 +546,7 @@
     "sha256": "d742ebbf0bd3a14017980d82b98b2fe8a026aece6ee46d0555569e5f4ebb7bcf",
     "sha512": "2d4c290ca497ae215b1320f757af75cfa11062268fd5ae595c2167e4b0a541ff640ad64141517fc2cf8b294e14ae4a0ac07548288ef22ac72120348514e867fd",
     "size": 78839992,
+    "unlisted_since": "2026-10-11",
     "url": "http://ftp.debian.org/debian/pool/main/o/openjdk-21/openjdk-21-jdk-headless_21.0.13~6ea-1_armhf.deb",
     "vendor": "debian",
     "version": "21.0.13~6ea-1"
@@ -569,6 +570,7 @@
     "sha256": "0a5bd425b59f5469cd8f4b825863e3a0c81e3d32335829b0cab1963831e274f1",
     "sha512": "7addb3e8c904f6925f9e9fa5d6ad2b7a42494b6a7bf76854217e599d90c9812906382412f9f68073b47a52476656a45a2c188fc12169ec6e333e829cb8f6d817",
     "size": 3542584,
+    "unlisted_since": "2026-10-11",
     "url": "http://ftp.debian.org/debian/pool/main/o/openjdk-21/openjdk-21-jdk_21.0.13~6ea-1_armhf.deb",
     "vendor": "debian",
     "version": "21.0.13~6ea-1"

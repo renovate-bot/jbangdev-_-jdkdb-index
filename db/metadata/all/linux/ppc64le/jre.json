@@ -747,6 +747,27 @@
   },
   {
     "architecture": "ppc64le",
+    "distro": "temurin",
+    "features": [ ],
+    "file_type": "tar.gz",
+    "filename": "OpenJDK27U-jre_ppc64le_linux_hotspot_2026-10-10-15-56.tar.gz",
+    "image_type": "jre",
+    "java_version": "27",
+    "jvm_impl": "hotspot",
+    "last_verified": "2026-10-11",
+    "md5": "37c2eed1d61ce66970a47cfd544a036f",
+    "os": "linux",
+    "release_type": "ea",
+    "sha1": "caa7e30fe2ab8c5b5251880c7f809575261e4920",
+    "sha256": "1b3e8122f280d5d9498151a24094f84a51f5640e13dfcdf40c41ed9f07f3e0f7",
+    "sha512": "f8f32d2eb327f02526d746be895596e21a4fe652584b1b0777c6ace3fcc581c1500fcb5e402b5d883d9f8246fb28e77aac7ef38713a839fdcbd684e481e79618",
+    "size": 60983662,
+    "url": "https://github.com/adoptium/temurin27-binaries/releases/download/jdk27u-2026-10-10-15-56-beta/OpenJDK27U-jre_ppc64le_linux_hotspot_2026-10-10-15-56.tar.gz",
+    "vendor": "eclipse",
+    "version": "27u-2026-10-10-15-56-beta"
+  },
+  {
+    "architecture": "ppc64le",
     "distro": "liberica",
     "features": [ ],
     "file_type": "deb",
@@ -19013,6 +19034,7 @@
     "sha256": "0eebeec55f4f8385728a9a2ee29eac15ec15597b7c8cdee3fa2b8bb7eb0b5d42",
     "sha512": "9ce52ca376f5f221795cfd7311e6b8981828d3c418ee0e88bbcd0e4292d3c5d74b8c6f0275fcc054726a820f35003b97c87808a3ff7bf10183a7dec632fee351",
     "size": 43301204,
+    "unlisted_since": "2026-10-11",
     "url": "http://ftp.debian.org/debian/pool/main/o/openjdk-17/openjdk-17-jre-headless_17.0.21~6ea-1_ppc64el.deb",
     "vendor": "debian",
     "version": "17.0.21~6ea-1"
@@ -19036,6 +19058,7 @@
     "sha256": "794c1a6701698798c27b41069b6ceb2a8ea80e000d3574a1107b857cf95f93b1",
     "sha512": "7c8f50b37c1e0ed56539a5535f468ef846ab02f5a8e093f57b257d644053ff750576d69c40e2950ce6c11c0b1a8f2a9685f0760ad8fea2eaaff2706229036ab7",
     "size": 2928572,
+    "unlisted_since": "2026-10-11",
     "url": "http://ftp.debian.org/debian/pool/main/o/openjdk-17/openjdk-17-jre-zero_17.0.21~6ea-1_ppc64el.deb",
     "vendor": "debian",
     "version": "17.0.21~6ea-1"
@@ -19057,6 +19080,7 @@
     "sha256": "ceacdfc20425d58b56b8218dd481d741fd749ef2198b6021e0ba9bc754b77ba9",
     "sha512": "a53844b49cd84bc88c38d9ef1af7d5fd7b7f4bcdf06ea42d07b86b8eaa88fdd7dad3cd70ca641d3ca3bac374a723fd9044623ae808947b53c645fa26618f9f89",
     "size": 229356,
+    "unlisted_since": "2026-10-11",
     "url": "http://ftp.debian.org/debian/pool/main/o/openjdk-17/openjdk-17-jre_17.0.21~6ea-1_ppc64el.deb",
     "vendor": "debian",
     "version": "17.0.21~6ea-1"
@@ -26634,6 +26658,7 @@
     "sha256": "0c865985ff53bf477ec6d5e66ffb6fb7682504fdd51a462cd8eeb5b1fb29682d",
     "sha512": "5e62dda1a0d75e34ef38456821e3bedba00d7e6a2fb3d5f541b799006d7326ff7cc49c7288183419ce5f8e13f9e68cfa6f14a2a1623d0ccc4e473ae14f8c5e0d",
     "size": 41085788,
+    "unlisted_since": "2026-10-11",
     "url": "http://ftp.debian.org/debian/pool/main/o/openjdk-21/openjdk-21-jre-headless_21.0.13~6ea-1_ppc64el.deb",
     "vendor": "debian",
     "version": "21.0.13~6ea-1"
@@ -26657,6 +26682,7 @@
     "sha256": "82f8b910b26c2eb63b47f3a4c633d059c83badb017fa65aa30ca7650ad4e9676",
     "sha512": "3d9e8eec02a9ac5e1826f1e870219ffe3a76e3c2f8356efa788e133ae172cbb4b4881e1b6681b72c7e86f51709c765bb92e6d8096e54f24d6ba7e1eb6d1ddde7",
     "size": 9206760,
+    "unlisted_since": "2026-10-11",
     "url": "http://ftp.debian.org/debian/pool/main/o/openjdk-21/openjdk-21-jre-zero_21.0.13~6ea-1_ppc64el.deb",
     "vendor": "debian",
     "version": "21.0.13~6ea-1"
@@ -26678,6 +26704,7 @@
     "sha256": "2e3c3b2a20a390663c5f6ec660773efcfd03ae466b2959ef1257751367b27f46",
     "sha512": "bb26b417a0a9ed812902d2fe041c91de112735935e199bf0191e5d63d471a8a36f381bd42b917ff18f692b4068170b54782cb053aa10556c053e02d48eefa35e",
     "size": 227032,
+    "unlisted_since": "2026-10-11",
     "url": "http://ftp.debian.org/debian/pool/main/o/openjdk-21/openjdk-21-jre_21.0.13~6ea-1_ppc64el.deb",
     "vendor": "debian",
     "version": "21.0.13~6ea-1"

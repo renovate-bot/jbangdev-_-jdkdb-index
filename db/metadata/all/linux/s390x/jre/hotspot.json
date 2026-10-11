@@ -704,6 +704,27 @@
   },
   {
     "architecture": "s390x",
+    "distro": "temurin",
+    "features": [ ],
+    "file_type": "tar.gz",
+    "filename": "OpenJDK27U-jre_s390x_linux_hotspot_2026-10-10-15-56.tar.gz",
+    "image_type": "jre",
+    "java_version": "27",
+    "jvm_impl": "hotspot",
+    "last_verified": "2026-10-11",
+    "md5": "c20172e1f9bc9cbd50ee0e84b83251ba",
+    "os": "linux",
+    "release_type": "ea",
+    "sha1": "b215238aa20214af39f65305fdebf42c79e60bf1",
+    "sha256": "153e498935f285b6c736da4eba805ec6751fd02568d8fbdab7e9cafb7cea988c",
+    "sha512": "accacb993b2dab497980652c0531db23889b9c87db7a23a5369ecdc352d108c5038735fb22b676c64d595e4cd03dfa898842c22b4bd4ac139d4ee2099eb38ddc",
+    "size": 60677498,
+    "url": "https://github.com/adoptium/temurin27-binaries/releases/download/jdk27u-2026-10-10-15-56-beta/OpenJDK27U-jre_s390x_linux_hotspot_2026-10-10-15-56.tar.gz",
+    "vendor": "eclipse",
+    "version": "27u-2026-10-10-15-56-beta"
+  },
+  {
+    "architecture": "s390x",
     "distro": "debian",
     "features": [
       "headless"
@@ -5981,6 +6002,7 @@
     "sha256": "30cbd51fe84a85d87a12f035a8768e2e95c5715133af983f177cc3124c048500",
     "sha512": "56a47e7118f1837b3689968c9018085e28200e667083e6c21ae5edada6355212de707cce78b8c396de501dfe053e7fa10663b2204ccaadaf57306d12d452a057",
     "size": 39187292,
+    "unlisted_since": "2026-10-11",
     "url": "http://ftp.debian.org/debian/pool/main/o/openjdk-21/openjdk-21-jre-headless_21.0.13~6ea-1_s390x.deb",
     "vendor": "debian",
     "version": "21.0.13~6ea-1"
@@ -6004,6 +6026,7 @@
     "sha256": "0871902a9e042869c0b6859bb2d6aaf04f8f60f9bee578ab4caf13a2bcb325cb",
     "sha512": "efa44fbb122651b09548e3262377524d2b101711da304646d92d12302a3c687ece6ad2168e1f48a8ede2671134c4a366aab0117a7c366a4fe842eb007127cb39",
     "size": 8458604,
+    "unlisted_since": "2026-10-11",
     "url": "http://ftp.debian.org/debian/pool/main/o/openjdk-21/openjdk-21-jre-zero_21.0.13~6ea-1_s390x.deb",
     "vendor": "debian",
     "version": "21.0.13~6ea-1"
@@ -6025,6 +6048,7 @@
     "sha256": "037b75faa8b8ab91836c458e8ac8a616706dd9cc904b61e2eaef2650ddf8dfb2",
     "sha512": "621f606a11b4167524a8c8cf9bd9fc4c07e852d6643ccaa5e1c19a528d11c81f3c14f507304fb9e5529abb982e366673c1021bc1c7f690338340d7408d4f5fbe",
     "size": 212636,
+    "unlisted_since": "2026-10-11",
     "url": "http://ftp.debian.org/debian/pool/main/o/openjdk-21/openjdk-21-jre_21.0.13~6ea-1_s390x.deb",
     "vendor": "debian",
     "version": "21.0.13~6ea-1"

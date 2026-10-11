@@ -18,6 +18,7 @@
     "sha256": "0c865985ff53bf477ec6d5e66ffb6fb7682504fdd51a462cd8eeb5b1fb29682d",
     "sha512": "5e62dda1a0d75e34ef38456821e3bedba00d7e6a2fb3d5f541b799006d7326ff7cc49c7288183419ce5f8e13f9e68cfa6f14a2a1623d0ccc4e473ae14f8c5e0d",
     "size": 41085788,
+    "unlisted_since": "2026-10-11",
     "url": "http://ftp.debian.org/debian/pool/main/o/openjdk-21/openjdk-21-jre-headless_21.0.13~6ea-1_ppc64el.deb",
     "vendor": "debian",
     "version": "21.0.13~6ea-1"
@@ -41,6 +42,7 @@
     "sha256": "82f8b910b26c2eb63b47f3a4c633d059c83badb017fa65aa30ca7650ad4e9676",
     "sha512": "3d9e8eec02a9ac5e1826f1e870219ffe3a76e3c2f8356efa788e133ae172cbb4b4881e1b6681b72c7e86f51709c765bb92e6d8096e54f24d6ba7e1eb6d1ddde7",
     "size": 9206760,
+    "unlisted_since": "2026-10-11",
     "url": "http://ftp.debian.org/debian/pool/main/o/openjdk-21/openjdk-21-jre-zero_21.0.13~6ea-1_ppc64el.deb",
     "vendor": "debian",
     "version": "21.0.13~6ea-1"
@@ -62,6 +64,7 @@
     "sha256": "2e3c3b2a20a390663c5f6ec660773efcfd03ae466b2959ef1257751367b27f46",
     "sha512": "bb26b417a0a9ed812902d2fe041c91de112735935e199bf0191e5d63d471a8a36f381bd42b917ff18f692b4068170b54782cb053aa10556c053e02d48eefa35e",
     "size": 227032,
+    "unlisted_since": "2026-10-11",
     "url": "http://ftp.debian.org/debian/pool/main/o/openjdk-21/openjdk-21-jre_21.0.13~6ea-1_ppc64el.deb",
     "vendor": "debian",
     "version": "21.0.13~6ea-1"
