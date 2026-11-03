@@ -6,20 +6,20 @@
       "musl"
     ],
     "file_type": "tar.gz",
-    "filename": "OpenJDK25U-jre_aarch64_alpine-linux_hotspot_25.0.4.1_1.tar.gz",
+    "filename": "OpenJDK25U-jre_aarch64_alpine-linux_hotspot_25.0.5_8.tar.gz",
     "image_type": "jre",
-    "java_version": "25.0.4.1+1-LTS",
+    "java_version": "25.0.5+8-LTS",
     "jvm_impl": "hotspot",
-    "last_verified": "2026-09-01",
-    "md5": "0d7adf070249699141642c65c0fe1774",
+    "last_verified": "2026-11-03",
+    "md5": "64064cfb01e40cbcf1b6a215200da6af",
     "os": "linux",
     "release_type": "ga",
-    "sha1": "3cc9024f096b172c8bed66fd763136558549eb02",
-    "sha256": "0200539904de3669dce5c435aa1ef71f530325d6461c76d85fe90d5424e4974e",
-    "sha512": "2ca5172b93aa9e044342ac888fbbd2321beaf120dd6a1d153f2e91be194113d3deaa5e8e32980a8ceb970589b9811e978dba1794b54cb3caa08540a69686177d",
-    "size": 59694476,
-    "url": "https://github.com/adoptium/temurin25-binaries/releases/download/jdk-25.0.4.1%2B1/OpenJDK25U-jre_aarch64_alpine-linux_hotspot_25.0.4.1_1.tar.gz",
+    "sha1": "47aaa235c9fe32b5beff938d6f5c15390147938a",
+    "sha256": "7c2b97b1b34947399f6c911e5aa69d171b745b0005ea79f47c4f3f1d47554bc2",
+    "sha512": "0e99c337ea5bd27c6e33cf5ecff7d6eae35fb43ee56793c8ecad62de5c54b58bd4748b1194125e6fbbcae5eee5e8c1598e59a7dcbf533defd1354d6e5ba60b8b",
+    "size": 59746005,
+    "url": "https://github.com/adoptium/temurin25-binaries/releases/download/jdk-25.0.5%2B8/OpenJDK25U-jre_aarch64_alpine-linux_hotspot_25.0.5_8.tar.gz",
     "vendor": "adoptopenjdk",
-    "version": "25.0.4+101.0.LTS"
+    "version": "25.0.5+8.0.LTS"
   }
 ]
