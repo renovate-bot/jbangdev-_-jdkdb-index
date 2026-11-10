@@ -2124,6 +2124,7 @@
     "sha256": "f7087d61d3a5435376d401fdc6fa5607ebeade77c34988fd18ffd612b1db50c6",
     "sha512": "c6ee16816dc8e8490f7604cb9b4806ace7025531fb36278bfdf512d452b22f808a05b9d3c5b92fcf560a69aa073ef840916efcf8d64d41dac559bbf04816553e",
     "size": 61370803,
+    "unlisted_since": "2026-11-10",
     "url": "https://github.com/adoptium/temurin26-binaries/releases/download/jdk26u-2026-05-11-15-10-beta/OpenJDK26U-jre_aarch64_alpine-linux_hotspot_2026-05-11-15-10.tar.gz",
     "vendor": "eclipse",
     "version": "26u-2026-05-11-15-10-beta"
@@ -3115,6 +3116,7 @@
     "sha256": "d9e3e48c898512527c4e370d0abbbb1868af9ef4b8007e45dd65004a0bf092eb",
     "sha512": "0d42f7ee2b791873112a01dc178e4fbefd683093649680d3e9c45bfffc77135ca22bdf7f6481c0cd3f12e1d49f64538b940d2d89c051c15327af6e803b3ee4fe",
     "size": 59727781,
+    "unlisted_since": "2026-11-10",
     "url": "https://github.com/adoptium/temurin25-binaries/releases/download/jdk-25.0.4%2B1-ea-beta/OpenJDK25U-jre_aarch64_alpine-linux_hotspot_25.0.4_1-ea.tar.gz",
     "vendor": "eclipse",
     "version": "25.0.4+1-ea-beta"

@@ -196678,6 +196678,7 @@
     "sha256": "a3fd0b7dd033b67593dd07c5bda323d5525d7c7eae21371bdc892c1feff1b06a",
     "sha512": "7788d558894e3b6703c35477d97ba09c343ec0f6007a40280385804035124b96e6fb01eae147ab42240c67c52ede05f5b7a849cf4ce67e9ef87af11360fa82a5",
     "size": 43559987,
+    "unlisted_since": "2026-11-10",
     "url": "https://github.com/adoptium/temurin26-binaries/releases/download/jdk26u-2026-05-11-15-10-beta/OpenJDK26U-jre_x64_mac_hotspot_2026-05-11-15-10.pkg",
     "vendor": "eclipse",
     "version": "26u-2026-05-11-15-10-beta"
@@ -196699,6 +196700,7 @@
     "sha256": "ec3260c333ad6f6fde09b47246cc1328b74fad7ff386029dae803db280b4c863",
     "sha512": "e03a31c26a6a7972fbccc5350dcb7311f923093ff58fa59fa1864f6f8007dceb3e4422565d035751e09a661c2b852acd41519a77ba418cd7d03bcdebe19317d9",
     "size": 123462508,
+    "unlisted_since": "2026-11-10",
     "url": "https://github.com/adoptium/temurin26-binaries/releases/download/jdk26u-2026-05-11-15-10-beta/OpenJDK26U-jdk_x64_mac_hotspot_2026-05-11-15-10.pkg",
     "vendor": "eclipse",
     "version": "26u-2026-05-11-15-10-beta"
@@ -196720,6 +196722,7 @@
     "sha256": "05fbf137d162fdea60ee99c4ef5010094621c2793d9221e31a3edbd51ee36c46",
     "sha512": "855044881dfd2a4b204024fb09c63db2cb9722f036deaf63b41c58227af3355eca0b12647e56751ebd52e4c24f1ecd6f5898e5b3426c3c8fa96e49b175590291",
     "size": 123144888,
+    "unlisted_since": "2026-11-10",
     "url": "https://github.com/adoptium/temurin26-binaries/releases/download/jdk26u-2026-05-11-15-10-beta/OpenJDK26U-jdk_x64_mac_hotspot_2026-05-11-15-10.tar.gz",
     "vendor": "eclipse",
     "version": "26u-2026-05-11-15-10-beta"
@@ -196741,6 +196744,7 @@
     "sha256": "0de96073577c9bd3ce3d63d84e6d5f794e694837f5617487ef1986f333f7c468",
     "sha512": "4572cdf36f583cd7b4ab236f9f4f23d6d887f1689fca25fa58240f154f48fdf6c9225f50db59b8c71c2847494e7be0bac4669508330e4c4d29700c7c08e811eb",
     "size": 43406859,
+    "unlisted_since": "2026-11-10",
     "url": "https://github.com/adoptium/temurin26-binaries/releases/download/jdk26u-2026-05-11-15-10-beta/OpenJDK26U-jre_x64_mac_hotspot_2026-05-11-15-10.tar.gz",
     "vendor": "eclipse",
     "version": "26u-2026-05-11-15-10-beta"
@@ -200554,6 +200558,7 @@
     "sha256": "62b6e4607dfe41ba4823487f23b914fe63790b28771c858bb88a39a39201b5ee",
     "sha512": "cf138c3de18de445843dcd46c4ae50c15348d5f3563427bc12003c163ae9bbcf845cf9d33cbd4355db8938dc4cfb29022e10f73055cd840f78575428fb084fca",
     "size": 42290172,
+    "unlisted_since": "2026-11-10",
     "url": "https://github.com/adoptium/temurin25-binaries/releases/download/jdk-25.0.4%2B1-ea-beta/OpenJDK25U-jre_x64_mac_hotspot_25.0.4_1-ea.pkg",
     "vendor": "eclipse",
     "version": "25.0.4+1-ea-beta"
@@ -200575,6 +200580,7 @@
     "sha256": "46d557e8d5f1ea9238c29dd483b4dc0ff6a3d8913b17e42fcad2ecd51aaa7e7c",
     "sha512": "3c2b4d57116aae535d97df6c19ecb2e00206f8ecf9b8cab081b9ce84ddbb2a54498656a07e9211be5ff15919f5ce20751b1357076de352d94c9e82e2f770e1c9",
     "size": 120551269,
+    "unlisted_since": "2026-11-10",
     "url": "https://github.com/adoptium/temurin25-binaries/releases/download/jdk-25.0.4%2B1-ea-beta/OpenJDK25U-jdk_x64_mac_hotspot_25.0.4_1-ea.pkg",
     "vendor": "eclipse",
     "version": "25.0.4+1-ea-beta"
@@ -200596,6 +200602,7 @@
     "sha256": "af83346b920b5b3b7e56ee38b6c7f3c63f5175e9ef83f3f75d52f0280382ff6b",
     "sha512": "6b2f4049e279a349d109050a585fc1c5367c938ea4f4bd619aeaab2b5850305cfeee62def499e2c987d3ab171c253cc54b7c3382f02ede36b83bce3f054e3f2c",
     "size": 120246567,
+    "unlisted_since": "2026-11-10",
     "url": "https://github.com/adoptium/temurin25-binaries/releases/download/jdk-25.0.4%2B1-ea-beta/OpenJDK25U-jdk_x64_mac_hotspot_25.0.4_1-ea.tar.gz",
     "vendor": "eclipse",
     "version": "25.0.4+1-ea-beta"
@@ -200617,6 +200624,7 @@
     "sha256": "598414c1cf1e2d706f8f794023cdbce3b15ace52f281ed6a9d03f765635dada9",
     "sha512": "58fb024cf4ff7756310491399ab268851dd683d0e3087b091e8cac7ff76e4abcd93a442c825df5a3a82700058ea0d00c88ff3c3dccb9337199f37d88e25ef12a",
     "size": 42128417,
+    "unlisted_since": "2026-11-10",
     "url": "https://github.com/adoptium/temurin25-binaries/releases/download/jdk-25.0.4%2B1-ea-beta/OpenJDK25U-jre_x64_mac_hotspot_25.0.4_1-ea.tar.gz",
     "vendor": "eclipse",
     "version": "25.0.4+1-ea-beta"

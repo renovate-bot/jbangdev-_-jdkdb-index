@@ -3362,6 +3362,7 @@
     "sha256": "efcc549a4807faf582d62501b59774c83253b6f002796e65544c95493e2b2b9e",
     "sha512": "ef99cab139b28a3237451cdbd3525cbc152c2c9ba389e3f24b16d58543d36b0df9f1ed9c78ef96301a42764108f036dc215f60a6db857bb37673583428699933",
     "size": 143078438,
+    "unlisted_since": "2026-11-10",
     "url": "https://github.com/adoptium/temurin26-binaries/releases/download/jdk26u-2026-05-11-15-10-beta/OpenJDK26U-jdk_riscv64_linux_hotspot_2026-05-11-15-10.tar.gz",
     "vendor": "eclipse",
     "version": "26u-2026-05-11-15-10-beta"
@@ -3383,6 +3384,7 @@
     "sha256": "ccea52dfdb912e6975f54127559717c8664d54f80ef0dc8b3aaedda34da8c632",
     "sha512": "4c31815c98981547cd0c77f5b3668c605fafe47e959a22f266398f9a35e6919fe8716279a147d6b86df683237bf24dd957bc7fff9994f2b0eadffb28a540bc1e",
     "size": 62031940,
+    "unlisted_since": "2026-11-10",
     "url": "https://github.com/adoptium/temurin26-binaries/releases/download/jdk26u-2026-05-11-15-10-beta/OpenJDK26U-jre_riscv64_linux_hotspot_2026-05-11-15-10.tar.gz",
     "vendor": "eclipse",
     "version": "26u-2026-05-11-15-10-beta"
@@ -5132,6 +5134,7 @@
     "sha256": "d6d66ef547cd225301fce15ed8e9d2e403fee75ed0cd9c40464fcc3b16e3a3f0",
     "sha512": "f74ff3d82551b1944fa1edf06a2a7ff46290691a2f83609fe32d8159ebe9468351feb2ba516762b447eb928e9e8c7e383dd5541451e8ac2b137c4660a17d64ab",
     "size": 139834919,
+    "unlisted_since": "2026-11-10",
     "url": "https://github.com/adoptium/temurin25-binaries/releases/download/jdk-25.0.4%2B1-ea-beta/OpenJDK25U-jdk_riscv64_linux_hotspot_25.0.4_1-ea.tar.gz",
     "vendor": "eclipse",
     "version": "25.0.4+1-ea-beta"
@@ -5153,6 +5156,7 @@
     "sha256": "4b4d4c7fe130c18df0d206820574da11a1247d7a8380f2ad8e92b9e5737bab6d",
     "sha512": "9ff5285cfb263a5fa24ee3ffe22750a2321d85a6134cced895e6eb3ccecb2ed956622777ee69d2a95d8def31849665988cfa32089e5eff6f731cca42f9a76579",
     "size": 60433187,
+    "unlisted_since": "2026-11-10",
     "url": "https://github.com/adoptium/temurin25-binaries/releases/download/jdk-25.0.4%2B1-ea-beta/OpenJDK25U-jre_riscv64_linux_hotspot_25.0.4_1-ea.tar.gz",
     "vendor": "eclipse",
     "version": "25.0.4+1-ea-beta"

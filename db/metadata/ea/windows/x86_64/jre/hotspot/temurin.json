@@ -3265,6 +3265,7 @@
     "sha256": "150d060a44c416a8b8b5da88064c2aa2fd29412bcb63d122ce16d907f6a5423a",
     "sha512": "8d49d3e3835b529db59fbd58e8e0c7cb52359bac1753f7d0307dd63510e6a192f60ec6c04db6daf96baf1cf86625a032c301f1fa32d97744aeff2ebb058c6d4a",
     "size": 43941888,
+    "unlisted_since": "2026-11-10",
     "url": "https://github.com/adoptium/temurin26-binaries/releases/download/jdk26u-2026-05-11-15-10-beta/OpenJDK26U-jre_x64_windows_hotspot_2026-05-11-15-10.msi",
     "vendor": "eclipse",
     "version": "26u-2026-05-11-15-10-beta"
@@ -3286,6 +3287,7 @@
     "sha256": "c7b966781d8cd102a3cf692e34fe6de8a6592574aa6b19f7c6e1cd8972302aea",
     "sha512": "b5e821607d578a811ec6f7f1e8412d2ff18e4c6d1955a6a00e1f797b6dea95a22069638add047706061d3d3a8b053dda335ac11c9f0aa1164ee260674fb7e724",
     "size": 60096695,
+    "unlisted_since": "2026-11-10",
     "url": "https://github.com/adoptium/temurin26-binaries/releases/download/jdk26u-2026-05-11-15-10-beta/OpenJDK26U-jre_x64_windows_hotspot_2026-05-11-15-10.zip",
     "vendor": "eclipse",
     "version": "26u-2026-05-11-15-10-beta"
@@ -4991,6 +4993,7 @@
     "sha256": "1fe99a0fe7d5bc9ecf7381caff91c7af16aecb2d9785e1356481038a557be748",
     "sha512": "71cf6998356e203863a74ff95cde3778be856491302c56f3e26478d8def9bfe11ba92ac4b7ca515dcd7ecd24e64673fbcb85666f9e0e588eaf5e2e3416d36fe6",
     "size": 58478886,
+    "unlisted_since": "2026-11-10",
     "url": "https://github.com/adoptium/temurin25-binaries/releases/download/jdk-25.0.4%2B1-ea-beta/OpenJDK25U-jre_x64_windows_hotspot_25.0.4_1-ea.zip",
     "vendor": "eclipse",
     "version": "25.0.4+1-ea-beta"
@@ -5012,6 +5015,7 @@
     "sha256": "95941c8662f6286613fde656232252fe6c9b1fbf9f8adaba987556e8b24672f6",
     "sha512": "b914ee9807cee5ea28b939f94cd782f90f28deccef211dfdc94ae29334101d104b12f8d0b3e829c7f5f44a1a9edd96137bca346eaf2e2beba6341ad28f055be4",
     "size": 42741760,
+    "unlisted_since": "2026-11-10",
     "url": "https://github.com/adoptium/temurin25-binaries/releases/download/jdk-25.0.4%2B1-ea-beta/OpenJDK25U-jre_x64_windows_hotspot_25.0.4_1-ea.msi",
     "vendor": "eclipse",
     "version": "25.0.4+1-ea-beta"

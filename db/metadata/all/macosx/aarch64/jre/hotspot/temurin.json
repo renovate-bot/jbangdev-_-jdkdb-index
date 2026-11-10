@@ -3473,6 +3473,7 @@
     "sha256": "9b717a25923d3df7bafc4d6b46009f3d293412775809b4a38e583a822359a578",
     "sha512": "7a2c92f447c4c8a4f82f5b1e46d361adb24d9eac4947a63a8d8989ee884d10df061f1a3eb85b006b0d870533a2393ce14754c2977ecf951dd4f53607925aa9c2",
     "size": 57821875,
+    "unlisted_since": "2026-11-10",
     "url": "https://github.com/adoptium/temurin26-binaries/releases/download/jdk26u-2026-05-11-15-10-beta/OpenJDK26U-jre_aarch64_mac_hotspot_2026-05-11-15-10.tar.gz",
     "vendor": "eclipse",
     "version": "26u-2026-05-11-15-10-beta"
@@ -3494,6 +3495,7 @@
     "sha256": "2e9171975dfc9c4f553736472fe6b004155c728379c1ef80a856efc4acb1fdcd",
     "sha512": "b6b4b6996c1ae4a80131a3f6dc488b0d3d5afc5a8033a01c19149f679c31843874625e07254b922295d33290bffd32c927b755d026c3d93e58611cd84e727f62",
     "size": 58186349,
+    "unlisted_since": "2026-11-10",
     "url": "https://github.com/adoptium/temurin26-binaries/releases/download/jdk26u-2026-05-11-15-10-beta/OpenJDK26U-jre_aarch64_mac_hotspot_2026-05-11-15-10.pkg",
     "vendor": "eclipse",
     "version": "26u-2026-05-11-15-10-beta"
@@ -5411,6 +5413,7 @@
     "sha256": "add37bc76526d44bc7db0416d4cfb9f31c0c464700c27a2c1291e9bf83971811",
     "sha512": "c0ac798f006a5b31beff1f7a69100a2ef84dfd15a387e339255a60b8fad6bb11c0287fb930cad72d8010450ac77a8f3ae722d07465d137490423f0b444928d3a",
     "size": 56191324,
+    "unlisted_since": "2026-11-10",
     "url": "https://github.com/adoptium/temurin25-binaries/releases/download/jdk-25.0.4%2B1-ea-beta/OpenJDK25U-jre_aarch64_mac_hotspot_25.0.4_1-ea.tar.gz",
     "vendor": "eclipse",
     "version": "25.0.4+1-ea-beta"
@@ -5432,6 +5435,7 @@
     "sha256": "a21ad93f6a393c43651d8b3073d027c953dfad3da715c575497ba16db6cd9173",
     "sha512": "60a76fcdf8fb17fc3b774e5c51b2297005862a6074ff0369649c5b75af0e2f87c98fc587b8c7282b10376297030693a3967f0ef15d5fd70d4de3d6853c5c3c48",
     "size": 56558429,
+    "unlisted_since": "2026-11-10",
     "url": "https://github.com/adoptium/temurin25-binaries/releases/download/jdk-25.0.4%2B1-ea-beta/OpenJDK25U-jre_aarch64_mac_hotspot_25.0.4_1-ea.pkg",
     "vendor": "eclipse",
     "version": "25.0.4+1-ea-beta"

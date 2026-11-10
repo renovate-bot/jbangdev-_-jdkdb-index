@@ -11570,6 +11570,29 @@
       "musl"
     ],
     "file_type": "tar.gz",
+    "filename": "sapmachine-jre-28-ea.23_linux-x64-musl_bin.tar.gz",
+    "image_type": "jre",
+    "java_version": "28-ea.23",
+    "jvm_impl": "hotspot",
+    "last_verified": "2026-11-10",
+    "md5": "225fe8dd0ba4f1a4a525108e0f0f92d4",
+    "os": "linux",
+    "release_type": "ea",
+    "sha1": "f0bfa02b1d1cb2c3e8b8be2d1a4e5e1e730d483e",
+    "sha256": "195dbb8b6b22de7a36deb5219f4ce316ebc560e0366193057bf7509fb48484d9",
+    "sha512": "ca2e8f7f983366f35db136f6cf42305bb98a991169b57e897df78aa5ded5a63d7a68801815861d26b78b9b1b8f20fa666dab7b987ee91f9bb3d169926a5a5ef6",
+    "size": 52545279,
+    "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-28%2B23/sapmachine-jre-28-ea.23_linux-x64-musl_bin.tar.gz",
+    "vendor": "sap",
+    "version": "28-ea.23"
+  },
+  {
+    "architecture": "x86_64",
+    "distro": "sapmachine",
+    "features": [
+      "musl"
+    ],
+    "file_type": "tar.gz",
     "filename": "sapmachine-jre-28-ea.22_linux-x64-musl_bin.tar.gz",
     "image_type": "jre",
     "java_version": "28-ea.22",
@@ -24516,6 +24539,7 @@
     "sha256": "83e422c4a337c62ca297aeea30e96d6ff227f4d0903bea64672b50b90b3f3c33",
     "sha512": "d20d2eb14ce71c1133a487a0d78f5c55e6455f89f3ec32db37cc222b91445363fabccabdfc020d339c6b23f6983af7ffc74d0219360a6e16637d8442d158e966",
     "size": 62588196,
+    "unlisted_since": "2026-11-10",
     "url": "https://github.com/adoptium/temurin26-binaries/releases/download/jdk26u-2026-05-11-15-10-beta/OpenJDK26U-jre_x64_alpine-linux_hotspot_2026-05-11-15-10.tar.gz",
     "vendor": "eclipse",
     "version": "26u-2026-05-11-15-10-beta"
@@ -25599,6 +25623,7 @@
     "sha256": "af8ba8b47964e8e96ace2715b23b26fd2ab752878fa29bcb4c4b276d230cba25",
     "sha512": "da74208c3d6c0752c29b6cb4f98c3d2d054ff4b8b3bf4e8c52a9ded851a8cd73fe3c84f894c4301d6393933686d26055425217c7b4c4ae1cc1359ff352759cb6",
     "size": 60918757,
+    "unlisted_since": "2026-11-10",
     "url": "https://github.com/adoptium/temurin25-binaries/releases/download/jdk-25.0.4%2B1-ea-beta/OpenJDK25U-jre_x64_alpine-linux_hotspot_25.0.4_1-ea.tar.gz",
     "vendor": "eclipse",
     "version": "25.0.4+1-ea-beta"

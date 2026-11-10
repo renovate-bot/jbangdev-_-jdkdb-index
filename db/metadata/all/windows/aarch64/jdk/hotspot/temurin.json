@@ -3068,6 +3068,7 @@
     "sha256": "bd519eed7935d2b2092b5cc74ee274db2e180c2446003232792d3a897e3e92e2",
     "sha512": "68de15d2d35c51d093d6eb71b13e8e580814b37b6870365048a082b5ccb66d6e0863ac0ec8070b6e717b42559bb3f73e4212e4b66347aef72d02cf7b9b99f5f4",
     "size": 101670912,
+    "unlisted_since": "2026-11-10",
     "url": "https://github.com/adoptium/temurin26-binaries/releases/download/jdk26u-2026-05-11-15-10-beta/OpenJDK26U-jdk_aarch64_windows_hotspot_2026-05-11-15-10.msi",
     "vendor": "eclipse",
     "version": "26u-2026-05-11-15-10-beta"
@@ -3089,6 +3090,7 @@
     "sha256": "1aed52d3b60925381d90c9a9d4098df53105430f080685c592ec8aaadfe23471",
     "sha512": "73db2f46db54711581c5d93b11f191ce89621f6839b40c4450745e8708316efe2686b9174b9ce74be38e9c92894e8b5fb299337036c6a2d31620ebaeb75ba18c",
     "size": 123474621,
+    "unlisted_since": "2026-11-10",
     "url": "https://github.com/adoptium/temurin26-binaries/releases/download/jdk26u-2026-05-11-15-10-beta/OpenJDK26U-jdk_aarch64_windows_hotspot_2026-05-11-15-10.zip",
     "vendor": "eclipse",
     "version": "26u-2026-05-11-15-10-beta"
@@ -4750,6 +4752,7 @@
     "sha256": "05d4b1c55b0c7527e50bf70e9bd5efaeaf21250a78bed10366beb7679209f5bb",
     "sha512": "e2eaaa4c842bc0a48b97add02ad2c006f74a91b39723a303607485c286bcfc5970b7b6c95d21e5933250921f8d9f7ab3752683469710b162bc1ae521c49ecc28",
     "size": 120685242,
+    "unlisted_since": "2026-11-10",
     "url": "https://github.com/adoptium/temurin25-binaries/releases/download/jdk-25.0.4%2B1-ea-beta/OpenJDK25U-jdk_aarch64_windows_hotspot_25.0.4_1-ea.zip",
     "vendor": "eclipse",
     "version": "25.0.4+1-ea-beta"
@@ -4771,6 +4774,7 @@
     "sha256": "aef6fd1190b6b74f5643945c4a38be2c2ba5a79c1ee40cc35bda57784b39c1ca",
     "sha512": "5299951ca2217a275246b886ddd17d97943b12e70af103b4925d353eb7a96f088651197ca819f82f3f04f8439b1e3c96f0b556f50887361ff3f1d9ad16501a6e",
     "size": 99418112,
+    "unlisted_since": "2026-11-10",
     "url": "https://github.com/adoptium/temurin25-binaries/releases/download/jdk-25.0.4%2B1-ea-beta/OpenJDK25U-jdk_aarch64_windows_hotspot_25.0.4_1-ea.msi",
     "vendor": "eclipse",
     "version": "25.0.4+1-ea-beta"

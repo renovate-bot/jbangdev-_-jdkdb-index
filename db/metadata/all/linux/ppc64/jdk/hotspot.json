@@ -6,6 +6,29 @@
       "le"
     ],
     "file_type": "tar.gz",
+    "filename": "sapmachine-jdk-28-ea.23_linux-ppc64le_bin.tar.gz",
+    "image_type": "jdk",
+    "java_version": "28-ea.23",
+    "jvm_impl": "hotspot",
+    "last_verified": "2026-11-10",
+    "md5": "5d729aae948c73e547081619edc5484f",
+    "os": "linux",
+    "release_type": "ea",
+    "sha1": "7128b0e38f2c474c0523902f930e12ef88277c66",
+    "sha256": "2c7f055329d0a4a7da4ea54a72b014184bc0fca43d4e43eca65471cdcfd9c1b6",
+    "sha512": "fb090862200adcab4fa6233ff219e113be9809ab0bd79526ed3f58cf7f640957caccf0ffe7f480fe326d6012c9e3253090d97da93e7a56bed68c3065707ae739",
+    "size": 127900213,
+    "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-28%2B23/sapmachine-jdk-28-ea.23_linux-ppc64le_bin.tar.gz",
+    "vendor": "sap",
+    "version": "28-ea.23"
+  },
+  {
+    "architecture": "ppc64",
+    "distro": "sapmachine",
+    "features": [
+      "le"
+    ],
+    "file_type": "tar.gz",
     "filename": "sapmachine-jdk-28-ea.22_linux-ppc64le_bin.tar.gz",
     "image_type": "jdk",
     "java_version": "28-ea.22",
@@ -15709,6 +15732,27 @@
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-11.0.2/sapmachine-jdk-11.0.2_linux-ppc64le_bin.tar.gz",
     "vendor": "sap",
     "version": "11.0.2"
+  },
+  {
+    "architecture": "ppc64",
+    "distro": "zulu",
+    "features": [ ],
+    "file_type": "tar.gz",
+    "filename": "zulu8.98.0.111-ca-hl-jdk8.0.512-linux_ppc64.tar.gz",
+    "image_type": "jdk",
+    "java_version": "8.0.512",
+    "jvm_impl": "hotspot",
+    "last_verified": "2026-11-10",
+    "md5": "d4807545ad86985bc54308e713ef7c07",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "009c9c638817d9a61dc7c38f94dba51399851c6f",
+    "sha256": "815cb22d227d4be803307cc288bc8f5ec079f4385d53377de98bfd93ef80395c",
+    "sha512": "53f4a648e14fb7cb9da192c9831846986d616ca0eeb078a235184474e94c5c0b8002c1a9570980caa5fbfa452a61e4e2ecd19050a1ace29f829b6bb42f146703",
+    "size": 116059433,
+    "url": "https://static.azul.com/zulu/bin/zulu8.98.0.111-ca-hl-jdk8.0.512-linux_ppc64.tar.gz",
+    "vendor": "azul",
+    "version": "8.98.0.111"
   },
   {
     "architecture": "ppc64",
